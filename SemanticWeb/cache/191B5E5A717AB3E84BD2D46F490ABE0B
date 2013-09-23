@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Student Services | Future Students - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-08-28 09:37:47" />
+<meta name="created" content="2010-08-30 11:36:46" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/future-students/future-students/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<meta name="description" content="Your experience as a university student will be challenging, exhilarating, complex and stressful.  We’re here to support you with a variety of services to help you set a course for your future." />
+<meta name="dcterms.description" content="Your experience as a university student will be challenging, exhilarating, complex and stressful.  We’re here to support you with a variety of services to help you set a course for your future." />
+<meta name="dcterms.date" content="2010-08-30T00:00:00Z" />
+<link rel="canonical" href="http://www1.uwindsor.ca/future-students/future-students/page/helping-hands" />
+<meta name="revisit-after" content="1 day" />
+<meta name="geo.position" content="0;0" />
+<meta name="icbm" content="0,0" />
+    <style type="text/css">
+          @import url('/future-students/future-students/modules/aggregator/aggregator.css');
+          @import url('/future-students/future-students/modules/node/node.css');
+          @import url('/future-students/future-students/modules/system/defaults.css');
+          @import url('/future-students/future-students/modules/system/system.css');
+          @import url('/future-students/future-students/modules/system/system-menus.css');
+          @import url('/future-students/future-students/modules/user/user.css');
+          @import url('/future-students/future-students/sites/all/modules/cck/theme/content-module.css');
+          @import url('/future-students/future-students/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/future-students/future-students/sites/all/modules/ctools/css/ctools.css');
+          @import url('/future-students/future-students/sites/all/modules/date/date.css');
+          @import url('/future-students/future-students/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/future-students/future-students/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/future-students/future-students/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/future-students/future-students/sites/all/modules/filefield/filefield.css');
+          @import url('/future-students/future-students/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css');
+          @import url('/future-students/future-students/misc/farbtastic/farbtastic.css');
+          @import url('/future-students/future-students/sites/all/modules/calendar/calendar.css');
+          @import url('/future-students/future-students/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/future-students/future-students/sites/all/modules/views/css/views.css');
+          @import url('/future-students/future-students/sites/all/modules/print/css/printlinks.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/future-students/sites/all/themes/zen/zen/ie.css?O" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/future-students/future-students/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/future-students/future-students/sites/all/modules/jquery_update/replace/jquery.js?O"></script>
+<script type="text/javascript" src="/future-students/future-students/misc/drupal.js?O"></script>
+<script type="text/javascript" src="/future-students/future-students/sites/all/modules/google_analytics/googleanalytics.js?O"></script>
+<script type="text/javascript" src="/future-students/future-students/sites/all/modules/pngfix/jquery.pngFix.js?O"></script>
+<script type="text/javascript" src="/future-students/future-students/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?O"></script>
+<script type="text/javascript" src="/future-students/future-students/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?O"></script>
+<script type="text/javascript" src="/future-students/future-students/sites/all/themes/unified_department/responsive/responsive.js?O"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/future-students\/future-students\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/future-students/future-students/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/future-students/future-students/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/future-students/future-students/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/future-students/future-students/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/future-students/future-students/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="uw_front not-front not-logged-in node-type-page two-sidebars page-page-helping-hands section-page page-page-helping-hands section-page ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/future-students/future-students/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/future-students/future-students/page/helping-hands" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1 no-title  "><div class="block-inner">
+    <div class="content">
+    <form action="/future-students/future-students/page/helping-hands"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-b3bc0869b92c4e4f8ca1b006c1b17672" value="form-b3bc0869b92c4e4f8ca1b006c1b17672"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/future-students/future-students/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/future-students/future-students/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/future-students/future-students/node" target="_self" rel="" title="Home Page" class="length-short">Home Page</a></li>
+<li class="expanded"><a href="http://uwindsor.ca/future-students/program-profile-listing" target="_self" rel="" title="Programs of Study" class="length-short">Programs of Study</a><ul class="menu"><li class="leaf first"><a href="http://uwindsor.ca/admissions" target="_blank" rel="" title="Admissions" class="length-short">Admissions</a></li>
+<li class="leaf"><a href="http://uwindsor.ca/college/" target="_blank" rel="" title="College Tranfer Students" class="length-short">College Transfers</a></li>
+<li class="leaf last"><a href="http://uwindsor.ca/graduate/graduate-programs-directory" target="_blank" rel="" title="Graduate Information" class="length-short">Graduate Information</a></li>
+</ul></li>
+<li class="expanded"><a href="/future-students/future-students/page/scholarships-and-bursaries" target="_self" rel="" title="Scholarships and bursaries" class="length-short">Scholarships</a><ul class="menu"><li class="leaf first last"><a href="http://web2.uwindsor.ca/finance/fee-estimator/" target="_blank" rel="" title="What will it cost?" class="length-short">What will it cost?</a></li>
+</ul></li>
+<li class="expanded active-trail"><a href="/future-students/future-students/page/helping-hands" target="_self" rel="" title="Student Life" class="length-short active">Student Services</a><ul class="menu"><li class="leaf first"><a href="/future-students/future-students/page/hands-on-experience-0" target="_self" rel="" title="Hands-on experience" class="length-short">Experiential Learning</a></li>
+<li class="leaf last"><a href="/future-students/future-students/page/student-exchanges" target="_self" rel="" title="Student exchanges" class="length-short">Student Exchanges</a></li>
+</ul></li>
+<li class="expanded"><a href="/future-students/future-students/page/residence" target="_self" rel="" title="Residence" class="length-short">Residence</a><ul class="menu"><li class="leaf first last"><a href="/future-students/future-students/page/meal-plans" target="_self" rel="" title="Meal Plans" class="length-short">Meal Plans</a></li>
+</ul></li>
+<li class="leaf"><a href="/future-students/future-students/page/athletics-and-recreation" target="_self" rel="" title="Athletics and Recreation" class="length-short">Athletics and Recreation</a></li>
+<li class="leaf"><a href="/future-students/future-students/page/program-information" target="_self" rel="" title="On-line Publications" class="length-short">Program Information</a></li>
+<li class="leaf"><a href="http://uwindsor.ca/tours" target="_blank" rel="" title="Schedule a Campus Tour" class="length-short">Tours</a></li>
+<li class="leaf"><a href="/future-students/future-students/content/contact-us" target="_self" rel="" title="Contact Us" class="length-short">Contact Us</a></li>
+<li class="leaf last"><a href="/future-students/future-students/content/ouf/hockey" target="_self" rel="" title="Ontario Universities&#039; Fair Hockey Challenge Official Rules" class="length-long">OUF Hockey Challenge Official Rules</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/future-students/future-students/system/files/imagecache/header_left_image/left-banner-lancers.jpg" alt="UWindsor Lancer Athletes" title="UWindsor Lancer Athletes" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/future-students/future-students/system/files/imagecache/header_right_image/right-forge.jpg" alt="Students in the Forge" title="Students in the Forge" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/future-students/future-students">Future Students</a> / <a href="/future-students/future-students/page/helping-hands" class="active">Student Services</a></div>                                      <h1 class="title">Student Services</h1>
+                                                                                          <div id="node-852" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <p>Your experience as a university student will be challenging, exhilarating, complex and stressful.&nbsp; We&rsquo;re here to support you with a variety of services to help you set a course for your future.</p>
+<h4>
+	Getting Started</h4>
+<ul>
+<li>
+		<strong><img align="right" alt="Students in front of Dillon Hall" hspace="10" src="/futurestudents/sites/uwindsor.ca.future-students/files/social workers-web.jpg" vspace="10" /><a href="/headstart" target="_blank">Head Start Orientation</a></strong> - Make your schedule and meet the campus!</li>
+<li>
+		<strong><a href="/build" target="_blank">B.U.I.L.D.</a></strong> (Bridge to University for Individuals with Learning Disabilities) &ndash; August orientation hosted by Student Disability Services.</li>
+<li>
+		<strong><a href="/windsorwelcome" target="_blank">Windsor Welcome Week</a> </strong>- Ease your transition into university life by getting to know the campus community before classes begin!</li>
+</ul>
+<h4>
+	Help with your Studies</h4>
+<ul>
+<li>
+		First-year tutorials</li>
+<li>
+		Professors and teaching assistants</li>
+<li>
+		<strong><a href="/sos" target="_blank">Students Orienting Students</a></strong></li>
+<li>
+		<a href="/steps" target="_blank"><strong>STEPS</strong></a> (Skills to Enhance Personal Success) offers workshops on<br />
+		exam preparation/execution, time management and much more</li>
+<li>
+		Our completely <a href="/its/wireless/" target="_blank">wireless campus</a> will connect you to online notes, classroom discussions and homework assignments</li>
+<li>
+		Our UWindsor mobile app has many uses! For example, you can review your schedule, update financial information, and receive direct messages from professors. <a href="/app" target="_blank"><strong>/app</strong></a></li>
+</ul>
+<h4>
+	Stay Healthy and Safe on our Campus</h4>
+<ul>
+<li>
+		<img align="right" alt="Nursing Student" hspace="10" src="/futurestudents/sites/uwindsor.ca.future-students/files/nursing-web.jpg" vspace="10" /><a href="/forge" target="_blank"><strong>Forge Fitness</strong> <strong>Centre</strong> </a>and <strong><a href="/campusrec" target="_blank">Campus Rec services</a></strong></li>
+<li>
+		<strong><a href="/health" target="_blank">Student Health Services</a></strong></li>
+<li>
+		Doctor&rsquo;s Office, Dental Office</li>
+<li>
+		<strong><a href="/scc" target="_blank">Student Counselling Centre</a>&nbsp;/ <a href="http://uwindsor.ca/psc" target="_blank">Peer Support Centre</a></strong></li>
+<li>
+		<strong><a href="/police" target="_blank">Campus Police</a></strong> Community Initiatives / <a href="/walksafe" target="_blank"><strong>Walksafe</strong></a></li>
+<li>
+		<strong><a href="/alert" target="_blank">Emergency Response Team</a></strong></li>
+</ul>
+<h4>
+	Places for Students</h4>
+<ul>
+<li>
+		<strong>Student Success Centre (<a href="http://uwindsor.ca/advising" target="_blank">advising</a>,&nbsp;<a href="http://uwindsor.ca/cce" target="_blank">career education</a>, experiential learning, <a href="http://uwindsor.ca/steps" target="_blank">study skills</a>, services for <a href="http://uwindsor.ca/disabilities" target="_blank">students with disabilities</a> and more)</strong></li>
+<li>
+		CAW Student Centre open 24 hours a day, 7 days a week</li>
+<li>
+		<strong><a href="/isc" target="_blank">International Students&rsquo; Centre</a> </strong></li>
+<li>
+		<strong><a href="/cce" target="_blank">Centre for Career Education</a> </strong></li>
+<li>
+		<strong><a href="/leddy" target="_blank">Leddy Library</a></strong> and <strong><a href="/lawlibrary" target="_blank">Paul Martin Library</a></strong></li>
+<li>
+		Several individual academic resource centres</li>
+<li>
+		<strong><a href="/womynscentre" target="_blank">Womyn&#39;s Centre</a></strong></li>
+</ul>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                    <div id="content-bottom" class="region region-content_bottom">
+                    <!--googleoff: all--><div id="block-uw_social-sharelinks" class="block block-uw_social region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script><script src="http://widgets.twimg.com/j/2/widget.js"></script><div class="share-facebook button_count">
+<div id="fb-root"></div>
+<fb:like href="http://www1.uwindsor.ca/future-students/future-students/page/helping-hands" show_faces="false" width="135" font="tahoma" layout="button_count" action="like"></fb:like></div><!-- /.share-facebook -->
+<div class="share-twitter horizontal">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="UWindsor">Tweet</a>
+</div><!-- /.share-twitter -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:'e2a1d30d-f5ea-4916-87bb-06b1ea7c8200', serviceBarColor: '#005595', shareButtonColor: '#737A14', onhover: false});</script>
+<span class="st_sharethis_hcount hcount st_content" displayText="Share"></span><br clear="all" />
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                  </div>
+                  <!-- /#content-bottom -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-block-33" class="block block-block region-odd even region-count-1 count-6 no-title related "><div class="block-inner">
+    <div class="content">
+    <h5>
+	Questions?</h5>
+<ul>
+<li>
+		<strong><a href="mailto:info@uwindsor.ca">Contact us</a></strong>&nbsp;about&nbsp;Info @ UWindsor<br />
+		&nbsp;</li>
+<li>
+		<strong><a href="http://web2.uwindsor.ca/recruitPortal_new/students/apps/interestProfile/" target="_blank">Request more information</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/future-students/future-students/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-3246538-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Future Students ABCXYZ -->
+</body>
+</html>

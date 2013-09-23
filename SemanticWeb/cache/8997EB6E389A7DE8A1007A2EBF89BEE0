@@ -1,0 +1,308 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>University of Windsor, Windsor, Ontario Canada</title><link rel="stylesheet" href="/uweb/TopLevels.nsf/uofwTop.css" type="text/css">
+<script language="JavaScript">
+var webdbname = 'units/registrar/calendars/undergraduate/cur.nsf';
+var docID = 'FB6695172A9A1BA385257364004A8752';
+</script>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+var message1 = "Hide all Image"
+var message2="Show All Image"
+function hideAll()
+{
+if ( document.forms[0].imageME.checked){
+for(i=0; i < document.images.length;i++){
+if( document.images[i].src.indexOf('clickToPrint.gif') == -1) {
+ document.images[i].height=0 
+	document.images[i].width=0 
+} //end document ... 
+}
+}
+else
+location.reload();
+}
+function hidePrint() {
+	if (document.all) {
+		document.all.hideTop.innerHTML = "";
+		//document.all.hideBottom.innerHTML = "";
+	}
+}
+
+function showPrint() {
+	if (document.all) {
+		document.all.hideTop.innerHTML = str;
+		document.all.hideBottom.innerHTML = str;
+	}
+}
+function openWindow2(){
+
+
+var loc2 = "/"+webdbname+"/emailConstruction?openAgent&id="+docID+";"
+
+//alert("This function is temporarily out of service.");
+
+newWindow( loc2 ,'window3')
+}
+
+
+function newWindow(file,window) {
+    msgWindow=open(file,window,'resizable=no,scrollbars=yes,location=no,toolbar=no,menubar=no,width=600,height=600');
+    if (msgWindow.opener == null) msgWindow.opener = self;
+}
+function printArticle() {
+	var agt=navigator.userAgent.toLowerCase();
+	
+	if (window.print) {
+		setTimeout('window.print();',200);
+	}
+	else if (agt.indexOf("mac") != -1) {
+		alert("Press 'Cmd+p' on your keyboard to print article.");
+	}
+	else {
+		alert("Press 'Ctrl+p' on your keyboard to print article.")
+	}
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/units/registrar/calendars/undergraduate/cur.nsf/PrinterFriendlyView/fb6695172a9a1ba385257364004a8752!OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link="#000000" alink="#000000" vlink="#000000">
+
+<form action="">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td width="12"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="662"><font size="2" color="#800000" face="Arial"><div id = "hideTop"></font><a href='http://www.uwindsor.ca'><img src='http://web4.uwindsor.ca/uweb/TopLevels.nsf/logosm.gif' border='0' align='bottom' alt='University Logo'></a>
+<map name="n59E.$Body.0.214E">
+<area shape="rect" coords="8,65,89,87" id="HotspotRectangle12" onclick="history.go(-1)
+return false;" href="" alt="">
+<area shape="rect" coords="108,65,239,87" id="HotspotRectangle13" onclick="hidePrint();
+printArticle();
+
+return false;" href="" alt="">
+<area shape="rect" coords="250,65,388,89" id="HotspotRectangle14" onclick="//alert(&quot;This function is temporarily out of service.  Sorry for the inconvenience.&quot;);
+openWindow2()
+return false;" href="" alt=""></map>
+<img src="/units/registrar/calendars/undergraduate/cur.nsf/4d25c9b705f9ffaa85256fdc006ee26d/$Body/0.424!OpenElement&amp;FieldElemFormat=gif" width="390" height="92" usemap="#n59E.$Body.0.214E" border="0"><font size="2" color="#800000" face="Arial"></div></font></td></tr>
+
+<tr valign="top"><td width="12"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="662"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td></tr>
+
+<tr valign="top"><td width="12"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="662" bgcolor="#000000"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td></tr>
+
+<tr valign="top"><td width="12"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="662"><b><font size="2" face="Arial">Computer Science - Courses</font></b><a onclick="showPrint()
+return false;" href=""></a></td></tr>
+
+<tr valign="top"><td width="12"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="662"><b><font face="Arial">COMPUTER SCIENCE: COURSES</font></b><br>
+<br>
+<font size="2" face="Arial">Not all courses listed below will necessarily be offered every academic year.</font><br>
+<br>
+<font size="2" face="Arial">Due to the fact that Computer Science is a relatively new and continuously evolving discipline, some of the courses listed may undergo slight revision and therefore may not always conform exactly to the detailed descriptions given below.</font><br>
+<br>
+<font size="2" face="Arial">All courses listed below are three lecture hours per week, unless otherwise stated. In addition, laboratory/tutorial time may be scheduled as required.</font><br>
+<br>
+<i><font size="2" face="Arial">Note:</font></i><font size="2" face="Arial"> Most Computer Science courses require substantial time out of class in writing, correcting, and testing computer programs. Students should be prepared to devote a minimum of three to five hours a week per course to assignment work alone.</font><br>
+<br>
+<b><font size="2" face="Arial">60-100.	Key Concepts in Computer Science</font></b><br>
+<font size="2" face="Arial">The objectives of this course are to excite students' interest in computer science and to give students a precise understanding of a number of difficult concepts that are fundamental to modern computer science. Topics may include: data types; induction and recursion; algebraic characterization; syntax; semantics; formal logic; soundness, completeness, and decidability; specification, algorithm, implementation, and determinism; complexity. (Restricted to students registered in programs offered wholly or jointly by Computer Science or by Mathematics and Statistics, or with approval of Computer Science.) (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-104.	Computer Concepts for End-Users</font></b><br>
+<font size="2" face="Arial">Introduction to the concepts of operation of a computer system, including hardware and software. Development of conceptual understanding of word processors, databases, spreadsheets, etc., and practical experience with their use. Networking concepts and data communication concepts will be introduced. The Internet will be introduced with students having access to internet resources. Management information systems including the systems development lifecycle will be discussed. Fundamental concepts of algorithm development and programming will be introduced. Hands-on experience with microcomputers as well as a distributed-computing environment will be involved. In addition to lecture time, laboratory/tutorial time may be scheduled as required. (May not be used to fulfill the major requirements of any major or joint major in Computer Science.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-106.	Programming in C for Beginners</font></b><br>
+<font size="2" face="Arial">The course is an introduction to programming in C. Two major goals of this course are: teaching a rational approach to program development, and teaching an introduction to ANSI C. The emphasis of this course is on the first goal. This course adapts a library-based approach that emphasizes the principle of abstraction: library and modular development. The five-phase software development method is used to solve problems. Topics of this course include: a brief introduction to Computer Science, introduction to computer hardware, statement forms, iteration, functions, top-down design, basics of modular programming, recursion, arrays, pointers, dynamic data structures, and file processing. (Antirequisite: 60-140.) (Normally may not be taken for credit by students registered in programs offered wholly or jointly by Computer Science.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-140.	Introduction to Algorithms and Programming I</font></b><br>
+<font size="2" face="Arial">This course is the first of a two-course sequence designed to introduce students to algorithm design and programming in a high-level language such as C. The main objectives of the course are to develop the ability to identify, understand and design solutions to a wide variety of problems. Topics include: computer system overview, hardware and software, problem solving steps, concepts of variables, constants, data types, algorithmic structure, sequential logic, decisions, loops, modular programming, one-dimensional arrays, text files. If possible, problems like searching/sorting will be addressed. (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-141.	Introduction to Algorithms and Programming II</font></b><br>
+<font size="2" face="Arial">This course is the continuation of 60-140 that introduces students to more advanced algorithm design and programming in a high level language such as C. The main objectives of the course are to develop the ability to identify, understand, and design solutions to a wide variety of problems. Topics covered include: multi-dimensional arrays, pointers, strings, advanced modular programming, records, binary files, recursion, stacks, linked lists and introduction to algorithm analysis. (Prerequisite: 60-100 (or 62-140) and 60-140.) (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-205.	Introduction to the Internet</font></b><br>
+<font size="2" face="Arial">Students will be introduced to the Internet as a global information infrastructure, including the development of early and current communication protocols and services, packaging of data, and data transmission. Fundamental concepts of and tools to support Internet browsing through concepts of Universal Resource locators and Hypertext Markup Languages will be included. Students will be required to publish a website on the Internet using HTML. Web page enhancement through the use of JavaScript and other tools will be introduced. The functionality of electronic mail and bulletin board services will be introduced with hands-on experience in sending and receiving information, automated title searching, and an introduction to organizing information to be accessible over the network. Technical methods of binary data transfer on analog carriers will be introduced and comparison of Ethernet and ATM fibre-optic digital delivery will be discussed. In addition to lecture time, laboratory/ tutorial time may be scheduled as required. (Prerequisite: 60-104, 60-106 or 60-140.) (May not be used to fulfill the major requirements of any major or joint major in Computer Science.) (3 lecture hours a week)</font><br>
+<br>
+<b><font size="2" face="Arial">60-207.	Problem Solving and Information on the Internet</font></b><br>
+<font size="2" face="Arial">Students will be introduced to logic and critical appraisals including reasoning skills and critical thinking in the computer age.  Problem solving and heuristics will be discussed including how to solve problems by coming up with the right strategies. Searching using Boolean logic to pinpoint useful and reliable information will be introduced. Methods for being self-critical and critical of web information in order to perform evaluations will be studied. (Prerequisites 60-104 and 60-205.) (This course may not be taken to fulfill the major requirements of any major or joint major in Computer Science.)</font><br>
+<br>
+<b><font size="2" face="Arial"> 60-209. Social Media and Mobile Technology for End Users</font></b><br>
+<font size="2" face="Arial">This course provides review, analysis and use of social media and mobile technologies such as blogs, Facebook &#8482;, twitter &#8482;, texting, using mobile devices such as laptops, Apple devices, RIM devices, Android devices. Topics to be covered include: a comprehensive review of available social media and mobile technology, use of social media and mobile technology for sharing of knowledge and for group interaction, security and privacy, methods for analyzing end-user requirements for a social media application, and strategies for designing and building a social media application. (This course may not be taken to fulfill the major requirements of any major or joint major in Computer Science.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-212.	Object-Oriented Programming Using Java</font></b><br>
+<font size="2" face="Arial">Concepts of classes and objects, Java applications, frames, event handling, control structures, methods, arrays, string manipulations, object-based programming, object-oriented programming - inheritance, polymorphism, interface and abstract classes, anonymous classes, data structures in Java, exception handling, introduction to graphical user interface. (Prerequisite: 60-141.) (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-214.	Computer Languages, Grammars, and Translators</font></b><br>
+<font size="2" face="Arial">Pragmatic and theoretical aspects of grammars, recognizers, and translators for computer languages will be discussed. The topics covered will include regular languages and context-free languages, including parsers and parser generators for such languages. Attribute grammars, syntax-directed translation, interpreters and compilers will also be discussed.   (Prerequisite:60-100 and 60-212.) (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-231.	Theoretical Foundations of Computer Science</font></b><br>
+<font size="2" face="Arial">An introduction to Mathematical Logic, Set Theory, and Graph Theory. Topics include propositional logic, first order logic, proof techniques, mathematical induction, sets, operations on sets, relations, operations on relations, functions, countable and uncountable sets, graph-theoretic concepts, such as graph connectivity, graph isomorphism, trees, Euler graphs. (Restricted to students in Computer Science.) (Prerequisite: 60-100 and 62-190.) (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-254.	Data Structures and Algorithms</font></b><br>
+<font size="2" face="Arial">An introduction to the programming and time-complexity analysis of internal (main store) and external data structures. Topics include linear lists, stacks, queues, linked structures, trees, binary trees; sorting techniques, including heap sort, quick sort, merge sort, shell sort; searching techniques including binary search, binary search trees, red-black trees, hashing. Algorithm design paradigms like divide-and-conquer, dynamic programming, greedy, external sorting, B-trees. (Prerequisite: 60-100 and 60-141) (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-256.	Systems Programming</font></b><br>
+<font size="2" face="Arial">This course introduces students to advanced software development techniques in system programming using the C language in the UNIX environment. Topics include introduction to modern operating systems, system calls, managing processes, the use of fork and exec, signals, file processing, filters, pipes, scripting languages, introduction to concurrency (e.g. synchronization), network programming (e.g. using sockets),  client-server problems. (Prerequisite: 60-141.) (3 lecture, 1.5 laboratory hours/ week; plus unsupervised study and work on individual assignments.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-265.	Computer Architecture I: Digital Design</font></b><br>
+<font size="2" face="Arial">Number systems, switching algebra, logic gates, circuit minimization. Combinational circuits. Read-only memory, random-access memory, programmable logic. Synchronous and asynchronous sequential circuits. Latches, flip-flops, registers, counters, register transfer language. Digital integrated circuits. Hardware description languages. (Prerequisite: 60-140.) (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-266.	Computer Architecture II: Microprocessor Programming</font></b><br>
+<font size="2" face="Arial">Data representation, central processing unit, arithmetic logic unit, control unit. Assembly language concepts. Memory segmentation. Programming a typical microprocessor (e.g. Intel 8086 family or Motorola 6800 family). Instruction set architecture- addressing modes and formats, register set. Basic Input/Output devices, Programming I/O operations. Interrupts, disk controllers. (Prerequisite: 60-265). (3 lecture, 1.5 laboratory hours a week; plus unsupervised study and work on individual assignments.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-270.	Advanced Web Design, Construction, and Deployment</font></b><br>
+<font size="2" face="Arial">This course is intended to teach the student about advanced website creation and to give an understanding of some of the technology behind websites, as well as an understanding of emerging web-related technologies. Topics covered will include JavaScript, Style Sheets, Dynamic HTML, XML, XHTML, Web Browser compatibility issues, and how web servers work. (Prerequisite: 60-205.) (This course may not be taken to fulfill the major requirements of any major or joint major in Computer Science.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-275.	Selected Topics I</font></b><br>
+<font size="2" face="Arial">Topics may differ from year to year. (Prerequisite: 60-100, 60-140, and 60-141.)  (May be repeated for credit if content changes.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-280.	Practicum</font></b><br>
+<font size="2" face="Arial">This is a practical software development course. (Current language used: Java.) (Prerequisite: 60-212.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-298.	Co-op Work Term I</font></b><br>
+<font size="2" face="Arial">Supervised experience in an approved career-related setting with a focus on the application of theory and the development of transferable skills. The co-op work experience is designed to provide students with an enriched learning opportunity to integrate academic theory and concepts in an applied setting. (Prerequisite: Student must be enrolled in a co-operative education program. Offered on a Pass/non-Pass basis.  Supervised practicum requires the successful completion of a minimum of 420 hours. Students who do not pass the course can not continue in the co-op program.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-305.	Cyber-Ethics</font></b><br>
+<font size="2" face="Arial">A number of key concerns about social welfare in our cyber age will be explored. Law, morality, public policy, and how these both influence and are influenced by the Internet will be examined. This course will critically appraise issues surrounding, but not limited to, free speech, property rights (especially intellectual property), privacy, security, and artificial intelligence. Issues raised by ethical theorists, policy makers, legal experts, and computer scientists will be analyzed in this course. (Prerequisites: 60-104 and 60-205.) (This course may not be taken to fulfill the major requirements of any major or joint major in Computer Science.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-307. Web-Based Data Management</font></b><br>
+<font size="2" face="Arial">This non-major course is intended to teach students how to design and build interactive data-driven Web sites, by extending their knowledge of relevant programming concepts and techniques introduced in 60-270, and introducing new tools and techniques. Students will learn advanced use of PHP and MySQL to build objects and &#8220;glue&#8221; them together using protocols such as JSON, code libraries such as AJAX and jQuery, and learn how to incorporate API&#8217;s from Web service providers such as Google Maps.  (Prerequisite: 60-270). (This course may not be taken to fulfill the major requirements of any major or joint major in Computer Science.) (3 lecture hours a week.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-311.	Introduction to Software Engineering</font></b><br>
+<font size="2" face="Arial">This course introduces the fundamental concepts, common principles, and general techniques of software engineering. It discusses the main issues involved in the development life-cycle of nontrivial software systems, including process models, feasibility studies, requirements elicitation and definition, rapid prototyping, design methodologies, verification and validation, and software evolution. Students taking this course are required to work on projects, which are designed to go through the major phases of large-scale software system development. (Prerequisite: 60-212, 60-254 and 60-256.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-315.	Database Management Systems</font></b><br>
+<font size="2" face="Arial">This course will acquaint students with the Basic concepts of Database Systems. The topics covered will include 3-level architecture, introduction to file structures: B-trees, B+ Trees and Hashed files, relational model, relational algebra and calculus, SQL, and database design with Normalization Theory. (Prerequisite: 60-254 and 60-256 or 60-265.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-322. Object-Oriented Software Analysis and Design</font></b><br>
+<font size="2" face="Arial">This course builds on the knowledge of object-oriented programming, data structures, </font><font size="2" face="Arial"> </font><font size="2" face="Arial">systems programming</font><font size="2" face="Arial"> </font><font size="2" face="Arial">.Students are introduced to object-oriented software analysis and design </font><font size="2" face="Arial">concepts (such as cohesion and coupling), and design practices</font><font size="2" face="Arial"> </font><font size="2" face="Arial">currently used in industry </font><font size="2" face="Arial">, </font><font size="2" face="Arial">(</font><font size="2" face="Arial">such as design patterns and refactoring)</font><font size="2" face="Arial">. </font><font size="2" face="Arial">These concepts and practices will be discussed through case studies and programming exercises</font><font size="2" face="Arial">.</font><font size="2" face="Arial"> </font><font size="2" face="Arial">(Prerequisite: </font><font size="2" face="Arial">60-212, 60-254</font><font size="2" face="Arial">, 60-256</font><font size="2" face="Arial">.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-330.	Operating Systems Fundamentals</font></b><br>
+<font size="2" face="Arial">Operating system services, introduction to primary components of multi-programming operating systems, CPU scheduling, concurrent processes, process synchronization and interprocess communication, deadlocks, memory management, file systems, virtual memory, disk scheduling. (Prerequisite: 60-212, 60-254, 60-256, and 60-265 or 60-266.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-334.	World Wide Web Information Systems Development</font></b><br>
+<font size="2" face="Arial">This course is designed for people who want to make their data available to others over the Internet. Topics will include WWW authoring, WWW site planning, executable programs that create dynamic documents, the client-server model, multi-tier WWW software architecture, and security aspects. (Prerequisite: 60-212 and 60-254.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-340. Advanced Object Oriented System Design Using C++</font></b><br>
+<font size="2" face="Arial">The main objective of this course is to explore advanced topics of the object oriented paradigm through the use of the C++ programming language. Topics covered include: advanced object oriented design, the use of abstraction to manage complexity, objects and classes, inheritance and class hierarchies, multiple inheritance, operator and method overloading, namespaces and visibility, templates, dynamic binding and virtual functions, exception handling, multi-threading and C++ standard library. In addition, the course will include a practical project, solving a real-life problem, implemented in C++, involving the client/server methodology, and an interface to a database using a graphics toolkit. (Prerequisites: </font><font size="2" face="Arial">60-212</font><font size="2" face="Arial">, </font><font size="2" face="Arial">60-256</font><font size="2" face="Arial">.) (3 lecture hours.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-350.	Introduction to Multimedia Systems</font></b><br>
+<font size="2" face="Arial">This course provides the student with basic concepts and techniques used in multimedia systems. Topics include: components of multimedia systems (text, audio, and video), media formats and standards, data compression techniques, hypermedia techniques, and authoring tools. (Prerequisite:  60-254 and 60-265.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-352.	Introduction to Computer Graphics</font></b><br>
+<font size="2" face="Arial">An introduction to computer graphics hardware and software, interfaces, standards, programming libraries, fundamental algorithms, rendering techniques, and algorithms for 2D and 3D applications. Substantial programming work is vital to this course. (Prerequisite:  60-254 and 62-120.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-354.	Theory of Computation</font></b><br>
+<font size="2" face="Arial">Finite Automata, regular expressions and languages; properties of regular languages; context-free grammars and languages; pushdown automata; properties of context-free languages. Introduction to Turing machines; recursive functions; undecidability. (Prerequisites: 60-214, 60-231 and 60-254.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-367.	Computer Networks</font></b><br>
+<font size="2" face="Arial">This course is an introduction to computer networks and their protocols. Topics include: network architectures, transport, routing, and data link protocols, addressing, local area networks, flow and congestion control, and network security. Examples will be drawn primarily from the Internet (e.g. TCP, UDP, IP) protocol suite. (Prerequisite: 60-212, 60-254, 60-256 and 60-265. Recommended corequisite: 60-330.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-368.	Network Practicum</font></b><br>
+<font size="2" face="Arial">This course will acquaint the students with practical details of network software and hardware. Topics will include design, setup, configuration and implementation of various network functions. (Prerequisite: 60-330 and 60-367.) (3 lecture, 1.5 lab hours a week.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-371.	Artificial Intelligence Concepts</font></b><br>
+<font size="2" face="Arial">This course covers fundamental concepts in Artificial Intelligence. Topics include informed and uninformed search, problem solving using propositional and first-order logics, knowledge representation and reasoning, plausible and uncertain reasoning, machine learning, ethical implications. An overview of some applied Artificial Intelligence such as natural language processing, planning and agent systems will be included. (Prerequisites:60-254 and (65-205 or 65-250) </font><br>
+<br>
+<b><font size="2" face="Arial">60-375.	Selected Topics </font></b><br>
+<font size="2" face="Arial">Topics may differ from year to year. (Prerequisite: 60-212, 60-254, and 60-256. Additional courses may be required depending upon the subject.) (May be repeated for credit if content changes.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-376.	Selected Topics</font></b><br>
+<font size="2" face="Arial">Topics may differ from year to year. (Prerequisite: 60-212, 60-254, and 60-256. Additional courses may be required depending upon the subject.) (May be repeated for credit if content changes.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-377 Artificial Intelligence for Games</font></b><br>
+<font size="2" face="Arial">This course provides students with an opportunity to explore theoretical and practical aspects of Artificial Intelligence for computer games. Topics may include agents, sensory systems, steering behaviours, pathfinding, decision making, planning, goal-oriented behaviour, multiagents (groups, crowds) and learning.  (Prerequisite: 60-254) </font><br>
+<br>
+<b><font size="2" face="Arial">60-398.	Co-op Work Term II</font></b><br>
+<font size="2" face="Arial">Supervised experience in an approved career-related setting with a focus on the application of theory and the development of transferable skills. The co-op work experience is designed to provide students with an enriched learning opportunity to integrate academic theory and concepts in an applied setting. (Prerequisite: Student must be enrolled in a co-operative education program. Offered on a Pass/non-Pass basis.  Supervised practicum requires the successful completion of a minimum of 420 hours. Students who do not pass the course can not continue in the co-op program.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-411.	Software Verification and Testing</font></b><br>
+<font size="2" face="Arial">This course introduces students to the verification and testing phases of software development. It will discuss concepts, processes, models, patterns, and tools for verification and analysis. An important component is a group project involving the verification and/or testing of a large software system. (Prerequisites: 60-311, 60-315 and 60-330.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-415. Advanced and Practical Database Systems</font></b><br>
+<font size="2" face="Arial">This course covers both advanced theoretical database materials as well as specific database application development tools needed in the industry. The course completes database design and theory initiated in 60-315 and then adds database application development languages.  Students will be exposed to the running environments (e.g., their compilers) and applying these on the database theory and design of the first part to develop full application. (Prerequisites: 60-315, 60-322, and 60-330.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-420.  Mobile Application Development</font></b><br>
+<font size="2" face="Arial">Students taking this course will learn how to create a mobile application for the Android platform. The topics covered will include: use of the mobile application development environment, specification of the requirements for a mobile application, design and implementation of the end-user interface, managing data in a mobile application environment, interfacing with data and programs residing on remote servers, creation of object-oriented programs to implement the mobile application, use of libraries and third-party software resources, deployment of a mobile application so that it is available to the public, and documentation, including creation of end-user instructions, and design/program documentation.Students will work individually, and will develop a mobile application that has been approved by the instructor of the course. </font><font size="2" face="Arial">(Prerequisites: </font><font size="2" face="Arial">60-315, 60-322</font><font size="2" face="Arial">.) (3 lecture hours.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-422.  Agile Software Development</font></b><br>
+<font size="2" face="Arial">This project-oriented course is designed to give students experience in developing projects using Agile software development process.  The course will discuss principles of Agile methods for software development, with a concentration on the eXtreme Programming methodology, and will teach concepts related to its practices.  Topics will include software and user interface design, build and development tools, data persistence, and proper software testing.  Projects will involve the creation of industry-oriented software (e.g. in Java), and will expose participants to tools commonly used in industry.</font><font size="2" face="Arial"> (Prerequisite: 60-322.)(3 lecture hours a week).</font><br>
+<br>
+<b><font size="2" face="Arial">60-425. Oracle Database Design and Administration </font></b><br>
+<font size="2" face="Arial">This course is a practice-oriented course which follows the database course 60-415. The emphasis is on the tasks performed by a Data Base Administrator (DBA). The course will use the Oracle Database system to exemplify implementation of concepts. Students will learn how to install Oracle software, design a relational database system (using normalization) and implement it in Oracle, create user accounts and set privileges, implement appropriate security protocols, and design and implement appropriate backup procedures.</font><font size="2" face="Arial"> (Prerequisite:  60-315) (1.5 lecture, 1.5 laboratory hours a week).</font><br>
+<br>
+<b><font size="2" face="Arial">60-440.	Principles of Programming Languages</font></b><br>
+<font size="2" face="Arial">Basic concepts of programming languages. Comparative study of the major programming paradigms, including imperative, object-oriented, functional, logic, and concurrent programming. Principles of programming language design and evaluation. Syntax, semantics and implementation techniques of programming languages. (Prerequisite:  60-214, 60-231 and 60-254.) (Restricted to Computer Science students)</font><br>
+<br>
+<b><font size="2" face="Arial">60-450.	Multimedia System Development</font></b><br>
+<font size="2" face="Arial">The aim of this course is to discuss and learn technologies for the development of multimedia application, modeling and development of standalone and/or, networked multimedia systems, and computer generated 3D animation. (Prerequisite: 60-350.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-454.	Design and Analysis of Computer Algorithms</font></b><br>
+<font size="2" face="Arial">The intent of this course is to introduce the fundamental techniques in the design and analysis of computer algorithms. Topics include: asymptotic bounds, advanced data structures, searching, sorting, order statistics, oracle arguments, divide-and-conquer, greedy algorithms, dynamic programming, graph algorithms, NP completeness, and approximation algorithms. (Prerequisite: 60-231, 60-254 and 60-354.) (Restricted to Semester 7 and semester 8 students in Computer Science.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-460.	Digital Design and Computer Architecture </font></b><br>
+<font size="2" face="Arial">Modular design concepts in digital circuits. Interfacing facilities. Memory Organization. Architecture classification schemes. Parallel computing architectures. Pipelining and vector processing. Alternate architectures and performance enhancement.  (Restricted to Computer Science students)  (Prerequisite:60-265 or 60-266, 60-330 and 60-367.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-467.	Network Security</font></b><br>
+<font size="2" face="Arial">This course will introduce students to advanced topics in network security. Topics will include encryption and authentication techniques, detection and analysis of intrusions, and the security of electronic mail and web access. (Restricted to Computer Science students) (Prerequisites: 60-367.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-468.	Advanced Networking</font></b><br>
+<font size="2" face="Arial">The course will introduce students to advanced topics in networking. (Restricted to Computer Science Students) (Prerequisites: 60-367 and 60-368.) </font><br>
+<br>
+<b><font size="2" face="Arial">60-470.	Project Using Selected Tools</font></b><br>
+<font size="2" face="Arial">Students will complete a project using an advanced computing tool, such as a database package, simulation software, speech-recognition hardware module, etc. Students are required to submit a report describing the project and demonstrating mastery of the tool. Tools and the project are chosen by the student with the approval of the instructor.  (Restricted to Computer Science Students ) (Prerequisite: 60-315, 60-322, and 60-330.)  </font><br>
+<br>
+<b><font size="2" face="Arial">60-473.	Advanced Topics in Artificial Intelligence I</font></b><br>
+<font size="2" face="Arial">The course will introduce students to advanced topics in Artificial Intelligence. (Restricted to Honours Computer Science students) (Prerequisite: 60-371.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-474.	Advanced Topics in Artificial Intelligence II</font></b><br>
+<font size="2" face="Arial">The course will introduce students to advanced topics in Artificial Intelligence. (Restricted to Honours Computer Science students.) (Prerequisite: 60-371.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-475.	Selected Topics </font></b><br>
+<font size="2" face="Arial">In many cases the topics will coincide with a graduate course offering in a given year, and students will be required to complete the lecture component of that graduate course. Topics may include: advanced database management, graphics, artificial intelligence, information retrieval, theory of computation, functional programming, knowledge base systems, and foundations of programming languages. (Restricted to Semester 7 and Semester 8 students in Computer Science with permission of the instructor.)  (May be repeated for credit if content changes.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-476.	Selected Topics </font></b><br>
+<font size="2" face="Arial">In many cases the topics will coincide with a graduate course offering in a given year, and students will be required to complete the lecture component of that graduate course. Topics may include: advanced database management, graphics, artificial intelligence, information retrieval, theory of computation, functional programming, knowledge base systems, and foundations of programming languages. (Restricted to Semester 7 and Semester 8 students in Computer Science with permission of the instructor.)  (May be repeated for credit if content changes.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-477 Topics in Computer Game Design and Implementation</font></b><br>
+<font size="2" face="Arial">This course provides students with an opportunity to explore theoretical and practical aspects of the design and implementation of computer games. Students will acquire valuable experience in team-based software development and exposure to industry-relevant tools and practices. This will be accomplished through the study of the theory and implementation of a major game component (a game physics engine). Topics covered will included the mathematics of physics engines, 3D rigid body motion and collision detection algorithms, numerical stability and optimization, and tools for team-based large scale software development.  (Prerequisite: 60-377.) (Restricted to students in Honours Computer Science.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-480.	Practicum: Selected Topics in Software Engineering</font></b><br>
+<font size="2" face="Arial">This course intends to connect emerging technologies with the student's theoretical background in Computer Science related to Software Engineering concepts and techniques. Selected application domains include protocol security, web systems and distributed object systems and the theories involved include graph theory, set theory, automata and compiler theory. (Prerequisite: 60-311, 60-322 and 60-330.) (Restricted to Computer Science Students).</font><br>
+<br>
+<b><font size="2" face="Arial">60-496.	Research Project</font></b><br>
+<font size="2" face="Arial">This course consists of two components: a) development of research skills, and b) development of technical writing and project presentation skills.  This course requires students to complete a research project in some area of Computer Science under the supervision of a faculty member.  The course will typically involve the development of some software or the design and/or implementation of some algorithm.  Each student will be required to submit a project report and give one or more seminars on the research project.  (a 6 credit course restricted to Semester 7 or Semester 8 students in BCS (Honours) or B.Sc. (Honours Computer Science with Software Engineering Specialization) with a major average of 8.0 or better).  (Anti-requisite 60-499)	</font><br>
+<br>
+<b><font size="2" face="Arial">60-497.	Co-op Work Term III</font></b><br>
+<font size="2" face="Arial">Supervised experience in an approved career-related setting with a focus on the application of theory and the development of transferable skills. The co-op work experience is designed to provide students with an enriched learning opportunity to integrate academic theory and concepts in an applied setting. (Prerequisite: Student must be enrolled in a co-operative education program. Offered on a Pass/non-Pass basis.  Supervised practicum requires the successful completion of a minimum of 420 hours. Students who do not pass the course can not continue in the co-op program.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-498.	Co-op Work Term IV</font></b><br>
+<font size="2" face="Arial">Supervised experience in an approved career-related setting with a focus on the application of theory and the development of transferable skills.  The co-op work experience is designed to provide students with an enriched learning opportunity to integrate academic theory and concepts in an applied setting. (Prerequisite: Student must be enrolled in a co-operative education program. Offered on a Pass/non-Pass basis.  Supervised practicum requires the successful completion of a minimum of 420 hours. Students who do not pass the course can not continue in the co-op program.)</font><br>
+<br>
+<b><font size="2" face="Arial">60-499.	Project Management: Techniques and Tools</font></b><br>
+<font size="2" face="Arial">The course consists of two components: a) exposure to project-presentation and project management skills, and b) working on a large project in a group. The course co-ordinator will arrange lectures on a variety of relevant topics. The lectures may have quizzes and/or short assignments. Students will be expected to develop skills in technical writing, organizing seminars, techniques for use of multimedia tools, as well as developing a major project using a modern software tool. (Restricted to Semester 7 and Semester 8 students in Computer Science.)</font></td></tr>
+</table>
+
+<input name="middleSection" type="hidden" value="">
+<input name="linking_name" type="hidden" value="Computer Science - Courses">
+<input name="author" type="hidden" value="">
+<input name="$catagories" type="hidden" value="">
+<input name="$Description" type="hidden" value="">
+<input name="$Type" type="hidden" value=""></form>
+</body>
+</html>

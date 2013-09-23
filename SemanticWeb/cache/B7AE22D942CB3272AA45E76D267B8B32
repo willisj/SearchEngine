@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>FAQ&#039;s | Residence - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2012-12-10 04:18:19" />
+<meta name="created" content="2009-06-22 09:52:17" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/residence/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+    <style type="text/css">
+          @import url('/residence/modules/aggregator/aggregator.css');
+          @import url('/residence/modules/node/node.css');
+          @import url('/residence/modules/system/defaults.css');
+          @import url('/residence/modules/system/system.css');
+          @import url('/residence/modules/system/system-menus.css');
+          @import url('/residence/modules/user/user.css');
+          @import url('/residence/sites/all/modules/cck/theme/content-module.css');
+          @import url('/residence/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/residence/sites/all/modules/ctools/css/ctools.css');
+          @import url('/residence/sites/all/modules/date/date.css');
+          @import url('/residence/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/residence/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/residence/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/residence/sites/all/modules/filefield/filefield.css');
+          @import url('/residence/misc/farbtastic/farbtastic.css');
+          @import url('/residence/sites/all/modules/calendar/calendar.css');
+          @import url('/residence/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/residence/sites/all/modules/views/css/views.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/residence/sites/all/themes/zen/zen/ie.css?D" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/residence/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/residence/sites/all/modules/jquery_update/replace/jquery.js?D"></script>
+<script type="text/javascript" src="/residence/misc/drupal.js?D"></script>
+<script type="text/javascript" src="/residence/sites/all/modules/google_analytics/googleanalytics.js?D"></script>
+<script type="text/javascript" src="/residence/sites/all/modules/pngfix/jquery.pngFix.js?D"></script>
+<script type="text/javascript" src="/residence/sites/all/themes/unified_department/responsive/responsive.js?D"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/residence\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/residence/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/residence/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/residence/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/residence/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/residence/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page one-sidebar sidebar-left page-faqs section-faqs page-faqs section-faqs ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/residence/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/residence/faqs" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/residence/faqs"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-bed1c7926c256471e61d123a4ef3a65b" value="form-bed1c7926c256471e61d123a4ef3a65b"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/residence/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/residence/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/residence/residence-at-university-of-windsor" title="Welcome to Residence at University of Windsor" class="length-short">Welcome</a></li>
+<li class="leaf"><a href="/residence/apply-to-residence" title="All Applications 2013-2014" class="length-short">Apply to Residence</a></li>
+<li class="leaf"><a href="/residence/International-Students" title="International Students" class="length-short">International Students</a></li>
+<li class="leaf"><a href="/residence/residence-halls" title="Residence Halls" class="length-short">Residence Halls</a></li>
+<li class="collapsed"><a href="/residence/life-in-residence" title="Life in Residence" class="length-short">Life in Residence</a></li>
+<li class="leaf"><a href="/residence/procedures-and-forms" title="Procedures and Forms" class="length-short">Procedures and Forms</a></li>
+<li class="collapsed"><a href="/residence/parents-page" title="Parents and Families" class="length-short">Parents and Families</a></li>
+<li class="collapsed"><a href="/residence/contact-us" title="Contact Us" class="length-short">Contact Us</a></li>
+<li class="leaf last active-trail"><a href="/residence/faqs" title="FAQ&#039;s" class="length-short active">FAQ&#039;s</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                            <div class="spiff_block">
+                <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
+          <h2 class="title">SPIFF</h2>
+    <div class="content">
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/6350-Residence-poster_1_spiff.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/residence/apply-to-residence" target="_self">Residence and University </a></div><div class="summary">Live and Learn in the Heart of Campus, Applying is Easy!</div><div class="read_more"><a href="http://www.uwindsor.ca/residence/apply-to-residence" target="_self">Read</a></div></div>  </div>
+  <div class="bpng"><img alt="bpng" src="/residence/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/residence/system/files/imagecache/header_left_image/resWelcomeBanners_english.jpg" alt="Welcome to Residence" title="Welcome to Residence" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                                  </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/residence">Residence</a> / <a href="/residence/faqs" class="active">FAQ&#039;s</a></div>                                      <h1 class="title">FAQ&#039;s</h1>
+                                                                                          <div id="node-621" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <h5>
+	<u><b><font face="Arial">Residence Admissions Questions</font></b></u><font face="Arial" size="2">&nbsp;</font><br />
+	<font face="Arial" size="2">&nbsp;</font><a href=" #link1"><font color="#000080" face="Arial" size="2">Q. Can a first year student have a single room?</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href=" #link3"><font color="#000080" face="Arial" size="2">Q. How does the room assignment process work?</font></a><font color="#000080" face="Arial" size="2">&nbsp;</font>
+<p>
+	<u><b><font face="Arial">Residence Facilities Questions</font></b></u><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href=" #link8"><font color="#000080" face="Arial" size="2">Q. What is the height of my bed from the floor for storage purposes?</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href=" #link10"><font color="#000080" face="Arial" size="2">Q. Are there storage facilities available for bikes and hockey equipment?</font></a><a href=" #link14"><font color="#000080" face="Arial" size="2">&nbsp;</font></a></p>
+<p>
+	<u><b><font face="Arial">Residence Life Questions</font></b></u><br />
+	<font face="Arial" size="2">&nbsp;</font><a href="#link16"><font color="#000080" face="Arial" size="2">Q. I am concerned about my son/daughter living on a coed floor. What is it like on a co-ed floor?</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href="#link18"><font color="#000080" face="Arial" size="2">Q. Do males and females room together?</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href="#link18"><font color="#000080" face="Arial" size="2">Q. What is building (and campus) security like? Is it safe to live in residence?</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href="#link20"><font color="#000080" face="Arial" size="2">Q. How noisy is it?</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href="#link20"><font color="#000080" face="Arial" size="2">Q. Can I have friends over/guests?</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href="#link21"><font color="#000080" face="Arial" size="2">Q. How does the front desk work and how do I get mail (including parcels)?&nbsp;</font></a><br />
+	<font color="#000080" face="Arial" size="2">&nbsp;</font><a href="#link22"><font color="#000080" face="Arial" size="2">Q. When can I move in?</font></a><br />
+	<font color="#ff8080" face="Arial" size="2">&nbsp;</font><a href="#link23"><font color="#000080" face="Arial" size="2">Q. When must I move out of residence at Christmas? At the end of the year?&nbsp;</font></a></p>
+<p>	<u>Meal Plan</u></p></h5>
+<p>(Please refer to the Food Services website&nbsp;<strong><a href="/food">/food</a></strong>)<br />
+	&nbsp;</p>
+<h5>
+	<u><b><font face="Arial">Campus Services</font></b></u></h5>
+<p><font face="Arial" size="2">Q.&nbsp; What about parking for residence students?&nbsp;&nbsp;</font>(Please go to Parking Services&nbsp;website:&nbsp; <a href="/parking">/parking</a>)<br />
+	Q.&nbsp; How are students invoiced/billed for their fees?&nbsp;<font color="#000080" face="Arial" size="2">(</font>Please go to Cashiers website:&nbsp; <a href="/cashiers">/cashiers</a>)<br />
+	Q.&nbsp; How do I pay my fees?&nbsp; How much?&nbsp; Where?&nbsp;&nbsp;(Please go to Cashiers website:&nbsp; <a href="/cashiers">/cashiers</a>)<br />
+	Q.&nbsp; Is there a doctor on call on campus?&nbsp;(Please go to Health Services website:&nbsp; <a href="/health">/health)</a></p>
+<p>
+	<u><b><font face="Arial">Residence Admissions Questions</font></b></u><br />
+	<font face="Arial" size="2">&nbsp;</font><br />
+	<font face="Arial" size="2"><a name="link1"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. Can a first year student have a single room?</font></b><br />
+	<font face="Arial" size="2">First year students who are assigned to the Alumni Hall will be in single rooms. There are also a limited number of single rooms available in Macdonald Hall and Laurier Hall on a first come/first served basis.&nbsp; Our upper year/beyond first year accommodation options are all single rooms.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p><font face="Arial" size="2"><a name="link3"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. How does the room assignment process work?</font></b><font face="Arial" size="2">&nbsp;</font><br />
+	<font face="Arial" size="2">All first year students coming directly from high school and who submit a complete application (including a deposit) by the deadline are guaranteed a bed in residence. Rooms in Alumni and Cartier will be assigned to first year students based on their GPA at the time of room assignment, which we receive from the Registrar&#39;s Office. Those students with the highest average are assigned based on their first choice hall preference, we continue to fill with student&#39;s first choice preference while space is available then assign by the second choice hall preference and finally, if needed, by the third choice hall preference.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font><font face="Arial" size="2">.</font></div>
+<div align="right">
+	&nbsp;</div>
+<h5>
+	<u><b><font face="Arial">Residence Facilities Questions</font></b></u></h5>
+<p>
+	<font face="Arial" size="2"><a name="link8"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. What is the height of my bed from the floor for storage purposes?</font></b><br />
+	<font face="Arial" size="2">Beds in Cartier, Laurier, Macdonald and Clark residence are 14 inches or 35.5 cm in height from the floor.&nbsp; Single beds in Electa Main offer 7 inches or 17.5 cm in height from the floor.&nbsp; Double beds in Electa Annex have a storage&nbsp;space of 10 inches or 25.25 cm in height.&nbsp; The beds in Alumni are 26.5cm in height from the floor.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<div align="right">
+	&nbsp;</div>
+<p><font face="Arial" size="2"><a name="link10"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. Are there storage facilities available for bikes and hockey equipment?</font></b><br />
+	<font face="Arial" size="2">There are bike rooms available in every residence. Space is limited so keys are signed out on a first come, first serve basis. The student is given a bike room key which needs to be returned at the end of the residence term ($10 will be charged to the&nbsp;students&#39; account if the key is&nbsp;not returned).</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p>
+	&nbsp;<u><b><font face="Arial">Residence Life Questions</font></b></u></p>
+<p>	<font face="Arial" size="2">&nbsp;<a name="link16"></a></font><br />
+	<b><font face="Arial" size="2">Q. I am concerned about my son/daughter living on a co-ed floor. What is it like on a co-ed floor?</font></b><br />
+	<font face="Arial" size="2">A co-ed floor means that there are males and females living on the same floor with separate washroom facilities. Co-ed floors are really no different than single gender floors, there are just separate washroom facilities available.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p><font face="Arial" size="2"><a name="link17"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. Do males and females room together?</font></b><br />
+	<font face="Arial" size="2">No. Double rooms are assigned to one gender only.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p><font face="Arial" size="2"><a name="link18"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. What is building (and campus) security like? Is it safe to live in residence?</font></b><font face="Arial" size="2">&nbsp;</font><br />
+	<font face="Arial" size="2">The safety and security of students is of the utmost importance to us. There are many different ways that we help to ensure that students remain safe on campus. Resident Assistants work in the residences and do nightly rounds of the buildings. Student Desk staff work the front desks of the residence halls every night and&nbsp;sign in students and guests who do not live in the building. There&nbsp;is also camera&nbsp;surveillance&nbsp;in residence and throughout campus.&nbsp; Services such as Walksafe, Campus Community Police and emergency poles and telephones throughout the campus are just some of the ways that we ensure that life on campus is safe for everyone.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<div align="right">
+	&nbsp;</div>
+<p><font face="Arial" size="2"><a name="link20"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. How noisy is it?</font></b><br />
+	<font face="Arial" size="2">Residence is only as noisy as you want it or allow it to be. There are quiet hours every night from 11pm (week nights) or 1am (weekends) to 8am and there are respect hours at all times. If you find that noise is bothering you, talk to the people involved or go to an Resident Assistant for assistance. During the exam period 23 hour quiet hours are in effect.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p><font face="Arial" size="2"><a name="link20"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. Can I have friends over/guests?</font></b><br />
+	<font face="Arial" size="2">Definitely! Residence students are responsible for their guest&#39;s behaviour and guests must be signed into the building nightly after 8pm by their host.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p><font face="Arial" size="2"><a name="link21"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. How does the front desk work and how do I get mail (including parcels)?&nbsp;</font></b><br />
+	<font face="Arial" size="2">Every room has a mailbox in the main lobby where mail is delivered. For packages and courier deliveries that are too large to fit in the mailbox, an email will be sent to the students UWin email address with the information needed to pick up the package. Package pick up hours at Cartier Hall will be specified in the email to student.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p><font face="Arial" size="2"><a name="link22"></a></font><br />
+	<font face="Arial" size="2">&nbsp;</font><b><font face="Arial" size="2">Q. When can I move in?</font></b><br />
+	<font face="Arial" size="2">Please go to our website page called &quot;<a href="/residence/important-dates" target="_blank" title="Important Dates">Important Dates</a>&quot;.&nbsp;</font>&nbsp;Students cannot move in early unless there are extenuating circumstances. An early arrival form must be completed.&nbsp; If permission is given to move in early, we will contact the student with check in information and the cost associated with moving in early. If a student cannot move in on the specified move in date, and will be moving in later, they must complete a request for late arrival so their room is not given away to a student on the waiting list.</p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+<p><a name="link23"></a><br />
+	<font face="Arial" size="2"><strong>Q.&nbsp; When must I move out of residence at December Holiday Break?&nbsp; At the end of the year?</strong><br />
+	All students must check out of residence 24 hours after their last exam or by 4pm the day after exams end in April, whichever comes first.&nbsp; If students need an extension, they must formally request permission via on line extension request form.&nbsp; Students cannot stay in residence over the December Holiday Break without permission of their Residence Life Coordinator.&nbsp;&nbsp;There is a deadline for extension requests, so please check under <a href="/residence/fall-winter-inter-summer-extensions" target="_blank" title="Procedures and Forms">Procedures and Forms</a>&nbsp;for applicable dates.</font></p>
+<div align="right">
+	<font face="Arial" size="1"><a href=" #Top">back to top</a></font></div>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+                            </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/residence/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-6"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Residence ABCXYZ -->
+</body>
+</html>

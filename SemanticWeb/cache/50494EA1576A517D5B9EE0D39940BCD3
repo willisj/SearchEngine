@@ -1,0 +1,413 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>CS Doctoral Program Admissions Process | School of Computer Science - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2011-08-12 02:50:05" />
+<meta name="created" content="2011-08-12 01:53:10" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/cs/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<meta name="description" content="Admissions Process for the Computer Science Doctoral Program University of Windsor  March 6th 2003 R. Frost Note This is the version of the admissions process for the Computer Science doctoral program that will be attached to the PDC forms to be sent to the Dean of Graduate Studies and Research." />
+<meta name="dcterms.description" content="Admissions Process for the Computer Science Doctoral Program University of Windsor  March 6th 2003 R. Frost Note This is the version of the admissions process for the Computer Science doctoral program that will be attached to the PDC forms to be sent to the Dean of Graduate Studies and Research." />
+<link rel="canonical" href="http://www1.uwindsor.ca/cs/820/cs-doctoral-program-admissions-process" />
+<meta name="revisit-after" content="1 day" />
+<meta name="geo.position" content="0;0" />
+<meta name="icbm" content="0,0" />
+    <style type="text/css">
+          @import url('/cs/modules/aggregator/aggregator.css');
+          @import url('/cs/modules/node/node.css');
+          @import url('/cs/modules/system/defaults.css');
+          @import url('/cs/modules/system/system.css');
+          @import url('/cs/modules/system/system-menus.css');
+          @import url('/cs/modules/user/user.css');
+          @import url('/cs/sites/all/modules/cck/theme/content-module.css');
+          @import url('/cs/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/cs/sites/all/modules/ctools/css/ctools.css');
+          @import url('/cs/sites/all/modules/date/date.css');
+          @import url('/cs/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/cs/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/cs/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/cs/sites/all/modules/filefield/filefield.css');
+          @import url('/cs/sites/all/libraries/syntaxhighlighter/styles/shCore.css');
+          @import url('/cs/sites/all/libraries/syntaxhighlighter/styles/shThemeEclipse.css');
+          @import url('/cs/sites/all/modules/uw_ldap_courses/uw_ldap_courses.css');
+          @import url('/cs/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css');
+          @import url('/cs/misc/farbtastic/farbtastic.css');
+          @import url('/cs/sites/all/modules/calendar/calendar.css');
+          @import url('/cs/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/cs/sites/all/modules/views/css/views.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/cs/residence/residence/sites/all/themes/zen/zen/ie.css?6" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/cs/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/cs/sites/all/modules/jquery_update/replace/jquery.js?6"></script>
+<script type="text/javascript" src="/cs/misc/drupal.js?6"></script>
+<script type="text/javascript" src="/cs/sites/all/modules/google_analytics/googleanalytics.js?6"></script>
+<script type="text/javascript" src="/cs/sites/all/modules/pngfix/jquery.pngFix.js?6"></script>
+<script type="text/javascript" src="/cs/sites/all/libraries/syntaxhighlighter/scripts/shCore.js?6"></script>
+<script type="text/javascript" src="/cs/sites/all/libraries/syntaxhighlighter/scripts/shAutoloader.js?6"></script>
+<script type="text/javascript" src="http://www1.uwindsor.ca/cs/system/files/syntaxhighlighter.autoloader.js?6"></script>
+<script type="text/javascript" src="/cs/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?6"></script>
+<script type="text/javascript" src="/cs/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?6"></script>
+<script type="text/javascript" src="/cs/sites/all/themes/unified_department/responsive/responsive.js?6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/cs\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"syntaxhighlighter":{"useAutoloader":true}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/cs/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/cs/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/cs/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/cs/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/cs/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="uw_front not-front not-logged-in node-type-page two-sidebars page-820-cs-doctoral-program-admissions-process section-820 page-820-cs-doctoral-program-admissions-process section-820 ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/cs/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/cs/820/cs-doctoral-program-admissions-process" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1 no-title  "><div class="block-inner">
+    <div class="content">
+    <form action="/cs/820/cs-doctoral-program-admissions-process"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-167ca65ff42cabeda036914ccbfb17e5" value="form-167ca65ff42cabeda036914ccbfb17e5"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www1.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/cs/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www1.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/cs/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+        <div class="mobile-only"><div class="site-search"><!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1 no-title  "><div class="block-inner">
+    <div class="content">
+    <form action="/cs/820/cs-doctoral-program-admissions-process"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-167ca65ff42cabeda036914ccbfb17e5" value="form-167ca65ff42cabeda036914ccbfb17e5"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--></div></div>                
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile">
+                                  <div class="cs-links"><ul class="links links-5"><li class="0 link-0 first"><a href="http://www1.uwindsor.ca/cs/about-cs">About Computer Science</a></li>
+<li class="1 link-1"><a href="http://www1.uwindsor.ca/cs/cs-undergrad">Undergraduate</a></li>
+<li class="2 link-2"><a href="http://www1.uwindsor.ca/cs/cs-grad">Graduate</a></li>
+<li class="3 link-3"><a href="http://www1.uwindsor.ca/cs/research-info">Research</a></li>
+<li class="4 link-4 last"><a href="http://www1.uwindsor.ca/cs/cs-faculty-staff">CS Faculty &amp; Staff</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-3"><li class="0 link-0 first"><a href="http://www1.uwindsor.ca/cs/cs-future-students">Future Students</a></li>
+<li class="1 link-1"><a href="http://www1.uwindsor.ca/cs/cs-current">Current Students</a></li>
+<li class="2 link-2 last"><a href="http://www1.uwindsor.ca/cs/cs-alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-graduate" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="/cs/817/the-masters-program" target="_self" rel="" title="The Master&#039;s Program" class="length-short">Master&#039;s Program</a></li>
+<li class="expanded active-trail"><a href="/cs/818/phd-program" target="_self" rel="" title="Ph.D. Program" class="length-short">Doctoral Program</a><ul class="menu"><li class="leaf first"><a href="/cs/821/phd-regulations" target="_self" rel="" title="Ph.D. Regulations" class="length-short">Regulations</a></li>
+<li class="leaf active-trail"><a href="/cs/820/cs-doctoral-program-admissions-process" target="_self" rel="" title="CS Doctoral Program Admissions Process" class="length-short active">Admission Process</a></li>
+<li class="leaf"><a href="/cs/822/procedures-for-progress-tracking-of-doctoral-students" target="_self" rel="" title="Procedures for Progress Tracking of Doctoral Students" class="length-short">Tracking Procedures</a></li>
+<li class="leaf"><a href="/cs/825/current-phd-students-fall-2010" target="_self" rel="" title="Current Ph.D Students - Fall 2011" class="length-short">Current Ph.D. Students</a></li>
+<li class="leaf last"><a href="/cs/823/web-links-of-interest-to-doctoral-students" target="_self" rel="" title="Web Links of Interest to Doctoral Students" class="length-short">Web Links</a></li>
+</ul></li>
+<li class="leaf"><a href="/cs/816/graduate-labs" target="_self" rel="" title="Graduate Labs" class="length-short">Graduate Labs</a></li>
+<li class="leaf last"><a href="/cs/857/gradute-studies" target="_self" rel="" title="Graduate Studies" class="length-short">Graduate Studies Links</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                            <div class="spiff_block">
+                <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
+          <h2 class="title">SPIFF</h2>
+    <div class="content">
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/Volunteer%20website.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/volunteer" target="_self">Volunteer Website</a></div><div class="summary">Getting involved has never been so easy! Whether you are looking for volunteers or would like to volunteer, this website is right for YOU. </div><div class="read_more"><a href="http://www.uwindsor.ca/volunteer" target="_self">Read</a></div></div>  </div>
+  <div class="bpng"><img alt="bpng" src="/cs/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/header_left_image/Untitled-L_0.png" alt="Graduate Students in Front of Lambton Tower" title="Graduate Students (circa 1996)" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/header_right_image/Untitled-R.png" alt="Lambton Tower" title="Lambton Tower" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/cs">School of Computer Science</a> / <a href="/cs/818/phd-program">Doctoral Program</a> / <a href="/cs/820/cs-doctoral-program-admissions-process" class="active">Admission Process</a></div>                                      <h1 class="title">CS Doctoral Program Admissions Process</h1>
+                                                                                          <div id="node-820" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <p class="rtecenter">
+	Admissions Process for the Computer Science Doctoral Program<br />
+	University of Windsor<br />
+	&nbsp;March 6th 2003<br />
+	R. Frost</p>
+<h5>
+	Note</h5>
+<p>
+	This is the version of the admissions process for the Computer Science doctoral program that will be attached to the PDC forms to be sent to the Dean of Graduate Studies and Research.</p>
+<h3>
+	Introduction</h3>
+<p>
+	The decision of whether or not to admit a student to the doctoral program is one of the most important decisions affecting the future of that student, and the reputation of the School of Computer Science at the University of Windsor.<br />
+	&nbsp;<br />
+	The purpose of this document is to provide a clear statement of the process by which students will be admitted to the doctoral program.<br />
+	&nbsp;<br />
+	The document begins by reviewing the role of the Graduate Committee, and the Doctoral Admissions Committee, of the School of Computer Science. This is followed by a review of the admissions requirements for consideration for admission. These reviews are followed by a detailed description of the steps which are to be followed when an applicant is considered for admission to the doctoral program in Computer Science.</p>
+<h3>
+	Graduate Committee of the School of Computer Science</h3>
+<p>
+	The doctoral program will be administered by the Graduate Committee of the School of Computer Science, which consists of the Director of the School, the Doctoral Program Chair, the Master&rsquo;s Program Chair and the Associate Chair, two elected graduate faculty, and two elected graduate student representatives (when the doctoral program has students, one student will be from the doctoral program and one from the Master&rsquo;s program). The Graduate Committee&rsquo;s functions include: recommending the admission of applicants to the Dean of Graduate Studies and Research; recommending a supervisor and an advisory committee for each doctoral student admitted to the program, doctoral curriculum matters, and advising on the graduate teaching schedule and graduate course offerings.</p>
+<p>
+	The Director of the School will appoint, annually in conjunction with the allocation of workload, from the faculty members of Graduate Committee, a Chair and an Associate Chair of the Master&rsquo;s program, and a Chair of the Doctoral Program, to assist with the management of the Master&rsquo;s and Doctoral programs respectively.</p>
+<h3>
+	The Doctoral Admissions Committee</h3>
+<p>
+	The Doctoral Admissions Committee consists of the Doctoral Program Chair (who acts as chair of this committee), three faculty elected by graduate faculty members, and one Doctoral student elected by Doctoral students. This committee reports to the Graduate Committee of the School of Computer Science.</p>
+<h3>
+	Admission Requirements</h3>
+<p>
+	In order to be considered for admission to the Doctoral Program in Computer Science, applicants must have a) completed a thesis-based Master&rsquo;s degree in Computer Science, or b) have completed a course-based Master&rsquo;s degree in Computer Science and have demonstrated, to the Doctoral Admissions Committee, the ability to conduct independent<br />
+	research through the completion of research-oriented project work or appropriate research experience in industry or academia.&nbsp; &nbsp;</p>
+<p>
+	Note that these are the minimum requirements for consideration by the Admissions Committee and do not guarantee admission.</p>
+<h3>
+	The Process of Admission</h3>
+<p>
+	The following steps constitute the process of admission for all applicants to the Doctoral<br />
+	Program:</p>
+<ol>
+<li>
+		The applicant completes the necessary forms, and submits them with the required fees to the Office of the Registrar.<br />
+		&nbsp;</li>
+<li>
+		The information on qualifications and the status of the degree-granting institutions are checked by the School of Computer Science.<br />
+		&nbsp;</li>
+<li>
+		If the application is complete (application form, transcript, reference letters, fee, TOEFL if required, and a statement of research interest.), the file is sent to the graduate secretary in the School of Computer science.<br />
+		&nbsp;</li>
+<li>
+		The Doctoral Admissions Committee checks the applicant&rsquo;s file to determine if the applicant has completed a thesis-based Master&rsquo;s degree in Computer Science, or b) has completed a course-based Master&rsquo;s degree in Computer Science and has demonstrated the ability to conduct independent research through the completion of research-oriented project work or appropriate research experience in industry or academia.<br />
+		&nbsp;</li>
+<li>
+		The Doctoral Admissions Committee checks the file to see if the applicant meets a pre-defined level of competence. This level is to be determined formally by the Graduate Committee of the School of Computer Science, and would normally include:
+<ul>
+<li>
+				Grades in the applicant&rsquo;s graduate courses and thesis that place them in the top 25% of their cohort in an accredited Master&rsquo;s program.</li>
+<li>
+				References which indicate a very strong likelihood of success in a Doctoral program.</li>
+<li>
+				Satisfactory TOEFL if required.<br />
+				&nbsp;</li>
+</ul>
+</li>
+<li>
+		The Doctoral Admissions Committee would then be used to determine if there is(are) faculty member(s) who is(are) willing to supervise(co-supervise) the applicant. In some cases, the applicant may be applying to study with a particular professor. When this is not the case, the applicant&rsquo;s file will be circulated to graduate faculty in the School of Computer Science. Faculty who are interested in supervising or co-supervising the applicant would indicate that interest on a form before passing the file on to the next faculty member.<br />
+		&nbsp;</li>
+<li>
+		The Doctoral Admissions Committee would then discuss the admission of the applicant with interested faculty member(s).<br />
+		&nbsp;</li>
+<li>
+		If a potential supervisor is identified, who is a member of graduate faculty of Computer Science, and who has adequate funds, the Doctoral Admissions Committee would then contact the applicant in order to obtain additional information. This could involve the following:
+<ul>
+<li>
+				Obtaining more details on the undergraduate and Master&rsquo;s programs from which the applicant has graduated (if necessary).</li>
+<li>
+				Asking the applicant for copies (preferably electronic) of their Master&rsquo;s thesis, and research papers.</li>
+<li>
+				Where feasible, arranging an interview with the applicant, possibly involving a presentation of the applicant&rsquo;s Master&rsquo;s thesis work.<br />
+				&nbsp;</li>
+</ul>
+</li>
+<li>
+		If the Doctoral&nbsp; Admissions Committee and the potential supervisor both recommend admission, then:
+<ul>
+<li>
+				the potential supervisor would indicate in writing, to the Committee, a commitment to provide an RAship of at least $4,000 per year for four years, subject to satisfactory progress in the program, and satisfactory performance in research duties.</li>
+<li>
+				The Director of the School of Computer Science would indicate in writing a commitment to provide 8 semester GAships, subject to satisfactory performance of GA duties and the conditions provided in the GA/TA Employment Policy manual.<br />
+				&nbsp;</li>
+</ul>
+</li>
+<li>
+		The Doctoral Admissions Committee would then recommend either admission, or rejection, to the Graduate Committee of the School of Computer Science, who would ensure that the correct process had been followed and would in turn recommend either admission or rejection to the Dean of Graduate Studies and Research. &nbsp;<br />
+		&nbsp;</li>
+<li>
+		If the recommendation is to admit, then the applicant would be sent a) a letter from the Dean of Graduate Studies and Research, indicating the name of the supervisor(s), and b) a letter from the School of Computer Science indicating the&nbsp; name of the supervisor, the area of research, the commitment to an RAship and its value, and the commitment to a GAship and its value. Otherwise, the applicant would be sent a letter of rejection indicating why the application was not successful.</li>
+</ol>
+<p>
+	It should be noted that the pre-defined level of competence determined by the Graduate Committee will vary to some extent depending on demand for the program and experience gained with students admitted from various Master&rsquo;s programs. In all cases, the level of competence will be such as to admit only the very best applicants for whom there is an extremely high likelihood of success.</p>
+<p>
+	The Admissions Committee and the Graduate Committee of the School of Computer Science will take into account the total number of students in the doctoral program, the target enrolment, and the number of doctoral students supervised by individual faculty, in order to ensure equitable opportunity for faculty to supervise doctoral students.</p>
+<p>
+	It should be noted that at present all doctoral students at the University of Windsor are guaranteed eight semesters of GAships subject to certain conditions available form the Office of Graduate Studies and Research.</p>
+<p>
+	The Admissions Committee and the Graduate Committee will take into account the extra financial requirements of visa students when determining admission and ensure that the financial requirements set by the Office of Employment and Immigration can be met before recommending admission of an applicant. In some cases, this may require funding<br />
+	beyond the minimal levels mentioned above.</p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-block-38" class="block block-block region-odd even region-count-1 count-6 brown_title graduate-student-forms"><div class="block-inner">
+          <h2 class="title">Graduate Student Forms</h2>
+    <div class="content">
+    <ul>
+<li>
+		<a href="/cs/system/files/CS TA Application(1).pdf">Graduate Assistant Application</a></li>
+</ul>
+<p><strong>Ph.D. Forms</strong></p>
+<ul>
+<li>
+		<a href="/cs/cs/system/files/phdAnnualReportForm.pdf" target="_blank">Annual Progress Report</a></li>
+<li>
+		<a href="/cs/cs/system/files/phdProposalReportForm.pdf" target="_blank">Research Proposal Report</a></li>
+<li>
+		<a href="/cs/system/files/Doctoral committee Ethics.pdf" target="_blank">Ethics</a></li>
+<li>
+		<a href="/cs/system/files/phdSeminarReportForm.pdf" target="_blank">Seminar Report</a></li>
+<li>
+		<a href="/cs/cs/system/files/phdComprehensiveExamReportForm.pdf" target="_blank">Comprehensive Exam Report</a></li>
+</ul>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/cs/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript" src="/cs/sites/all/modules/syntaxhighlighter/syntaxhighlighter.min.js?6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-26972260-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- School of Computer Science ABCXYZ -->
+</body>
+</html>

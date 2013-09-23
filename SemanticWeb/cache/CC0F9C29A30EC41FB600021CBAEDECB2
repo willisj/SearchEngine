@@ -1,0 +1,636 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Final oral defense: Waldo Perez Regalado (Ph.D.), &quot;Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process&quot; | Graduate Studies - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="category-event-type" content="final oral defense" />
+<meta name="category-audience" content="Current Students" />
+<meta name="category-audience" content="Future Students" />
+<meta name="category-audience" content="International Students" />
+<meta name="category-audience" content="Undergraduate Students" />
+<meta name="category-audience" content="Graduate Students" />
+<meta name="category-audience" content="Faculty" />
+<meta name="category-audience" content="Staff" />
+<meta name="category-audience" content="Alumni" />
+<meta name="category-audience" content="Public" />
+<meta name="category-locations" content="Centre for Engineering Innovation (CEI)" />
+<meta name="category-locations" content="Room 3000" />
+<meta name="category-tags" content="Defense" />
+<meta name="modified" content="2013-09-18 10:59:20" />
+<meta name="created" content="2013-09-18 10:59:20" />
+<meta name="status" content="1" />
+<meta name="type" content="events" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/graduate/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+<link rel="alternate" type="application/rss+xml" title="News" href="/graduate/newsfeed" />
+    <style type="text/css">
+          @import url('/graduate/modules/aggregator/aggregator.css');
+          @import url('/graduate/modules/node/node.css');
+          @import url('/graduate/modules/system/defaults.css');
+          @import url('/graduate/modules/system/system.css');
+          @import url('/graduate/modules/system/system-menus.css');
+          @import url('/graduate/modules/user/user.css');
+          @import url('/graduate/sites/all/modules/cck/theme/content-module.css');
+          @import url('/graduate/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/graduate/sites/all/modules/ctools/css/ctools.css');
+          @import url('/graduate/sites/all/modules/date/date.css');
+          @import url('/graduate/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/graduate/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/graduate/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/graduate/sites/all/modules/filefield/filefield.css');
+          @import url('/graduate/misc/farbtastic/farbtastic.css');
+          @import url('/graduate/sites/all/modules/calendar/calendar.css');
+          @import url('/graduate/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/graduate/sites/all/modules/views/css/views.css');
+          @import url('/graduate/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/grad/sites/all/themes/zen/zen/ie.css?r" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/graduate/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/graduate/sites/all/modules/jquery_update/replace/jquery.js?r"></script>
+<script type="text/javascript" src="/graduate/misc/drupal.js?r"></script>
+<script type="text/javascript" src="/graduate/sites/all/modules/google_analytics/googleanalytics.js?r"></script>
+<script type="text/javascript" src="/graduate/sites/all/modules/pngfix/jquery.pngFix.js?r"></script>
+<script type="text/javascript" src="/graduate/sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?r"></script>
+<script type="text/javascript" src="/graduate/sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?r"></script>
+<script type="text/javascript" src="/graduate/sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?r"></script>
+<script type="text/javascript" src="/graduate/sites/all/modules/calendar/jcalendar/jcalendar.js?r"></script>
+<script type="text/javascript" src="/graduate/sites/all/themes/unified_department/responsive/responsive.js?r"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/graduate\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/graduate\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/graduate/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/graduate/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/graduate/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/graduate/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/graduate/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-events two-sidebars page-final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot section-final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot page-final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot section-final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/graduate/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/graduate/final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/graduate/final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-87afdc50db16ea903f5d4f04badd5a14" value="form-87afdc50db16ea903f5d4f04badd5a14"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/graduate/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/graduate/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="/graduate/welcome-to-graduate-studies" title="Welcome to Graduate Studies!" target="_self" rel="" class="length-short">for Future Students</a></li>
+<li class="collapsed"><a href="/graduate/current-students" target="_self" rel="" title="Current Students" class="length-long">for New and Current Students</a></li>
+<li class="collapsed"><a href="/graduate/faculty-and-staff-resources" target="_self" rel="" title="Faculty and Staff Resources" class="length-short">for Faculty and Staff</a></li>
+<li class="collapsed"><a href="/graduate/scholarships-and-awards" target="_self" rel="" title="Scholarships and Awards" class="length-short">Scholarships and Funding</a></li>
+<li class="leaf"><a href="/graduate/staff-contact-list-0" target="_self" rel="" title="Staff Contact List" class="length-short">Contact us</a></li>
+<li class="leaf"><a href="/graduate/important-dates" target="_self" rel="" title="Important Dates" class="length-short">Important Dates</a></li>
+<li class="expanded"><a href="http://web4.uwindsor.ca/units/advancement/main.nsf/main/9F750AFDCFBA0B9B85256DC10069CAB3" target="_blank" rel="" title="" class="length-short">Support the University</a><ul class="menu"><li class="leaf first"><a href="http://www.uwindsor.ca/grad/support-graduate-studies-scholarships-give-now-to-triple-the-impact-of-your-donation" target="_self" rel="" title="" class="length-long">Triple the impact of your graduate studies donation</a></li>
+<li class="leaf last"><a href="https://my.uwindsor.ca/portal/page/portal/GuestPages/Donations" target="_blank" rel="" title="Faculty of Graduate Studies donor card" class="length-short">support Graduate Studies</a></li>
+</ul></li>
+<li class="leaf last"><a href="http://www.uwindsor.ca/grad/qualityassurance" target="_self" rel="" title="Quality Assurance main" class="length-long">Office of Quality Assurance</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                            <div class="spiff_block">
+                <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
+          <h2 class="title">SPIFF</h2>
+    <div class="content">
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/susan%20sawyer_0.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/exploring-the-afterlife" target="_self">After UWindsor</a></div><div class="summary">With the help of a $70,000 grant from the MITACS' Elevate program Engineering grad continues auto recycling research</div><div class="read_more"><a href="http://www.uwindsor.ca/exploring-the-afterlife" target="_self">Read</a></div></div>  </div>
+  <div class="bpng"><img alt="bpng" src="/graduate/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/graduate/system/files/imagecache/header_left_image/banner3.jpg" alt="Graduate stuedents working in labs" title="Faculty of Graduate Studies" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd odd region-count-1 count-5  highlights"><div class="block-inner">
+          <h2 class="title">HIGHLIGHTS</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/graduate/system/files/imagecache/244by123_slide_image/slideshow/slideshow.jpg" alt="Student conducting research" title="Research in lab setting" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/graduate/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Faculty Research"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://uwindsor.ca/vp-research/research-by-category" target="_blank">Faculty Research</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/graduate/system/files/imagecache/244by123_slide_image/slideshow/banner3_new%20programs%20slideshow_0.jpg" alt="New graduate programs collage" title="New graduate programs" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/graduate/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="New graduate programs"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/graduate/graduate/new-graduate-programs" target="0">New graduate programs</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/graduate/system/files/imagecache/244by123_slide_image/slideshow/296convocationStudents.jpg" alt="Graduate students at convocation" title="Graduate students at convocation" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/graduate/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Student experiences"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/graduate/graduate/my-life-changing-experience-at-the-university-of-windsor" target="0">Student experiences</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/graduate/system/files/imagecache/244by123_slide_image/slideshow/255humanKinetics.jpg" alt="Graduate students conducting research" title="Graduate students conducting research" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/graduate/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Graduate Student Research"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/dailynews/article-list/spotlight-on-graduate-research" target="0">Graduate Student Research</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/graduate">Graduate Studies</a> / <a href="/graduate/final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot" class="active">Final oral defense: Waldo Perez Regalado (Ph.D.), &quot;Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process&quot;</a></div>                                      <h1 class="title">Final oral defense: Waldo Perez Regalado (Ph.D.), &quot;Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process&quot;</h1>
+                                                                                          <div id="node-2423" class="node node-type-events">
+  <div class="node-inner">
+          <div class="content">
+            <div class="add-calendar-ical">
+        <a href="/graduate/ical/events/2423" title="Add this event into your calendar using the iCAL format"><img src="/graduate/sites/all/themes/unified_department/images/ical.png" alt="Add this event into your calendar using the iCAL format" /></a>
+      </div>
+                    <ul class="field-date-list">
+        <li><h4><span class="date-display-single">Tue, 10/22/2013 - 11:00am</span></h4></li>        </ul>
+        <br  />
+                <div class="event-location-links">
+                        Room 3000                                          Centre for Engineering Innovation (CEI)                                  <br />
+        </div>
+                
+              
+                 
+       
+        <br clear="all" /><br />
+        <p>Waldo Perez Regalado (Ph.D.), &quot;Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process&quot;</p>
+        <br clear="all" /><br />
+        
+                  <div class="event-contact-info">
+                                                  (519)253-3000  
+                        <br />
+                      </div>
+          <br clear="all" />
+              
+                <br />
+        <div class="categories">
+          <span class="event-label">See More:&nbsp; </span>
+          <div class="event-taxonomy-links">
+                                     
+            <a href="/graduate/category/event-type/final-oral-defense">final oral defense</a>            |             
+            <a href="/graduate/taxonomy/term/2">Current Students</a>            |             
+            <a href="/graduate/taxonomy/term/3">Future Students</a>            |             
+            <a href="/graduate/taxonomy/term/4">International Students</a>            |             
+            <a href="/graduate/taxonomy/term/5">Undergraduate Students</a>            |             
+            <a href="/graduate/taxonomy/term/6">Graduate Students</a>            |             
+            <a href="/graduate/taxonomy/term/8">Faculty</a>            |             
+            <a href="/graduate/taxonomy/term/7">Staff</a>            |             
+            <a href="/graduate/taxonomy/term/9">Alumni</a>            |             
+            <a href="/graduate/taxonomy/term/1">Public</a>            |             
+            <a href="/graduate/category/tags/defense">Defense</a>                         
+                        <br />
+          </div>
+        </div>
+          
+                <br clear="all" /><br />
+    
+      
+        
+    </div> <!-- /#.node-inner -->
+        </div>
+</div> <!-- /.node -->                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-views-news-block_1" class="block block-views region-odd even region-count-1 count-6 green_title grad-news"><div class="block-inner">
+          <h2 class="title">Grad News:</h2>
+    <div class="content">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/graduate/the-graduate-studies-office-will-be-closed-from-1130am-to-1pm-on-tuesday-sept-24th-2013">&gt; The Graduate Studies office will be closed from 11:30am to 1pm on Tuesday, Sept. 24th, 2013</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/graduate/nov-13-university-of-windsor-graduate-studies-showcase">&gt; Nov. 13: University of Windsor Graduate Studies Showcase</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/graduate/sept-24th-information-session-for-students-applying-for-nserc-graduate-scholarships">&gt;  Sept. 24th: Information session for students applying for NSERC graduate scholarships</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/graduate/meghan-doster-is-the-201213-governor-generals-gold-medal-winner">&gt; Meghan Doster is the 2012/13 Governor General&#039;s Gold Medal winner</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/graduate/cihr-information-sessions-for-students-on-awards-in-health-research">&gt; CIHR Information Sessions for Students on Awards in Health Research</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/graduate/information-session-for-students-applying-for-external-graduate-scholarships-cihr-nserc-sshrc-ogs">&gt; Information session for students applying for external graduate scholarships (CIHR, NSERC, SSHRC, OGS) - handout</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/graduate/deadline-dates-for-external-graduate-scholarship-competitions-nserc-sshrc-cihr-and-ogs-2014-15">&gt; Deadlines for 2014-15 external graduate scholarship competitions (NSERC, SSHRC, CIHR and OGS)</a></span>
+  </div>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/graduate/all-news">
+    View All  </a>
+</div>
+  
+  
+      <div class="feed-icon">
+      <a href="/graduate/newsfeed" class="feed-icon"><img src="/graduate/misc/feed.png" alt="Syndicate content" title="News" width="16" height="16" /></a>    </div>
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-views-events_calendar-block_1" class="block block-views region-even odd region-count-2 count-7 blue_title important-dates"><div class="block-inner">
+          <h2 class="title">Important dates</h2>
+    <div class="content">
+    <div class="view view-events-calendar view-id-events_calendar view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/final-oral-defense-meaghan-fisherma-transgressive-definitions-kimberly-nixon-and-the-sociological-ef">Final oral defense: Meaghan Fisher(M.A.), &quot;Transgressive Definitions: Kimberly Nixon and the Sociological Effects of Language Imprecision&quot;</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/information-session-for-students-applying-for-nserc-graduate-scholarships">Information session for students applying for NSERC graduate scholarships</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-0">Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees">Last day to deposit dissertations, theses and major papers for Fall  
+ Convocation (graduate degrees)</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/final-oral-defense-yupeng-lin-masc-investigation-on-up-fitting-lead-time-reduction-for-vehicle-assem">Final oral defense: Yupeng Lin (M.A.Sc.), &quot;Investigation on Up-fitting Lead Time Reduction for Vehicle Assembly&quot;</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sep 27, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/final-oral-defense-aisha-alsaleh-msc-surfaced-enhanced-raman-scattering-and-fluorescence-of-tagged-p">Final oral defense: Aisha Alsaleh (M.Sc.), &quot;Surfaced Enhanced Raman Scattering and Fluorescence of Tagged Phospholipids in Langmuir-Blodgett Monolayers&quot;</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 14, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/thanksgiving-day-statutory-holiday-no-classes">Thanksgiving Day (statutory holiday) - No classes</a></span>
+  </span>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/graduate/calendar/events">
+    view calendar  </a>
+</div>
+  
+  
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-24" class="block block-block region-odd even region-count-3 count-8 related quick-links"><div class="block-inner">
+          <h2 class="title">Quick Links</h2>
+    <div class="content">
+    <ul>
+<li>
+		<a href="http://horizon.ouac.on.ca/webapp/account.d2w/report?ident=ACCOUNT_DSP&amp;merchant_rn=810328&amp;action_id=choose" target="_blank">Apply online</a></li>
+<li>
+		<a href="http://uwindsor.ca/registrar/admission-requirements-faculty-of-graduate-studies" target="new">Admission requirements</a></li>
+<li>
+		<a href="/graduate/our-location">Windsor Location</a></li>
+<li>
+		<a href="/grad/scholarships-and-awards">Scholarships and Awards</a></li>
+<li>
+		<a href="http://web2.uwindsor.ca/finance/fee-estimator/" target="new">Tuition fees</a></li>
+<li>
+		<a href="http://web4.uwindsor.ca/gradcalendar">Graduate calendar</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/graduate/upcoming-oral-defenses">Upcoming Defenses</a><br />
+		&nbsp;</li>
+</ul>
+<p></p>
+<p>&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-4 count-9 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 24, 2013 <a href="/graduate/final-oral-defense-meaghan-fisherma-transgressive-definitions-kimberly-nixon-and-the-sociological-ef">Final oral defense: Meaghan Fisher(M.A.), "Transgressive Definitions: Kimberly Nixon and the Sociological Effects of Language Imprecision"</a></li><li>Sep 24, 2013 <a href="/graduate/information-session-for-students-applying-for-nserc-graduate-scholarships">Information session for students applying for NSERC graduate scholarships</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
+ Convocation (graduate degrees)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</a></li><li>Sep 25, 2013 <a href="/graduate/final-oral-defense-yupeng-lin-masc-investigation-on-up-fitting-lead-time-reduction-for-vehicle-assem">Final oral defense: Yupeng Lin (M.A.Sc.), "Investigation on Up-fitting Lead Time Reduction for Vehicle Assembly"</a></li><li>Sep 27, 2013 <a href="/graduate/final-oral-defense-aisha-alsaleh-msc-surfaced-enhanced-raman-scattering-and-fluorescence-of-tagged-p">Final oral defense: Aisha Alsaleh (M.Sc.), "Surfaced Enhanced Raman Scattering and Fluorescence of Tagged Phospholipids in Langmuir-Blodgett Monolayers"</a></li><li class="imported-event">Oct 14, 2013 <a href="http://www1.uwindsor.ca/registrar/thanksgiving-day-statutory-holiday-no-classes-2#20131014">Thanksgiving Day (statutory holiday) - No classes</a></li><li class="imported-event">Oct 18, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8#20131018">Last day for completion of all requirements for graduate degrees under Phase  
+ II (50% tuition refund)</a></li><li class="imported-event">Oct 19, 2013 <a href="http://www1.uwindsor.ca/registrar/fall-convocation-2#20131019">Fall Convocation</a></li><li>Oct 22, 2013 <a href="/graduate/final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot" class="active">Final oral defense: Waldo Perez Regalado (Ph.D.), "Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process"</a></li></ul></div><div class="more-link"><a href="/graduate/calendar/events">VIEW CALENDAR</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/graduate/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-25"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Graduate Studies ABCXYZ -->
+</body>
+</html>

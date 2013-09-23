@@ -1,0 +1,449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Communications | Office of the President - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-08-30 11:50:08" />
+<meta name="created" content="2009-06-16 02:27:46" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/president/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+<link rel="alternate" type="application/rss+xml" title="News" href="/president/newsfeed" />
+    <style type="text/css">
+          @import url('/president/modules/aggregator/aggregator.css');
+          @import url('/president/modules/node/node.css');
+          @import url('/president/modules/system/defaults.css');
+          @import url('/president/modules/system/system.css');
+          @import url('/president/modules/system/system-menus.css');
+          @import url('/president/modules/user/user.css');
+          @import url('/president/sites/all/modules/cck/theme/content-module.css');
+          @import url('/president/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/president/sites/all/modules/ctools/css/ctools.css');
+          @import url('/president/sites/all/modules/date/date.css');
+          @import url('/president/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/president/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/president/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/president/sites/all/modules/filefield/filefield.css');
+          @import url('/president/misc/farbtastic/farbtastic.css');
+          @import url('/president/sites/all/modules/calendar/calendar.css');
+          @import url('/president/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/president/sites/all/modules/views/css/views.css');
+          @import url('/president/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/president/sites/all/themes/zen/zen/ie.css?n" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/president/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/president/sites/all/modules/jquery_update/replace/jquery.js?n"></script>
+<script type="text/javascript" src="/president/misc/drupal.js?n"></script>
+<script type="text/javascript" src="/president/sites/all/modules/google_analytics/googleanalytics.js?n"></script>
+<script type="text/javascript" src="/president/sites/all/modules/pngfix/jquery.pngFix.js?n"></script>
+<script type="text/javascript" src="/president/sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?n"></script>
+<script type="text/javascript" src="/president/sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?n"></script>
+<script type="text/javascript" src="/president/sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?n"></script>
+<script type="text/javascript" src="/president/sites/all/modules/calendar/jcalendar/jcalendar.js?n"></script>
+<script type="text/javascript" src="/president/sites/all/themes/unified_department/responsive/responsive.js?n"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/president\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/president\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/president/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/president/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/president/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/president/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/president/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page two-sidebars page-communications-presidential section-communications-presidential page-communications-presidential section-communications-presidential ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/president/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/president/communications-presidential" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/president/communications-presidential"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-9616b68cc41360ad9190f9421e093378" value="form-9616b68cc41360ad9190f9421e093378"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/president/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/president/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/president/welcome" title="Welcome" class="length-short">President&#039;s Welcome</a></li>
+<li class="leaf"><a href="/president/contact-our-office" title="Contact our Office" class="length-short">Contact</a></li>
+<li class="leaf"><a href="/president/welcome-department" title="About the President" class="length-short">About the President</a></li>
+<li class="expanded"><a href="/president/planned-priorities" title="Planned Priorities for 2009/10" class="length-short">Presidential Priorities</a><ul class="menu"><li class="leaf first"><a href="/president/planning" title="Planning" class="length-short">Planning</a></li>
+<li class="leaf"><a href="/president/accountability" title="Accountability" class="length-short">Accountability</a></li>
+<li class="leaf"><a href="/president/performance" title="Performance" class="length-short">Performance</a></li>
+<li class="leaf"><a href="/president/governance" title="Governance" class="length-short">Governance</a></li>
+<li class="leaf last"><a href="/president/outreach" title="Outreach" class="length-short">Outreach</a></li>
+</ul></li>
+<li class="expanded active-trail"><a href="/president/communications-presidential" title="Communications" class="length-long active">Presidential Communications</a><ul class="menu"><li class="leaf first last"><a href="/president/town-hall-meetings" title="Town Hall Meetings" class="length-short">Town hall meetings</a></li>
+</ul></li>
+<li class="expanded last"><a href="/president/public-accountability" title="Public Accountability" class="length-short">Public Accountability</a><ul class="menu"><li class="leaf first"><a href="/president/accountability-agreements" title="Multi-Year Accountability Agreement (MYAA) Documents" class="length-short">Accountability Agreements</a></li>
+<li class="leaf"><a href="/president/annual-reports" title="Annual Reports" class="length-short">Annual Reports</a></li>
+<li class="leaf last"><a href="http://www.uwindsor.ca/president/sites/www.uwindsor.ca.president/files/VPPerformanceAndcompensation_2009.pdf" title="Download the PDF" class="length-long">Vice-President Performance Review and Compensation</a></li>
+</ul></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/president/system/files/imagecache/header_left_image/dillon_0.jpg" alt="Door of historic Dillon Hall" title="Door of historic Dillon Hall" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd even region-count-1 count-4  presidential-priorities"><div class="block-inner">
+          <h2 class="title">PRESIDENTIAL PRIORITIES</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/president/system/files/imagecache/244by123_slide_image/slideshow/PresPlanning.jpg" alt="Planning Priorities" title="Planning Priorities" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/president/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Planning Priorities"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/president/planning" target="0">Planning Priorities</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/president/system/files/imagecache/244by123_slide_image/slideshow/ProvostSearch_0.jpg" alt="Decorative swirls and blurred silhouettes" title="Accountability Priorities" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/president/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Accountability Priorities"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/president/accountability">Accountability Priorities</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/president/system/files/imagecache/244by123_slide_image/slideshow/GreenPriorityImg_0.jpg" alt="Green background with brand swirls on top" title="Performance Priorities" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/president/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Performance Priorities"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/president/performance">Performance Priorities</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/president/system/files/imagecache/244by123_slide_image/slideshow/AnnualReport2009_0.jpg" alt="Dillon in fall colours" title="Governance Priorities" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/president/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Governance Priorities"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/president/governance">Governance Priorities</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/president/system/files/imagecache/244by123_slide_image/slideshow/PresOutreach.jpg" alt="Outreach" title="Outreach" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/president/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Outreach Priorities"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/president/outreach" target="0">Outreach Priorities</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/president">Office of the President</a> / <a href="/president/communications-presidential" class="active">Presidential Communications</a></div>                                      <h1 class="title">Communications</h1>
+                                                                                          <div id="node-627" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <h5>
+	Public Addresses</h5>
+<p><strong>2013</strong><br />
+	<a href="/president/system/files/The%20future%20is%20never%20what%20it%20used%20to%20be.pdf">The Future Is Never What It Used To Be -&nbsp;February 5, 2013</a></p>
+<p><strong><strong>2011</strong></strong><br />
+	<a href="/president/system/files/Windsor%20Essex%20Chamber%20of%20Commerce%20November%2C%202011.pdf">Address to Windsor-Essex Regional Chamber of Commerce&nbsp;- November 23, 2011</a></p>
+<p><strong>2009</strong><br />
+	<a href="node/628">Address to Windsor-Roseland Rotary - February 3, 2009</a><br />
+	<a href="node/629">Address to Rotary Club Chapter 1812 - January 19, 2009</a></p>
+<p><strong>2008</strong><br />
+	<a href="node/630">Address to Convocation - October 25, 2008</a><br />
+	<a href="node/631">On the occasion of his Installation - October 24, 2008</a></p>
+<p>&nbsp;</p>
+<h5>
+	University Community Addresses</h5>
+<p><strong>2013</strong></p>
+<p><a href="http://www.uwindsor.ca/president/message-of-appreciation-to-all-university-of-windsor-alumni">Message of appreciation to all University of Windsor alumni - August 29, 2013</a><br />
+	<a href="http://www1.uwindsor.ca/president/system/files/PresidentsUpdate19.pdf">E-mail Update -&nbsp;August 28, 2013</a><br />
+	<a href="http://www.uwindsor.ca/president/thanks-to-campus-hosts-of-the-international-children%E2%80%99s-games">Thanks to campus hosts of the International Children&rsquo;s Games - August 19, 2013</a><br />
+	<a href="/president/system/files/PresidentsUpdate18.pdf">E-mail Update - April 8, 2013</a><br />
+	<a href="/president/system/files/2012-01-17-Memo-Advancement-Restructuring.pdf" target="_blank">Memo regarding changes to the former University Advancement Division - January 17, 2013</a></p>
+<p><strong>2012</strong><br />
+	<a href="/president/system/files/PresidentsUpdate17.pdf">E-mail Update - November 29, 2012</a><br />
+	<a href="/president/system/files/UWindsor-Strategic-Mandate-Agreement.pdf">Memo regarding Strategic Mandate Agreement, updated October 15, 2012</a><br />
+	<a href="/president/system/files/Presidents-Update-16.pdf" target="_blank">E-mail Update - September 11, 2012</a><br />
+	<a href="/president/system/files/Presidents-Memo-July-17-2012.pdf" target="_blank">Memo from the President&#39;s Office - July 17, 2012</a><br />
+	<a href="/president/system/files/PresidentsUpdate15.pdf">E-mail Update -&nbsp;June 28, 2012</a><br />
+	<a href="/president/system/files/Memo%20from%20Dr.%20Wildeman%20March%2012%2C%202012.pdf">Memo from the President&#39;s Office - March 12, 2012</a></p>
+<p><strong>2011</strong><br />
+	<a href="/president/system/files/President%27s%20Update%20%252314.pdf">E-mail Update - December 9, 2011</a><br />
+	<a href="/president/system/files/Administration-Restructuring-Memo.pdf">Administration Restructuring Memo - October 31, 2011</a><br />
+	<a href="/president/system/files/PresidentsUpdate13.pdf">E-mail Update -&nbsp;August 17, 2011</a><br />
+	<a href="/president/system/files/PresidentsUpdate12.pdf">E-mail Update -&nbsp;May 18, 2011</a></p>
+<p><strong>2010</strong><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentUpdate11.pdf">E-mail Update - November 30, 2010</a><br />
+	<a href="/president/communications/communications/communications/communications/sites/www.uwindsor.ca.president/files/PresidentUpdate10.pdf">E-mail Update - August 26, 2010</a><br />
+	<a href="/president/communications/sites/www.uwindsor.ca.president/files/PresidentsUpdate9.pdf">E-mail Update - July 19, 2010</a><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentsUpdate8.pdf">E-mail Update - May 14, 2010</a><br />
+	<a href="/president/communications/communications/communications/communications/sites/www.uwindsor.ca.president/files/PresidentsUpdate7.pdf">E-mail Update - February 1, 2010&nbsp; </a><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentsUpdate6.pdf" target="_blank">E-mail Update - January 12, 2010</a></p>
+<p><strong>2009</strong><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentsUpdate5.pdf" target="_blank">E-mail Update - August 5, 2009</a><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentsUpdate4.pdf" target="_blank">E-mail Update - July 2, 2009</a><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentsUpdate20090522.pdf" target="_blank">E-mail Update - May 22, 2009</a></p>
+<p><strong>2008</strong><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentsUpdate20081203.pdf" target="_blank">E-mail Update - December 3, 2008</a><br />
+	<a href="/president/sites/www.uwindsor.ca.president/files/PresidentsUpdate20081114.pdf" target="_blank">E-mail Update - November 14, 2008</a></p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-block-24" class="block block-block region-odd odd region-count-1 count-5 no-title related "><div class="block-inner">
+    <div class="content">
+    <h3>
+	<a href="http://www.uwindsor.ca/sites/default/files/TakingAction.pdf">Download<br />
+	Strategic Plan</a></h3>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-29" class="block block-block region-even even region-count-2 count-6 related uwindsor-links"><div class="block-inner">
+          <h2 class="title">UWindsor Links</h2>
+    <div class="content">
+    <ul>
+<li><a target="_blank" href="http://www.uwindsor.ca/development">Advancing the University</a></li>
+<li><a target="_blank" href="http://www.uwindsor.ca/pac">Office of Public Affairs</a></li>
+<li><a target="_blank" href="http://www.uwindsor.ca/bog">Board of Governors</a></li>
+<li><a target="_blank" href="http://www.uwindsor.ca/senate">Senate</a></li>
+<li><a href="http://www.uwindsor.ca/provost">Provost</a></li>
+<li><a href="http://www.uwindsor.ca/research">Research</a></li>
+<li><a href="http://www.uwindsor.ca/vpadmin">Administration and Finance</a></li>
+</ul>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/president/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-11859507-48"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Office of the President ABCXYZ -->
+</body>
+</html>

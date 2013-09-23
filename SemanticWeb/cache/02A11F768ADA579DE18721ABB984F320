@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Daily News</title>
+<meta name="Keywords" content="UNIVERSITY ADVANCEMENT, " />
+<meta name="Author" content="UWindsor Notes Development/University of Windsor " />
+<meta name="Description" content="University of Windsor  UNIVERSITY ADVANCEMENT  " />
+<meta name="robots" content="index, follow" />
+ <!-- if they import flash based images, they need this js file-->
+<script language="JavaScript" type="text/javascript" src="/units/pac/nvdailynews/nvdn.nsf/wsgPrototype.js"></script>
+<script language="JavaScript" type="text/javascript" src="/units/pac/nvdailynews/nvdn.nsf/wsgLightWindow.js"></script>
+<script language="JavaScript" type="text/javascript" src="/units/pac/nvdailynews/nvdn.nsf/misc.js"></script>
+<link rel="stylesheet" type="text/css" href="/units/pac/nvdailynews/nvdn.nsf/main.css" />
+<link rel="stylesheet" type="text/css" href="/units/pac/newsEventsPeople.nsf/custom.css" />
+<link rel="stylesheet" type="text/css" href="/units/pac/newsEventsPeople.nsf/printer.css" media="print" />
+<!--[if IE]>
+<style type="text/css" media="screen">
+ #navMenuContainerDiv ul li {float: left; width: 100%;}
+.hideIE{display: none; }
+</style>
+<![endif]-->
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#tplCenterDiv{ margin-left: 100px; }
+#searchToolsDiv{ margin-top: -4px; border-top: 1px solid #000;
+}
+#googleSearchContainerDiv div{ height: 22px;}
+#googleSearchGoImgCurrentDiv, #googleSearchGoImgITDiv{ margin:0px; }
+#askITSearchCurrentBoxDiv{ height:22px;}
+body {
+behavior: url(/units/pac/nvdailynews/nvdn.nsf/csshover.htc);
+font-size: 100%;
+} 
+#navMenuContainerDiv ul li {float: left; width: 100%;}
+#navMenuContainerDiv ul li a {height: 1%;} 
+#navMenuContainerDiv ul ul {margin-left: 1px;} 
+#searchToolsDiv{height: 23px; overflow: hidden;} 
+</style>
+<![endif]-->
+<script language="javascript" type="text/javascript">
+var referer =""; 
+if(referer.indexOf("tovr")!=-1 && "" !="textoff") 
+location.href="/units/pac/nvdailynews/nvdn.nsf/tovr/B81447C488EDE89F85257BDE00268AE5?opendocument&referer=";  
+</script>
+</script>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function doThis(form)
+{
+var q = document.pre.query.value
+document.pre.method ="POST";
+document.pre.action ="/units/pac/nvdailynews/nvdn.nsf/BA!searchView&query="+q;
+pre.submit();
+
+}
+function openWindow2(){
+
+
+var loc2 = "http://cronus.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/RSSfeedernotice?OpenForm"
+
+//alert(loc)
+
+newWindow( loc2 ,'window3')
+}
+
+
+function newWindow(file,window) {
+    msgWindow=open(file,window,'resizable=no,scrollbars=yes,location=no,toolbar=no,menubar=no,width=800,height=460');
+    if (msgWindow.opener == null) msgWindow.opener = self;
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/units/pac/nvdailynews/nvdn.nsf/fulltoday/$first!OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" >
+
+<form action=""></form><form name="pre"><div id="tplMainDiv">
+	<div id="tplTopDiv">
+		<!-- SUBFORM ORDER: 1) Top Util Bar 2) Top Banner 3) Intelli Bar -->
+		<div id="tplTopMenuDiv">
+			<ul id="topMenuUList">
+				<li><a href="http://www.uwindsor.ca/" title="University of Windsor Home Page">UWindsor Home</a></li>
+				<li><a href="http://lift.uwindsor.ca/tt/http://www.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/0/B81447C488EDE89F85257BDE00268AE5" title="Text-Only version of the current page">Text Only</a></li>
+				<li><a href="#" onclick="window.print(); return false;" onkeypress="window.print(); return false;" title="Printer Friendly version of the current page">Print Page</a></li>
+				
+				<li id="RSSFeedsLI" class="lastItem"><a href="#" onclick="requestDispatch('RSSFEEDS'); return false;" onkeypress="requestDispatch('RSSFEEDS'); return false;" title="University of Windsor News Feeds - RSS Format">News Feeds</a></li>
+			</ul>
+		</div>
+<div id="topBannerWholeDiv">
+	<div id="uWindsorLogoImageContainerDiv">
+		<a title="University of Windsor Logo - Go To Home Page" class="hideForPrint" href="http://www.uwindsor.ca">
+		<img src="https://www.uwindsor.ca/logo_small.png" id="universityOfWindsorLogo" border="0" align="bottom" alt="University of Windsor Logo - Go To Home Page" class="hideForPrint" /></a>
+	</div>
+	<div id="bannerTitleContainerDiv" style="background-image: url('/units/pac/imageLib.nsf/SIFB/A05E18A13C68D99385256D9B0064E45F/$File/bridge01.jpg'); background-repeat: no-repeat; background-position: right center;">
+		<div id= "bannerMajorTitleDiv"> Daily News</div>
+		<div id="bannerMinorTitleDiv">Public Affairs & Communications	</div>
+	</div>
+</div>	</div><br class="hideIE" clear="all" /><!-- end of tplTopDiv -->
+	<div id="tplCenterDiv" style="">
+		<div id="tplLeftDiv">
+<!-- Computed Values ORDER: 1) Menu 2) Quick Links Title 3) Quick Links 4) Contact Info 5) Copyright -->
+<br /><div id="navMenuContainerDiv"><div align="center" style="color: #f00;"><b>Menu Error:</b><br /><br /><a href="mailto:wsg@uwindsor.ca?subject=Missing left-hand menu on http://cronus.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf">Click here to notify ITS</a></div></div><br />
+<div style="float: left; margin-left:11px; width: 175px; background-color: #FFFFFF;">
+<b><a href="http://www.uwindsor.ca/dailynews">Current Edition</a><br />
+Previous Editions</b>
+<div style="font-size: 0.9em;"><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/36673912ABED331785257BDD00268651/?opendocument">Thursday,September 5, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/E5FFB1A398F97F0E85257BDC002686CE/?opendocument">Wednesday,September 4, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/AC21A3EAE9F07E5C85257BDB00268D15/?opendocument">Tuesday,September 3, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/4218A4B31563734D85257BD60026880B/?opendocument">Thursday,August 29, 2013</a><br /></div>
+<br /><br /><div align="center"><br>
+<a href="http://www.uwindsor.ca/units/pac/Campus_events/campusevents.nsf/posteventanonymous?openform" class="Toc"><font size="2" face="Arial">Do you have an event that you wish to publicize?</font></a>
+<br>
+</div><br>
+<b><font size="2" face="Arial">Extra</font></b><br>
+<a href="http://web4.uwindsor.ca/units/pac/newsrel.nsf/Index?OpenView" target="_blank" class="Toc"><font size="2" face="Arial">News Release</font></a><br>
+<a href="http://web4.uwindsor.ca/units/drama/UniversityPlayers/Players.nsf/Main+Form?OpenForm" class="Toc"><font size="2" face="Arial">University Players</font></a><br>
+<a href="http://uwindsor.ca/music" class="Toc"><font size="2" face="Arial">Soundsation</font></a><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fullnews/$first/?opendocument"></a>
+<br>
+<br>
+<b><font size="2" face="Arial">About The University</font></b><br>
+<a href="http://cronus.uwindsor.ca/uweb/aboutUniversity.nsf/2c282f7e3e232d1c052568b1007351c3/66970c8cb1672aff852568d900691e61?OpenDocument" target="_blank" class="toc"><font size="2" face="Arial">History of the University</font></a><br>
+<a href="http://www.uwindsor.ca/uweb/AboutU.nsf/inToc/15FA4DDAE68DA06385256DB4004F48AE" target="_blank" class="toc"><font size="2" face="Arial">Heritage</font></a><font size="2" face="Arial">     </font><br>
+<a href="http://www.uwindsor.ca/campusmap" class="toc"><font size="2" face="Arial">Campus Map</font></a><br>
+<a href="http://cronus.uwindsor.ca/uweb/aboutUniversity.nsf/2c282f7e3e232d1c052568b1007351c3/3a999b08be3fe923852568d3004ed38c?OpenDocument" class="toc"><font size="2" face="Arial">University Development</font></a>
+<br>
+<br>
+<b><font size="2" face="Arial">Events</font></b></div>
+<br clear="all" /> 
+<div id="quickLinksTitle">Quick Links</div>
+<div style="float: left; margin-left:11px; width: 175px; background-color: #FFFFFF;">
+<a class ="Toc" href="http://www.uwindsor.ca/dailynews"><b>Home</b></a><br /><br />
+<a class ="Toc" href="http://cronus.uwindsor.ca/units/pac/NVDailyNews/NVDN.nsf/search"><b>Search</b></a><br />
+<a class ="Toc" href="http://cronus.uwindsor.ca/units/pac/NVDailyNews/NVDN.nsf/subscribe"><b>Subscription</b></a><br />
+<a class ="Toc" href="javascript:openWindow2()'>]RSS Feed <img src="/units/pac/nvdailynews/nvdn.nsf/rssfeed.gif" border="0"></a><br />
+</div><br clear="all" />
+<br />
+<div class="tplSmallLightText"><br />&copy; Copyright 2013<br />University of Windsor<br /></div><!-- Ref.Code: CRONUS-->
+<br /><br /><br />
+</div><!-- end of tplLeftDiv -->
+<div style="float: right;">Friday, September 6, 2013</div>
+<br />
+<p><font color=black face = 'arial' size = 2><u><b>In the News Today</u><br>DailyNews moves to Drupal-based system<br><br></b><font face='Arial' size='2' color='BLUE'><b>DailyNews moves to Drupal-based system</b></font><br>
+<br>
+<font face='Arial' size='2' color='#000000'><font size="2" face="Arial">The University&#8217;s e-newsletter </font><i><font size="2" face="Arial">DailyNews</font></i><font size="2" face="Arial"> has switched to a Drupal-based presentation format. Subscribers have been automatically redirected to the new version. In the event your redirect failed, </font><a href="http://www.uwindsor.ca/dailynews"><font size="2" face="Arial">please click here to access today's edition</font></a><a href="http://www.uwindsor.ca/dailynews"><font size="2" face="Arial">: http://www.uwindsor.ca/dailynews</font></a><font size="2" face="Arial">.</font><br>
+<br>
+<font size="2" face="Arial">The new version takes advantage of syndication tools in the University&#8217;s Drupal content management system and improves integration with social media. In addition to original articles, the site features campus events pulled from a central calendar, stories about Lancer athletics, and links to mentions of the University in external news media.</font><br>
+<br>
+<font size="2" face="Arial">To provide comment on the design or features, </font><a href="http://www.uwindsor.ca/dailynews/contact"><font size="2" face="Arial">use the new Contact page</font></a><font size="2" face="Arial">.</font></font><br>
+<br clear="all" />
+
+<br /><br />
+<h3>Lancer News</h3>
+<script type="text/javascript" src="http://web2.uwindsor.ca/its/wsg/lancernews.php"></script>
+
+
+<br /><br />This has been the University of Windsor <i>DailyNews</i>,<br />
+a production of the Office of Public Affairs and Communications.<br /><br />
+Editor: Kevin Johnson, Manager of Web Communications<br />
+T 519-253-3000, ext. 3238  F 519-973-7067<br clear="all" />
+
+<br clear="all" />
+
+</div><!--end of tplCenterDiv-->
+
+</div><!--end of tplMainDiv-->
+<br clear="all" />
+<!-- Computed Values ORDER: 1) WSGLight 2)Final Notes Cleanup -->
+<div id="wsgLight" style="display:none; top:0px; left:0px; opacity: 0.7; height:100%; width: 100%; filter:alpha(opacity=70); z-index: 9998; height: 100%; width: 100%;"></div> 	
+<div id="wsgLightContentContainer" style="display:none; top: 0px; left: 0px; height: 200px; width: 300px; z-index: 9999; border: 15px solid #FFFFFF;"></div><form action="#" name="defaultForm" method="post">
+<input name="HTTP_Referer" type="hidden" value="">
+<input name="majorTitle" type="hidden" value=" Daily News">
+<input name="minorTitle" type="hidden" value="Public Affairs &amp; Communications">
+<input name="DisplayTodayDate" type="hidden" value="Friday, September 6, 2013">
+<input name="SaveOptions" type="hidden" value="1"></form>
+</body>
+</html>

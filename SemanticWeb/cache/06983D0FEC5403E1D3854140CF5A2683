@@ -1,0 +1,371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Employment | Human Resources - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-09-11 01:33:49" />
+<meta name="created" content="2010-08-03 01:08:08" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/hr/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="News" href="/hr/newsfeed" />
+    <style type="text/css">
+          @import url('/hr/modules/aggregator/aggregator.css');
+          @import url('/hr/modules/node/node.css');
+          @import url('/hr/modules/system/defaults.css');
+          @import url('/hr/modules/system/system.css');
+          @import url('/hr/modules/system/system-menus.css');
+          @import url('/hr/modules/user/user.css');
+          @import url('/hr/sites/all/modules/cck/theme/content-module.css');
+          @import url('/hr/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/hr/sites/all/modules/ctools/css/ctools.css');
+          @import url('/hr/sites/all/modules/date/date.css');
+          @import url('/hr/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/hr/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/hr/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/hr/sites/all/modules/filefield/filefield.css');
+          @import url('/hr/misc/farbtastic/farbtastic.css');
+          @import url('/hr/sites/all/modules/calendar/calendar.css');
+          @import url('/hr/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/hr/sites/all/modules/views/css/views.css');
+          @import url('/hr/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/hr/sites/all/themes/zen/zen/ie.css?D" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/hr/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/hr/sites/all/modules/jquery_update/replace/jquery.js?D"></script>
+<script type="text/javascript" src="/hr/misc/drupal.js?D"></script>
+<script type="text/javascript" src="/hr/sites/all/modules/pngfix/jquery.pngFix.js?D"></script>
+<script type="text/javascript" src="/hr/sites/all/modules/calendar/jcalendar/jcalendar.js?D"></script>
+<script type="text/javascript" src="/hr/sites/all/themes/unified_department/responsive/responsive.js?D"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/hr\/","jcalendar":{"path":"\/hr\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/hr/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/hr/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/hr/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/hr/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/hr/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page two-sidebars page-employment-services section-employment-services page-employment-services section-employment-services ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/hr/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/hr/employment-services" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/hr/employment-services"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-cf662b038ee1a96f3158065380ba1f27" value="form-cf662b038ee1a96f3158065380ba1f27"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/hr/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/hr/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/hr/welcome" title="Message from the Chief Human Resources Officer" target="_self" rel="" class="length-long">Message from the Chief Human Resources Officer</a></li>
+<li class="leaf"><a href="/hr/collective-bargaining-updates" target="_self" rel="" title="Collective Bargaining Updates" class="length-long">Collective Bargaining 2013</a></li>
+<li class="expanded"><a href="/hr/about-the-department-of-human-resources" target="_self" rel="" title="About the Department of Human Resources" class="length-long">About the Department of Human Resources</a><ul class="menu"><li class="leaf first"><a href="/hr/mission-vision-values" target="_self" rel="" title="Mission, Vision &amp; Values" class="length-short">Mission &amp; Vision</a></li>
+<li class="leaf last"><a href="/hr/staff-listing" target="_self" rel="" title="Staff Listing" class="length-short">Staff Directory</a></li>
+</ul></li>
+<li class="expanded active-trail"><a href="/hr/services-units" target="_self" rel="" title="Services / Units" class="length-short">Services</a><ul class="menu"><li class="leaf first"><a href="/hr/benefits-0" target="_self" rel="" title="Benefits" class="length-short">Benefits</a></li>
+<li class="leaf"><a href="/hr/learning-organizational-development-0" target="_self" rel="" title="Learning &amp; Organizational Development" class="length-long">Employee Engagement &amp; Development</a></li>
+<li class="leaf"><a href="/hr/employee-recognition" target="_self" rel="" title="Employee Recognition" class="length-short">Employee Recognition</a></li>
+<li class="leaf"><a href="/hr/employee-relations" target="_self" rel="" title="Employee Relations" class="length-short">Employee Relations</a></li>
+<li class="leaf active-trail"><a href="/hr/employment-services" target="_self" rel="" title="Employment" class="length-short active">Employment</a></li>
+<li class="leaf"><a href="/hr/health-safety" target="_self" rel="" title="Health &amp; Safety" class="length-short">Health &amp; Safety</a></li>
+<li class="leaf"><a href="/hr/pensions-0" target="_self" rel="" title="Pensions" class="length-short">Pensions</a></li>
+<li class="leaf last"><a href="/hr/wellness" target="_self" rel="" title="Wellness" class="length-short">Workplace Wellness</a></li>
+</ul></li>
+<li class="leaf last"><a href="/hr/contact-information-0" target="_self" rel="" title="Contact Information" class="length-short">Contact Information</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/hr/system/files/imagecache/header_left_image/hr_banner5.jpg" alt="Department of Human Resources" title="Department of Human Resources" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-block-32" class="block block-block region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <p><a href="http://www.uwindsor.ca/serviceexcellence"><img alt="Service Excellence" src="/hr/system/files/engagement_rightBanner.jpg" style="width: 243px; height: 150px" /></a></p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/hr">Human Resources</a> / <a href="/hr/services-units">Services</a> / <a href="/hr/employment-services" class="active">Employment</a></div>                                      <h1 class="title">Employment</h1>
+                                                                                          <div id="node-667" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <p>Employment services is committed to providing personalized human resource services to ensure top talent is recruited and retained for permanent or temporary employment opportunities.</p>
+<p>Employment services&nbsp;supports&nbsp;directors, managers and supervisors from both academic and administrative units in the process of staff recruitment and hiring.</p>
+<p>Employment services also provides supports to current staff and prospective employees in their search for employment opportunities.</p>
+<p>Please direct your inquiries to ext. 4523 or e-mail <a href="mailto:employment@uwindsor.ca">employment@uwindsor.ca</a></p>
+<p>Visit the following links to access information, forms and employment opportunities</p>
+<p><a href="employment-services-managers-supervisors">I<strong>nformation for Managers &amp; Supervisors</strong></a></p>
+<p><a href="employment-services-current-employees"><strong>Information for Current Employees</strong></a></p>
+<p><a href="employment-services-new-employees"><strong>Information for New Employees</strong></a></p>
+<p><a href="/hr/employment-opportunities"><strong>Information for Prospective Employees</strong></a></p>
+<p><strong><a href="employment-services-student-employees">Information for Student Employees</a></strong></p>
+<p><a href="http://www.uwindsor.ca/postdoc"><strong>Information for Grant or Trust Fund Appointments</strong></a></p>
+<p>&nbsp;</p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-aggregator-feed-2" class="block block-aggregator region-odd odd region-count-1 count-5 blue_title external-job-postings"><div class="block-inner">
+          <h2 class="title">External Job Postings</h2>
+    <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="http://www1.uwindsor.ca/employment/2013-pt-06/inter-faculty-programs-receptionist-part-time-4-in-inter-faculty-programs">Inter-Faculty Programs Receptionist (Part Time) &#039;4&#039; in Inter-Faculty Programs</a>
+</li>
+<li><a href="http://www1.uwindsor.ca/employment/2013-NU-25">Operations Manager - Permanent Full-Time - Centre for English Language Development</a>
+</li>
+<li class="last"><a href="http://www1.uwindsor.ca/employment/Registrar">Registrar</a>
+</li>
+</ul></div><div class="more-link"><a href="/hr/aggregator/sources/2" title="View this feed&#039;s recent news.">more</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-24" class="block block-block region-even even region-count-2 count-6 black_title resources-for"><div class="block-inner">
+          <h2 class="title">Resources for...</h2>
+    <div class="content">
+    <ul>
+<li>
+		<a href="http://www.uwindsor.ca/hr/resources-for-managers-supervisors">Managers / Supervisors</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/resources-for-faculty">Faculty &amp; Librarians </a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/resources-for-staff">Staff</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/employment-services-student-employees">Student Employees</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/resources-for-retirees">Retirees</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/employment-opportunities">Prospective Employees</a></li>
+<p>
+</p></ul>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-29" class="block block-block region-odd odd region-count-3 count-7 blue_title where-to-find"><div class="block-inner">
+          <h2 class="title">Where to find...</h2>
+    <div class="content">
+    <p><a href="http://cleo.uwindsor.ca/hr/workshops/"><img alt="" src="/hr/system/files/hr_register-button.gif" /></a></p>
+<ul>
+<li>
+		<a href="/hr/collective-agreements">Collective Agreements</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/benefits-0">Benefit Information</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/facultypositions">Employment opportunities (academic)</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/employment">Employment opportunities (non-academic)</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/postdoc">Grant &amp; Trust Fund Appointments</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/pensions/">Pension Plans </a></li>
+<li>
+		<a href="staffdiscounts">Staff Discounts</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/southwestern-ontario-health-care-partnership-hcp">Southwestern Ontario Health Care Partnership (HCP)</a></li>
+<li>
+		<a href="http://www1.uwindsor.ca/hr/tuition-remission-benefit-program">Tuition Remission Information &amp; Application</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/university-holidays-0">University Holidays</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/vacation-calculator">Vacation Calculator</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/engagementanddevelopment/september-2012">Wellness E-Digests</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-30" class="block block-block region-even even region-count-4 count-8 green_title news-amp-events"><div class="block-inner">
+          <h2 class="title">News &amp; Events</h2>
+    <div class="content">
+    <ul>
+<li>
+		<strong>NEW </strong>- <a href="http://www.uwindsor.ca/hr/southwestern-ontario-health-care-partnership-hcp">Southwestern Ontario Health Care Partnership (HCP</a>)</li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/tuition-remission-benefit-program">Tuition Remission - changes to application process</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/hr/employment-services-student-employees">New Student Hiring Forms</a></li>
+<li>
+		<strong>Download</strong> - 2013-14 Professional Development Calendar</li>
+</ul>
+<p>
+	&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-31" class="block block-block region-odd odd region-count-5 count-9 brown_title links"><div class="block-inner">
+          <h2 class="title">Links</h2>
+    <div class="content">
+    <p><u>Internal links:</u></p>
+<ul>
+<li>
+		<a href="http://www.uwindsor.ca/pac/yourstory">Are you Proud? - Let PAC help tell your story</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/equity/employment-equity">Office of Human Rights, Equity &amp; Accessibility </a></li>
+<li>
+		<a href="http://www.uwindsor.ca/president/">President &amp; Vice-Chancellor</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/sites/default/files/TakingAction.pdf">Thinking Forward...Taking Action University Strategic Plan</a></li>
+</ul>
+<p><u>External links:</u></p>
+<ul>
+<li>
+		<a href="/hr/employment-related-legislation">Employment Related Legislation </a></li>
+</ul>
+<p>&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/hr/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+    <!-- Human Resources ABCXYZ -->
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta name="robots" content="noindex">
+<meta name="googlebot" content="noindex">
+<meta http-equiv="refresh" content="0;url=http://uwindsor.ca/awards/">
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/units/awards/AwardsV2.nsf/SubCategoryFlyOut/b60450d7114a78be8525721400648003!OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action="">Redirecting to <a href="http://uwindsor.ca/awards/">http://uwindsor.ca/awards/</a><br>
+<noscript>
+<p></form>
+</body>
+</html>

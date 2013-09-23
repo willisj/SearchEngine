@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Events Calendar | School of Computer Science 
+X-WR-TIMEZONE:America/New_York
+PRODID:-//UofW Drupal iCal v2.1 API//EN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.1351.field_date.0.0
+SUMMARY:Computer Science Master's Thesis Proposal - Ala Shaabana
+DTSTAMP:20130921T205914
+DTSTART:20130124T120000
+DTEND:20130124T120000
+URL;VALUE=URI:http://www1.uwindsor.ca/cs/1351/computer-science-masters-thesis-proposal-ala-shaabana#20130124T120000
+LOCATION:3105Lambton Tower
+END:VEVENT
+END:VCALENDAR

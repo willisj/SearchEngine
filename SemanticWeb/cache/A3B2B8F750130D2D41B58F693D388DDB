@@ -1,0 +1,665 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Events Calendar | Nursing - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/nursing/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+    <style type="text/css">
+          @import url('/nursing/modules/aggregator/aggregator.css');
+          @import url('/nursing/modules/node/node.css');
+          @import url('/nursing/modules/system/defaults.css');
+          @import url('/nursing/modules/system/system.css');
+          @import url('/nursing/modules/system/system-menus.css');
+          @import url('/nursing/modules/user/user.css');
+          @import url('/nursing/sites/all/modules/cck/theme/content-module.css');
+          @import url('/nursing/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/nursing/sites/all/modules/ctools/css/ctools.css');
+          @import url('/nursing/sites/all/modules/date/date.css');
+          @import url('/nursing/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/nursing/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/nursing/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/nursing/sites/all/modules/filefield/filefield.css');
+          @import url('/nursing/misc/farbtastic/farbtastic.css');
+          @import url('/nursing/sites/all/modules/calendar/calendar.css');
+          @import url('/nursing/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/nursing/sites/all/modules/views/css/views.css');
+          @import url('/nursing/sites/all/modules/calendar/jcalendar/jcalendar.css');
+          @import url('/nursing/sites/all/modules/print/css/printlinks.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/food/sites/all/themes/zen/zen/ie.css?s" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/nursing/sites/all/modules/jquery_update/replace/jquery.js?s"></script>
+<script type="text/javascript" src="/nursing/misc/drupal.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/google_analytics/googleanalytics.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/pngfix/jquery.pngFix.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/calendar/jcalendar/jcalendar.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/themes/unified_department/responsive/responsive.js?s"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/nursing\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/nursing\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/nursing/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/nursing/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/nursing/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/nursing/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/nursing/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in two-sidebars page-calendar-events section-calendar page-calendar-events section-calendar ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/nursing/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/nursing/calendar/events" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/nursing/calendar/events"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-86aabe777e0946e46c641f93d876ac14" value="form-86aabe777e0946e46c641f93d876ac14"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/nursing/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/nursing/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+        <div class="mobile-only"><div class="site-search"><!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/nursing/calendar/events"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-86aabe777e0946e46c641f93d876ac14" value="form-86aabe777e0946e46c641f93d876ac14"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--></div></div>                
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="/nursing/welcome-department" title="50 years of experience preparing nurses" target="_self" rel="" class="length-short">Home</a></li>
+<li class="leaf"><a href="/nursing/about-us-0" title="About Us" target="_self" rel="" class="length-short">About Us</a></li>
+<li class="leaf"><a href="/nursing/programs" title="Programs" target="_self" rel="" class="length-short">Programs</a></li>
+<li class="leaf"><a href="/nursing/faculty-and-staff-0" target="_self" rel="" title="Faculty and Staff" class="length-short">Faculty &amp; Staff</a></li>
+<li class="collapsed"><a href="/nursing/research-0" title="Research" target="_self" rel="" class="length-short">Research</a></li>
+<li class="collapsed"><a href="/nursing/giving-to-nursing" title="Giving to Nursing" target="_self" rel="" class="length-short">Giving</a></li>
+<li class="collapsed"><a href="/nursing/clubs-and-chapters" target="_self" rel="" title="Clubs and Chapters" class="length-short">Clubs and Chapters</a></li>
+<li class="leaf last"><a href="/nursing/contact-us" title="Contact Us" target="_self" rel="" class="length-short">Contact Us</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/header_left_image/nursing_banner.jpg" alt="Faculty of Nursing" title="Faculty of Nursing" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd even region-count-1 count-4  clinical-learning-centre"><div class="block-inner">
+          <h2 class="title">Clinical Learning Centre</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/244by123_slide_image/slideshow/simulation-lab243x125.jpg" alt="Simulation Centre" title="Simulation Centre" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/nursing/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Simulation Centre"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/nursing/simulation-lab" target="0">Simulation Centre</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/244by123_slide_image/slideshow/nursingEquipment-lab.jpg" alt="Nursing Lab" title="Nursing Lab" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/nursing/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Nursing Lab"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/nursing/nursing-lab" target="0">Nursing Lab</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/244by123_slide_image/slideshow/nursing-temp.jpg" alt="Nursing" title="Nursing" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/nursing/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Standardized Patients"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/nursing/standardized-patients-program" target="0">Standardized Patients</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/nursing">Nursing</a><span class="slash"> / </span><a href="/nursing/calendar/events" class="active">Events Calendar</a></div>                                      <h1 class="title">Events Calendar</h1>
+                                                                        <div class="help"><span class='print-syslink'><span class="print_html"><a href="http://www1.uwindsor.ca/nursing/print/calendar/events" title="Display a printer-friendly version of this page." class="print-page" onclick="window.open(this.href); return false" rel="nofollow">Print</a></span></span>
+<span class='print-syslink'><span class="print_mail"><a href="http://www1.uwindsor.ca/nursing/printmail/calendar/events" title="Send this page by email." class="print-mail" rel="nofollow">Email</a></span></span>
+</div>                  <div class="view view-events-calendar view-id-events_calendar view-display-id-calendar_1 events-block view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="calendar-calendar">
+      <ul class="links links-5"><li class="0 link-0 first"><a href="/nursing/calendar/events/2013-09-21" rel="nofollow">Today</a></li>
+<li class="calendar calendar-day link-calendar calendar-day"><a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-09-01" rel="nofollow">Day</a></li>
+<li class="calendar calendar-week link-calendar calendar-week"><a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-W36" rel="nofollow">Week</a></li>
+<li class="calendar calendar-month link-calendar calendar-month"><a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-09" rel="nofollow">Month</a></li>
+<li class="calendar calendar-year link-calendar calendar-year last"><a href="http://www1.uwindsor.ca/nursing/calendar/events/2013" rel="nofollow">Year</a></li>
+</ul>  <div class="date-nav clear-block">
+  <div class="date-prev">
+          <span class="next views-summary"> <a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-08" title="Navigate to previous month" rel="nofollow">« Prev</a></span>
+      &nbsp;</div>
+  <div class="date-heading">
+    <h3>September 2013</h3>
+  </div>
+  <div class="date-next">&nbsp;
+          <span class="next views-summary"> <a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-10" title="Navigate to next month" rel="nofollow">Next »</a></span>
+      </div>
+</div>
+</div>    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="calendar-calendar"><div class="month-view">
+<table>
+  <thead>
+    <tr>
+              <th class="days week">
+          &nbsp;        </th>
+              <th class="days sun">
+          Sunday        </th>
+              <th class="days mon">
+          Monday        </th>
+              <th class="days tue">
+          Tuesday        </th>
+              <th class="days wed">
+          Wednesday        </th>
+              <th class="days thu">
+          Thursday        </th>
+              <th class="days fri">
+          Friday        </th>
+              <th class="days sat">
+          Saturday        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-01" class="week">
+            <a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-W36">36</a>          </td>
+                  <td id="events_calendar-2013-09-01" class="sun past has-no-events">
+            <div class="inner"><div class="month day"> 1 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-02" class="mon past has-no-events">
+            <div class="inner"><div class="month day"> 2 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-03" class="tue past has-no-events">
+            <div class="inner"><div class="month day"> 3 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-04" class="wed past has-no-events">
+            <div class="inner"><div class="month day"> 4 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-05" class="thu past has-no-events">
+            <div class="inner"><div class="month day"> 5 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-06" class="fri past has-no-events">
+            <div class="inner"><div class="month day"> 6 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-07" class="sat past has-no-events">
+            <div class="inner"><div class="month day"> 7 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-08" class="week">
+            <a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-W37">37</a>          </td>
+                  <td id="events_calendar-2013-09-08" class="sun past has-no-events">
+            <div class="inner"><div class="month day"> 8 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-09" class="mon past has-no-events">
+            <div class="inner"><div class="month day"> 9 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-10" class="tue past has-no-events">
+            <div class="inner"><div class="month day"> 10 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-11" class="wed past has-no-events">
+            <div class="inner"><div class="month day"> 11 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-12" class="thu past has-no-events">
+            <div class="inner"><div class="month day"> 12 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-13" class="fri past has-no-events">
+            <div class="inner"><div class="month day"> 13 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-14" class="sat past has-no-events">
+            <div class="inner"><div class="month day"> 14 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-15" class="week">
+            <a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-W38">38</a>          </td>
+                  <td id="events_calendar-2013-09-15" class="sun past has-no-events">
+            <div class="inner"><div class="month day"> 15 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-16" class="mon past has-no-events">
+            <div class="inner"><div class="month day"> 16 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-17" class="tue past has-no-events">
+            <div class="inner"><div class="month day"> 17 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-18" class="wed past has-no-events">
+            <div class="inner"><div class="month day"> 18 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-19" class="thu past has-no-events">
+            <div class="inner"><div class="month day"> 19 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-20" class="fri past has-no-events">
+            <div class="inner"><div class="month day"> 20 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-21" class="sat today has-no-events">
+            <div class="inner"><div class="month day"> 21 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-22" class="week">
+            <a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-W39">39</a>          </td>
+                  <td id="events_calendar-2013-09-22" class="sun future has-no-events">
+            <div class="inner"><div class="month day"> 22 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-23" class="mon future has-no-events">
+            <div class="inner"><div class="month day"> 23 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-24" class="tue future has-no-events">
+            <div class="inner"><div class="month day"> 24 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-25" class="wed future has-no-events">
+            <div class="inner"><div class="month day"> 25 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-26" class="thu future has-no-events">
+            <div class="inner"><div class="month day"> 26 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-27" class="fri future has-no-events">
+            <div class="inner"><div class="month day"> 27 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-28" class="sat future has-no-events">
+            <div class="inner"><div class="month day"> 28 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-29" class="week">
+            <a href="http://www1.uwindsor.ca/nursing/calendar/events/2013-W40">40</a>          </td>
+                  <td id="events_calendar-2013-09-29" class="sun future has-no-events">
+            <div class="inner"><div class="month day"> 29 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-30" class="mon future has-no-events">
+            <div class="inner"><div class="month day"> 30 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-01" class="tue empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-02" class="wed empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-03" class="thu empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-04" class="fri empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-05" class="sat empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+      </tbody>
+</table>
+</div></div>    </div>
+  
+  
+      <div class="view-footer">
+      <div class="add-calendar-ical">
+              <a href="/nursing/ical/events/" title="Add all events into your calendar using the iCAL format"><img src="/nursing/sites/all/themes/unified_department/images/ical.png" alt="Add all events into your calendar using the iCAL format" /></a>
+                  </div>    </div>
+  
+  
+</div>                                   </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-block-24" class="block block-block region-odd odd region-count-1 count-5 blue_title employment-opportunities"><div class="block-inner">
+          <h2 class="title">Employment Opportunities</h2>
+    <div class="content">
+    <p>
+<ul>	
+<li>		<a href="http://www.uwindsor.ca/nursing/standardized-patients-program">Standardized (or Simulated) Patients</a></li>
+<p>	
+<li>		<a href="http://www.uwindsor.ca/nursing/faculty-staff-employment">Faculty/Staff</a></li>
+</p><p>	
+<li>		<a href="http://uwindsor.ca/nursing/job-postings-for-nursing-students">Student</a></li>
+</p><p></p></ul>
+</p><p></p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-views-events_calendar-block_1" class="block block-views region-even even region-count-2 count-6 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="view view-events-calendar view-id-events_calendar view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 02, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/nursing/patient-safetyihi-learning-series-event">Patient Safety/IHI Learning Series event</a></span>
+  </span>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/nursing/calendar/events">
+    view calendar  </a>
+</div>
+  
+  
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-views-imported_news-block_1" class="block block-views region-odd odd region-count-3 count-7 orange_title news"><div class="block-inner">
+          <h2 class="title">News</h2>
+    <div class="content">
+    <div class="view view-imported-news view-id-imported_news view-display-id-block_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/judy-bornais-receives-2013-casn-award-for-excellence-in-nursing-education">Judy Bornais receives 2013 CASN Award for Excellence in Nursing Education</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/nursing-50th-anniversary-open-house-postponed">Nursing 50th Anniversary Open House Postponed</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/nursing-lab-hours-information">Nursing Lab Hours Information</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/kathy-pfaff-obtains-phd">Kathy Pfaff obtains PhD</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/graduate-diploma-in-oncologypalliative-nursing-featured-in-cancer-care-ontario-newsletter">Graduate Diploma in Oncology/Palliative Nursing featured in Cancer Care Ontario Newsletter</a></span>
+  </div>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/nursing/imported-news">
+    View All  </a>
+</div>
+  
+      <div class="view-footer">
+      <p><a href="faculty-of-nursing-newsletters"><b>Faculty of Nursing Newsletter<b></b></b></a></p>
+    </div>
+  
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/nursing/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-34"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Nursing ABCXYZ -->
+</body>
+</html>

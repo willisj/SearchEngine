@@ -1,0 +1,5026 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Past Seasons | University Players - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-07-31 10:15:25" />
+<meta name="created" content="2009-05-20 01:57:19" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/universityplayers//sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+<link rel="alternate" type="application/rss+xml" title="News" href="/universityplayers//newsfeed" />
+    <style type="text/css">
+          @import url('/universityplayers//modules/aggregator/aggregator.css');
+          @import url('/universityplayers//modules/node/node.css');
+          @import url('/universityplayers//modules/system/defaults.css');
+          @import url('/universityplayers//modules/system/system.css');
+          @import url('/universityplayers//modules/system/system-menus.css');
+          @import url('/universityplayers//modules/user/user.css');
+          @import url('/universityplayers//sites/all/modules/cck/theme/content-module.css');
+          @import url('/universityplayers//sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/universityplayers//sites/all/modules/ctools/css/ctools.css');
+          @import url('/universityplayers//sites/all/modules/date/date.css');
+          @import url('/universityplayers//sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/universityplayers//sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/universityplayers//sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/universityplayers//sites/all/modules/filefield/filefield.css');
+          @import url('/universityplayers//misc/farbtastic/farbtastic.css');
+          @import url('/universityplayers//sites/all/modules/calendar/calendar.css');
+          @import url('/universityplayers//sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/universityplayers//sites/all/modules/views/css/views.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/universityplayers//sites/all/themes/zen/zen/ie.css?Q" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/universityplayers//sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/universityplayers//sites/all/modules/jquery_update/replace/jquery.js?Q"></script>
+<script type="text/javascript" src="/universityplayers//misc/drupal.js?Q"></script>
+<script type="text/javascript" src="/universityplayers//sites/all/modules/google_analytics/googleanalytics.js?Q"></script>
+<script type="text/javascript" src="/universityplayers//sites/all/modules/pngfix/jquery.pngFix.js?Q"></script>
+<script type="text/javascript" src="/universityplayers//sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?Q"></script>
+<script type="text/javascript" src="/universityplayers//sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?Q"></script>
+<script type="text/javascript" src="/universityplayers//sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?Q"></script>
+<script type="text/javascript" src="/universityplayers//sites/all/themes/unified_department/responsive/responsive.js?Q"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/universityplayers\/\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/universityplayers//sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/universityplayers//sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/universityplayers//sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/universityplayers//sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/universityplayers//sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page one-sidebar sidebar-left page-past-seasons section-past-seasons page-past-seasons section-past-seasons ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/universityplayers//sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/universityplayers//past-seasons" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/universityplayers//past-seasons"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-b800264f5a64a86cc5c5c0aede55c88b" value="form-b800264f5a64a86cc5c5c0aede55c88b"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/universityplayers//sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/universityplayers//sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/universityplayers//welcome-department" title="University Players Home" class="length-short">Home</a></li>
+<li class="collapsed"><a href="/universityplayers//2013-14-season" title="2013-14 Season" class="length-short">2013-14 Season</a></li>
+<li class="collapsed"><a href="/universityplayers//box-office" title="" class="length-short">Box Office</a></li>
+<li class="collapsed"><a href="/universityplayers//support-up" title="Support UP" class="length-short">Support UP</a></li>
+<li class="collapsed"><a href="/universityplayers//essex-hall-theatre" title="Essex Hall Theatre" class="length-short">Essex Hall Theatre</a></li>
+<li class="leaf"><a href="/universityplayers//50th-anniversary-events" title="50th Anniversary Events" class="length-short">50th Anniversary Events</a></li>
+<li class="leaf"><a href="/universityplayers//lets-talk-theatre" title="Let&#039;s Talk Theatre" class="length-short">Let&#039;s Talk Theatre</a></li>
+<li class="leaf active-trail"><a href="/universityplayers//past-seasons" title="Past Seasons" class="length-short active">Past Seasons</a></li>
+<li class="leaf last"><a href="http://www.uwindsor.ca/drama" title="
+	School of Dramatic Art Web Site
+" class="length-short">School of Dramatic Art</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/header_left_image/EmmaBanner.jpg" alt="Emma" title="Emma by Jane Austen, adapted by Michael Bloom. Directed by Jim Warren, scenic design by David Court, costumes by Esther Van Eek, lighting by Margaret Coderre-Williams. Photo by David Court." width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><h1>
+	<span>University Players</span></h1>
+</div><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd even region-count-1 count-4  201314-season"><div class="block-inner">
+          <h2 class="title">2013-14 Season</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/244by123_slide_image/slideshow/SuiteSurrender-web-banner.jpg" alt="Suite Surrender, September 19-29, 2013" title="Suite Surrender, September 19-29, 2013" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/universityplayers//sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Suite Surrender"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/universityplayers/suite-surrender" target="0">Suite Surrender</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/244by123_slide_image/slideshow/Party-to-Murder-web-banner.jpg" alt="A Party to Murder, October 24-Nov. 3, 2013" title="A Party to Murder, October 24-Nov. 3, 2013" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/universityplayers//sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="A Party to Muder"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/universityplayers/a-party-to-murder" target="0">A Party to Muder</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/244by123_slide_image/slideshow/SleepingBeauty-web-banner.jpg" alt="Sleeping Beauty, November 21-Dec. 1, 2013" title="Sleeping Beauty, November 21-Dec. 1, 2013" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/universityplayers//sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Sleeping Beauty"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/universityplayers/sleeping-beauty" target="0">Sleeping Beauty</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/244by123_slide_image/slideshow/WONI-no-director-web-banner.jpg" alt="A Woman of No Importance, February 6-16, 2014" title="A Woman of No Importance, February 6-16, 2014" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/universityplayers//sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="A Woman of No Importance"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/universityplayers/a-woman-of-no-importance" target="0">A Woman of No Importance</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/244by123_slide_image/slideshow/3-sisters-web-banner.jpg" alt="Three Sisters, March 6-16, 2014" title="Three Sisters, March 6-16, 2014" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/universityplayers//sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Three Sisters"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/universityplayers/three-sisters" target="0">Three Sisters</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/244by123_slide_image/slideshow/5-Women-web-banner.jpg" alt="Five Women Wearing the Same Dress, April 3-13, 2014" title="Five Women Wearing the Same Dress, April 3-13, 2014" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/universityplayers//sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Five Women Wearing the"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/universityplayers/five-women-wearing-the-same-dress" target="0">Five Women Wearing the</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/244by123_slide_image/slideshow/50thAnn_slideshow.jpg" alt="Join the Celebration" title="Join the Celebration" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/universityplayers//sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="50th Anniversary Events"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/universityplayers//50th-anniversary-events" target="0">50th Anniversary Events</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www.uwindsor.ca/universityplayers/">University Players</a> / <a href="/universityplayers//past-seasons" class="active">Past Seasons</a></div>                                      <h1 class="title">Past Seasons</h1>
+                                                                                          <div id="node-630" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <p>&nbsp;</p>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="2" nowrap="nowrap" valign="top" width="340">
+<ul>
+<li>
+						<span><a href="#The_1950s_and_60s">The 1950s and 60s</a></span></li>
+<li>
+						<span><a href="#The_1970s">The 1970s</a></span></li>
+<li>
+						<span><a href="#The_1980s">The 1980s</a></span></li>
+<li>
+						<span><a href="#The_1990s">The 1990s</a></span></li>
+<li>
+						<span><a href="#The_2000s">The 2000s</a></span></li>
+<li>
+						<a href="#The 2010s"><span>The 2010s</span></a></li>
+</ul>
+<p><span><a name="The_1950s_and_60s"></a></span></p>
+<h4>
+					<span>The 1950s and 60s</span></h4>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<strong><span>Year</span></strong></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<strong><span>Production</span></strong></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<strong><span>Director</span></strong></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1958-59</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Kind Lady</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="white-space: nowrap; vertical-align: top; width: 71px; height: 10px;">
+<div>
+					<span>1959-60 </span></div>
+</td>
+<td style="white-space: nowrap; vertical-align: top; width: 71px; height: 10px;">
+<div>
+					<span>Playboy of the Western World</span></div>
+</td>
+<td style="white-space: nowrap; vertical-align: top; width: 71px; height: 10px;">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td style="white-space: nowrap; vertical-align: top; width: 71px; height: 10px;">
+				&nbsp;</td>
+<td style="white-space: nowrap; vertical-align: top; width: 71px; height: 10px;">
+<div>
+					<span>The Potting Shed</span></div>
+</td>
+<td style="white-space: nowrap; vertical-align: top; width: 71px; height: 10px;">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1960-61</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Torch Bearers</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>One Acts:</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Bald Soprano</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Phoenix Too Frequent</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>St. Joan: Trial Scene</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1961-62 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Family Reunion</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1962-63 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Twelfth Night</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Thunder Rock</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>My Three Angels</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>One Acts Directed by Students:</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>&nbsp;</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Grand Cham&rsquo;s Diamond</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Hornsey</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Lady in a Cage</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Skilling</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Two Gentlemen of Soho</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. Vanderhoven</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1963-64</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Crucible</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Ring Around the Moon</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1964-65</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>As You Like It</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Hamlet</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>An Evening of Readings</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1966-67</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Our Town</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Thieves Carnival</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>As You Like It</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>One Acts directed by Students:</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Pigeons</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Stephens</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Resounding Tinkle</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>M. Monck</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Marriage Proposal</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. M. J. Gray</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Sandbox</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Sinclair</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1967-68 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Changeling</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Death of a Salesman</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Sleeping Beauty</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Charley&rsquo;s Aunt</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Endgame</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Replacement</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>One Acts Directed by Students:</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Clown Who Ran Away</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>O. Veighey</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Passion, Poison &amp; Petrifaction</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>C. Kilpatrick</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>One-Man Masque</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. Labor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Big Black Box</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. Stannard</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1968-69</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Introduction of the BFA Acting Program</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Angels in Love</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Macbeth</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Caucasian Chalk Circle</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly/G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Fantasticks</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1969-70 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Miser</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. Hackett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Roar of the Greasepaint</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Hiatt</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Hostage</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Midsummer Night&rsquo;s Dream</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;<a name="The_1970s"></a></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<h4>
+					<span>The 1970s</span></h4>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<strong><span>Year</span></strong></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<strong><span>Production</span></strong></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<strong><span>Director</span></strong></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1970-71</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Tiger at the Gates</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Philadelphia</span><span>, Here I Come</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. Hacket</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Woyzeck</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1971-72 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Romeo and Juliet</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. Benson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Arms and the Man</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>M. Harty (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Flies</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>M. Piscator (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Rosencrantz &amp; Guildenstern are Dead</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Who&rsquo;s Afraid of Virginia Woolf?</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Hiatt</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Waiting for Godot</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1972-73 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Ondine</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. Hacket</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Crucible</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Three Men on a Horse</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. Ruscio</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Juno and the Paycock</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1973-74 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Summer and Smoke</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Playboy of the Western World</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Little Murders</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Ring Round the Moon</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. Hackett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Three Sisters</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1974-75</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Twelfth Night</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Effect of Gamma Rays...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Ah, Wilderness</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Threepenny Opera</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Matchmaker</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Hartman (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1975-76</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>As You Like It </span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Prime of Miss Jean Brodie</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Ruling Class</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Celebration</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Anna K</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>T. Bond (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1976-77 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Lion in Winter</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Indians</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Orpheus Descending</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Death Takes a Holiday</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Midsummer Night&rsquo;s Dream</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>C. Smith (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1977-78 </span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Changing Room</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>How the Other Half Loves</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Sea</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Dirty Work at the Crossroads</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>After Magritte...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>F. Canino (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1978-79</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Not Now; Darling</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Doll&rsquo;s House</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>You Can&rsquo;t Take it With You</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Dandy Lion</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. Biros (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Nightwatch</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Funny Thing Happened...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Fighting Parson</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>K. McNair (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1979-80</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Lady from Maxim&rsquo;s</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The God Doctor</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Rimers of Eldritch</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Tricky Dicky Deuce...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Parker (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Murder is Announced</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Cabaret</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Imaginary Invalid</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. Stockwell (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;<a name="The_1980s"></a></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<h4>
+					<span>The 1980s</span></h4>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<strong><span>Year</span></strong></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<strong><span>Production</span></strong></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<strong><span>Director</span></strong></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1980-81</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Waltz of the Toreadors</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>He To Hecuba</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Emperor&rsquo;s Nightingale</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Les Belles Soeurs</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Company</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Madwoman of Chaillot</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Forever Yours, Mary Lou</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Zastrozzi</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1981-82</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Importance of Being Earnest</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>G. Neilson</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Under Milwood</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Hollow</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Chicago</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Equus</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Il Campiello</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. Stockwell (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1982-83</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Bedroom Farce</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Chapman (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Major Barbara</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Christmas Nutcracker</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Blood Relations </span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Canterbury</span><span> Tales</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Spratt</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Shadow Box</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>3 by Tenn</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett/V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1983-84</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Absurd Person Singular</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Ten Lost Years</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>T. Tweed (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Lion Who Wouldn&rsquo;t</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Elephant Man</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Robger Bridegroom</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Chamber Music</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Moonchildren</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Ten Lost Years</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>T. Tweed (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1984-85</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+				The Country Wife</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>J. Hackett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Miracle Worker</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Magic Apple</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Summer and Smoke</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett </span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Boyfriend </span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1985-86</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Come Back to the 5 &amp; Dime...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Wayside Motor Inn</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Once Upon a Mattress</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. E. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Picnic</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Midsummer Night&rsquo;s Dream</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1986-87</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Back to Beulah</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Jitters</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. E. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Grease</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Stephens</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Whose Life is it Anyway?</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>When You Coming Back, Red Ryder?</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Hollow Crown</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1987-88</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Taming of the Shrew</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>R. E. Dorrell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>My Sister in This House</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Children of a Lesser God</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Look Back in Anger</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Garnett</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Guys and Dolls</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. P. Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1988-89</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Educating Rita</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Romeo and Juliet</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>T. Tweed (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Quiet in the Land</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Our Town</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Brighton</span><span> Beach</span><span> Memoirs</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Joseph and the Amazing...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>J. White (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1989-90</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Room Service</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Real World?</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Love&rsquo;s Labour&rsquo;s Lost</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>M. Shamata (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Lie of the Mind</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. McKenna</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Fiddler on the Roof</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>M. Fletcher (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;<a name="The_1990s"></a></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<h4>
+					<span>The 1990s</span></h4>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<strong><span>Year</span></strong></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<strong><span>Production</span></strong></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<strong><span>Director</span></strong></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1990-91</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Nurse Jane Goes to Hawaii</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Macbeth</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Vance Paul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Dames at Sea</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>P. Hennessy Laing</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Dining Room</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Topgirls </span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Cottreau</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Bent</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Stephens</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Jacques Brel is Alive...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Strombergs (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1991-92</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Lysistrata</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Passion of Dracula</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Stephens</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Threepenny Opera</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>L. Seligman (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Salt-Water Moon</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Lady&rsquo;s Not for Burning</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Farther West</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Belshaw</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Pippin</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>P. Hennessy Laing</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1992-93</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>The Doctor in Spite of Himself</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Goodnight Desdemona...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>P. Hennessy Laing</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Into the Woods</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Menzies</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Our Country&rsquo;s Good</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The House of Bernarda Alba</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>R. Carley</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Girls in the Gang</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Belshaw</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Cross Border</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Warren</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Enemy to the People</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>English Shakespeare Co.</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1993-94</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>A Day in Hollywood...</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>P. Hennessy Laing</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Leaving Home</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Love of the Nightingale</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. Martin-Smith/L. Saligman</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>As You Like It</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Warren</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Dreaming and Duelling</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>On The Town</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>C. Smith</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1994-95</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Charley&rsquo;s Aunt</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>C. Eldridge</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Crucible</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Godspell</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>V. Strombergs (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>And Then There Were None</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>L. Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Diary of Anne Frank</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>S. Turnbull</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Kiss Me Kate</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>C. Smith (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Lion, the Witch &amp; the Wardrobe</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. MacKinnon</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1995-96</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Lend Me a Tenor</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>S. Turnbull</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Black Bonspiel of Wullie MacCrimmon</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Steppin&rsquo; Out</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>C. Smith (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Children&rsquo;s Hour</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>L. Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Carousel</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>S. Woodjetts (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1996-97</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>You Can&rsquo;t Take it With You</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Blood Relations</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>L. Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Steel Magnolias</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>P. Hennessy Laing</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>An Enemy of the People</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Babes in Arms</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>L. Kennedy (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Jacob Two-Two and the Hooded Fang</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>S. Turnbull (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1997-98</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>The Importance of Being Earnest</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Bonjour, La, Bonjour</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Blithe Spirit</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>L. Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Rumors</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Mystery of Edwin Drood</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>S. Woodjetts (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Secret Garden</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>P. Hennessy Laing</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1998-99</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>Twelfth Night</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Dancing at Lughnasa</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>L. Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Christmas Carol</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>B. Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Silver Dagger</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Gondoliers</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>T. Mata</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Picasso at the Lapin Agile</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>1999-00</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="269">
+<div>
+					<span>She Stoops to Conquer</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="bottom" width="166">
+<div>
+					<span>L. Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Jacob&rsquo;s Wake</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>A. O. Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Midsummer Night&rsquo;s Dream</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>M. Keating</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Odd Couple</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>W. Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Boys from Syracuse</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Geoffrey Whynot (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Doll&rsquo;s House</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>D. Mady Kelly</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;<a name="The_2000s"></a></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<h4>
+					<span>The 2000s</span></h4>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<strong><span>Year </span></strong></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<strong><span>Production</span></strong></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<strong><span>Director</span></strong></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2000-01</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Way of the World</span></div>
+</td>
+<td nowrap="nowrap" valign="bottom" width="83">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+<td valign="bottom" width="83">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Last Real Summer</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Playboy of the Western World</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Michael Keating</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Five Women Wearing the Same Dress</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Lionel Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Company</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Jim Guedo (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Three Sisters</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2001-02</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Pride and Prejudice</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Waiting for the Parade</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Michael Keating</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Shooting Stars</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Crimes of the Heart</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Lionel Walsh</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>City of Angels</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Jim Guedo (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Arsenic and Old Lace</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2002-03</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>It&#39;s Only a Play</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Suzanne Turnbull (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Macbeth</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Rintoul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Jake&#39;s Women</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Hollow</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Michael Keating</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Into the Woods</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>David Savoy (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Our Country&#39;s Good</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2003-04</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Nurse Jane Goes to Hawaii</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Rintoul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Mad Forest</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Bedroom Farce</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Owen Klein</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Twelve Angry Jurors</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Once Upon a Mattress</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>David Savoy (Guest)</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Escape From Happiness</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2004-05</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Les Belles Soeurs</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Suzanne Turnbull</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Scenes and Revelations</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Little Women</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Glen Gaston</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Les Liaisons Dangereuses</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Rintoul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Come Back to the 5 &amp; Dime... </span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>David Savoy</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>As You Like It</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2005-06</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Barefoot in the Park</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Memory of Water</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Heiress</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Rintoul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Mousetrap</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Renee Baillargeon</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Unity (1918)</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Sonia Norris</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Stepping Out</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>David Savoy</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2006-07</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>That Summer</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Sea</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Rintoul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Women</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Rod Ceballos</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Appointment With Death</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>7 Stories</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Sonia Norris</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Steel Magnolias</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Rick Kish</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2007-08</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Rumors</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Age of Arousal</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Deborah Cottreau</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Norbals</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Michael Dobbin</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Jitters</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Ravenscroft</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Rod Ceballos</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>An Ideal Husband</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Rintoul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					&nbsp;</div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					<span>2008-09</span></div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Measure for Measure</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Rintoul</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Don Juan on Trial</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>William Pinnell</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>A Murder is Announced</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>David Savoy</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Widows</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Daniel Wozniak</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>The Man of Mode</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Rod Ceballos</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<div>
+					&nbsp;</div>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+<div>
+					<span>Goodnight Desdemona&hellip;</span></div>
+</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+<div>
+					<span>Brian Taylor</span></div>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				&nbsp;</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				&nbsp;</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				2009-10</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Noises Off</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Taylor</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Emma&#39;s Child</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				William Pinnell</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Heartbreak House</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Rintoul</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Jenny&#39;s House of Joy</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Taylor</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Picnic</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Lee Wilson</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Lysistrata</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Daniel Wozniak</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				<a name="The 2010s"></a></td>
+<td nowrap="nowrap" valign="top" width="269">
+				&nbsp;</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				&nbsp;</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+<h4>
+					The 2010s</h4>
+</td>
+<td nowrap="nowrap" valign="top" width="269">
+				&nbsp;</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				&nbsp;</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				<strong>Year</strong></td>
+<td nowrap="nowrap" valign="top" width="269">
+				<strong>Production</strong></td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				<strong>Director</strong></td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				2010-11</td>
+<td nowrap="nowrap" valign="top" width="269">
+				A Midsummer Night&#39;s Dream</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Rintoul</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				PostMortem</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				William Pinnell</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Smash</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Liza Balkan</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				And Then There Were None</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Jim Warren</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Hedda Gabler</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Lee Wilson</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Arcadia</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Taylor</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				&nbsp;</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				&nbsp;</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				2011-12</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Much Ado About Nothing</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Taylor</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Chameleon</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				William Pinnell</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Crimes of the Heart</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Liza Balkan</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Emma</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Jim Warren</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				The Seagull</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				J.Ed Araiza</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Some Girl(s)</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Taylor</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				&nbsp;</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				&nbsp;</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				2012-13</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Jake&#39;s Women</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				William Pinnell</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				The Hollow</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Margo Regan</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Welfarewell</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Liza Balkan</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Tartuffe</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Jim Warren</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				Nine Girls</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Brian Taylor</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				The Importance of Being Earnest</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				Leigh Rivenbark</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="71">
+				&nbsp;</td>
+<td nowrap="nowrap" valign="top" width="269">
+				&nbsp;</td>
+<td colspan="2" nowrap="nowrap" valign="top" width="166">
+				&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<p>&nbsp;</p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+                            </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/universityplayers//registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-3246538-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!--  ABCXYZ -->
+</body>
+</html>

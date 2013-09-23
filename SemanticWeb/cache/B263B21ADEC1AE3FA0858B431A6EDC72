@@ -1,0 +1,1004 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>50th Anniversary</title>
+		<link href="/50th/template/css/reset.css.php" rel="stylesheet">
+		<link href="/50th/template/css/style.css.php" rel="stylesheet">
+		<link href="/50th/template/css/message-box.css.php" rel="stylesheet">
+		<link href="/50th/template/css/jquery-ui.css.php" rel="stylesheet">
+		<link href="/50th/template/css/jqtransform.css.php" rel="stylesheet">
+		<link href="/50th/template/css/tablesorter.css.php" rel="stylesheet">
+		<link href="/50th/template/css/jquery.mCustomScrollbar.css.php" rel="stylesheet">
+		
+		<script src="/50th/template/js/jquery-1.9.1.js"></script>
+	</head>
+	
+	<body class="">
+	
+		<div id="header">
+			<div id="header-container">
+				<img src="http://www.uwindsor.ca/sites/all/themes/uwindsor/logo.png" id="logo" alt="Logo"/>
+				<img src="/50th/template/img/50th-logo.png" id="logo-50" alt="50th Anniversary Logo"/>
+			</div>
+			
+			<div id="menu">
+				<ul>
+																		<li style="margin-left: 0px; float: left"><a href="/50th/user/login">Log-in</a></li>
+												<li><a href="http://www.uwindsor.ca/anniversary">Return to 50th Anniversary Main Page</a></li>
+									</ul>
+			</div>
+		</div>
+		
+		<div id="content">
+			<div id="content-container">
+
+	<h5>UWINDSOR 50TH ANNIVERSARY REGISTRATION</h5>
+	<h1>Event Selection</h1>
+
+	<div class="message-box message">
+<h3 style="color:red;">
+	<strong>Important Note:</strong></h3>
+<br />
+<strong>Due to the work stoppage, you should go to http://www1.uwindsor.ca/bargainingunits/50th-anniversary-celebrations-new-schedule to review what events are still available.</strong><br />
+<br />
+<br />
+<br />
+</div>
+<div id="event-popup" style="display: none"><div class="inner-popup"><div class="popup-container"></div></div><div class="pop-up-buttons"><div class="form-element"><a href="#" onclick="continue_reg()" class="continue-button button half-width">Continue</a></div><div class="form-element"><a href="#" onclick="javascript:$('#event-popup').dialog('destroy'); $('#loading').hide (); return false" class="button half-width close-button">Return to event selection</a></div></div></div>	
+	<form class="events" action="save.php" method="post">
+								
+																		<h1>Thursday, September 19, 2013</h1>
+																
+					<div class="form-element">
+													<label class="right" for="event-4">
+												
+							50th Anniversary Administration Reunion &ndash; 
+															12:00														- 1:30 pm &ndash;
+							Dillon Hall Quad															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?50th%20Anniversary%20Administration%20Reunion;42.306471;-83.067179;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="4" name="events[]" id="event-4">
+												
+						<div class="description">
+							Retirees from Campus Services (formerly Food, Housing & Conference Services), Facility Services, Human Resources, IT Services, Institutional Analysis, Legal Department,  Finance Department							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-6">
+												
+							Campus Community BBQ &ndash; 
+															12:00														- 1:30 pm &ndash;
+							Dillon Quad															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Campus%20Community%20BBQ;42.306471;-83.067179;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="6" name="events[]" id="event-6">
+												
+						<div class="description">
+							Enjoy us for our campus community with a free BBQ lunch, including a special birthday dessert presented in the centre of campus between Dillon Hall and the Chrysler Hall buildings. Live music will be performed by student musicians - dancing is encouraged! 18,000 students, faculty and staff will be invited to attend.							
+							<div class="ticket-info">
+								Free event for the Campus Community<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-7">
+												
+							Student Birthday Party &ndash; 
+															1:30														- 3:30 pm &ndash;
+							CAW Student Centre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Student%20Birthday%%20Party;42.306737;-83.068622;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="7" name="events[]" id="event-7">
+												
+						<div class="description">
+							Student groups are planning a birthday party celebration in the CAW Student Centre with live music and birthday cake—of course! Generously sponsored by the University of Windsor Students’ Association, the Graduate Student Society and the Organization of Part-Time University Students.							
+							<div class="ticket-info">
+								Free Student Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-55">
+												
+							1963 Movie Festival &ndash; 
+															7:00														- 9:00 pm &ndash;
+							Leddy Library														
+													</label>
+												
+													<input type="checkbox" value="55" name="events[]" id="event-55">
+												
+						<div class="description">
+							In celebration of the 50th Anniversary celebration, the Leddy Library will host a 1963 film festival.  Join us on Thursday evening for 1963 comedy "Pink Panther" featuring Peter Sellers.  The movie will be shown in the Staff Lounge on the 4th floor.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<span class="right label no-checkbox">
+												
+							Daryl Hall and John Oates in concert at Caesars Windsor &ndash; 
+															8:00 pm														 &ndash;
+							Caesars Windsor															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Daryl%20Hall%20and%20John%20Oates%20in%20concert;42.320181;-83.033917;">Map It</a>
+														
+													</span>
+												
+												
+						<div class="description">
+							Caesars Windsor is a major sponsor of the 50th Anniversary weekend and has scheduled a concert featuring the top-selling duo in music history in its 5,000-seat Colosseum as a special tribute for UWindsor alumni.  Show your Lancer pride and wear your UWindsor apparel to the concert.							
+							<div class="ticket-info">
+								<strong>Tickets available through Caesars Windsor at: <a href=http://bit.ly/UWin5oHallnOates>http://bit.ly/UWin5oHallnOates</a> </strong>							</div>
+						</div>
+					</div>
+										
+											
+																		<h1>Friday, September 20, 2013</h1>
+																
+					<div class="form-element">
+													<label class="right" for="event-28">
+												
+							Alumni Art Exhibition &ndash; 
+															10:00 am														 &ndash;
+							Mackenzie Hall, 3277 Sandwich Street															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Alumni%20Art%20Exhibition;42.300208;-83.076167;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="28" name="events[]" id="event-28">
+												
+						<div class="description">
+							Exhibition features works by Visual Arts Alumni.
+							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-41">
+												
+							Art Display of Assumption University Presidents &ndash; 
+															11:00 am														- 5:00 pm &ndash;
+							Art Gallery of Windsor, 401 Riverside Drive West															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Art%20Display%20of%20Assumption%20University%20Presidents;42.318415;-83.044431;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="41" name="events[]" id="event-41">
+												
+						<div class="description">
+							A special display of original portraits of Assumption University Presidents by artist Wyndham Lewis will be shown at the Art Gallery of Windsor							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see <a href=http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration>http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<span class="right label no-checkbox">
+												
+							Welcome Tent &ndash; 
+															11:00 am														- 4:00 pm &ndash;
+							Centre of Campus															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Welcome%20Tent;42.306471;-83.067179;">Map It</a>
+														
+													</span>
+												
+												
+						<div class="description">
+							Located in front of Dillon Hall, the Welcome Tent will serve as the information booth for visitors to sign up for a campus tour or register for the Sunday fun run. Campus tours will leave every half hour from the tent. 50th Anniversary merchandise will be on sale.							
+							<div class="ticket-info">
+								<strong>The Welcome Tent will be available all day on Friday and Saturday.</strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-1">
+												
+							Kick-off Luncheon &ndash; 
+															11:30 am														- 2:00 pm &ndash;
+							Ambassador Auditorium															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Kick-off%20Luncheon;42.306796;-83.068665;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="1" name="events[]" id="event-1">
+												
+						<div class="description">
+							This special celebration will feature a three-course, plated luncheon for 300 of UWindsor’s key stakeholders, in Ambassador Auditorium. Ticket sales will raise funds for 50th Anniversary scholarships. To add to the festive atmosphere, the 50th Anniversary video, produced and co-sponsored by Suede Productions, will be launched, fundraising initiatives will be announced, and special alumni guests will be invited to participate in the program.  This event is generously sponsored by Windsor Family Credit Union.							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $50/ticket<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-57">
+												
+							Communication, Media & Film Open House &ndash; 
+															2:00														- 4:00 pm &ndash;
+							4th Floor, Lambton Tower															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Communication,%20Media%20and%20Film%20Open%20House;42.305396;-83.065578;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="57" name="events[]" id="event-57">
+												
+						<div class="description">
+							The Department of Communication, Media & Film will open their doors to during the campus showcase.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-38">
+												
+							Assumption University Archival displays &ndash; 
+															3:00														- 5:00 pm &ndash;
+							Assumption University Building															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Assumption%20University%20Archival%20displays;42.306096;-83.069349;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="38" name="events[]" id="event-38">
+												
+						<div class="description">
+							Assumption University congratulates the University of Windsor on the occasion of the 50th anniversary celebration with an archival display in the Assumption University Building.							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see <a href=http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration>http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<span class="right label no-checkbox">
+												
+							Justice Beyond the State: Transnationalism and Law &ndash; 
+															5:00 pm														 &ndash;
+							Faculty of Law														
+													</span>
+												
+												
+						<div class="description">
+							The Faculty of Law is hosting a conference, Justice Beyond the State organized by the Transnational Law and Justice research group.							
+							<div class="ticket-info">
+								<strong>For more information, please see: <a href=http://www.uwindsor.ca/law/justicebeyondthestate>http://www.uwindsor.ca/law/justicebeyondthestate</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-56">
+												
+							Human Kinetics Class of '88 Reunion &ndash; 
+															6:00														- 11:00 pm &ndash;
+							Dominion House, 3140 Sandwich Street														
+													</label>
+												
+													<input type="checkbox" value="56" name="events[]" id="event-56">
+												
+						<div class="description">
+							The Human Kinetics class of 1988 reunion for Bachelor and Master degree recipients will be held at the Dominion House, 3140 Sandwich Street.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-33">
+												
+							Rock of All Ages - Alumni & Friends Welcome Reception &ndash; 
+															8:00														- 11:00 pm &ndash;
+							Patio between Vanier Hall and Macdonald Hall 															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Rock%20of%20All%20Ages%20-%20Alumni%20&%20Friends%20Welcome%20Reception;42.304581;-83.068225;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="33" name="events[]" id="event-33">
+												
+						<div class="description">
+							Meet on the patio between Vanier Hall and Macdonald Hall for a night of: reconnecting and reminiscing with classmates and friends.  Meet up with other UWindsor Alumni that you don’t know.  
+Dance the night away to music from the decades and share memories of your times at UWindsor.  
+Bring your pictures and favourite UWindsor memorabilia and show your Lancer pride and wear your UWindsor apparel to the party.
+Enjoying refreshments & appetizers (Cash bar and light fare will be available) 							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-10">
+												
+							University Players - 'Suite Surrender' &ndash; 
+															8:00														- 10:00 pm &ndash;
+							Essex Hall Theatre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?University%20Players%20-%20'Suite Surrender';42.305112;-83.066836;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="10" name="events[]" id="event-10">
+												
+						<div class="description">
+							By Michael McKeever, at Essex Hall Theatre. It’s 1942, and a swanky Palm Beach hotel is preparing for a wartime extravaganza performance with two of Hollywood’s biggest celebrities. But plans are thrown into chaos when the two rivalling performers are mistakenly booked into the same suite! This award-winning comedy comes alive with mistaken identities, overblown egos, double entendres, and even a pampered little lap dog. A rib-tickling good time, this fast-paced farce is not to be missed! 							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $15/ticket<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-20">
+												
+							University Players - 'Suite Surrender' and Post-show &ndash; 
+															8:00														- 11:00 pm &ndash;
+							Essex Hall Theatre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?University%20Players%20-%20'Suite Surrender'%20and%20Post-show;42.305112;-83.066836;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="20" name="events[]" id="event-20">
+												
+						<div class="description">
+							Includes one ticket to the show and one ticket for the reception. By Michael McKeever, performance at Essex Hall Theatre. It’s 1942, and a swanky Palm Beach hotel is preparing for a wartime extravaganza performance with two of Hollywood’s biggest celebrities. But plans are thrown into chaos when the two rivalling performers are mistakenly booked into the same suite! This award-winning comedy comes alive with mistaken identities, overblown egos, double entendres, and even a pampered little lap dog. A rib-tickling good time, this fast-paced farce is not to be missed! After the show you will join graduates of the School of Dramatic Art at a post-show reception to celebrate the 50th anniversary. Antoni Cimolino, Artistic Director of the Stratford Festival and recipient of the Alumni Award of Merit, and three winners of the Alumni Association’s Odyssey Award will be in attendance. The reception is sponsored by the Alumni Association.							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $35/ticket<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-46">
+												
+							WIFF presents: “007 Under the Stars” &ndash; 
+															8:30 pm														 &ndash;
+							Outside in the Dillon Quad. Rain location: Education Gym															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?WIFF%20Presents%20-%20'007%20Under%20The%20Stars';42.305184;-83.06793;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="46" name="events[]" id="event-46">
+												
+						<div class="description">
+							The University of Windsor is proud to partner with the Windsor International Film Festival to present 50 years of James Bond in the Dillon quad on Friday, September 20. 
+<p>    </p>
+Starting at 8:30 pm, enjoy one of the biggest films from 1963, “From Russia with Love,” then travel nearly 50 years in time to watch the 2012 blockbuster “Skyfall” at 10:45 pm.
+<p>    </p>
+Bring your blankets and lawn chairs for this free outdoor showing. In the event of inclement weather, the festival will move inside to the Education Gym next to the Student Centre.
+<p>    </p>
+Snacks and soft drinks will be available for purchase, or bring your own (alcohol is strictly prohibited.)							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-21">
+												
+							Post-Show Alumni Reception &ndash; 
+															10:00 pm														 &ndash;
+							Jackman Dramatic Art Centre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Post-Show%20Alumni%20Reception;42.305129;-83.067445;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="21" name="events[]" id="event-21">
+												
+						<div class="description">
+							One ticket for the reception only, does not include a performance ticket. Join graduates of the School of Dramatic Art at a post-show reception to celebrate the 50th anniversary. Antoni Cimolino, Artistic Director of the Stratford Festival and recipient of the Alumni Award of Merit, and three winners of the Alumni Association’s Odyssey Award will be in attendance. The reception is sponsored by the Alumni Association, and will be held in the Jackman Dramatic Art Centre.							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $20/ticket<br />							</div>
+						</div>
+					</div>
+										
+											
+																		<h1>Saturday, September 21, 2013</h1>
+																
+					<div class="form-element">
+													<label class="right" for="event-35">
+												
+							Milestone Reunion Breakfast  &ndash; 
+															8:30														- 10:00 am &ndash;
+							Katzman Lounge, Vanier Hall															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Milestone%20Reunion%20Breakfast;42.304293;-83.068279;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="35" name="events[]" id="event-35">
+												
+						<div class="description">
+							For the Classes of 1963 & ’64, 1988 & ’89, 2003 & ’04.  Meet and reminisce with friends in the Milestone Reunion Hospitality Suite for a complimentary continental breakfast.  For more information visit www.uwindsor.ca/alumni.							
+							<div class="ticket-info">
+								A limited number of free tickets available<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-29">
+												
+							Alumni Art Exhibit &ndash; 
+															10:00 am														 &ndash;
+							Mackenzie Hall, 3277 Sandwich Street															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Alumni%20Art%20Exhibition;42.300208;-83.076167;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="29" name="events[]" id="event-29">
+												
+						<div class="description">
+							Exhibition features works by Visual Arts Alumni.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-13">
+												
+							Classic Car Show &ndash; 
+															10:00 am														- 4:00 pm &ndash;
+							Sunset Ave															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Classic%20Car%20Show;42.305471;-83.065122;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="13" name="events[]" id="event-13">
+												
+						<div class="description">
+							UWindsor will celebrate our city’s automotive heritage with a classic car show where visitors can stroll down memory lane through the past five decades. Engineering students will also get involved with special displays of the latest automotive technology. Visitors are invited to tour the Ed Lumley Centre for Engineering Innovation to experience what the future holds. 							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>Visit www1.uwindsor.ca/alumni/classic-car-show to register your car.</strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-12">
+												
+							Future Lancers' Activity Zone &ndash; 
+															10:00 am														- 4:00 pm &ndash;
+							Located off of Sunset, south of Wyandotte street, between Lambton Tower and Chrysler Hall South															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Future%20Lancers'%20Activity%20Zone;42.305813;-83.065808;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="12" name="events[]" id="event-12">
+												
+						<div class="description">
+							With two locations including Parking Lot K on main campus and also over at the St. Denis Centre fieldhouse, this event is for our younger guests to experience and enjoy, The main campus location (parking lot K) will feature exciting activities such as a mad scientist, arts and crafts, a live DJ and a charity BBQ put on our by Shinerama team. The main campus location will also feature a police fingerprinting station for families to access. Over at the St. Denis Centre, our Future Lancers' activity zone will include inflatable games, speed and agility contests with some of our Lancer student-athletes and a photo booth with Winston, our Lancer mascot. Be sure to join us for this exciting complimentary event on Saturday!							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<span class="right label no-checkbox">
+												
+							Welcome Tent &ndash; 
+															10:00 am														- 7:00 pm &ndash;
+							Centre of Campus															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Welcome%20Tent;42.306471;-83.067179;">Map It</a>
+														
+													</span>
+												
+												
+						<div class="description">
+							Located in front of Dillon Hall, the Welcome Tent will serve as the information booth for visitors to sign up for a campus tour or register for the Sunday fun run. Campus tours will leave every half hour from 10 am to 4 pm.  50th Anniversary merchandise will be on sale.							
+							<div class="ticket-info">
+								<strong>The Welcome Tent will be available all day on Friday and Saturday.</strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-42">
+												
+							Art Display of Assumption University Presidents &ndash; 
+															11:00 am														- 5:00 pm &ndash;
+							Art Gallery of Windsor, 401 Riverside Drive West															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Art%20Display%20of%20Assumption%20University%20Presidents;42.318415;-83.044431;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="42" name="events[]" id="event-42">
+												
+						<div class="description">
+							A special display of original portraits of Assumption University Presidents by artist Wyndham Lewis will be shown at the Art Gallery of Windsor							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see <a href=http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration>http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-3">
+												
+							Odette School of Business Showcase &ndash; 
+															11:45 am														- 6:00 pm &ndash;
+							Odette School of Business															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Odette%20School%20of%20Business%20Showcase;42.305215;-83.064671;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="3" name="events[]" id="event-3">
+												
+						<div class="description">
+							Come celebrate the grand opening of the Odette School of Business' newly renovated south wing on Saturday, September 21, 2013 as part of the University of Windsor 50th Anniversary celebrations.
+							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see: <a href=http://www1.uwindsor.ca/odette/south-wing-grand-opening>http://www1.uwindsor.ca/odette/south-wing-grand-opening</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-50">
+												
+							Ed Lumley Centre for Engineering Innovation (CEI) Open House &ndash; 
+															12:00														- 3:00 pm &ndash;
+							Ed Lumley Centre for Engineering Innovation - Atrium															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Ed%20Lumley%20Centre%20for%20Engineering%20Innovation%20(CEI)%20Tours%20and%20Demonstrations;42.304293;-83.062155;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="50" name="events[]" id="event-50">
+												
+						<div class="description">
+							Check out the new CEI Building.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-48">
+												
+							Lancer Soccer Doubleheader &ndash; 
+															12:00 pm														 &ndash;
+							Alumni Field															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Lancer%20Soccer%20Doubleheader;42.298201;-83.062987;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="48" name="events[]" id="event-48">
+												
+						<div class="description">
+							Be sure to stop by Alumni Field in the afternoon to see our Lancer women’s and men’s varsity soccer teams in action against the Guelph Gryphons.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-36">
+												
+							Milestone Reunion Lunch &ndash; 
+															12:00														- 2:00 pm &ndash;
+							Ambassador Auditorium, 2nd Floor, CAW Student Centre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Milestone%20Reunion%20Lunch;42.306737;-83.068622;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="36" name="events[]" id="event-36">
+												
+						<div class="description">
+							For the Classes of 1963 & ’64, 1988 & ’89, 2003 & ’04.  Meet up with classmates for a complimentary light buffet luncheon.  For more information visit www.uwindsor.ca/alumni.							
+							<div class="ticket-info">
+								A limited number of free tickets available<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-44">
+												
+							Baseball Fun Day &ndash; 
+															1:00														- 5:00 pm &ndash;
+							Assumption High School Field, 1100 Huron Church Road															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Baseball%20Fun%20Day;42.294449;-83.061485;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="44" name="events[]" id="event-44">
+												
+						<div class="description">
+							The Department of Mathematics & Statistics is hosting a baseball fun day for alumni at the Assumption High School Sports Field.  Following the event, all are invited to the Rock Bottom Restaurant.							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see <a href=http://www1.uwindsor.ca/math/baseball-fun-day-for-alumni-and-their-families>http://www1.uwindsor.ca/math/baseball-fun-day-for-alumni-and-their-families</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-51">
+												
+							Department of History Reunion &ndash; 
+															1:00														- 3:30 pm &ndash;
+							McPherson Alumni Reception Centre, Alumni Hall Residence															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Department%20of%20History%20Reunion;42.30277;-83.062971;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="51" name="events[]" id="event-51">
+												
+						<div class="description">
+							Reunion of alumni within the Department of History							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-47">
+												
+							WIFF presents: “Choose your own Adventure” &ndash; 
+															1:00														- 10:00 pm &ndash;
+							Education Gym															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?WIFF%20Presents%20-%20'Choose%20your%20own%20Adventure';42.306269;-83.068308;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="47" name="events[]" id="event-47">
+												
+						<div class="description">
+							WIFF presents: “Choose your own Adventure”
+A selection of films will be shown in the Education Gym next to the Student Centre during the afternoon and into the evening, chosen by alumni and the campus community through social media.
+							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>To vote, please go to: <a href=http://www1.uwindsor.ca/anniversary/333/choose-your-own-adventure>http://www1.uwindsor.ca/anniversary/333/choose-your-own-adventure</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-14">
+												
+							A Conversation with Antoni Cimolino:  &ndash; 
+															2:00 pm														 &ndash;
+							Essex Hall Theatre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?A%20Conversation%20with%20Antoni%20Cimolino:%20'My%20life%20at%20the%20Stratford%20Festival';42.305112;-83.066836;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="14" name="events[]" id="event-14">
+												
+						<div class="description">
+							Antoni Cimolino BFA ’84, artistic director of the Stratford Festival, will discuss his career and what’s new at the Stratford Festival.							
+							<div class="ticket-info">
+								A limited number of free tickets available<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-39">
+												
+							Assumption University Reception &ndash; 
+															2:00														- 4:00 pm &ndash;
+							Freed-Orman Centre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Assumption%20University%20Reception;42.306437;-83.069258;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="39" name="events[]" id="event-39">
+												
+						<div class="description">
+							Assumption University will be holding a reception in the Freed-Orman Centre							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see <a href=http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration>http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-5">
+												
+							Faculty of Law - Celebration and Reunions for the Classes 1973, 1978, 1983, 1988, 1993, 1998, 2003, 2008 &ndash; 
+															2:00														- 10:00 pm &ndash;
+							Ianni (Ron W.) Faculty of Law Building															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Faculty%20of%20Law%20-%20Celebration%20and%20Reunions%20for%20the%20Classes%201973,%201978,%201983,%201988,%201993,%201998,%202003,%202008;42.308385;-83.067828;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="5" name="events[]" id="event-5">
+												
+						<div class="description">
+							Join us for the Windsor Law Pavillion & Reunion Weekend as the Faculty of Law Celebrates the University of Windsor's 50th Anniversary							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $30/ticket<br /><strong>For more information, please see: <a href=http://www1.uwindsor.ca/law/alumni/windsor-law-weekend-2013>http://www1.uwindsor.ca/law/alumni/windsor-law-weekend-2013</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-37">
+												
+							Human Kinetics Open House and Recognition of Past Faculty &ndash; 
+															2:00														- 5:00 pm &ndash;
+							Human Kinetics Building															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Faculty%20of%20Human%20Kinetics%20Open%20House;42.299383;-83.061906;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="37" name="events[]" id="event-37">
+												
+						<div class="description">
+							Join the Faculty of Human Kinetics for a Kinesiology Open House featuring a Recognition Event for past HK Faculty.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-53">
+												
+							Faculty of Engineering – 50th Anniversary Alumni Reception &ndash; 
+															3:00														- 5:00 pm &ndash;
+							Centre for Engineering Innovation (CEI)															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Faculty%20of%20Engineering%20–%2050th%20Anniversary%20Alumni%20Reception;42.304293;-83.062155;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="53" name="events[]" id="event-53">
+												
+						<div class="description">
+							More details to follow.							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-26">
+												
+							Members of the Students' Administrative Council (SAC), University of Windsor Students' Alliance (UWSA) and the Student Ambassadors &ndash; 
+															3:00 pm														 &ndash;
+							2nd Floor CAW Students Centre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Members%20of%20the%20Students'%20Administrative%20Council%20(SAC),%20University%20of%20Windsor%20Students'%20Alliance%20(UWSA)%20and%20the%20Student%20Ambassadors;42.306796;-83.068665;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="26" name="events[]" id="event-26">
+												
+						<div class="description">
+							For members of the Students' Administrative Council (SAC), University of Windsor Students' Alliance (UWSA) and the Student Ambassadors. Cocktail reception to be held just outside of the council chambers.  - Hors d'oeuvre and cash bar.  For more information visit www.uwindsor.ca/alumni.							
+							<div class="ticket-info">
+								A limited number of free tickets available<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-15">
+												
+							Tailgating Party and Lancer Football Game &ndash; 
+															5:00														- 10:00 pm &ndash;
+							Alumni Field															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Tailgating%20Party%20and%20Lancer%20Football%20Game;42.298201;-83.062987;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="15" name="events[]" id="event-15">
+												
+						<div class="description">
+							Live music featuring featuring Jody Raffoul with a special appearance by his son Billy Raffoul, a delicious BBQ, prizes and photos with the Lancer mascot are just some of the activities planned for this pre-game party in the area of the St. Denis Centre/Alumni Field.  Food and beverage will be available for purchase on-site. A football ticket is included and needed to gain access to the pre-game party
+
+Cheer for the Blue and Gold! Special half-time entertainment is planned to rev up the fans. Fan giveaways and special cheering sections are just a few of the activities scheduled for this memorable home game.							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, Adult: $12/ticket, Child/Senior: $10/ticket<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-31">
+												
+							Visual Arts Alumni and Friends Reception &ndash; 
+															6:00														- 7:30 pm &ndash;
+							Mackenzie Hall, 3277 Sandwich Street															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Visual%20Arts%20Alumni%20and%20Friends%20Reception;42.300208;-83.076167;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="31" name="events[]" id="event-31">
+												
+						<div class="description">
+							Alumni and friends meet, mingle and tour the Alumni Art Exhibition prior to attending the Alumni Showcase Concert.  Pre-concert refreshments (cash bar)							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-32">
+												
+							Music Alumni Showcase Concert &ndash; 
+															7:30														- 10:00 pm &ndash;
+							Mackenzie Hall, 3277 Sandwich Street															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Music%20Alumni%20Showcase%20Concert;42.300208;-83.076167;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="32" name="events[]" id="event-32">
+												
+						<div class="description">
+							Mackenzie Hall, 3277 Sandwich Street, Windsor<br>
+A diverse musical program is planned for this evening featuring performances by:<br>
+Ross Osmun, piano - BMus '94<br>
+The Majestic Brass: <ul><li>Bob Fazecash, trumpet  - BMA ‘77;  <li>Brian Zanier, trumpet,  - BMus ‘96; <li>Bernadette Berthelotte, horn  - BMus ‘81; <li>Corey Fitzpatrick, trombone  - BMus ‘77; and <li>Mike Stone, trombone  - BMus ‘85</ul><br>
+Marc Funkenhauser, saxophone  - BMus ‘10<br>
+Erin Armstrong, soprano  - BMus ‘07<br>
+Christine Turingia, soprano  - BMus ‘07<br>
+Steven Dearing, guitar  - BMus ‘92<br>
+Allen Levack, bass - BMus '11 and <br>Joanna Shultz piano - BMT '11							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $15/ticket<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-18">
+												
+							University Players - 'Suite Surrender' &ndash; 
+															8:00														- 10:00 pm &ndash;
+							Essex Hall Theatre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?University%20Players%20-%20'Suite Surrender';42.305112;-83.066836;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="18" name="events[]" id="event-18">
+												
+						<div class="description">
+							By Michael McKeever, at Essex Hall Theatre. It’s 1942, and a swanky Palm Beach hotel is preparing for a wartime extravaganza performance with two of Hollywood’s biggest celebrities. But plans are thrown into chaos when the two rivalling performers are mistakenly booked into the same suite! This award-winning comedy comes alive with mistaken identities, overblown egos, double entendres, and even a pampered little lap dog. A rib-tickling good time, this fast-paced farce is not to be missed! 							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $15/ticket<br />							</div>
+						</div>
+					</div>
+										
+											
+																		<h1>Sunday, September 22, 2013</h1>
+																
+					<div class="form-element">
+													<label class="right" for="event-17">
+												
+							Windsor Lancer Fun Run &ndash; 
+															8:00														- 10:00 am &ndash;
+							St. Denis Centre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Windsor%20Lancer%20Fun%20Run;42.298663;-83.061455;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="17" name="events[]" id="event-17">
+												
+						<div class="description">
+							Alumni, friends, students of all ages and families from our community are all invited to gather for an entertaining 1K and 5K fun run hosted by the Lancer track and field program. With a challenging course set-up around south campus and our outdoor stadium, this will be an exciting challenge for all to enjoy!							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $10/ticket<br /><strong>Check out the Course Map and additional information: <a href=http://www1.uwindsor.ca/anniversary/326/lancer-fun-run-challenge>http://www1.uwindsor.ca/anniversary/326/lancer-fun-run-challenge</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-30">
+												
+							Alumni Art Exhibit &ndash; 
+															10:00 am														 &ndash;
+							Mackenzie Hall, 3277 Sandwich Street															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Alumni%20Art%20Exhibition;42.300208;-83.076167;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="30" name="events[]" id="event-30">
+												
+						<div class="description">
+							Exhibition features works by Visual Arts Alumni.
+							
+							<div class="ticket-info">
+								Free Public Event<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-40">
+												
+							Assumption University Mass &ndash; 
+															10:00 am														 &ndash;
+							Assumption University Building, Chapel 2nd floor															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Assumption%20University%20Mass;42.306096;-83.069349;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="40" name="events[]" id="event-40">
+												
+						<div class="description">
+							A Mass will be held in the Assumption Chapel by the Most Rev. Ronald Fabbro, CSB., Bishop of London and Chancellor of Assumption University.							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see <a href=http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration>http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-2">
+												
+							Wrap-up Breakfast &ndash; 
+															10:00 am														- 12:00 pm &ndash;
+							Ambassador Auditorium															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Wrap-up%20Breakfast;42.306737;-83.068622;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="2" name="events[]" id="event-2">
+												
+						<div class="description">
+							A casual, buffet breakfast will be offered in the Ambassador Auditorium to reminisce about the weekend and send off all our visitors with a celebratory mimosa toast in anticipation of an exciting anniversary year ahead.							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $10/ticket<br />							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-43">
+												
+							Art Display of Assumption University Presidents &ndash; 
+															11:00 am														- 5:00 pm &ndash;
+							Art Gallery of Windsor, 401 Riverside Drive West															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?Art%20Display%20of%20Assumption%20University%20Presidents;42.318415;-83.044431;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="43" name="events[]" id="event-43">
+												
+						<div class="description">
+							A special display of original portraits of Assumption University Presidents by artist Wyndham Lewis will be shown at the Art Gallery of Windsor							
+							<div class="ticket-info">
+								Free Public Event<br /><strong>For more information, please see <a href=http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration>http://assumptionu.ca/assumption-university-congratulates-the-university-of-windsor-on-the-occasion-of-the-50th-anniversary-celebration</a> </strong>							</div>
+						</div>
+					</div>
+																					
+					<div class="form-element">
+													<label class="right" for="event-19">
+												
+							University Players - 'Suite Surrender' &ndash; 
+															2:00														- 4:00 pm &ndash;
+							Essex Hall Theatre															- <a target="_blank" href="http://web2.uwindsor.ca/pac/50map/index.php?University%20Players%20-%20'Suite Surrender';42.305112;-83.066836;">Map It</a>
+														
+													</label>
+												
+													<input type="checkbox" value="19" name="events[]" id="event-19">
+												
+						<div class="description">
+							By Michael McKeever, at Essex Hall Theatre. It’s 1942, and a swanky Palm Beach hotel is preparing for a wartime extravaganza performance with two of Hollywood’s biggest celebrities. But plans are thrown into chaos when the two rivalling performers are mistakenly booked into the same suite! This award-winning comedy comes alive with mistaken identities, overblown egos, double entendres, and even a pampered little lap dog. A rib-tickling good time, this fast-paced farce is not to be missed! 							
+							<div class="ticket-info">
+								Ticketed Event, Registration Required, $15/ticket<br />							</div>
+						</div>
+					</div>
+										
+							
+		<div class="form-element">
+			<input type="submit" class="btn" value="Submit Selections" id="submit-button"/>
+		</div>
+		
+		<script>
+			pop_up_shown = false;
+			
+			function continue_reg () {
+				pop_up_shown = true;
+				$("form.events").submit ();
+			}
+			
+			$("form.events").submit (function () {
+				var selected_ids = "";
+				
+				$("input[name='events[]']:checked").each (function () {
+					selected_ids += $(this).val () + ",";
+				});
+			
+				if (selected_ids != "" && pop_up_shown) {
+					return true;
+				}
+			
+				if (selected_ids != "") {
+					$("#submit-button").attr ("value", "Loading....");
+					
+					$.ajax ({
+						type: "POST",
+						async: "false",
+						url: "includes/get-event-conflicts.php",
+						data: "ids=" + selected_ids,
+						dataType: "html",
+						success: function (response) {
+							if (response.length == 0) {
+								continue_reg ();
+							} else if (response != "error") {
+								$("#event-popup").dialog ({
+									modal: true,
+									minWidth: 500,
+									maxWidth: 500,
+									maxheight: 600
+								});
+								
+								$(".popup-container").html (response);
+								$(".popup-container").mCustomScrollbar({ scrollButtons: { enable: true }});
+							} else {
+								return true;
+							}
+							
+							$("#submit-button").attr ("value", "Submit Selections");
+							return false;
+						}
+					});
+					
+					return false;
+				} else {
+					alert ("Please select at least one event");
+					return false;
+				}
+			});
+		</script>
+	</form>
+
+				
+				<script src="/50th/template/js/jquery-ui-1.10.2.js"></script>
+				<script src="/50th/template/js/jquery.jqtransform.js.php"></script>
+				<script src="/50th/template/js/jquery.tablesorter.js"></script>
+				<script src="/50th/template/js/form-validation.js"></script>
+				<script src="/50th/template/js/jquery.mCustomScrollbar.js"></script>
+				
+				<script>
+					$(document).ready(function(){
+						$("form").jqTransform();
+					});
+				</script>
+			</div> <!-- #content-container -->
+		</div> <!-- #content -->
+	</body>
+</html>

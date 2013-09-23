@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Events Calendar | School of Computer Science 
+X-WR-TIMEZONE:America/New_York
+PRODID:-//UofW Drupal iCal v2.1 API//EN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.1348.field_date.0.0
+SUMMARY:Agent-Based Modeling talk at Science City Science Café
+DTSTAMP:20130921T205908
+DTSTART:20130116T193000
+DTEND:20130116T210000
+URL;VALUE=URI:http://www1.uwindsor.ca/cs/1348/agent-based-modeling-talk-at-science-city-science-cafe#20130116T193000
+LOCATION:Cananda South Science City
+END:VEVENT
+END:VCALENDAR

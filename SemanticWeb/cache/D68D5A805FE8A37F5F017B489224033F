@@ -1,0 +1,691 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Events Calendar | Office of the Registrar - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/registrar/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<link rel="canonical" href="http://www1.uwindsor.ca/registrar/calendar/events" />
+<meta name="revisit-after" content="1 day" />
+    <style type="text/css">
+          @import url('/registrar/modules/aggregator/aggregator.css');
+          @import url('/registrar/modules/node/node.css');
+          @import url('/registrar/modules/system/defaults.css');
+          @import url('/registrar/modules/system/system.css');
+          @import url('/registrar/modules/system/system-menus.css');
+          @import url('/registrar/modules/user/user.css');
+          @import url('/registrar/sites/all/modules/cck/theme/content-module.css');
+          @import url('/registrar/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/registrar/sites/all/modules/ctools/css/ctools.css');
+          @import url('/registrar/sites/all/modules/date/date.css');
+          @import url('/registrar/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/registrar/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/registrar/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/registrar/sites/all/modules/filefield/filefield.css');
+          @import url('/registrar/misc/farbtastic/farbtastic.css');
+          @import url('/registrar/sites/all/modules/calendar/calendar.css');
+          @import url('/registrar/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/registrar/sites/all/modules/views/css/views.css');
+          @import url('/registrar/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/registrar/food/awards/sites/all/themes/zen/zen/ie.css?3" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/registrar/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/registrar/sites/all/modules/jquery_update/replace/jquery.js?3"></script>
+<script type="text/javascript" src="/registrar/misc/drupal.js?3"></script>
+<script type="text/javascript" src="/registrar/sites/all/modules/google_analytics/googleanalytics.js?3"></script>
+<script type="text/javascript" src="/registrar/sites/all/modules/pngfix/jquery.pngFix.js?3"></script>
+<script type="text/javascript" src="/registrar/sites/all/modules/calendar/jcalendar/jcalendar.js?3"></script>
+<script type="text/javascript" src="/registrar/sites/all/themes/unified_department/responsive/responsive.js?3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/registrar\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/registrar\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/registrar/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/registrar/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/registrar/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/registrar/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/registrar/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in two-sidebars page-calendar-events section-calendar page-calendar-events section-calendar ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/registrar/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/registrar/calendar/events" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/registrar/calendar/events"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-a91106431b1f1ae309fa66e1f9820bf1" value="form-a91106431b1f1ae309fa66e1f9820bf1"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/registrar/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/registrar/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/registrar/welcome-department" title="Welcome" target="_self" rel="" class="length-short">Welcome</a></li>
+<li class="leaf"><a href="/registrar/office-hours" target="_self" rel="" title="Office Hours" class="length-short">Office Hours</a></li>
+<li class="leaf"><a href="http://uwindsor.ca/registrar/admissions" title="
+	Admissions
+" target="_self" rel="" class="length-short">Admissions</a></li>
+<li class="collapsed"><a href="/registrar/registration" title="Registration" target="_self" rel="" class="length-short">Registration</a></li>
+<li class="collapsed"><a href="/registrar/university-course-and-program-calendar" title="
+	Academic Calendars/Dates
+" target="_self" rel="" class="length-short">Academic Calendars/Dates</a></li>
+<li class="collapsed"><a href="/registrar/examinations" title="Examinations" target="_self" rel="" class="length-short">Examinations</a></li>
+<li class="collapsed"><a href="/registrar/grades-and-transcripts" title="Grades and Transcripts" target="_self" rel="" class="length-short">Grades and Transcripts</a></li>
+<li class="collapsed"><a href="/registrar/convocation-and-graduation" title="Convocation and Graduation" target="_self" rel="" class="length-short">Graduation &amp; Convocation</a></li>
+<li class="leaf"><a href="/registrar/uw_transfer_credits" target="_self" rel="" title="" class="length-long">UWindsor Course Equivalencies</a></li>
+<li class="collapsed"><a href="/registrar/legal-matters" title="Legal Matters" target="_self" rel="" class="length-short">Legal Matters</a></li>
+<li class="leaf last"><a href="/registrar/contact-us" target="_self" rel="" title="Contact Us" class="length-short">Contact Us</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_social-sharelinks" class="block block-uw_social region-even odd region-count-2 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script><div class="share-facebook button_count send">
+<div id="fb-root"></div>
+<fb:like href="http://www1.uwindsor.ca/registrar/calendar/events" show_faces="false" width="135" font="tahoma" send="true" layout="button_count" action="like"></fb:like></div><!-- /.share-facebook -->
+<div class="share-twitter horizontal">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="UWindsor">Tweet</a>
+</div><!-- /.share-twitter -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<div class="share-google standard count">
+<g:plusone size="standard"></g:plusone>
+<script type="text/javascript">// <![CDATA[
+              (function() {
+              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+              po.src = 'https://apis.google.com/js/plusone.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+              //]]>
+              </script>
+</div><!-- /.share-google -->
+<br clear="all" />
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/registrar/system/files/imagecache/header_left_image/registrarBanner.jpg" alt="staff of the registrar&#039;s office" title="" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/registrar/system/files/imagecache/header_right_image/right_0.jpg" alt="Dillon Hall in Fall" title="Dillon Hall in Fall" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/registrar">Office of the Registrar</a><span class="slash"> / </span><a href="/registrar/calendar/events" class="active">Events Calendar</a></div>                                      <h1 class="title">Events Calendar</h1>
+                                                                                          <div class="view view-events-calendar view-id-events_calendar view-display-id-calendar_1 events-block view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="calendar-calendar">
+      <ul class="links links-5"><li class="0 link-0 first"><a href="/registrar/calendar/events/2013-09-21" rel="nofollow">Today</a></li>
+<li class="calendar calendar-day link-calendar calendar-day"><a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-01" rel="nofollow">Day</a></li>
+<li class="calendar calendar-week link-calendar calendar-week"><a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W36" rel="nofollow">Week</a></li>
+<li class="calendar calendar-month link-calendar calendar-month"><a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09" rel="nofollow">Month</a></li>
+<li class="calendar calendar-year link-calendar calendar-year last"><a href="http://www1.uwindsor.ca/registrar/calendar/events/2013" rel="nofollow">Year</a></li>
+</ul>  <div class="date-nav clear-block">
+  <div class="date-prev">
+          <span class="next views-summary"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-08" title="Navigate to previous month" rel="nofollow">« Prev</a></span>
+      &nbsp;</div>
+  <div class="date-heading">
+    <h3>September 2013</h3>
+  </div>
+  <div class="date-next">&nbsp;
+          <span class="next views-summary"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-10" title="Navigate to next month" rel="nofollow">Next »</a></span>
+      </div>
+</div>
+</div>    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="calendar-calendar"><div class="month-view">
+<table>
+  <thead>
+    <tr>
+              <th class="days week">
+          &nbsp;        </th>
+              <th class="days sun">
+          Sunday        </th>
+              <th class="days mon">
+          Monday        </th>
+              <th class="days tue">
+          Tuesday        </th>
+              <th class="days wed">
+          Wednesday        </th>
+              <th class="days thu">
+          Thursday        </th>
+              <th class="days fri">
+          Friday        </th>
+              <th class="days sat">
+          Saturday        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-01" class="week">
+            <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W36">36</a>          </td>
+                  <td id="events_calendar-2013-09-01" class="sun past has-no-events">
+            <div class="inner"><div class="month day"> 1 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-02" class="mon past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-02">2</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2187.field_date.0.0 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/labour-day-statutory-holiday-2"><strong>Labour Day (statutory holiday)</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-03" class="tue past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-03">3</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2190.field_date.0.1 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/classes-begin-in-second-and-third-year-law-0"><strong>Classes begin in Second and Third Year Law</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2189.field_date.0.2 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/registration-for-first-year-law-students-0"><strong>Registration for First Year Law students</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2188.field_date.0.3 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/windsor-welcome-week-orientation-days-1"><strong>&quot;Windsor Welcome Week&quot; orientation days</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2191.field_date.0.4 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-for-first-year-law-2"><strong>Orientation for First Year Law</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2194.field_date.0.5 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-begins-for-clinical-nursing-courses-0"><strong>Orientation begins for Clinical Nursing courses</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-04" class="wed past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-04">4</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2188.field_date.0.3 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/windsor-welcome-week-orientation-days-1"><strong>&quot;Windsor Welcome Week&quot; orientation days</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2193.field_date.0.6 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-for-social-work-students-newly-admitted-to-the-professional-years-of-the-bsw-program-0"><strong>Orientation for Social Work students newly admitted to the professional years of the BSW program</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2191.field_date.0.4 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-for-first-year-law-2"><strong>Orientation for First Year Law</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2194.field_date.0.5 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-begins-for-clinical-nursing-courses-0"><strong>Orientation begins for Clinical Nursing courses</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-05" class="thu past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-05">5</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2196.field_date.0.7 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-for-returning-final-year-bsw-students-0"><strong>Orientation for returning (final year) BSW students</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2195.field_date.0.8 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/all-classes-begin-day-and-evening-except-law-4"><strong>All classes begin, day and evening, except Law</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2191.field_date.0.4 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-for-first-year-law-2"><strong>Orientation for First Year Law</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2194.field_date.0.5 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-begins-for-clinical-nursing-courses-0"><strong>Orientation begins for Clinical Nursing courses</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-06" class="fri past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-06">6</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2191.field_date.0.4 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-for-first-year-law-2"><strong>Orientation for First Year Law</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2194.field_date.0.5 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-begins-for-clinical-nursing-courses-0"><strong>Orientation begins for Clinical Nursing courses</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-07" class="sat past has-no-events">
+            <div class="inner"><div class="month day"> 7 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-08" class="week">
+            <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W37">37</a>          </td>
+                  <td id="events_calendar-2013-09-08" class="sun past has-no-events">
+            <div class="inner"><div class="month day"> 8 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-09" class="mon past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-09">9</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2198.field_date.0.9 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/field-education-i-begins-in-social-work-0"><strong>Field Education I begins in Social Work</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2197.field_date.0.10 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/classes-begin-in-first-year-law-2"><strong>Classes begin in First Year Law</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-10" class="tue past has-no-events">
+            <div class="inner"><div class="month day"> 10 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-11" class="wed past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-11">11</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2192.field_date.0.11 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/orientation-for-incoming-regular-track-2-year-msw-students-2"><strong>Orientation for incoming regular track, 2-year MSW students.</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-12" class="thu past has-no-events">
+            <div class="inner"><div class="month day"> 12 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-13" class="fri past has-no-events">
+            <div class="inner"><div class="month day"> 13 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-14" class="sat past has-no-events">
+            <div class="inner"><div class="month day"> 14 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-15" class="week">
+            <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W38">38</a>          </td>
+                  <td id="events_calendar-2013-09-15" class="sun past has-no-events">
+            <div class="inner"><div class="month day"> 15 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-16" class="mon past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-16">16</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2199.field_date.0.12 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/last-day-for-course-changes-in-law-4"><strong>Last day for course changes in Law</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-17" class="tue past has-no-events">
+            <div class="inner"><div class="month day"> 17 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-18" class="wed past has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-18">18</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2202.field_date.0.13 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/last-day-for-the-oral-defense-of-dissertations-theses-and-major-papers-for-fall-convocation-gradua-1"><strong>Last day for the oral defense of dissertations, theses and major papers for Fall Convocation (graduate degrees)</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2201.field_date.0.14 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/last-day-for-full-tuition-refund-1"><strong>Last day for full tuition refund</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2200.field_date.0.15 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/last-day-for-late-registration-and-change-of-course-for-fall-term-day-and-evening-except-law-1"><strong>Last day for late registration and change of course for Fall term, day and evening, except Law</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-19" class="thu past has-no-events">
+            <div class="inner"><div class="month day"> 19 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-20" class="fri past has-no-events">
+            <div class="inner"><div class="month day"> 20 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-21" class="sat today has-no-events">
+            <div class="inner"><div class="month day"> 21 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-22" class="week">
+            <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W39">39</a>          </td>
+                  <td id="events_calendar-2013-09-22" class="sun future has-no-events">
+            <div class="inner"><div class="month day"> 22 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-23" class="mon future has-no-events">
+            <div class="inner"><div class="month day"> 23 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-24" class="tue future has-no-events">
+            <div class="inner"><div class="month day"> 24 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-25" class="wed future has-events">
+            <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-25">25</a> </div><div class="view-item view-item-events_calendar">
+  <div class="calendar.2204.field_date.0.16 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2"><strong>Last day for completion of all requirements for graduate degrees under Phase I (100% tuition refund)</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.2203.field_date.0.17 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0"><strong>Last day to deposit dissertations, theses and major papers for Fall Convocation (graduate degrees)</strong></a>      </div>  
+      </div>    
+</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-26" class="thu future has-no-events">
+            <div class="inner"><div class="month day"> 26 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-27" class="fri future has-no-events">
+            <div class="inner"><div class="month day"> 27 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-28" class="sat future has-no-events">
+            <div class="inner"><div class="month day"> 28 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+          <tr>
+                  <td id="events_calendar-weekno-2013-09-29" class="week">
+            <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W40">40</a>          </td>
+                  <td id="events_calendar-2013-09-29" class="sun future has-no-events">
+            <div class="inner"><div class="month day"> 29 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-09-30" class="mon future has-no-events">
+            <div class="inner"><div class="month day"> 30 </div><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-01" class="tue empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-02" class="wed empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-03" class="thu empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-04" class="fri empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+                  <td id="events_calendar-2013-10-05" class="sat empty">
+            <div class="inner"><div class="calendar-empty">&nbsp;</div>
+</div>          </td>
+              </tr>
+      </tbody>
+</table>
+</div></div>    </div>
+  
+  
+      <div class="view-footer">
+      <div class="add-calendar-ical">
+              <a href="/registrar/ical/events/" title="Add all events into your calendar using the iCAL format"><img src="/registrar/sites/all/themes/unified_department/images/ical.png" alt="Add all events into your calendar using the iCAL format" /></a>
+                  </div>    </div>
+  
+  
+</div>                                   </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-block-39" class="block block-block region-odd even region-count-1 count-6 no-title  "><div class="block-inner">
+    <div class="content">
+    <style type="text/css">
+.rightsidebar{
+display:none;
+}
+.content-leftside{
+width: 715px;
+}
+</style>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-2 count-7 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 25, 2013 <a href="/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall Convocation (graduate degrees)</a></li><li>Sep 25, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase I (100% tuition refund)</a></li><li>Oct 2, 2013 <a href="/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></li><li>Oct 14, 2013 <a href="/registrar/thanksgiving-day-statutory-holiday-no-classes-2">Thanksgiving Day (statutory holiday) - No classes</a></li><li>Oct 18, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8">Last day for completion of all requirements for graduate degrees under Phase II (50% tuition refund)</a></li><li>Oct 19, 2013 <a href="/registrar/fall-convocation-2">Fall Convocation</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-for-partial-tuition-refund-3">Last day for partial tuition refund</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-to-voluntarily-withdraw-from-fall-term-courses-0">Last day to voluntarily withdraw from Fall term courses</a></li><li>Nov 8, 2013 <a href="/registrar/university-day-open-house-0">University Day: Open House</a></li><li>Dec 2, 2013 <a href="/registrar/last-day-of-classes-day-and-evening-including-law-2">Last day of classes, day and evening, including Law</a></li></ul></div><div class="more-link"><a href="/registrar/calendar/events" class="active">VIEW CALENDAR</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/registrar/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-3246538-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Office of the Registrar ABCXYZ -->
+</body>
+</html>

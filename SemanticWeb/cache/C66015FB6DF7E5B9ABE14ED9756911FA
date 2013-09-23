@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Welcome Parents and Families | Residence - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-09-18 11:42:58" />
+<meta name="created" content="2009-11-26 02:59:36" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/residence/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="News" href="/residence/newsfeed" />
+    <style type="text/css">
+          @import url('/residence/modules/aggregator/aggregator.css');
+          @import url('/residence/modules/node/node.css');
+          @import url('/residence/modules/system/defaults.css');
+          @import url('/residence/modules/system/system.css');
+          @import url('/residence/modules/system/system-menus.css');
+          @import url('/residence/modules/user/user.css');
+          @import url('/residence/sites/all/modules/cck/theme/content-module.css');
+          @import url('/residence/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/residence/sites/all/modules/ctools/css/ctools.css');
+          @import url('/residence/sites/all/modules/date/date.css');
+          @import url('/residence/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/residence/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/residence/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/residence/sites/all/modules/filefield/filefield.css');
+          @import url('/residence/misc/farbtastic/farbtastic.css');
+          @import url('/residence/sites/all/modules/calendar/calendar.css');
+          @import url('/residence/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/residence/sites/all/modules/views/css/views.css');
+          @import url('/residence/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/residence/sites/all/themes/zen/zen/ie.css?D" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/residence/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/residence/sites/all/modules/jquery_update/replace/jquery.js?D"></script>
+<script type="text/javascript" src="/residence/misc/drupal.js?D"></script>
+<script type="text/javascript" src="/residence/sites/all/modules/google_analytics/googleanalytics.js?D"></script>
+<script type="text/javascript" src="/residence/sites/all/modules/pngfix/jquery.pngFix.js?D"></script>
+<script type="text/javascript" src="/residence/sites/all/modules/calendar/jcalendar/jcalendar.js?D"></script>
+<script type="text/javascript" src="/residence/sites/all/themes/unified_department/responsive/responsive.js?D"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/residence\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/residence\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/residence/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/residence/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/residence/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/residence/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/residence/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page two-sidebars page-parents-page section-parents-page page-parents-page section-parents-page ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/residence/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/residence/parents-page" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/residence/parents-page"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-8d767e424d0a24be9f7589f98abf879b" value="form-8d767e424d0a24be9f7589f98abf879b"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/residence/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/residence/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/residence/residence-at-university-of-windsor" title="Welcome to Residence at University of Windsor" class="length-short">Welcome</a></li>
+<li class="leaf"><a href="/residence/apply-to-residence" title="All Applications 2013-2014" class="length-short">Apply to Residence</a></li>
+<li class="leaf"><a href="/residence/International-Students" title="International Students" class="length-short">International Students</a></li>
+<li class="leaf"><a href="/residence/residence-halls" title="Residence Halls" class="length-short">Residence Halls</a></li>
+<li class="collapsed"><a href="/residence/life-in-residence" title="Life in Residence" class="length-short">Life in Residence</a></li>
+<li class="leaf"><a href="/residence/procedures-and-forms" title="Procedures and Forms" class="length-short">Procedures and Forms</a></li>
+<li class="collapsed active-trail"><a href="/residence/parents-page" title="Parents and Families" class="length-short active">Parents and Families</a></li>
+<li class="collapsed"><a href="/residence/contact-us" title="Contact Us" class="length-short">Contact Us</a></li>
+<li class="leaf last"><a href="/residence/faqs" title="FAQ&#039;s" class="length-short">FAQ&#039;s</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                            <div class="spiff_block">
+                <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
+          <h2 class="title">SPIFF</h2>
+    <div class="content">
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/6350-Residence-poster_1_spiff.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/residence/apply-to-residence" target="_self">Residence and University </a></div><div class="summary">Live and Learn in the Heart of Campus, Applying is Easy!</div><div class="read_more"><a href="http://www.uwindsor.ca/residence/apply-to-residence" target="_self">Read</a></div></div>  </div>
+  <div class="bpng"><img alt="bpng" src="/residence/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/residence/system/files/imagecache/header_left_image/resWelcomeBanners_vietnamese.jpg" alt="Welcome to Residence" title="Welcome to Residence" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                                  </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/residence">Residence</a> / <a href="/residence/parents-page" class="active">Parents and Families</a></div>                                      <h1 class="title">Welcome Parents and Families</h1>
+                                                                                          <div id="node-676" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <p>We understand that education doesn&#39;t end in the classroom.&nbsp; Whether you live close to home or kilometers away, we hope that you&#39;ll consider residence living for your son or daughter.&nbsp; Apart from the obvious benefits of being close to classes or services on campus, our full student staff live in the residence communities and assist with the transition through university life.</p>
+<h4>
+	Sharing Information</h4>
+<p>Residence Services is bound by Freedom of Information and Protection of Privacy Act (FIPPA) and cannot release information nor discuss a student with a parent and/or guardian without the written permission of the student.</p>
+<p>&nbsp;</p>
+<div class="media_embed">
+<div height="" id="vidcat4616" width="">
+		<a href="http://cleo.uwindsor.ca/vidlinks/13E59C2208C6613B.html">Loading video, please wait...</a> 
+<script src="http://cleo.uwindsor.ca/vidlinks/13E59C2208C6613B.js" type="text/javascript">
+			</script></div>
+</div>
+<p>&nbsp;</p>
+<p><a href="http://uwindsor.ca/residence/campus-safety">Safety</a></p>
+<p class="rtejustify"><a href="http://www1.uwindsor.ca/residence/system/files/Comparing%20costs%20new%20Sep%2017%2C%202013.pdf" title="Comparing Costs"><span>Comparing Costs</span></a></p>
+<p class="rtejustify"><a href="http://www1.uwindsor.ca/residence/system/files/Fees%20for%202013%202014%20May%202013_0.pdf" title="Residence Fees"><span>Fees</span></a></p>
+<p class="rtejustify"><a href="http://uwindsor.ca/residence/financial-help">Residence Scholarships</a></p>
+<p class="rtejustify"><a href="http://uwindsor.ca/orientation/head-start"><span>Head Start</span></a></p>
+<p class="rtejustify"><a href="http://uwindsor.ca/orientation/summer-information-program"><span>Summer Information Program</span></a></p>
+<p class="rtejustify"><a href="http://uwindsor.ca/windsorwelcome/"><span>WWW - Windsor Welcome Week</span></a></p>
+<p class="rtejustify"><a href="http://uwindsor.ca/residence/health-wellness"><span>Health &amp; Wellness</span></a></p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-block-31" class="block block-block region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
+    <div class="content">
+    <p class="rtecenter"><a href="http://www.uwindsor.ca/residence/all-applications-2012-2013" target="_blank" title="Apply Now"><img alt="ApplyNow" src="/residence/system/files/applynow.jpg" /></a></p>
+<table align="center" border="1" cellpadding="1" cellspacing="1">
+<tbody>
+<tr>
+<td>
+<p class="rtecenter"><strong><a href="http://www1.uwindsor.ca/residence/residence-welcome-package" title="Residence Welcome Package">Move-in Info Here</a></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="4" cellpadding="1" cellspacing="1" height="100" width="399">
+<tbody>
+<tr>
+<td class="rtecenter">
+<p><a href="http://www1.uwindsor.ca/residence/system/files/Campus%20Linens%20SD%204July13.pdf" title="Campus Linens Order Form"><strong>Campus Linens Canada<br />
+					Order Here</strong></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h6 class="rtecenter">
+	<strong>Click logo below to apply for<br />
+	2013-2014<br />
+	RLS Positions</strong></h6>
+<p class="rtecenter">&nbsp;<a href="http://www1.uwindsor.ca/residence/leadership-opportunities-0"><img alt="Residence Life" src="/residence/system/files/ResLifeLogoForWebsite(1).jpg" /></a></p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-24" class="block block-block region-even even region-count-2 count-6 related related-links"><div class="block-inner">
+          <h2 class="title">Related Links</h2>
+    <div class="content">
+    <ul>
+<li>
+		<a href="http://www.uwindsor.ca/residence/getting-involved" title="Getting Involved">Getting Involved </a></li>
+<li>
+		<a href="http://www1.uwindsor.ca/residence/system/files/MarApr%202013.pdf">March/April&nbsp;2013 Rez Lifeline</a><a href="http://www.uwindsor.ca/residence/system/files/MarApr%202013.pdf" title="March April 2013"> </a></li>
+<li>
+		<a href="http://web2.uwindsor.ca/pac/onlinetour/residence.php" title="Campus Tour">Campus Tour</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/sia/" target="_blank" title="Student and International Affairs">Student &amp; International Affairs</a></li>
+<li>
+		<a href="http://www1.uwindsor.ca/residence/system/files/ABC%20SAFECO%20FlyerJune2013.pdf">ABC Safeco Order Form</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/residence/leadership-opportunities-0" target="_blank" title="Leadership Opportunities">Leadership Opportunities</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/isc/">International Student Centre (ISC)</a></li>
+<li>
+		<a href="http://www.laundryview.com/lvs.php?s=316" target="_blank" title="Laundry View">Laundry View</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/cashiers/pay-using-online-banking" target="_blank">Online banking</a></li>
+<li>
+		<a href="/residence/primus" target="_blank" title="Primus Long Distance">Primus</a></li>
+<li>
+		<a href="http://uwindsor.ca/uwincard">UwinCARD Office</a></li>
+</ul>
+<p>&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/residence/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-6"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Residence ABCXYZ -->
+</body>
+</html>

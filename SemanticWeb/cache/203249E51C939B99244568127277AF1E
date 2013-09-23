@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="robots" content="noindex">
+<meta name="googlebot" content="noindex">
+<meta http-equiv="refresh" content="0;url=http://www.uwindsor.ca/cce/co-operative-education-0">
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/units/cce/Employers.nsf/0/2291abb1394c31488525705b005cf927!OpenDocument&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+
+<form action="">Redirecting to <a href="http://www.uwindsor.ca/cce/co-operative-education-0">http://www.uwindsor.ca/cce/co-operative-education-0</a><br>
+<noscript>
+<p></form>
+</body>
+</html>

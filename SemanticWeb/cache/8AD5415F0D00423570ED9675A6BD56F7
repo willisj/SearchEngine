@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Events Calendar | School of Computer Science 
+X-WR-TIMEZONE:America/New_York
+PRODID:-//UofW Drupal iCal v2.1 API//EN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.1459.field_date.0.0
+SUMMARY:Managing Cloud Resources: Key Problems and Solutions - Professor Shikharesh  \n Majumdar
+DTSTAMP:20130921T205905
+DTSTART:20130904T110000
+DTEND:20130904T120000
+URL;VALUE=URI:http://www1.uwindsor.ca/cs/1459/managing-cloud-resources-key-problems-and-solutions-professor-shikharesh-majumdar#20130904T110000
+LOCATION:2125Erie Hall
+END:VEVENT
+END:VCALENDAR

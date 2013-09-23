@@ -1,0 +1,465 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Invest in Odette | Odette</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-01-10 04:20:39" />
+<meta name="created" content="2009-08-21 10:17:43" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/odette/sites/uwindsor.ca.odette/themes/odette/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+<meta name="description" content="Your support makes a difference. When you support the Odette School of Business, whatever the amount, your gift makes an impact. Making a contribution to the Odette School of Business helps to provide students with the tools for a great education, one that helps them develop their talents and establish their place in the world." />
+<meta name="dcterms.description" content="Your support makes a difference. When you support the Odette School of Business, whatever the amount, your gift makes an impact. Making a contribution to the Odette School of Business helps to provide students with the tools for a great education, one that helps them develop their talents and establish their place in the world." />
+<meta name="dcterms.date" content="2012-07-05T00:00:00Z" />
+<link rel="canonical" href="http://www1.uwindsor.ca/odette/invest-in-odette" />
+<meta name="revisit-after" content="1 day" />
+<meta name="geo.position" content="0;0" />
+<meta name="icbm" content="0,0" />
+  <link type="text/css" rel="stylesheet" media="all" href="/odette/modules/aggregator/aggregator.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/modules/node/node.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/modules/system/defaults.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/modules/system/system.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/modules/system/system-menus.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/modules/user/user.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/cck/theme/content-module.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/ckeditor/ckeditor.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/date/date.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/date/date_popup/themes/datepicker.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/filefield/filefield.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/views/css/views.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/all/modules/print/css/printlinks.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/odette/html-elements.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/zen/zen/tabs.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/zen/zen/messages.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/zen/zen/block-editing.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/zen/zen/wireframes.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/odette/odette.css?Q" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/odette/odette/food/awards/sites/uwindsor.ca.odette/themes/odette/ie.css?Q" />
+<![endif]-->
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/odette/odette/food/awards/sites/uwindsor.ca.odette/themes/odette/ie.css?Q" />
+<![endif]-->
+  <script type="text/javascript" src="/odette/sites/all/modules/jquery_update/replace/jquery.js?Q"></script>
+<script type="text/javascript" src="/odette/misc/drupal.js?Q"></script>
+<script type="text/javascript" src="/odette/sites/all/modules/google_analytics/googleanalytics.js?Q"></script>
+<script type="text/javascript" src="/odette/sites/all/modules/pngfix/jquery.pngFix.js?Q"></script>
+<script type="text/javascript" src="/odette/sites/uwindsor.ca.odette/modules/custom/js/chili-1.7.pack.js?Q"></script>
+<script type="text/javascript" src="/odette/sites/uwindsor.ca.odette/modules/custom/js/jquery.cycle.all.js?Q"></script>
+<script type="text/javascript" src="/odette/sites/uwindsor.ca.odette/modules/custom/js/jquery.easing.1.1.1.js?Q"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/odette\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image,.slideshow_overlay_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".view-id-archive li a").each(function() {
+      if(this.href == window.location) $(this).addClass("active");
+    });
+  });
+
+</script>
+</head>
+<body class="not-front not-logged-in node-type-page two-sidebars page-invest-in-odette section-invest-in-odette page-invest-in-odette section-invest-in-odette">
+
+<div class="wrapper-outer">
+	<div class="header">
+    	<div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/odette/invest-in-odette" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+      
+      <div class="site-logo"> <a href="/odette/" title="Home" rel="home"><img src="/odette/sites/uwindsor.ca.odette/themes/odette/logo.png" alt="Home" id="logo-image" /></a> </div>
+      <div class="header-left">
+			<div class="top_searches">
+				<div class="ask_search"><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-7 "><div class="block-inner">
+
+  
+  <div class="content">
+    <form action="/odette/invest-in-odette"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search Odette: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="Search Odette" onfocus="this.value=&#039;&#039;;" onblur="if(this.value==&#039;&#039;){this.value=&#039;Search Odette&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-e24c91bc85a808448d1bd3581625e90d" value="form-e24c91bc85a808448d1bd3581625e90d"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    
+</div></div> <!-- /block-inner, /block -->
+ </div>
+			</div>
+      </div>
+      <div class="top_menu"><ul class="links"><li class="menu-4894 first"><a href="/odette/about-odette" target="_self" rel="" title="Welcome to the Odette Experience!">About Odette</a></li>
+<li class="menu-4895"><a href="/odette/undergraduate-programs" target="_self" rel="" title="The Odette BComm">Undergraduate Programs</a></li>
+<li class="menu-4896"><a href="/odette/graduate-programs" target="_self" rel="" title="Odette Graduate Programs">Graduate Programs</a></li>
+<li class="menu-4897"><a href="/odette/business-research" target="_self" rel="" title="Business Research">Faculty &amp; Research</a></li>
+<li class="menu-4898 last"><a href="/odette/community-partnerships" target="_self" rel="" title="Community &amp; Partnerships">Community &amp; Partnerships</a></li>
+</ul></div>   
+      </div>
+    </div>
+    <!-- Primary Links -->
+	        <div class="primary_menu">
+        <div id="primary"><div class="gateway-label">Gateways for: </div><div id="block-menu-menu-audiencenavigation" class="block block-menu region-odd odd region-count-1 count-9 "><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/odette/apply-to-odette" target="_self" rel="" title="Apply to the Odette School of Business">Apply to Odette</a></li>
+<li class="leaf active-trail"><a href="/odette/invest-in-odette" target="_self" rel="" title="Donate to the Odette School of Business" class="active">Invest in Odette</a></li>
+<li class="leaf last"><a href="/odette/hire-an-odette-student" target="_self" rel="" title="Hire an Odette Student or Graduate">Hire an Odette Student</a></li>
+</ul>  </div>
+    
+</div></div> <!-- /block-inner, /block -->
+</div>
+      </div>
+            <!-- Primary Links Ends -->
+		  <!-- Content container -->
+  <div class="content_container">
+    <div class="white-px">
+      <div class="content-wrapper">
+        <div class="leftsidebar">
+                    <div id="block-menu-menu-tacticalmenu" class="block block-menu region-odd odd region-count-1 count-1 "><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/odette/apply-to-odette" target="_self" rel="" title="Apply to Odette">Apply to Odette</a></li>
+<li class="leaf active-trail"><a href="/odette/invest-in-odette" target="_self" rel="" title="Invest in Odette" class="active">Invest in Odette</a></li>
+<li class="leaf last"><a href="/odette/hire-an-odette-student" target="_self" rel="" title="Hire an Odette Student">Hire an Odette Student</a></li>
+</ul>  </div>
+    
+</div></div> <!-- /block-inner, /block -->
+                            </div>
+        <div class="right-area">
+          <div class="right-area-shadow"><img src="/odette/sites/uwindsor.ca.odette/themes/odette/images/gradent-shadow.png" width="735" height="9" alt="tpng" /></div>
+          <div class="content_top">
+            <div id="head_img" class="header_image"><div id="block-custom-2" class="block block-custom region-odd even region-count-1 count-10 "><div class="block-inner">
+
+  
+  <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/header_left_image/Invest%20in%20Odette%20-%20Conway%20and%20L%20Odette.jpg" alt="Allan Conway with Louis Odette" title="" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    
+</div></div> <!-- /block-inner, /block -->
+</div>            <div class="header_random_images"><div id="block-custom-0" class="block block-custom region-odd odd region-count-1 count-11 "><div class="block-inner">
+
+      <h2 class="title">Odette Highlights</h2>
+  
+  <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/244by123_slide_image/spif/images/header/MBAs.jpg" alt="MBAs at Valiant" title="MBAs at Valiant" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/odette/sites/uwindsor.ca.odette/modules/custom/bg-gradient.png" class="right-grad" alt="The Odette MBA"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.odettemba.ca" target="_blank">The Odette MBA</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/244by123_slide_image/spif/images/header/Exchange.jpg" alt="International Exchange" title="International Exchange" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/odette/sites/uwindsor.ca.odette/modules/custom/bg-gradient.png" class="right-grad" alt="International Exchange"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/odette/international-exchange-opportunities">International Exchange</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/244by123_slide_image/spif/images/header/Odette%20CPA%20Pathway.jpg" alt="Odette CPA Pathway" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/odette/sites/uwindsor.ca.odette/modules/custom/bg-gradient.png" class="right-grad" alt="Odette CPA Pathway"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/odette/cpa-pathway">Odette CPA Pathway</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/244by123_slide_image/spif/images/header/South%20Wing%20Reno.JPG" alt="Odette building south wing" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/odette/sites/uwindsor.ca.odette/modules/custom/bg-gradient.png" class="right-grad" alt="Grand Opening"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/odette/south-wing-grand-opening" target="_blank">Grand Opening</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/244by123_slide_image/spif/images/header/RPLI.jpg" alt="Richard Peddie Leadership Initiative" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/odette/sites/uwindsor.ca.odette/modules/custom/bg-gradient.png" class="right-grad" alt="Leadership Initiative"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/odette/rpli">Leadership Initiative</a></div>
+  </div>
+  </div></div><div class="nav"><a href="/odette/%2523" id="prev2">Prev</a><a href="/odette/%2523" id="next2">Next</a></div>  </div>
+    
+</div></div> <!-- /block-inner, /block -->
+</div>          
+                      
+          </div>
+          <div class="content-area">
+			<div class="content-leftside">
+			 <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="/odette/invest-in-odette" class="active">Invest in Odette</a></div>                        <h1 class="title">Invest in Odette</h1>
+                        
+                        			 <div id="node-730" class="node node-type-page"><div class="node-inner">
+
+  
+  
+
+  <div class="content">
+    <p><strong>Your support makes a difference.</strong></p>
+<p>When you support the Odette School of Business, whatever the amount, your gift makes an impact. Making a contribution to the Odette School of Business helps to provide students with the tools for a great education, one that helps them develop their talents and establish their place in the world. Supporting the Odette School of Business is a smart investment in students and their campus environment. You may choose to support the following needs or specify another designation of your choice:</p>
+<p>&nbsp; &nbsp; &bull; student scholarships<br />
+	&nbsp;&nbsp;&nbsp; &bull; student recognition events<br />
+	&nbsp;&nbsp;&nbsp; &bull; undergraduate and graduate student case competitions<br />
+	&nbsp;&nbsp;&nbsp; &bull; faculty chairs<br />
+	&nbsp;&nbsp;&nbsp; &bull; facilities expansion</p>
+<p>Your gift will help bright young minds grow and thrive. Please remember, all gifts are tax-deductible and you will receive a receipt.</p>
+<p>To learn more about how to make a contribution, contact Odette Fund Development Officer Susan Maxwell at (519) 253-3000 ext. 3146 or <a href="mailto:smaxwell@uwindsor.ca?subject=Invest%20in%20Odette">smaxwell@uwindsor.ca</a>.</p>
+<p>Or you might consider investing in Odette by completing the secure online giving form below.</p>
+<p><strong>Please remember to designate your donation to the Odette School of Business in the appropriate place on the form.</strong></p>
+<h3>
+	<a href="http://web4.uwindsor.ca/units/advancement/forms.nsf/Donations?OpenForm" target="_blank">Online Giving Form</a></h3>
+<p class="rtecenter">&nbsp;<a href="/units/advancement/forms.nsf/Donations?OpenForm" target="_blank"><img align="left" alt="" src="/odette/sites/www.uwindsor.ca.odette/files/OSB Logo - Thumbnail_0.jpg" /></a></p>
+<p>
+	&nbsp;</p>
+  </div>
+
+  
+</div></div> <!-- /node-inner, /node -->
+            			</div>
+          </div>
+          <div class="rightsidebar"> <div id="block-block-71" class="block block-block region-odd even region-count-1 count-2  related"><div class="block-inner">
+      <h2 class="title">Related Links</h2>
+    <div class="content">
+    <ul>
+<li><a target="_blank" href="http://www.uwindsor.ca/alumni">UWindsor Alumni</a></li>
+<li><a target="_blank" href="http://www.uwindsor.ca/advancement/">University Advancement</a></li>
+</ul>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<div id="block-views-dept_news-block_1" class="block block-views region-even odd region-count-2 count-3 red_title"><div class="block-inner">
+
+      <h2 class="title">What’s going on at Odette</h2>
+  
+  <div class="content">
+    <div class="view view-dept-news view-id-dept_news view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+           <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/business-student-completed-six-touchdown-passes">Business student completed six touchdown passes <p></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/south-wing-grand-opening">Odette to open new south wing during UWindsor 50th...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/mba-luncheon-2013">MBA student achievements honoured at annual luncheon...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/2013-pulse-of-the-region-report">Odette announces results of regional economic oulook...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/langlois-athlete-of-the-year">Business student shares in athlete of the year honours...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/toastmasters-competition-2013">Toastmasters host speech and evaluation contest <p></a></span>
+  </div>
+  </div>
+       </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="read-all-news"><a href="/odette/odette-news">READ ALL NEWS</a></div>    </div>
+  
+  
+</div>   </div>
+    
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-76" class="block block-block region-odd even region-count-3 count-4 "><div class="block-inner">
+
+  
+  <div class="content">
+    <p>
+	<a href="http://www.whateveryouwanttobe.ca"><img alt="Whatever You Want To Be" src="http://business.uwindsor.ca/system/files/small_Windsor_ad.jpg" style="width: 240px; height: 125px;" /></a></p>
+  </div>
+    
+</div></div> <!-- /block-inner, /block -->
+ </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Content container ends -->
+  <!-- Footer -->
+  <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links"><li class="0 first"><a href="/odette/contact">Contact Us</a></li>
+<li class="1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+                  </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/odette/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.cagraduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="/odette/awards">Scholarships &amp; Awards</a></li>
+<li><a href="/odette/residence">Residence</a></li>
+<li><a href="/odette/food">Food Services</a></li>
+<li class="last"><a href="/odette/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+  <!-- Footer Ends -->
+</div>      
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-10"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

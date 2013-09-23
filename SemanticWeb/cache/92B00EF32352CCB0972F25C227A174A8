@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Events Calendar | School of Computer Science 
+X-WR-TIMEZONE:America/New_York
+PRODID:-//UofW Drupal iCal v2.1 API//EN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.1380.field_date.0.0
+SUMMARY:Computer Science Master's Thesis Defense - Ala Shaabana
+DTSTAMP:20130921T205920
+DTSTART:20130513T140000
+DTEND:20130513T140000
+URL;VALUE=URI:http://www1.uwindsor.ca/cs/1380/computer-science-masters-thesis-defense-ala-shaabana#20130513T140000
+LOCATION:3105Lambton Tower
+END:VEVENT
+END:VCALENDAR

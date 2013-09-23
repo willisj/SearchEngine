@@ -1,0 +1,599 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Student Access Guarantee | Student Awards & Financial Aid - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2012-07-26 09:05:10" />
+<meta name="created" content="2009-07-02 09:11:56" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/awards/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+<link rel="alternate" type="application/rss+xml" title="News" href="/awards/newsfeed" />
+<meta name="description" content="To the best of our ability we ensure that available funds are directed to those students who are most in need, taking personal and family resources into consideration." />
+<meta name="dcterms.description" content="To the best of our ability we ensure that available funds are directed to those students who are most in need, taking personal and family resources into consideration." />
+<link rel="canonical" href="http://www1.uwindsor.ca/awards/student-access-guarantee" />
+<meta name="revisit-after" content="1 day" />
+<meta name="geo.position" content="0;0" />
+<meta name="icbm" content="0,0" />
+    <style type="text/css">
+          @import url('/awards/modules/aggregator/aggregator.css');
+          @import url('/awards/modules/node/node.css');
+          @import url('/awards/modules/system/defaults.css');
+          @import url('/awards/modules/system/system.css');
+          @import url('/awards/modules/system/system-menus.css');
+          @import url('/awards/modules/user/user.css');
+          @import url('/awards/sites/all/modules/cck/theme/content-module.css');
+          @import url('/awards/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/awards/sites/all/modules/ctools/css/ctools.css');
+          @import url('/awards/sites/all/modules/date/date.css');
+          @import url('/awards/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/awards/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/awards/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/awards/sites/all/modules/filefield/filefield.css');
+          @import url('/awards/misc/farbtastic/farbtastic.css');
+          @import url('/awards/sites/all/modules/calendar/calendar.css');
+          @import url('/awards/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/awards/sites/all/modules/views/css/views.css');
+          @import url('/awards/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/awards/sites/all/themes/zen/zen/ie.css?w" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/awards/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/awards/sites/all/modules/jquery_update/replace/jquery.js?w"></script>
+<script type="text/javascript" src="/awards/misc/drupal.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/google_analytics/googleanalytics.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/pngfix/jquery.pngFix.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/calendar/jcalendar/jcalendar.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/themes/unified_department/responsive/responsive.js?w"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/awards\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/awards\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/awards/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/awards/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/awards/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/awards/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/awards/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page two-sidebars page-student-access-guarantee section-student-access-guarantee page-student-access-guarantee section-student-access-guarantee ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/awards/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/awards/student-access-guarantee" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/awards/student-access-guarantee"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-95ac2aba25705b4a40af2502dbb4327e" value="form-95ac2aba25705b4a40af2502dbb4327e"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/awards/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/awards/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/awards/student-awards-financial-aid" title="Student Awards &amp; Financial Aid" target="_self" rel="" class="length-short">Home</a></li>
+<li class="leaf"><a href="/awards/scholarships-and-bursaries-0" title="link to the Scholarships &amp; Bursaries section of the Awards website" target="_self" rel="" class="length-long">Scholarships, Awards &amp; Bursaries</a></li>
+<li class="leaf"><a href="/awards/ontario-student-assistance-program" title="Ontario Student Assistance Program" target="_self" rel="" class="length-long">Ontario Student Assistance Program (OSAP)</a></li>
+<li class="leaf"><a href="/awards/ontario-tuition-grant" target="_self" rel="" title="Ontario Tuition Grant" class="length-long">30% Off Ontario Tuition Grant</a></li>
+<li class="leaf"><a href="http://www.uwindsor.ca/awards/work-study-student-information" title="" target="_self" rel="" class="length-short">Work Study</a></li>
+<li class="leaf"><a href="/awards/out-of-province-students" target="_self" rel="" title="Out of Province Students" class="length-short">Out of Province Students</a></li>
+<li class="leaf"><a href="http://www.uwindsor.ca/awards/node/816" target="_self" rel="" title="US Federal Student Aid" class="length-short">US Federal Funding</a></li>
+<li class="leaf active-trail"><a href="/awards/student-access-guarantee" title="Student Access Guarantee" target="_self" rel="" class="length-short active">Student Access Guarantee</a></li>
+<li class="leaf"><a href="/awards/financial-planning" title="Links to Financial Planning Websites" target="_self" rel="" class="length-short">Financial Planning Links</a></li>
+<li class="leaf"><a href="/awards/frequently-asked-questions" title="Frequently Asked Questions" target="_self" rel="" class="length-long">Frequently Asked Questions (OSAP)</a></li>
+<li class="leaf"><a href="/awards/faqs-scholarships-awards" target="_self" rel="" title="FAQs - Scholarships &amp; Awards" class="length-long">Frequently Asked Questions (Scholarships)</a></li>
+<li class="leaf"><a href="/awards/what-do-you-do-if-you-have-a-concern-regarding-your-financial-aid" title="What do you do if you have a concern regarding your financial aid?" target="_self" rel="" class="length-long">Student Problem Resolution</a></li>
+<li class="leaf"><a href="/awards/annual-reports" target="_self" rel="" title="Annual Reports" class="length-short">Annual Reports</a></li>
+<li class="leaf last"><a href="/awards/Notice-of-Collection" target="_self" rel="" title="Student Awards Notice of Collection &amp; Use of Personal Information" class="length-short">Notice of Collection</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-34" class="block block-block region-even odd region-count-2 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    	
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_social-sharelinks" class="block block-uw_social region-odd even region-count-3 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script><div class="share-facebook button_count send">
+<div id="fb-root"></div>
+<fb:like href="http://www1.uwindsor.ca/awards/student-access-guarantee" show_faces="false" width="135" font="tahoma" send="true" layout="button_count" action="like"></fb:like></div><!-- /.share-facebook -->
+<div class="share-twitter horizontal">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="UWindsor">Tweet</a>
+</div><!-- /.share-twitter -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<div class="share-google standard count">
+<g:plusone size="standard"></g:plusone>
+<script type="text/javascript">// <![CDATA[
+              (function() {
+              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+              po.src = 'https://apis.google.com/js/plusone.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+              //]]>
+              </script>
+</div><!-- /.share-google -->
+<br clear="all" />
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/header_left_image/studentawards_banner.jpg" alt="Student Awards &amp; Financial Aid Office Banner" title="Student Awards &amp; Financial Aid Office Banner" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd even region-count-1 count-6  scholarship-recipients"><div class="block-inner">
+          <h2 class="title">Scholarship Recipients</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/244by123_slide_image/slideshow/Botsford-243x125.JPG" alt="Sabrina Botsford" title="Sabrina Botsford" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/awards/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Focus on Studies"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/awards/focus-on-studies-benefits-of-scholarships" target="0">Focus on Studies</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/244by123_slide_image/slideshow/jess2-243x150.jpg" alt="Jessica Baillargeon" title="Jessica Baillargeon" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/awards/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Student Dreams"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/awards/scholarships-fund-student-dreams" target="0">Student Dreams</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/244by123_slide_image/slideshow/Kyle%20Gerard-243x125.JPG" alt="Kyle Gerard" title="Kyle Gerard" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/awards/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="A Real Motivator"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/awards/its-a-real-motivator" target="0">A Real Motivator</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/awards">Student Awards & Financial Aid</a> / <a href="/awards/student-access-guarantee" class="active">Student Access Guarantee</a></div>                                      <h1 class="title">Student Access Guarantee</h1>
+                                                                                          <div id="node-667" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <p>To the best of our ability we ensure that available funds are directed to those students who are most in need, taking personal and family resources into consideration. As part of the Ontario government&#39;s <a href="https://osap.gov.on.ca/OSAPPortal/en/PostsecondaryEducation/OSAP/OSAP004003.html">Student Access Guarantee</a>, students are expected to apply for OSAP assistance, and accept funding up to the funding limits allowed through the OSAP assessment process. Out-of-province students are expected to rely on programs of government assistance in their home provinces, but can request consideration for need-based support if they have unmet need. Assessed need which remains unmet above the OSAP maximum will be considered.</p>
+<h5>
+	<a href="#FirstEntry">First-Entry (First Degree) Undergraduate Students</a></h5>
+<h5>
+	<a href="#SecondEntry">Second-Entry Professional and Graduate Studies Students</a></h5>
+<h5>
+	<a href="#GeneralNeedBased">General Need-Based Assistance</a></h5>
+<h5>
+	<a href="#OtherFinancialResources">Other Important Financial Resources</a></h5>
+<hr />
+<p><strong><a name="FirstEntry"></a>First-Entry (First Degree) Undergraduate Students</strong><br />
+	First-entry undergraduate students who are in receipt of OSAP but whose full direct education costs (tuition, fee and book costs) have not been considered through the OSAP assessment will be automatically considered for non-repayable institutional support to address this shortfall in OSAP funding.</p>
+<p><strong><a name="SecondEntry"></a>Second-Entry Professional and Graduate Studies Students:</strong></p>
+<ul>
+<li>
+		Second-entry professional and graduate program students who are in receipt of OSAP support may apply for consideration for supplemental institutional support if they face financial challenges.</li>
+<li>
+		The application for the University of Windsor In-Course Bursary Program is available through the <a href="/sis">Awards Search </a>function on the website.</li>
+<li>
+		The shortfall between the OSAP allowances for direct education costs (tuition, fee and book costs) and actual costs will be considered.</li>
+<li>
+		Students who have come from the most financially disadvantaged backgrounds will have had a strong reliance on government student assistance programs (OSAP) to finance their first undergraduate experience.&nbsp; They will receive proportionately more non-repayable aid, while those students who have not assumed a high debt load through government student assistance programs (OSAP) throughout their first undergraduate experience will be offered proportionately less non-repayable assistance.</li>
+</ul>
+<p>Second-entry students who have not accumulated any OSAP debt throughout their first undergraduate degree will be referred to the Student Line of Credit options available to graduate and professional program students through <a href="/awards/financial-planning">major lending institutions</a>.</p>
+<p><strong>NB: </strong><strong><font face="Arial" jquery1343307779890="4"><font size="2">Windsor Law has partnered with Scotiabank to offer enhancements to their Scotia Professional Student Plan, including increased borrowing limits and preferential repayment terms.&nbsp; As the program is administered only out of Windsor Main Branch of Scotiabank, I encourage you to speak with Tula Ferguson, Professional Banking Advisor (<span class="skype_pnh_print_container">519.973.5947)</span> or </font><a href="mailto:tula.ferguson@scotiabank.com"><u><font size="2">tula.ferguson@scotiabank.com</font></u></a><font size="2">) to determine how this program can help you fund your legal education at Windsor Law.</font></font></strong></p>
+<p>Those students who have accumulated some OSAP debt throughout their first undergraduate degree (total after Ontario Student Opportunity Grants (OSOG) have been factored in) will receive a portion of their shortfall in direct education costs (tuition, fee and book costs) as a non-repayable institutional award, and be referred to Student Line of Credit options for the remaining shortfall as appropriate&hellip;</p>
+<ul>
+<li>
+		Up to $10,000 in OSAP debt outstanding &ndash; 25% non-repayable aid</li>
+<li>
+		Up to $20,000 in OSAP debt outstanding &ndash; 50% non-repayable aid</li>
+<li>
+		Over $20,000 in OSAP debt outstanding &ndash; 100% non-repayable aid</li>
+</ul>
+<p>Students who wish to manage their debtload through part-time employment income may request to be considered for a Work Study position to decrease their dependence upon external Student Line of Credit support.&nbsp; Applications for the University of Windsor Work Study Program can be made via the Award Search function on the <a href="/sis">Student Information System</a>.</p>
+<p>Students who are unsuccessful in securing a Student Line of Credit (for example, due to disqualifying credit histories) will have recourse to document these circumstances through an <a href="/awards/system/files/SAG%20for%20Second%20Entry%20Professional%20ProgramsFIPPA.pdf"><strong>appeal </strong></a><strong><a href="/awards/system/files/SAG%20for%20Second%20Entry%20Professional%20ProgramsFIPPA.pdf" target="_blank">process</a>. </strong></p>
+<p><a name="GeneralNeedBased"></a><strong>General Need-Based Assistance:</strong><br />
+	All students who request assistance and who are ineligible for government support for some exceptional reasons such as disqualifying credit histories, or who have exceptional circumstances which are not reflected in the OSAP assessment mechanism, are not eligible for the University of Windsor Access Guarantee. However, these requests for funding are assessed on a case-by-case basis to determine whether support from the University is appropriate, funding availability and governing regulations permitting. Students who do not apply or qualify for OSAP loan assistance after exhausting all OSAP appeal options must provide 1) copies of their parents&rsquo;/spouse&rsquo;s Canada Revenue Agency Notice of Assessments, 2) documentation of their current income, 3) an explanation of their exceptional circumstances, and 4) a detailed financial plan for the academic year.</p>
+<p><a href="/awards/sites/uwindsor.ca.awards/files/Appeal Process for General Need Assistance - 2010x.pdf">Appeal Outline for General Need Based Assistance</a></p>
+<p>International students must demonstrate that they have sufficient resources to meet their financial needs in order to qualify for a student visa for study purposes. However, an Emergency Bursary program will be available to provide some assistance to international students who encounter unforeseen and severe financial difficulties.</p>
+<p>Students searching for assistance opportunities may use the University of Windsor on-line awards search function available through the <a href="/sis">Student Information System</a>.</p>
+<hr />
+<p><strong><a name="OtherFinancialResources"></a>Other Important Financial Resources</strong></p>
+<p>ONTARIO STUDENT ASSISTANCE PROGRAM (OSAP):<br />
+	Apply on-line at <a href="http://osap.gov.on.ca">http://osap.gov.on.ca</a></p>
+<p class="rteleft">IN-COURSE AWARDS:<br />
+	Awards offered to students in second year and beyond, based on consideration of at least one of the following attributes: academic merit, financial need, school involvement.</p>
+<p class="rteleft">BURSARIES &amp; GRANTS:<br />
+	Monetary awards based primarily on financial need and academic merit.</p>
+<p class="rteleft">WORK STUDY POSITIONS:<br />
+	Part-time job opportunities on campus to assist students who have financial need.</p>
+<p class="rteleft">ON-LINE AWARD SEARCH - AWARDS INFORMATION:<br />
+	<a href="http://uwindsor.ca/sis">http://uwindsor.ca/sis</a><br />
+	You must login to the Student Information System with your Student Identification Number and your Access Code.&nbsp; Scroll down and click on &quot;Awards Information&quot; - Search for U of W Scholarships, Awards and Need-based assistance (including the Work Study Program).</p>
+<p class="rteleft">OTHER BURSARIES/SCHOLARSHIPS may be available through&nbsp; a parents&rsquo; or spouses&rsquo; employer or unions and service organizations such as the Royal Canadian Legion.</p>
+<p class="rteleft">LINE OF CREDIT<br />
+	Students can apply at most major Banks or Credit Unions</p>
+<p class="rteleft">IONA COLLEGE @ 208 Sunset Avenue<br />
+	Home Cooked Student Dinners $2.00 Every Monday and Thursday</p>
+<p class="rteleft">FOOD BANK SERVICE<br />
+	During the fall and winter semesters: 5:00 pm - 6:30 pm<br />
+	For more information call (519) 973-7039<br />
+	<a href="http://ionacollege.edu">http://ionacollege.edu</a></p>
+<p class="rteleft">STUDENT COUNSELLING CENTRE<br />
+	2nd floor of the CAW Student Centre, Room 293<br />
+	Open from 8:30 am to 4:30 pm, Monday &ndash; Friday<br />
+	For more information call (519) 253-3000 Ext. 4616<br />
+	<a href="http://uwindsor.ca/scc">http://uwindsor.ca/scc</a></p>
+<p class="rteleft">CITY OF WINDSOR SOCIAL SERVICES<br />
+	Students may be eligible for temporary financial assistance through Ontario Works if not receiving OSAP. For more information please contact (519) 255-5600<br />
+	<a href="http://citywindsor.ca">http://citywindsor.ca</a></p>
+<p class="rteleft">COMMUNITY LEGAL AID (CLA)<br />
+	CLA provides free legal advice and representation to University of Windsor full-time undergraduates and low-income Essex County residents.<br />
+	Please contact CLA at (519) 253 - 7150 to arrange an appointment.</p>
+<p class="rteleft">ONTARIO TRILLIUM DRUG PROGRAM<br />
+	The Trillium Drug Program helps people who have high drug costs in relation to their income. Trillium application kits are available at your local pharmacy or by calling the Ministry of Health and Long-Term Care INFO line at 1-800-268-1154.<br />
+	<a href="http://health.gov.on.ca">http://health.gov.on.ca</a></p>
+<p class="rteleft">CREDIT COUNSELLING SERVICES OF SOUTHWESTERN ONTARIO<br />
+	Contact: (519) 258-2030<br />
+	<a href="http://ccswindsor.com">http://ccswindsor.com</a></p>
+<p class="rteleft">FOOD DISTRIBUTION SITES<br />
+	Some restrictions may apply. Please call first for details.</p>
+<p class="rteleft">St. John&rsquo;s Anglican Church, 3305 Sandwich St.<br />
+	Tuesday &amp; Thursday 9 a.m. &ndash; noon<br />
+	519-253-4824</p>
+<p class="rteleft">Blessed Sacrament Church, 3707 Queen St.<br />
+	Delivery on Saturday mornings<br />
+	519-256-1815</p>
+<p class="rteleft">Women in Co-operation, 263 Bridge St.<br />
+	Wednesday &amp; Friday noon &ndash; 3 p.m.<br />
+	519-971-7595</p>
+<p class="rteleft">Downtown Mission, 644 Victoria St.<br />
+	Monday, Wednesday, Friday 1:30 &ndash; 3:30<br />
+	Also, lunch served at noon 7 days a week<br />
+	519-973-5573</p>
+<p class="rteleft">Assumption Church, 350 Huron Church Rd.<br />
+	519-283-2493</p>
+<p class="rteleft">AFFORDABLE CLOTHING<br />
+	Value Village, 2411 Dougall Ave.<br />
+	Monday &ndash; Saturday 9 a.m. &ndash; 9 p.m.<br />
+	Sunday 10 a.m. &ndash; 6 p.m.<br />
+	519-250-8818</p>
+<p class="rteleft">Blessed Sacrament Church, 3707 Queen St.<br />
+	FREE clothing<br />
+	Second Tuesday of every month at noon &ndash; call first<br />
+	519-256-1815</p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-views-news-block_1" class="block block-views region-odd odd region-count-1 count-7 green_title announcements"><div class="block-inner">
+          <h2 class="title">Announcements</h2>
+    <div class="content">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/issues-with-submitting-on-line-bursary-applications">Issues with Submitting On-Line Bursary Applications!</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/extended-hours-in-september">Extended Hours in September</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/osap-and-paying-tuitionfees">OSAP and Paying Tuition/Fees</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/fall-2013-scholarship-payment-information">Fall 2013 Scholarship Payment Information</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/20132014-osap-30-off-ontario-tuition-grant-applications-are-now-available">2013/2014 OSAP &amp; 30% Off Ontario Tuition Grant Applications are now available!</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/osap-the-income-update-process">OSAP &amp; the Income Update Process</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/new-for-1213-electronic-confirmation-of-enrolment-process-osap-release-0">Electronic Confirmation of Enrolment Process (OSAP)</a></span>
+  </div>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/awards/news">
+    View All  </a>
+</div>
+  
+  
+      <div class="feed-icon">
+      <a href="/awards/newsfeed" class="feed-icon"><img src="/awards/misc/feed.png" alt="Syndicate content" title="News" width="16" height="16" /></a>    </div>
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-24" class="block block-block region-even even region-count-2 count-8 blue_title student-awards-amp-financial-aid"><div class="block-inner">
+          <h2 class="title">Student Awards &amp; Financial Aid</h2>
+    <div class="content">
+    <ul>
+<li>
+		<a href="/awards/student-awards-financial-aid-office-hours" target="_blank">Office Hours</a></li>
+<li>
+		<a href="office-hours-contact-information" target="_blank">Office Location &amp; Contact Info</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/id-requirements" target="_blank">ID Requirements</a></li>
+<li>
+		<a href="/awards/need-based-assistance-bursary-workstudy" target="_blank">In-Course Bursary/Work Study</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/bursary-appeal-information" target="_blank">Bursary/Work&nbsp;Study&nbsp;Appeal Info</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/osap-bursary-appeal-information-new" target="_blank">OSAP Appeal Information</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/osap-processing-forms-new" target="_blank">OSAP Processing Forms </a></li>
+<li>
+		<a href="/awards/system/files/2013-2014%20OSAP-Bursary-Work%20Study%20Deadlines%20(Web%20Version).pdf">2013/2014 OSAP Deadlines</a></li>
+</ul>
+<p>&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/awards/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-8"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Student Awards &amp; Financial Aid ABCXYZ -->
+</body>
+</html>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www1.uwindsor.ca/app/appnews" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>News</title>
+    <link>http://www1.uwindsor.ca/app/appnews</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>myUWindsor update version 1.44</title>
+    <link>http://www1.uwindsor.ca/app/2013-08-27/myuwindsor-update-version-144</link>
+    <description>
+                &lt;fieldset class=&quot;fieldgroup group-date-selection&quot;&gt;&lt;legend&gt;Date Selection&lt;/legend&gt;&lt;div class=&quot;description&quot;&gt;&lt;br /&gt;
+      &lt;/div&gt;&lt;div class=&quot;field field-type-date field-field-publishing-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Publishing Date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Aug 29, 2013&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;font size=&quot;2&quot;&gt;What&amp;#39;s new in Version 1.4.4&lt;/font&gt;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-images&quot;&gt;&lt;legend&gt;Images&lt;/legend&gt;&lt;div class=&quot;field field-type-number-integer field-field-show-image&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Show Image:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    0        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www1.uwindsor.ca/app/2013-08-27/myuwindsor-update-version-144&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;        </description>
+     <pubDate>Tue, 27 Aug 2013 10:53:41 +0000</pubDate>
+ <dc:creator>johnpow</dc:creator>
+ <guid isPermaLink="false">57 at http://www1.uwindsor.ca/app</guid>
+  </item>  <item>
+    <title>Register for Courses with version 1.4</title>
+    <link>http://www1.uwindsor.ca/app/2013-06-06/register-for-courses-with-version-14</link>
+    <description>
+                UWindsor announces version 1.4 of the myUWindsor mobile app.        </description>
+     <pubDate>Thu, 06 Jun 2013 05:00:00 +0000</pubDate>
+ <dc:creator>johnpow</dc:creator>
+ <guid isPermaLink="false">56 at http://www1.uwindsor.ca/app</guid>
+  </item>  <item>
+    <title>Keeping you Even More connected myUWindsor version 1.3</title>
+    <link>http://www1.uwindsor.ca/app/2013-02-01/keeping-you-even-more-connected-myuwindsor-version-13</link>
+    <description>
+                The myUWindsor app will keep you even more connected with push notification for UWindsor messages and CLEW notification.        </description>
+     <pubDate>Fri, 01 Feb 2013 16:05:02 +0000</pubDate>
+ <dc:creator>johnpow</dc:creator>
+ <guid isPermaLink="false">19 at http://www1.uwindsor.ca/app</guid>
+  </item>  <item>
+    <title>Seminar for Faculty/Staff to learn about myUWindsor Mobile App</title>
+    <link>http://www1.uwindsor.ca/app/2012-05-18/seminar-for-facultystaff-to-learn-about-myuwindsor-mobile-app</link>
+    <description>
+                The University of Windsor is bringing student service to a new level with a mobile app.        </description>
+     <pubDate>Fri, 18 May 2012 19:28:05 +0000</pubDate>
+ <dc:creator>johnpow</dc:creator>
+ <guid isPermaLink="false">18 at http://www1.uwindsor.ca/app</guid>
+  </item>  <item>
+    <title>myUWindsor App Official Launched to Campus Community</title>
+    <link>http://www1.uwindsor.ca/app/2012-05-11/myuwindsor-app-official-launched-to-campus-community</link>
+    <description>
+                myUWindsor mobile app was officially launched to the UWindsor community on Campus Technology Day.        </description>
+     <pubDate>Fri, 11 May 2012 09:21:25 +0000</pubDate>
+ <dc:creator>johnpow</dc:creator>
+ <guid isPermaLink="false">17 at http://www1.uwindsor.ca/app</guid>
+  </item>  <item>
+    <title>myUWindsor App Available in Stores</title>
+    <link>http://www1.uwindsor.ca/app/2012-05-04/launch-of-mobile-app</link>
+    <description>
+                Version 1.0 of the UWindsor app was released today in the iTunes and Android Marketplace stores.        </description>
+     <pubDate>Fri, 04 May 2012 13:18:54 +0000</pubDate>
+ <dc:creator>johnpow</dc:creator>
+ <guid isPermaLink="false">6 at http://www1.uwindsor.ca/app</guid>
+  </item>  </channel>
+</rss>

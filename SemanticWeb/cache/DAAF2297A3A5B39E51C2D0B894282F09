@@ -1,0 +1,874 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Faculty and Staff | Nursing - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-09-03 10:54:57" />
+<meta name="created" content="2011-11-16 11:50:06" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/nursing/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+    <style type="text/css">
+          @import url('/nursing/modules/aggregator/aggregator.css');
+          @import url('/nursing/modules/node/node.css');
+          @import url('/nursing/modules/system/defaults.css');
+          @import url('/nursing/modules/system/system.css');
+          @import url('/nursing/modules/system/system-menus.css');
+          @import url('/nursing/modules/user/user.css');
+          @import url('/nursing/sites/all/modules/cck/theme/content-module.css');
+          @import url('/nursing/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/nursing/sites/all/modules/ctools/css/ctools.css');
+          @import url('/nursing/sites/all/modules/date/date.css');
+          @import url('/nursing/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/nursing/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/nursing/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/nursing/sites/all/modules/filefield/filefield.css');
+          @import url('/nursing/misc/farbtastic/farbtastic.css');
+          @import url('/nursing/sites/all/modules/calendar/calendar.css');
+          @import url('/nursing/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/nursing/sites/all/modules/views/css/views.css');
+          @import url('/nursing/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/food/sites/all/themes/zen/zen/ie.css?s" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/nursing/sites/all/modules/jquery_update/replace/jquery.js?s"></script>
+<script type="text/javascript" src="/nursing/misc/drupal.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/google_analytics/googleanalytics.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/pngfix/jquery.pngFix.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/modules/calendar/jcalendar/jcalendar.js?s"></script>
+<script type="text/javascript" src="/nursing/sites/all/themes/unified_department/responsive/responsive.js?s"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/nursing\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/nursing\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/nursing/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/nursing/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/nursing/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/nursing/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/nursing/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page two-sidebars page-faculty-and-staff-0 section-faculty-and-staff-0 page-faculty-and-staff-0 section-faculty-and-staff-0 ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/nursing/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/nursing/faculty-and-staff-0" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/nursing/faculty-and-staff-0"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-cef924835d133644dfc44a26e451647c" value="form-cef924835d133644dfc44a26e451647c"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/nursing/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/nursing/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+        <div class="mobile-only"><div class="site-search"><!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/nursing/faculty-and-staff-0"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-cef924835d133644dfc44a26e451647c" value="form-cef924835d133644dfc44a26e451647c"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--></div></div>                
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="/nursing/welcome-department" title="50 years of experience preparing nurses" target="_self" rel="" class="length-short">Home</a></li>
+<li class="leaf"><a href="/nursing/about-us-0" title="About Us" target="_self" rel="" class="length-short">About Us</a></li>
+<li class="leaf"><a href="/nursing/programs" title="Programs" target="_self" rel="" class="length-short">Programs</a></li>
+<li class="leaf active-trail"><a href="/nursing/faculty-and-staff-0" target="_self" rel="" title="Faculty and Staff" class="length-short active">Faculty &amp; Staff</a></li>
+<li class="collapsed"><a href="/nursing/research-0" title="Research" target="_self" rel="" class="length-short">Research</a></li>
+<li class="collapsed"><a href="/nursing/giving-to-nursing" title="Giving to Nursing" target="_self" rel="" class="length-short">Giving</a></li>
+<li class="collapsed"><a href="/nursing/clubs-and-chapters" target="_self" rel="" title="Clubs and Chapters" class="length-short">Clubs and Chapters</a></li>
+<li class="leaf last"><a href="/nursing/contact-us" title="Contact Us" target="_self" rel="" class="length-short">Contact Us</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/header_left_image/nursing_banner.jpg" alt="Faculty of Nursing" title="Faculty of Nursing" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd even region-count-1 count-4  clinical-learning-centre"><div class="block-inner">
+          <h2 class="title">Clinical Learning Centre</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/244by123_slide_image/slideshow/simulation-lab243x125.jpg" alt="Simulation Centre" title="Simulation Centre" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/nursing/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Simulation Centre"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/nursing/simulation-lab" target="0">Simulation Centre</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/244by123_slide_image/slideshow/nursingEquipment-lab.jpg" alt="Nursing Lab" title="Nursing Lab" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/nursing/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Nursing Lab"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/nursing/nursing-lab" target="0">Nursing Lab</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/nursing/system/files/imagecache/244by123_slide_image/slideshow/nursing-temp.jpg" alt="Nursing" title="Nursing" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/nursing/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Standardized Patients"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="/nursing/standardized-patients-program" target="0">Standardized Patients</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/nursing">Nursing</a> / <a href="/nursing/faculty-and-staff-0" class="active">Faculty &amp; Staff</a></div>                                      <h1 class="title">Faculty and Staff</h1>
+                                                                                          <div id="node-760" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <ul>
+<li>
+		<a href="#Faculty">Faculty</a></li>
+<li>
+		<a href="#Professors Emeritae">Professors Emeritae</a></li>
+<li>
+		<a href="#Sessional Lecturers">Sessional Lecturers </a></li>
+<li>
+		<a href="#Staff">Staff </a></li>
+<li>
+		<a href="#In Memoriam">In Memoriam</a></li>
+</ul>
+<hr />
+<h4>
+	<a name="Faculty"></a>FACULTY</h4>
+<p><img alt="Dr. Linda Patrick" src="/nursing/system/files/Dr%20Linda%20Patrick%20photo%202011%2006.jpg" style="height: 135px; float: left; margin-left: 15px; width: 108px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="dr-linda-patrick">Dr. Linda Patrick</a></strong>, RN, BScN, MA, MSc, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dean and Associate Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level 1 Coordinator (2013/14)<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Maternal/Child, Prevention of<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; type 2 diabetes in women with previous gestational<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; diabetes, Chronic disease management and<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; improving health outcomes for women at<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; risk for Type 2 diabetes after gestational<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; diabetes, Pre-conceptual health promotion,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transition to professional practice issues<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room 336 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;519.253.3000, x2403<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lpatric@uwindsor.ca">lpatric@uwindsor.ca</a></p>
+<p>&nbsp;</p>
+<p><img alt="Dr. Susan Fox" src="/nursing/system/files/Suan_M_Fox.gif" style="height: 135px; float: left; margin-left: 15px; width: 91px; margin-right: 15px" /><strong>Dr. Susan Fox</strong><br />
+	RN, BN, MScN, PhD<br />
+	Associate Dean and Associate Professor<br />
+	<strong>Research Focus</strong>: Healthcare associated<br />
+	infections and infectious diseases, and<br />
+	cardiovascular health<br />
+	Room 300 Toldo HEC<br />
+	519.253.3000, x2284<br />
+	<a href="mailto:sfox@uwindsor.ca">sfox@uwindsor.ca</a></p>
+<p>&nbsp;<br />
+	&nbsp;</p>
+<p><a href="http://cronus.uwindsor.ca/units/nursing/main.nsf/main/E273C1BA7F65ADCB852570FC0050E188?OpenDocument" target="_blank"><img alt="Prof. Judy Bornais" src="/nursing/system/files/Dr_Judy_Bornais.gif" style="height: 135px; float: left; margin-left: 15px; margin-right: 15px" /></a></p>
+<p><strong><a href="prof-judy-bornais">Prof. Judy Bornais</a></strong><br />
+	RN, BA, BScN, MSc, CDE<br />
+	Experiential Learning Specialist<br />
+	<strong>Research Focus</strong>: Diabetes care, simulation in health care education, and inter-professional health care<br />
+	Room 3126&nbsp;Medical Education Building<br />
+	519.253.3000, x2269<br />
+	<a href="mailto:jbornais@uwindsor.ca">jbornais@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p><img alt="Dr. Laurie Carty" src="/nursing/system/files/Laurie_M_Carty.gif" style="border-top: 0px solid; height: 135px; border-right: 0px solid; border-bottom: 0px solid; float: left; margin-left: 15px; border-left: 0px solid; width: 91px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="http://web4.uwindsor.ca/carty">Dr. Laurie Carty</a></strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RN, BScN, BA, MEd, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Mental health - individual and<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; group counselling<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 314 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2271<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://web4.uwindsor.ca/carty">Dr.&nbsp;Carty&#39;s Research Website</a><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:carty@uwindsor.ca">carty@uwindsor.ca</a></p>
+<p>&nbsp;<br />
+	<img alt="Dr. Jamie Crawley" src="/nursing/system/files/Dr_Jamie_Crawley.gif" style="height: 135px; float: left; margin-left: 15px; width: 145px; margin-right: 15px" />&nbsp;<strong><a href="dr-jamie-crawley">Dr. Jamie Crawley</a></strong><br />
+	&nbsp;RN, BScN, BA (Psychology), BA (Sociology), MBA,<br />
+	&nbsp;PhD<br />
+	&nbsp;Assistant Professor&nbsp;<br />
+	&nbsp;<strong>Research Focus</strong>: Poverty and health disparities,<br />
+	&nbsp;chronic illness and teen sibling health<br />
+	&nbsp;Room 319 Toldo HEC<br />
+	&nbsp;519.253.3000, x4816<br />
+	&nbsp;<a href="mailto:jcrawley@uwindsor.ca">jcrawley@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p>
+	<img alt="Prof. Debbie Dayus" src="/nursing/system/files/Dr_Deborah_Dayus.gif" style="height: 135px; float: left; margin-left: 15px; margin-right: 15px" />&nbsp;<strong><a href="http://uwindsor.ca/nursing/prof-debbie-dayus">Prof. Debbie Dayus</a></strong><br />
+	&nbsp;RN, BScN, BA, MSc, PhD(c)<br />
+	&nbsp;Lecturer<br />
+	&nbsp;<strong>Research Focus</strong>: Women&#39;s health, maternal/child<br />
+	&nbsp;health (infertility; emotional health), and<br />
+	&nbsp;community health<br />
+	&nbsp;Room 320 Toldo HEC<br />
+	&nbsp;519.253.3000, x3770<br />
+	&nbsp;<a href="mailto:dayus@uwindsor.ca">dayus@uwindsor.ca</a></p>
+<p>
+	<img alt="Dr. Lorna DeWitt" src="/nursing/system/files/Lorna_DeWitt.jpg" style="height: 135px; float: left; margin-left: 15px; width: 90px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="http://uwindsor.ca/nursing/dr-lorna-de-witt">Dr. Lorna De Witt</a></strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RN, BScN, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: <font face="Tahoma" size="2">Aging and family issues related<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font face="Tahoma" size="2">to living alone and dementia</font><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 304 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2286<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ladewitt@uwindsor.ca">ladewitt@uwindsor.ca</a></p>
+<p>&nbsp;&nbsp;</p>
+<p>	<img alt="Dr. Maher El-Masri" src="/nursing/system/files/Maher_M_El-Masri.gif" style="height: 135px; float: left; margin-left: 15px; width: 83px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="http://uwindsor.ca/people/melmasri/" target="_blank">Dr. Maher El-Masri</a></strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RN, BScN, MS, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor &amp; Nursing Research Chair<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Infection Control and Chronic<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Illness<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 328 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2400<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:melmasri@uwindsor.ca">melmasri@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p>&nbsp;<br />
+	<img alt="Prof. Michelle Freeman" src="/nursing/system/files/freeman.jpg" style="height: 135px; float: left; margin-left: 15px; width: 96px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="prof-michelle-freeman">Dr. Michelle Freeman</a></strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RN, BScN, BA, MScN, PhD, CPPS<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Care of older adults (geriatrics<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and gerontology)&nbsp;and&nbsp;geriatric&nbsp;syndromes (falls,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dementia); patient safety culture&nbsp;of&nbsp;safety;<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nursing&rsquo;s role in creating safe practice<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; environments; team work; medication safety;<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; human factors), and nursing leadership<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room 310 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;519.253.3000, x4812<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mfreeman@uwindsor.ca">mfreeman@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p>
+	<img alt="Prof. Laurie Freeman-Gibb" src="/nursing/system/files/LFG_DSC9506 from tory.jpg" style="height: 158px; float: left; margin-left: 15px; width: 105px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="prof-laurie-freeman-gibb">Dr. Laurie Freeman-Gibb</a></strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RN, BScN, MSN,&nbsp;PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor, PHCNP Program<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrator<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp; Research Focus</strong>: Breast cancer (survivorship<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; issues and decision making),&nbsp;and&nbsp;technology&nbsp;<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and&nbsp;teaching<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room 303 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;519.253.3000, x2278<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lgibb@uwindsor.ca">lgibb@uwindsor.ca</a><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<br />
+	<img alt="Dr. Cheri Hernandez" src="/nursing/system/files/Cheri_Ann_Hernandez.gif" style="height: 135px; float: left; margin-left: 15px; width: 109px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="dr-cheri-hernandez">Dr. Cheri Hernandez</a></strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RN, BScN, BA, MEd, PhD (Education), PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Nursing)<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Research Focus</strong>: Theory of integration &amp;<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; interventions in diabetes, grounded theory<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; research, and instrument/scale development<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 316 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2263<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:cherih@uwindsor.ca">cherih@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p>
+	<img alt="Dr. Debbie Kane" src="/nursing/system/files/Debbie_Kane.gif" style="height: 135px; float: left; margin-left: 15px; width: 90px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="dr-debbie-kane">Dr. Debbie Kane</a></strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RN, BScN, MScN, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor and Graduate/NP Coordinator<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Research Focus</strong>: Women&#39;s health, workplace<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wellness, and public health<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 301 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2268<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:dkane@uwindsor.ca">dkane@uwindsor.ca</a><br />
+	&nbsp;<br />
+	&nbsp;</p>
+<p><img alt="Prof. Jason Kiernan" src="/nursing/system/files/JK_DSC9523-photo from tory.jpg" style="height: 163px; float: left; margin-left: 15px; width: 108px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Prof. Jason Kiernan&nbsp;</strong><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BSN, MSN<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecturer<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level 3 Coordinator (2013/14) for students with last<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; names starting M-Z<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;Research Focus</strong>: Cancer and cancer prevention<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room&nbsp;308 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x4390<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:jasonk@uwindsor.ca">jasonk@uwindsor.ca</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>	<img alt="Prof. Heather Krohn" src="/nursing/system/files/Photo_Unavailable.jpg" style="height: 135px; float: left; margin-left: 15px; width: 113px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="prof-heather-krohn">Dr. Heather Krohn</a></strong>, RN, BScN, MEd, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Community and global health,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cross-cultural&nbsp;healthcare<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 326 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2275<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:hkrohn@uwindsor.ca">hkrohn@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p>&nbsp;</p>
+<p>	<img alt="Prof. Kathy Pfaff" src="/nursing/system/files/Photo_Unavailable.jpg" style="height: 135px; float: left; margin-left: 15px; width: 113px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/nursing/prof-kathy-pfaff"><strong>Dr. Kathy Pfaff</strong></a>, RN, BScN, MSc, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecturer<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research&nbsp;Focus</strong>: Interprofessional Collaboration,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New Graduate Nurse Transition,&nbsp;Rural Community<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health Care<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 324 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x4977<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:kpfaff@uwindsor.ca">kpfaff@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>
+	<img alt="Dr. Dale Rajacich" src="/nursing/system/files/Dale_DSC9531 from tory.jpg" style="height: 157px; float: left; margin-left: 15px; width: 104px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="dr-dale-rajacich">Dr. Dale Rajacich</a></strong>, RN, BScN, MScN, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Research Focus</strong>: Breast cancer and<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; international collaboration<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 330 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2270<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:rajacic@uwindsor.ca">rajacic@uwindsor.ca</a><br />
+	&nbsp;</p>
+<p>&nbsp;<br />
+	&nbsp;<br />
+	<img alt="Prof. Debbie Rickeard" src="/nursing/system/files/Photo_Unavailable.jpg" style="height: 135px; float: left; margin-left: 15px; width: 113px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/nursing/prof-debbie-rickeard"><strong>Prof. Debbie Rickeard</strong></a>, RN, BScN, BA, MScN,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCRN(c), CCN(c)<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experiential Learning Specialist, Level 3 Coordinator<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2013/14) for students with last names starting A-L<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room&nbsp;3124 Medical Education Building<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x4993<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:rickeard@uwindsor.ca">rickeard@uwindsor.ca</a></p>
+<p>	&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+	<img alt="Dr. Christine Thrasher" src="/nursing/system/files/Dr.Christine_Thrasher.JPG" style="height: 135px; float: left; margin-left: 15px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="dr-christine-thrasher">Dr. Christine Thrasher</a></strong>, RN(EC), BScN, BA,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MScN, Primary Care Nurse<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practitioner&nbsp;Certificate, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Interprofessional<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; education &amp; practice,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; knowledge translation, and infection control<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 306 Toldo HEC&nbsp;<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2266<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="mailto:thrash4@uwindsor.ca">thrash4@uwindsor.ca</a><br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://uwindsor.ca/thrasher/" target="_blank">Dr. Thrasher&#39;s website</a><br />
+	&nbsp;</p>
+<p>
+	<img alt="Dr. Karen Williamson" src="/nursing/system/files/Photo_Unavailable.jpg" style="height: 135px; float: left; margin-left: 15px; width: 113px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="dr-karen-williamson">Dr. Karen Williamson</a></strong>, RN, BScN, MScN, PhD<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor and Level 4 Coordinator<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2013/14)<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Cardiovascular nursing and<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; intervention research<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 312 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;519.253.3000, x2274<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:karenw@uwindsor.ca">karenw@uwindsor.ca</a></p>
+<p>	&nbsp;</p>
+<p>&nbsp;</p>
+<p><img alt="Prof. Lucia Yiu" src="/nursing/system/files/Lucia_Yiu.gif" style="height: 135px; float: left; margin-left: 15px; width: 108px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="dr-lucia-yiu">Prof. Lucia Yiu (Matuk)</a></strong>, BSc, BScN, BA, MScN<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Research Focus</strong>: Health promotion, breast health,<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and multiculturalism<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room 332 Toldo HEC<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x2264<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:lyiu@uwindsor.ca">lyiu@uwindsor.ca</a></p>
+<p>&nbsp;</p>
+<hr />
+<h4>
+	<a name="Professors Emeritae"></a>PROFESSORS EMERITAE:</h4>
+<p><strong>Dr. Sheila Cameron</strong>, Director of the School of Nursing, 1986-1995 and Dean, Graduate Studies and Research, 1996-2005<br />
+	<a href="mailto:camero2@uwindsor.ca">camero2@uwindsor.ca</a></p>
+<p>	<strong>Prof. Anna Gupta</strong>, Director of the School of Nursing, 1970-1975</p>
+<p>	<strong>Dr. Sharon McMahon</strong>, <a href="mailto:mcmaho3@uwindsor.ca">mcmaho3@uwindsor.ca</a><br />
+	Research Focus: Values clarification and moral decision-making, animal-assisted therapy and bereavement, and nursing history and the arts</p>
+<p>	<strong>Dr. Devamma Purushotham</strong></p>
+<p>	Dr. Janet N. Rosenbaum, Director of the School of Nursing, 1981-1986</p>
+<p>	<strong>Dr. Barbara Thomas, </strong>Associate Vice President Academic, University of Windsor, 1991-1996</p>
+<hr />
+<h4>
+	<a name="Sessional Lecturers"></a>SESSIONAL LECTURERS</h4>
+<p><strong>Prof. Mary Chick</strong>, RN, BScN, MSc<br />
+	Sessional Lecturer<br />
+	Room 313 HEC<br />
+	519.253.3000, x2287<br />
+	<a href="mailto:mchick@uwindsor.ca">mchick@uwindsor.ca</a></p>
+<p>	<strong><a href="prof-mary-cole">Prof. Mary Cole</a></strong>, RN, DPHN, BA, BScN, MSc<br />
+	Sessional Lecturer<br />
+	Room 315 HEC<br />
+	519.253.3000, x2283<br />
+	<a href="mailto:cole9@uwindsor.ca">cole9@uwindsor.ca</a></p>
+<p><strong>Prof. Natalie Giannotti</strong>, RN, BHK, MN, PhD (s)<br />
+	Sessional Lecturer<br />
+	Level 2 Coordinator (2013/14)<br />
+	Room 322 Toldo HEC<br />
+	519.253.3000, x4988<br />
+	<a href="mailto:natalieg@uwindsor.ca">natalieg@uwindsor.ca</a></p>
+<p><strong><a href="http://cronus.uwindsor.ca/units/nursing/main.nsf/main/B1B7BC3E50864884852570FC006F3CB8?OpenDocument">Prof. Patricia McKay</a></strong>, RN, BScN, MSc<br />
+	Sessional Lecturer<br />
+	Room 313 HEC<br />
+	519.253.3000, x2287<br />
+	<a href="mailto:pmckay@uwindsor.ca">pmckay@uwindsor.ca</a>&nbsp;</p>
+<!--end of tplCenterDiv--><!--end of tplCenterDiv--><!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+--><!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+-->
+<hr />
+<h4>
+	<a name="Staff"></a>STAFF</h4>
+<p><strong>Ms Barbara Biggar</strong><br />
+	Clinical Coordinator<br />
+	Room 302 Toldo HEC<br />
+	519.253.3000, x2262<br />
+	<a href="mailto:bbiggar@uwindsor.ca">bbiggar@uwindsor.ca</a></p>
+<p>	<strong>Ms Natalie Bownes </strong><br />
+	Clinical Coordinator<br />
+	Room 317 Toldo HEC<br />
+	519.253.3000, x4814<br />
+	<a href="mailto:nbownes@uwindsor.ca">nbownes@uwindsor.ca</a></p>
+<p>	<strong><strong>Ms Margo Cameron</strong></strong><br />
+	ParaMed Project Coordinator and Level 1 Assistant (contract)<br />
+	Room 318 Toldo HEC<br />
+	519.253.3000, x4918<br />
+	<a href="mailto:mcameron@uwindsor.ca"><u><font color="#0066cc">mcameron@uwindsor.ca</font></u></a></p>
+<p><strong>Ms Anne Dennahower</strong><br />
+	Undergraduate Secretary<br />
+	Room 336 Toldo HEC<br />
+	519.253.3000, x2260<br />
+	<a href="mailto:adenna@uwindsor.ca">adenna@uwindsor.ca</a></p>
+<p>	<strong>Ms Susan Dennison</strong><br />
+	Lab &amp; Education Coordinator<br />
+	Room 210 Toldo HEC<br />
+	519.253.3000, x2282<br />
+	<a href="mailto:dennison@uwindsor.ca">dennison@uwindsor.ca</a></p>
+<p>	<strong>Ms Sheema Inayatulla</strong><br />
+	Assistant to the Dean<br />
+	Room 334 Toldo HEC<br />
+	519.253.3000, x2281<br />
+	<a href="mailto:sheemai@uwindsor.ca">sheemai@uwindsor.ca</a></p>
+<p>	<strong>Ms Pat McTaggart</strong><br />
+	Dean&#39;s Secretary<br />
+	Room 336 Toldo HEC<br />
+	519.253.3000, x2259<br />
+	<a href="mailto:pmctag@uwindsor.ca"><u><font color="#0066cc">pmctag@uwindsor.ca</font></u></a></p>
+<p>	<strong>Ms Susan Rotondi</strong><br />
+	Graduate Secretary<br />
+	Room 336 Toldo HEC<br />
+	519.253.3000, x6129<br />
+	<a href="mailto:srotond@uwindsor.ca">srotond@uwindsor.ca</a> </p>
+<!--end of tplCenterDiv--><!--end of tplCenterDiv--><!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+--><!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+-->
+<p><strong>Dr. Mika Tomac </strong>(August to June annually)<br />
+	Nursing Clinical Therapist<br />
+	Room 105A Toldo HEC<br />
+	519.253.3000, x4388<br />
+	<a href="mailto:mtomac@uwindsor.ca">mtomac@uwindsor.ca</a></p>
+<p>Dr. Tomac&#39;s office hours:<br />
+	<font face="Helv" size="2"><font face="Helv" size="2">Mondays (8:30am-5:30pm)</font></font><br />
+	<font face="Helv" size="2"><font face="Helv" size="2">Tuesdays (8:30am-5:30pm)</font></font><br />
+	<font face="Helv" size="2"><font face="Helv" size="2">Wednesdays (8:30am - 12:30pm)</font></font><br />
+	<font face="Helv" size="2"><font face="Helv" size="2">Thursdays (8:30am - 12:30pm)</font></font></p>
+<hr />
+<h4>
+	<a name="In Memoriam"></a>IN MEMORIAM</h4>
+<p><strong>Prof. Mathilde McGarvey</strong> (July 6, 2013), Retired Professor - <a href="http://familiesfirst.frontrunnerpro.com/book-of-memories/1628562/McGarvey-Mathilde/obituary.php" target="_blank">obituary link&nbsp;</a></p>
+<hr />
+<p><strong>Dr. Anna Temple </strong>(August 10, 2012), Retired Professor and Former Director - <a href="/dailynews/2012-08-15/campus-bench-to-stand-in-tribute-to-nursing-professor" target="_blank">details and tribute information</a></p>
+<hr />
+<p><strong>Dr. Donna M. Foley</strong>, RN, PhD<br />
+	June 8, 1944 - April 13, 2006</p>
+<p>	<img alt="Dr. Donna M. Foley, RN, PhD" src="/nursing/system/files/Donna_M_Foley.jpg" style="height: 135px; width: 107px" /><font face="Arial" size="2"> </font><br />
+	On April 13, 2006, the Faculty of Nursing lost a trusted educator, scholar and mentor after a short battle with cancer. To read about Donna, go to the following links below.<br />
+	&nbsp;</p>
+<ul type="disc">
+<li>
+<p><a href="http://uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/forDialog/B6644A516676EC6F852571520079BD96" target="_blank">Daily News Story </a></p>
+</li>
+<li>
+<p><a href="http://web4.uwindsor.ca/units/nursing/main.nsf/982f0e5f06b5c9a285256d6e006cff78/e39df0f58c7a0093852571560068c039!OpenDocument">Eulogy by Dr. Linda Patrick</a></p>
+</li>
+<li>
+<p><a href="http://www.legacy.com/can-windsor/Obituaries.asp?Page=Lifestory&amp;PersonId=17414802" target="_blank">Obituary</a></p>
+</li>
+</ul>
+<hr />
+<p><strong>Paula Margaret Heydon</strong><br />
+	April 21, 1952 - June 18, 2005<br />
+	Lab Manager, Faculty of Nursing</p>
+<p>
+	Heydon, Paula Margaret (nee Hrecniuk) R.N.</p>
+<p>	<img alt="Paula Margaret Heydon" src="/nursing/system/files/Paula_Margaret_Heydon.jpg" style="height: 135px; float: left; margin: 8px; width: 106px" />Peacefully at home surrounded by her family and friends on June 18, 2005 at 53 years of age after a brief but courageous battle with cancer. Beloved wife and best friend of Rick for 32 years. Loving mother of Trevor and wife Kelly. Dear daughter of the late Sam and Jennie Hrecniuk of Chatham. Daughter-in-law of Les and Sadie Heydon. Cherished sister of Sylvia and the late Gerry Bresnahan of Grosse Ile, MI, William and wife Donna Hrecniuk, David and wife Carole Hrecniuk of Chatham. Sister-in-law of Randy and wife Shelley Heydon, Cindy Anstett and friend Mark, Brian and wife Kim Heydon of Leamington. Many nieces and nephews also survive. Paula will be sadly missed by many friends and co-workers. Paula was a well respected professional in Windsor health care for many years. In lieu of flowers, donations to Hospice of Windsor or the Windsor Regional Cancer Centre would be appreciated by the family. Cremation Services were held. Memorial Visitation Wednesday 9 am until time of Memorial Service at 11 am. at St. Barnabas&rsquo; Church (2115 Chilver Rd.). Arrangements entrusted to Families First Funeral Home &amp; Tribute Centre (969-5841) 3260 Dougall Ave. Rev. Lance Smith officiating Special thanks to John and Linda Grubisich, Dave and Joyce Blake, Henry and Helen Moro, Paul Popov and friend Diane, Sandy Dennison, everyone at the Windsor Regional Cancer Clinic, the VON and the Hospice of Windsor for their care and support.</p>
+<hr />
+<p><strong>P.Y. Abraham</strong><br />
+	Professor, Faculty of Nursing</p>
+<p>	Professor Abraham taught Leadership and Management, as well as community health nursing theory and clinical in year four. He coordinated the community program for many years and was well respected by the community partners. He was also active in promoting multi-culturalism in the Windsor-Essex County. He is fondly remembered as a good listener, humble, generous, and always supportive of new faculty members.</p>
+<p>	He was survived by his wife and two daughters.&nbsp;</p>
+<!--end of tplCenterDiv--><!--end of tplCenterDiv--><!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+--><!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+--><p><br clear="all" /></p>
+<!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+--><!-- Right Column and Footer Are Ready to Be Added
+	
+<div id="tplRightDiv"></div>
+	<div id="tplBottomDiv"></div>	
+--><p><br clear="all" /><br />
+	&nbsp;</p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-block-24" class="block block-block region-odd odd region-count-1 count-5 blue_title employment-opportunities"><div class="block-inner">
+          <h2 class="title">Employment Opportunities</h2>
+    <div class="content">
+    <p>
+<ul>	
+<li>		<a href="http://www.uwindsor.ca/nursing/standardized-patients-program">Standardized (or Simulated) Patients</a></li>
+<p>	
+<li>		<a href="http://www.uwindsor.ca/nursing/faculty-staff-employment">Faculty/Staff</a></li>
+</p><p>	
+<li>		<a href="http://uwindsor.ca/nursing/job-postings-for-nursing-students">Student</a></li>
+</p><p></p></ul>
+</p><p></p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-views-events_calendar-block_1" class="block block-views region-even even region-count-2 count-6 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="view view-events-calendar view-id-events_calendar view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 02, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/nursing/patient-safetyihi-learning-series-event">Patient Safety/IHI Learning Series event</a></span>
+  </span>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/nursing/calendar/events">
+    view calendar  </a>
+</div>
+  
+  
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-views-imported_news-block_1" class="block block-views region-odd odd region-count-3 count-7 orange_title news"><div class="block-inner">
+          <h2 class="title">News</h2>
+    <div class="content">
+    <div class="view view-imported-news view-id-imported_news view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/judy-bornais-receives-2013-casn-award-for-excellence-in-nursing-education">Judy Bornais receives 2013 CASN Award for Excellence in Nursing Education</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/nursing-50th-anniversary-open-house-postponed">Nursing 50th Anniversary Open House Postponed</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/nursing-lab-hours-information">Nursing Lab Hours Information</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/kathy-pfaff-obtains-phd">Kathy Pfaff obtains PhD</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/nursing/graduate-diploma-in-oncologypalliative-nursing-featured-in-cancer-care-ontario-newsletter">Graduate Diploma in Oncology/Palliative Nursing featured in Cancer Care Ontario Newsletter</a></span>
+  </div>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/nursing/imported-news">
+    View All  </a>
+</div>
+  
+      <div class="view-footer">
+      <p><a href="faculty-of-nursing-newsletters"><b>Faculty of Nursing Newsletter<b></b></b></a></p>
+    </div>
+  
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/nursing/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-34"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Nursing ABCXYZ -->
+</body>
+</html>

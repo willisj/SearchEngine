@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Events Calendar | School of Computer Science 
+X-WR-TIMEZONE:America/New_York
+PRODID:-//UofW Drupal iCal v2.1 API//EN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.1450.field_date.0.0
+SUMMARY:Computer Science PhD Thesis Proposal Announcement by Marwa Khater
+DTSTAMP:20130921T205909
+DTSTART:20130614T130000
+DTEND:20130614T153000
+URL;VALUE=URI:http://www1.uwindsor.ca/cs/1450/computer-science-phd-thesis-proposal-announcement-by-marwa-khater#20130614T130000
+LOCATION:3105Lambton Tower
+END:VEVENT
+END:VCALENDAR

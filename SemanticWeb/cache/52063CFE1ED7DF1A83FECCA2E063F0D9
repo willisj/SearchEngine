@@ -1,0 +1,733 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Frequently Asked Questions (OSAP) | Student Awards & Financial Aid - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2013-08-19 03:02:45" />
+<meta name="created" content="2009-07-03 10:12:19" />
+<meta name="status" content="1" />
+<meta name="type" content="page" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/awards/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+<link rel="alternate" type="application/rss+xml" title="News" href="/awards/newsfeed" />
+<meta name="description" content="Frequently Asked Questions Some Common Questions from High School Students  Can a student receive both Ontario Works and OSAP assistance at the same time? I can not find my program on the OSAP drop down menu. What is my start and end date of my program?" />
+<meta name="dcterms.description" content="Frequently Asked Questions Some Common Questions from High School Students  Can a student receive both Ontario Works and OSAP assistance at the same time? I can not find my program on the OSAP drop down menu. What is my start and end date of my program?" />
+<link rel="canonical" href="http://www1.uwindsor.ca/awards/frequently-asked-questions" />
+<meta name="revisit-after" content="1 day" />
+<meta name="geo.position" content="0;0" />
+<meta name="icbm" content="0,0" />
+    <style type="text/css">
+          @import url('/awards/modules/aggregator/aggregator.css');
+          @import url('/awards/modules/node/node.css');
+          @import url('/awards/modules/system/defaults.css');
+          @import url('/awards/modules/system/system.css');
+          @import url('/awards/modules/system/system-menus.css');
+          @import url('/awards/modules/user/user.css');
+          @import url('/awards/sites/all/modules/cck/theme/content-module.css');
+          @import url('/awards/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/awards/sites/all/modules/ctools/css/ctools.css');
+          @import url('/awards/sites/all/modules/date/date.css');
+          @import url('/awards/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/awards/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/awards/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/awards/sites/all/modules/filefield/filefield.css');
+          @import url('/awards/misc/farbtastic/farbtastic.css');
+          @import url('/awards/sites/all/modules/calendar/calendar.css');
+          @import url('/awards/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/awards/sites/all/modules/views/css/views.css');
+          @import url('/awards/sites/all/modules/calendar/jcalendar/jcalendar.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/awards/sites/all/themes/zen/zen/ie.css?w" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/awards/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/awards/sites/all/modules/jquery_update/replace/jquery.js?w"></script>
+<script type="text/javascript" src="/awards/misc/drupal.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/google_analytics/googleanalytics.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/pngfix/jquery.pngFix.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/modules/calendar/jcalendar/jcalendar.js?w"></script>
+<script type="text/javascript" src="/awards/sites/all/themes/unified_department/responsive/responsive.js?w"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/awards\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcalendar":{"path":"\/awards\/sites\/all\/modules\/calendar\/jcalendar"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/awards/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/awards/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/awards/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/awards/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/awards/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-page two-sidebars page-frequently-asked-questions section-frequently-asked-questions page-frequently-asked-questions section-frequently-asked-questions ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/awards/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/awards/frequently-asked-questions" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/awards/frequently-asked-questions"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-bbffa2f26856d44573499916318f4894" value="form-bbffa2f26856d44573499916318f4894"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/awards/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/awards/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/awards/student-awards-financial-aid" title="Student Awards &amp; Financial Aid" target="_self" rel="" class="length-short">Home</a></li>
+<li class="leaf"><a href="/awards/scholarships-and-bursaries-0" title="link to the Scholarships &amp; Bursaries section of the Awards website" target="_self" rel="" class="length-long">Scholarships, Awards &amp; Bursaries</a></li>
+<li class="leaf"><a href="/awards/ontario-student-assistance-program" title="Ontario Student Assistance Program" target="_self" rel="" class="length-long">Ontario Student Assistance Program (OSAP)</a></li>
+<li class="leaf"><a href="/awards/ontario-tuition-grant" target="_self" rel="" title="Ontario Tuition Grant" class="length-long">30% Off Ontario Tuition Grant</a></li>
+<li class="leaf"><a href="http://www.uwindsor.ca/awards/work-study-student-information" title="" target="_self" rel="" class="length-short">Work Study</a></li>
+<li class="leaf"><a href="/awards/out-of-province-students" target="_self" rel="" title="Out of Province Students" class="length-short">Out of Province Students</a></li>
+<li class="leaf"><a href="http://www.uwindsor.ca/awards/node/816" target="_self" rel="" title="US Federal Student Aid" class="length-short">US Federal Funding</a></li>
+<li class="leaf"><a href="/awards/student-access-guarantee" title="Student Access Guarantee" target="_self" rel="" class="length-short">Student Access Guarantee</a></li>
+<li class="leaf"><a href="/awards/financial-planning" title="Links to Financial Planning Websites" target="_self" rel="" class="length-short">Financial Planning Links</a></li>
+<li class="leaf active-trail"><a href="/awards/frequently-asked-questions" title="Frequently Asked Questions" target="_self" rel="" class="length-long active">Frequently Asked Questions (OSAP)</a></li>
+<li class="leaf"><a href="/awards/faqs-scholarships-awards" target="_self" rel="" title="FAQs - Scholarships &amp; Awards" class="length-long">Frequently Asked Questions (Scholarships)</a></li>
+<li class="leaf"><a href="/awards/what-do-you-do-if-you-have-a-concern-regarding-your-financial-aid" title="What do you do if you have a concern regarding your financial aid?" target="_self" rel="" class="length-long">Student Problem Resolution</a></li>
+<li class="leaf"><a href="/awards/annual-reports" target="_self" rel="" title="Annual Reports" class="length-short">Annual Reports</a></li>
+<li class="leaf last"><a href="/awards/Notice-of-Collection" target="_self" rel="" title="Student Awards Notice of Collection &amp; Use of Personal Information" class="length-short">Notice of Collection</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-34" class="block block-block region-even odd region-count-2 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    	
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_social-sharelinks" class="block block-uw_social region-odd even region-count-3 count-4 no-title  "><div class="block-inner">
+    <div class="content">
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script><div class="share-facebook button_count send">
+<div id="fb-root"></div>
+<fb:like href="http://www1.uwindsor.ca/awards/frequently-asked-questions" show_faces="false" width="135" font="tahoma" send="true" layout="button_count" action="like"></fb:like></div><!-- /.share-facebook -->
+<div class="share-twitter horizontal">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="UWindsor">Tweet</a>
+</div><!-- /.share-twitter -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<div class="share-google standard count">
+<g:plusone size="standard"></g:plusone>
+<script type="text/javascript">// <![CDATA[
+              (function() {
+              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+              po.src = 'https://apis.google.com/js/plusone.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+              //]]>
+              </script>
+</div><!-- /.share-google -->
+<br clear="all" />
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/header_left_image/studentawards_banner.jpg" alt="Student Awards &amp; Financial Aid Office Banner" title="Student Awards &amp; Financial Aid Office Banner" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd even region-count-1 count-6  scholarship-recipients"><div class="block-inner">
+          <h2 class="title">Scholarship Recipients</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/244by123_slide_image/slideshow/Botsford-243x125.JPG" alt="Sabrina Botsford" title="Sabrina Botsford" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/awards/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Focus on Studies"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/awards/focus-on-studies-benefits-of-scholarships" target="0">Focus on Studies</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/244by123_slide_image/slideshow/jess2-243x150.jpg" alt="Jessica Baillargeon" title="Jessica Baillargeon" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/awards/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Student Dreams"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/awards/scholarships-fund-student-dreams" target="0">Student Dreams</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/awards/system/files/imagecache/244by123_slide_image/slideshow/Kyle%20Gerard-243x125.JPG" alt="Kyle Gerard" title="Kyle Gerard" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/awards/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="A Real Motivator"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://www.uwindsor.ca/awards/its-a-real-motivator" target="0">A Real Motivator</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/awards">Student Awards & Financial Aid</a> / <a href="/awards/frequently-asked-questions" class="active">Frequently Asked Questions (OSAP)</a></div>                                      <h1 class="title">Frequently Asked Questions (OSAP)</h1>
+                                                                                          <div id="node-672" class="node node-type-page"><div class="node-inner">
+      <div class="content">
+    <h4>
+	<strong>Frequently Asked Questions</strong></h4>
+<h4>
+	<strong>Some Common Questions from High School Students&nbsp;</strong></h4>
+<ul>
+<li>
+		<a href="#OW&amp;OSAP" target="_blank">Can a student receive both Ontario Works and OSAP assistance at the same time?</a></li>
+<li>
+		<a href="#CantFindProgram" target="_blank">I can not find my program on the OSAP drop down menu.</a></li>
+<li>
+		<a href="#SPSSPE" target="_blank">What is my start and end date of my program?</a></li>
+<li>
+		<a href="#ParentalMaritalStatus" target="_blank">﻿If a student is in a situation where the parents are divorced, and they are living with the mother, do they have to include the father on the OSAP application? Or does it depend on whether or not the parents have joint custody?</a></li>
+<li>
+		<a href="#BoyfriendApp">﻿If the parents are divorced and the mother is living with the boyfriend in a common law relationship. Does the boyfriend have to be on the OSAP application?</a></li>
+<li>
+		<a href="#OPS">﻿If the student is going to school out of province or out of country, are the OSAP documents sent directly to that institution?</a></li>
+<li>
+		<a href="#Grants">Are students still eligible to receive grants from the government even if they do not end up using the OSAP funds?</a></li>
+<li>
+		<a href="#Changes">If any changes need to be made to the OSAP application after submission (ie/change in earnings during the school year etc) do they contact the Awards office of their school? When do they have to indicate any changes in income through part-time employment?</a></li>
+<li>
+		<a href="#Estimate">When students submit their OSAP application do they receive an automated response indicating how much they could be eligible for? Is it an accurate response or should they still wait until June for the official assessment?</a></li>
+<li>
+		<a href="#LineofCredit">Does OSAP take into consideration whether or not a student has a line of credit? Do they have access to this info?</a><br />
+		&nbsp;</li>
+</ul>
+<hr />
+<h4>
+	<strong>OSAP Questions</strong></h4>
+<ul>
+<li>
+		<a href="#WhenToApplyOSAP" target="_blank">When should I apply for (Ontario Student Assistance Program) OSAP funding?</a></li>
+<li>
+		<a href="/awards/osap-application-has-been-received" target="_blank">What happens after I submit my Signature &amp; Declaration pages to the Student Awards &amp; Financial Aid Office?</a></li>
+<li>
+		<a href="/awards/osap-application-has-been-received" target="_blank">What happens if I submit my Master Student Financial Aid Agreement to the Student Awards &amp; Financial Aid Office and not a Canada Postal Outlet?</a></li>
+<li>
+		<a href="#HowdoIapplyOSAP">How do I apply for OSAP funding if I have a restriction that is preventing me from applying on-line? </a></li>
+<li>
+		<a href="#HowpickupOSAP">How do I receive my OSAP funding?</a></li>
+<li>
+		<a href="#HowdoIpay">How do I pay my fees with OSAP funding if fees are due before I can claim my OSAP funding? </a></li>
+<li>
+		<a href="#HowdoIappeal">How do I appeal for more OSAP funding? </a></li>
+<li>
+		<a href="#OSAPdeadlines">What are the deadlines to apply for OSAP funding?</a></li>
+<li>
+		<a href="#HowdoImakechanges">How do I make a change to my OSAP application after I have submitted it for processing? </a></li>
+<li>
+		<a href="/awards/course-load-adjustmentswithdrawing" target="_blank">What happens if I withdraw or drop courses AFTER I have received my OSAP funding?</a></li>
+<li>
+		<a href="#ECOE">The message that I am getting on the OSAP website is that my school <strong>&#39;must confirm my enrolment&#39;</strong>.&nbsp; What should I do?</a></li>
+</ul>
+<hr />
+<h4>
+	<strong>Ontario Student Opportunity Grant (OSOG) Questions</strong></h4>
+<ul>
+<li>
+		<a href="#WhyOSOGnotpaid">Why has my 2011/2012 OSOG not been paid?</a></li>
+<li>
+		<a href="#MTCUcannotverify">The Ministry is unable to verify income for the specified year because you/spouse/parent(s) were not residing in Canada at that time and a Canadian Income Tax return for the year in question was not filed. What should I do?</a>
+<hr />
+	</li>
+</ul>
+<h4>
+	<strong>Work Study Questions</strong></h4>
+<ul>
+<li>
+		<a href="#Workstudydecision">I&#39;ve applied for Work Study, when do get a decision?</a></li>
+<li>
+		<a href="#HowdoIsearchforajob">How do I search for a job? </a></li>
+<li>
+		<a href="#WhenresponseafterSeptember23">When will students who have applied on or after September 23 and whose status is still applied receive a response? </a></li>
+<li>
+		<a href="#Workstudyappealresponse">How long will a student have to wait who has appealed their work study denial? </a></li>
+<li>
+		<a href="#Gotemaiwhattodonow">I have received my approval email, what do I do now?</a>
+<hr />
+	</li>
+</ul>
+<h4>
+	<strong>General Information</strong></h4>
+<ul>
+<li>
+		<a href="#HowdoIcontactSAFA">How do I contact the Student Awards &amp; Financial Aid Office? </a>
+<hr />
+	</li>
+</ul>
+<h5>
+	<strong><a name="WhenToApplyOSAP"></a>When should I apply for (Ontario Student Assistance Program) OSAP funding?</strong></h5>
+<p>Students should apply for OSAP on-line by June 30. Students should submit their signature pages and supporting documentation to the Student Awards &amp; Financial Aid Office at the University of Windsor by July 15. Generally, signature pages and supporting documentation takes 4 - 6 to process. In order to ensure that funding is available for the start of classes in September, we must have all paperwork to complete the OSAP application by July 15.</p>
+<hr />
+<h5>
+	<a name="HowdoIapplyOSAP"></a>How do I apply for OSAP funding if I have a restriction that is preventing me from applying on-line?</h5>
+<p>All students can now apply for OSAP assistance on-line even if there are restrictions preventing an assessment.&nbsp; Before students apply, they will receive a message that indicates that their application may not be assessed for the following reason(s)....however, the application process can be completed and the restrictions issues addressed subsequently.</p>
+<p>Students can also find information on how to address <a href="/awards/osap-bursary-appeal-information-new#Other" target="_blank">OSAP restriction issues from our website</a>.</p>
+<hr />
+<h5>
+	<a name="HowpickupOSAP"></a>How do I receive my OSAP funding?</h5>
+<p>Students will receive their OSAP funding by electronic funds transfer provided that they have followed the necessary steps to set up their Master Student Financial Aid Agreement form.</p>
+<hr />
+<h5>
+	<a name="HowdoIpay">﻿</a>How do I pay my fees with OSAP funding if fees are due before I can claim my OSAP funding?</h5>
+<p>If your fees are paid by forthcoming OSAP funding by September 30, you will not be charged interest or late fees on your tuition.</p>
+<p><strong>Step 1: </strong>Determine how much you owe to the University (including tuition, residence, meal plan). Your balance on your Account Summary available via&nbsp;<a href="https://my.uwindsor.ca/portal/page/portal/GuestPages/login" target="_blank">myUWindsor</a> should have already deducted your deposit (if applicable) and any scholarships/awards that you have received.</p>
+<p>
+	<strong>Step 2:</strong> Go to your &#39;Check Status&#39; on the OSAP Website to determine how much funding has been/will be issued for the current semester and add up all of your funding allocations (loans and grants across the table).</p>
+<p>
+	<strong>Step 3:</strong> If your Account Summary balance is less than your OSAP Funding Issued/To Be Issued, you do not have to make a payment by the fee deadline date. If your Account Summary balance is greater that your OSAP Funding Issued/To Be Issued, then you must pay the difference by the fee deadline date.</p>
+<p>Example #1: August 15, fees are due. Your Account Summary Balance indicates that you currently owe $5000 (Actual Fees are $7000-$2000 in scholarships) and you are due to receive $5500 in OSAP funding. No payment is required by you by the fee deadline date. When we process your Confirmation of Enrolment, provided that you have agreed to fee redirection to the University, we will deduct your fees owing from your OSAP funding. The balance, if applicable, will be directed to your bank account.</p>
+<p>Example #2: August 15, fees are due. Your Account Summary Balance indicates that you currently owe $5000 (Actual Fees are $7000-$2000 in scholarships) and you are due to receive $4500 in OSAP funding. A payment is required by you in the amount of $500 by the fee deadline date. When we confirm your enrolment, provided that you have agree to fee redirection, we will deduct the balance of your fees owing from your OSAP funding. The balance owed to the University will be directed to the University. No OSAP funding will be directed to your bank account.</p>
+<p>In summary, if you have sufficient OSAP funding to cover your balance owing to the University, the deferral of your fee payment is AUTOMATIC and there is NO ACTION required by you with the exception of you agreeing to fee redirection when you apply for OSAP funding.</p>
+<hr />
+<h5>
+	<a name="HowdoIappeal">﻿</a>How do I appeal for more OSAP funding?</h5>
+<p>Go to our website to <a href="/awards/appealing-your-osap-assessment">review appeal options </a>that are available to students. You may call our office at 519-253-3000 Ext. 3300 to arrange for an appointment.</p>
+<hr />
+<h5>
+	<a class="FCK__AnchorC" name="OSAPdeadlines">What are the deadlines to apply for OSAP funding?</a></h5>
+<p>OSAP application deadlines and appeal deadlines can be found on the OSAP Website.</p>
+<p><a href="/awards/system/files/2012-2013%20OSAP-Bursary-Work%20Study%20Deadlines.pdf" target="_blank">2012/2013 OSAP/Bursary/Work Study Deadlines</a></p>
+<hr />
+<p>&nbsp;</p>
+<hr />
+<h5>
+	<a name="HowdoImakechanges"></a>How do I make a change to my OSAP application after I have submitted it for processing?</h5>
+<p>If you need to make a change to your OSAP application after you have submitted it for processing, you will need to put your change in writing (be sure to sign and date your letter and to include your student number) and mail, fax or drop off your changes to the Student Awards &amp; Financial Aid Office. You can also use one of our <a href="/awards/osap-processing-forms">forms</a> from our website to submit your changes.</p>
+<hr />
+<h5>
+	<a name="HowdoIcontactSAFA"></a>How do I contact the Student Awards &amp; Financial Aid Office?</h5>
+<p>By mail: Student Awards &amp; Financial Aid<br />
+	University of Windsor<br />
+	401 Sunset Ave.<br />
+	Windsor, ON N9B 3P4</p>
+<p>	By phone: 519-253-3000 Ext. 3300<br />
+	By fax: 519-973-7087<br />
+	By email: <a href="mailto:award1@uwindsor.ca">award1@uwindsor.ca</a></p>
+<p><a href="/awards/student-awards-financial-aid-office-hours" target="_blank">Office Hours</a></p>
+<hr />
+<h5>
+	<a name="Workstudydecision"></a>I&#39;ve applied for Work Study, when do get a decision?</h5>
+<p>Our office will begin the first round of evaluations (generally for applications received by our office by September 11) in mid to late September. Students will receive confirmation of their eligibility via email by the end of the second week of October.</p>
+<hr />
+<h5>
+	<a name="HowdoIsearchforajob"></a>How do I search for a job?</h5>
+<p>Once you receive your email confirmation confirming your eligibility to participate in the Work Study Program, you will be given the link to do your job search on-line.</p>
+<hr />
+<h5>
+	<a name="Shouldbe2deposits"></a>There should be&nbsp;two deposits into my bank account but I only see one.</h5>
+<p>Generally, if you have a Canada Student Loan and an Ontario Student Loan and a Canada Student Grant OSAP disbursement, you may see up to 3 deposits into your bank account. Each deposit may be made within 2 - 3 business days of one another.</p>
+<hr />
+<h5>
+	<a name="WhenresponseafterSeptember23"></a>When will students who have applied on or after September 23 and whose status is still applied receive a response?</h5>
+<p>Early November</p>
+<hr />
+<h5>
+	<a name="Workstudyappealresponse"></a>How long will a student have to wait who has appealed their work study denial?</h5>
+<p>2-3 weeks</p>
+<hr />
+<h5>
+	<a name="Gotemaiwhattodonow"></a>I have received my approval email, what do I do now?</h5>
+<p>Refer to your email with instructions as the link to the Work Study Webpage has been provided</p>
+<p>Follow the instructions according to the Work Study Webpage:</p>
+<ul>
+<li>
+		Do job search;</li>
+<li>
+		Contact employer;</li>
+<li>
+		Once hired, complete Confirmation of Hiring with employer;</li>
+<li>
+		You will receive an email from the Student Awards &amp; Financial Aid Office confirming the process with registering with Human Resources;</li>
+<li>
+		Be sure to report your hours weekly and be sure to keep track of your hours. It is your employers responsibility to report your weekly hours worked to payroll to ensure that you are being paid biweekly.
+<hr />
+	</li>
+</ul>
+<h5>
+	<a name="WhyOSOGnotpaid"></a>Why has my 2012/2013 OSOG not been paid?</h5>
+<p>Refer to the OSOG link on the OSAP website for reasons associated as to whether or not the Ministry has verified you and your spouse&rsquo;s (if appropriate) income. If your study period end date for the 2012/2013 academic year was April, 2013, the Ministry must first verify your 2012 income and your spouse&rsquo;s 2011 income with Canada Revenue Agency.</p>
+<p>If your study period end date for the 2012/2013 academic year was August, 2013 and you had a 16 week pre-study contribution (you were not a full-time student from May &ndash; August), then the Ministry must first verify your 2013 income and your spouse&rsquo;s 2011 income with Canada Revenue Agency.</p>
+<p>If your study period end date for the 2012/2013 academic year was August, 2013 and you DID NOT HAVE a 16 week pre-study contribution (you were a full-time student from May &ndash; August), then the Ministry must first verify your 2012 income and your spouse&rsquo;s 2011 income with Canada Revenue Agency. Your 2012 income will be verified in July, 2013 and the OSOG payment (provided that eligibility has been retained) should happen in November, 2013.</p>
+<hr />
+<h5>
+	<a name="MTCUcannotverify"></a>The Ministry is unable to verify income for the specified year because you/spouse/parent(s) were not residing in Canada at that time and a Canadian Income Tax return for the year in question was not filed. What should I do?</h5>
+<p>The documentation requirement for verification of income on spouses/parents not living in Canada is the documentation which would be the equivalent of Canada&#39;s CRA Notice of Assessment/income tax documentation. Affidavits are not acceptable. Students must endeavour to provide official documentation from their country of origin as to the income reported or indicate their country does not have a tax system. Embassies and consulates can also confirm this information.</p>
+<p>	Students who indicate the spouse has no income and provides official proof that their country has no tax system, will be reviewed on an individual basis. Student must also provide a detailed letter indicating how the daily needs of the spouse were met (on $0 income), or proof of full-time enrolment in school and the record of landing showing when the spouse came to Canada, if applicable.</p>
+<hr />
+<h5>
+	<a name="OW&amp;OSAP">﻿</a>Can a student receive Ontario Works and OSAP at the same time?</h5>
+<p>Students can not generally receive both OSAP AND Social Assistance.&nbsp; However, from OSAP&#39;s perspective, if a student is approved to receive social assistance while they are a full-time student, the social assistance payments are a direct resource in the OSAP assessment and are deducted dollar for dollar.</p>
+<p>From Social Assistance&#39;s perspective, they will not generally allow a student to remain on social assistance if they are a full-time post-secondary student.&nbsp; They would (generally speaking) expect the student to apply for OSAP funding for their educational costs, which would also include the living allowance.</p>
+<p>Students should be checking with their caseworker who can assist them with determing what their best course of action should be.</p>
+<hr />
+<h5>
+	<a name="CantFindProgram">﻿</a>I can not find my program on the OSAP Program drop down menu.</h5>
+<p>If you are taking a double major, choose your first major.&nbsp; The OSAP program names only contain the program as identified with your first major of study only.&nbsp; If you are studying in the Bachelor of Arts and Science&nbsp;program,&nbsp;search Arts &amp; Science.</p>
+<hr />
+<h5>
+	<a name="SPSSPE">﻿</a>What is my start and end date of my program.</h5>
+<p>If you have selected the appropriate program code, you should not have to enter this information.&nbsp; Please find your program code and this will assist you with getting a realistic estimate of your OSAP eligibility.</p>
+<hr />
+<h5>
+	<a name="ParentalMaritalStatus">﻿</a>If a student is in a situation where the parents are divorced, and they are living with the mother, do they have to include the father on the OSAP application? Or does it depend on whether or not the parents have joint custody?<br />
+	&nbsp;</h5>
+<p>If a parent&#39;s marital status is divorced (not remarried or common law), then it is the custodial parent or the parent who the student who has last resided with full-time prior to starting full-time post-secondary studies, who completes the OSAP application.&nbsp; The non-custodial parent is not required to complete the application.&nbsp; If however, the non-custodial parent is providing support to the child, then the child must report this support as income on the income declaration section of the OSAP application.</p>
+<hr />
+<h5>
+	<a name="BoyfriendApp">﻿</a>If the parents are divorced and the mother is living with the boyfriend in a common law relationship. Does the boyfriend have to be on the OSAP application?</h5>
+<p>
+	If the custodial parent&#39;s marital status is technically and legally, common-law, then the common-law partner is required to complete Parent2 section of the application.&nbsp; If the situation warrants a further review if the common-law partner is not supporting the student in any way, then the student should be referred to our website &gt; under OSAP &amp; Bursary Appeal Information &gt; Step-Parent Appeal. With letters and supporting documentation, the student/parent(s) can request a review to remove the step-parent&#39;s information from the OSAP application.</p>
+<hr />
+<h5>
+	<a name="OPS">﻿</a>If the student is going to school out of province or out of country, are the OSAP documents sent directly to that institution?</h5>
+<p>When a student applies on-line and they select an out-of-province/country institution, they will be given instructions and directions to send all of the paperwork and documents to the Ministry of Training, Colleges and Universities in Thunder Bay - address and details will be provided to the student.&nbsp; There is also information for students to review on the OSAP website: <a href="http://www.tcu.gov.on.ca/eng/postsecondary/abroad/" title="http://www.tcu.gov.on.ca/eng/postsecondary/abroad/">http://www.tcu.gov.on.ca/eng/postsecondary/abroad/</a></p>
+<hr />
+<h5>
+	<a name="Grants">﻿</a>Are students still eligible to receive grants from the government even if they do not end up using the OSAP funds?</h5>
+<p>Students can not pick and choose for example, take the grants but not the loans.&nbsp; OSAP eligibility is assessed across the board and students must negotiate loan funding to receive grant funding (it&#39;s a package).&nbsp; Should students be thrifty enough to not be heavily reliant on the loan funding, they can set their loan funding aside&nbsp; as they may need it at a later time. Otherwise, they can pay it down up completion of their studies.</p>
+<hr />
+<h5>
+	<a name="Changes">﻿</a>If any changes need to be made to the OSAP application after submission (ie/change in earnings during the school year etc) do they contact the Awards office of their school? When do they have to indicate any changes in income through part-time employment?</h5>
+<p>Yes, that is correct.&nbsp; Typically, students should update their earnings prior&nbsp;to receiving their first installment or mid-August,&nbsp;in December, prior to receiving their January installment and then again at the end of the term so that they have sufficient time to address/repay any overpayments prior to the start of the next academic year.</p>
+<hr />
+<h5>
+	<a name="Estimate">﻿</a>When students submit their OSAP application do they receive an automated response indicating how much they could be eligible for? Is it an accurate response or should they still wait until June for the official assessment?</h5>
+<p>Yes, students should receive a fairly accurate estimate when they submit their OSAP application.&nbsp; It is however, only an estimate and the estimate is based on unverified information.&nbsp; If a student has any questions regarding their assessment after they have submitted their application, please contact the financial aid office at the school that you plan on attending.</p>
+<hr />
+<h5>
+	<a name="LineofCredit">﻿</a>Does OSAP take into consideration whether or not a student has a line of credit? Do they have access to this info?</h5>
+<p>No, lines of credit have no bearing on an OSAP assessment nor do they have access to this information.&nbsp; However, a student&#39;s outstanding OSAP debt may have an impact on a student&#39;s eligibility to access a student line of credit.</p>
+<hr />
+<h5>
+	<a name="ECOE"></a>The message that I am getting on the OSAP website is that my school <strong>&#39;must confirm my enrolment&#39;</strong>.&nbsp; What should I do?</h5>
+<p>The University of Windsor is working with the Ministry to confirm your enrolment electronically for the&nbsp;Fall 2013 semester.</p>
+<p>The Confirmation of Enrolment process for the&nbsp;Fall 2013 semester will commence on August 28, 2013 for any student who has an OSAP assessment by August 27th&nbsp;and whose signature and declaration/supporting documentation has processed.</p>
+<p>We will continue to confirm enrolments daily as OSAP applications and assessments process after August 28.</p>
+<p>Once the Student Awards &amp; Financial Aid Office confirms a student&#39;s enrolment, an email is sent to the student from <a href="mailto:award1@uwindsor.ca">award1@uwindsor.ca</a> confirming the process with further information.</p>
+<p>Please visit the link &#39;Why <a href="/awards/reasons-why-can-not-confirm">has my OSAP account not been confirmed?</a>&#39; to determine possible reasons as to why your enrolment would not be able to be confirmed.&nbsp; If none of the reasons apply, then please contact the Student Awards &amp; Financial Aid Office if you have not yet received the Confirmation of Enrolment email.</p>
+  </div>
+  </div></div> <!-- /node-inner, /node -->
+                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <!--googleoff: all--><div id="block-views-news-block_1" class="block block-views region-odd odd region-count-1 count-7 green_title announcements"><div class="block-inner">
+          <h2 class="title">Announcements</h2>
+    <div class="content">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/issues-with-submitting-on-line-bursary-applications">Issues with Submitting On-Line Bursary Applications!</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/extended-hours-in-september">Extended Hours in September</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/osap-and-paying-tuitionfees">OSAP and Paying Tuition/Fees</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/fall-2013-scholarship-payment-information">Fall 2013 Scholarship Payment Information</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/20132014-osap-30-off-ontario-tuition-grant-applications-are-now-available">2013/2014 OSAP &amp; 30% Off Ontario Tuition Grant Applications are now available!</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/osap-the-income-update-process">OSAP &amp; the Income Update Process</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/awards/new-for-1213-electronic-confirmation-of-enrolment-process-osap-release-0">Electronic Confirmation of Enrolment Process (OSAP)</a></span>
+  </div>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/awards/news">
+    View All  </a>
+</div>
+  
+  
+      <div class="feed-icon">
+      <a href="/awards/newsfeed" class="feed-icon"><img src="/awards/misc/feed.png" alt="Syndicate content" title="News" width="16" height="16" /></a>    </div>
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-block-24" class="block block-block region-even even region-count-2 count-8 blue_title student-awards-amp-financial-aid"><div class="block-inner">
+          <h2 class="title">Student Awards &amp; Financial Aid</h2>
+    <div class="content">
+    <ul>
+<li>
+		<a href="/awards/student-awards-financial-aid-office-hours" target="_blank">Office Hours</a></li>
+<li>
+		<a href="office-hours-contact-information" target="_blank">Office Location &amp; Contact Info</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/id-requirements" target="_blank">ID Requirements</a></li>
+<li>
+		<a href="/awards/need-based-assistance-bursary-workstudy" target="_blank">In-Course Bursary/Work Study</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/bursary-appeal-information" target="_blank">Bursary/Work&nbsp;Study&nbsp;Appeal Info</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/osap-bursary-appeal-information-new" target="_blank">OSAP Appeal Information</a></li>
+<li>
+		<a href="http://www.uwindsor.ca/awards/osap-processing-forms-new" target="_blank">OSAP Processing Forms </a></li>
+<li>
+		<a href="/awards/system/files/2013-2014%20OSAP-Bursary-Work%20Study%20Deadlines%20(Web%20Version).pdf">2013/2014 OSAP Deadlines</a></li>
+</ul>
+<p>&nbsp;</p>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/awards/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16213744-8"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- Student Awards &amp; Financial Aid ABCXYZ -->
+</body>
+</html>

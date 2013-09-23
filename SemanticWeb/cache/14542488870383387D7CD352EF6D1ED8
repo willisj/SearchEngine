@@ -1,0 +1,601 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Music Alumni Showcase Concert | School of Music - University of Windsor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="category-event-type" content="Concert" />
+<meta name="category-event-type" content="Showcase" />
+<meta name="category-audience" content="Current Students" />
+<meta name="category-audience" content="Undergraduate Students" />
+<meta name="category-audience" content="Faculty" />
+<meta name="category-audience" content="Staff" />
+<meta name="category-audience" content="Alumni" />
+<meta name="category-audience" content="Public" />
+<meta name="category-locations" content="Mackenzie Hall Cultural Centre" />
+<meta name="category-tags" content="50th Anniversary" />
+<meta name="category-tags" content="Alumni Association" />
+<meta name="category-tags" content="music" />
+<meta name="category-tags" content="music alumni" />
+<meta name="category-tags" content="performance" />
+<meta name="modified" content="2013-09-06 04:58:52" />
+<meta name="created" content="2013-09-03 11:56:26" />
+<meta name="status" content="1" />
+<meta name="type" content="events" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/music/sites/all/themes/unified_department/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+#block-custom-0{
+height:150px;
+position:relative;
+}
+
+#block-custom-0 .nav{
+ position:absolute;
+ top:0px;
+ right:0px;
+ z-index:100;
+ width:55px;
+}
+
+#block-custom-0 .nav a{
+ height:27px;
+ width:27px;
+ display:block;
+ font-size:0px;
+ color:#383632;
+}
+
+#block-custom-0 .nav a#prev2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-prev.jpg) no-repeat top left;
+ border-right:#b7c5c8 1px solid;
+ float:left;
+}
+
+#block-custom-0 .nav a#next2{
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-next.jpg) no-repeat top left;
+float:right;
+}
+
+#block-custom-0 h2.title{
+ position:absolute;
+ top:0px;
+ left:0px;
+ background:#383632;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:11px;
+ color:#ffffff;
+ height:27px;
+ line-height:27px;
+ padding-left:10px;
+ text-transform:uppercase;
+ width:179px;
+z-index:10;
+}
+
+.himg-wrap .hover-desc{
+ padding:0 0px 0 10px;
+ color:#ffffff;
+ font-weight:bold;
+ font-size:13px;
+ position:absolute;
+ bottom:15px;
+ 
+}
+
+.himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:block; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;}
+
+* html .himg-wrap .hover-desc a:link,.himg-wrap .hover-desc a:visited{color:#ffffff; text-decoration:none; display:inline; padding-right:20px; background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat bottom right;cursor:pointer;}
+.himg-wrap .hover-tour{
+ margin-top:-30px;
+ position:absolute;
+ right:12px;
+}
+
+.himg-wrap .hover-tour a{
+ font-size:0px;
+ background:url(http://cms1-xen.uwindsor.ca/sites/cms1-xen.uwindsor.ca/themes/windsor/images/slide-more.png) no-repeat top left;
+ height:16px;
+ width:16px;
+ display:block;
+}
+
+img.right-grad{position:absolute; bottom:0px}</style>
+<link rel="alternate" type="application/rss+xml" title="News" href="/music/newsfeed" />
+    <style type="text/css">
+          @import url('/music/modules/aggregator/aggregator.css');
+          @import url('/music/modules/node/node.css');
+          @import url('/music/modules/system/defaults.css');
+          @import url('/music/modules/system/system.css');
+          @import url('/music/modules/system/system-menus.css');
+          @import url('/music/modules/user/user.css');
+          @import url('/music/sites/all/modules/cck/theme/content-module.css');
+          @import url('/music/sites/all/modules/ckeditor/ckeditor.css');
+          @import url('/music/sites/all/modules/ctools/css/ctools.css');
+          @import url('/music/sites/all/modules/date/date.css');
+          @import url('/music/sites/all/libraries/jquery.ui/themes/base/jquery-ui.css');
+          @import url('/music/sites/all/modules/date/date_popup/themes/datepicker.css');
+          @import url('/music/sites/all/modules/date/date_popup/themes/jquery.timeentry.css');
+          @import url('/music/sites/all/modules/filefield/filefield.css');
+          @import url('/music/misc/farbtastic/farbtastic.css');
+          @import url('/music/sites/all/modules/calendar/calendar.css');
+          @import url('/music/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css');
+          @import url('/music/sites/all/modules/views/css/views.css');
+        </style>
+    
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/html-elements.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/tabs.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/messages.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/block-editing.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/wireframes.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/unified_department/unified_department.css" />
+        <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
+        <![endif]--><!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/music/news/sites/all/themes/zen/zen/ie.css?5" />
+<![endif]-->
+    
+    <link type="text/css" rel="stylesheet" media="print" href="/music/sites/all/themes/unified_department/print.css" />
+    <script type="text/javascript" src="/music/sites/all/modules/jquery_update/replace/jquery.js?5"></script>
+<script type="text/javascript" src="/music/misc/drupal.js?5"></script>
+<script type="text/javascript" src="/music/sites/all/modules/google_analytics/googleanalytics.js?5"></script>
+<script type="text/javascript" src="/music/sites/all/modules/pngfix/jquery.pngFix.js?5"></script>
+<script type="text/javascript" src="/music/sites/all/modules/uw_department_customizations/js/chili-1.7.pack.js?5"></script>
+<script type="text/javascript" src="/music/sites/all/modules/uw_department_customizations/js/jquery.cycle.all.js?5"></script>
+<script type="text/javascript" src="/music/sites/all/modules/uw_department_customizations/js/jquery.easing.1.1.1.js?5"></script>
+<script type="text/javascript" src="/music/sites/all/themes/unified_department/responsive/responsive.js?5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/music\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_back_image').pngFix(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(function() {
+    // run the code in the markup!
+    $('#s2').cycle({
+    fx:     'fade',
+    speed:  '500',
+    timeout:'4000',
+    next:   '#next2',
+    prev:   '#prev2'
+});
+});
+//--><!]]>
+</script>
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/music/sites/all/themes/unified_department/responsive/screen-320.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/music/sites/all/themes/unified_department/responsive/screen-480.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 640px)">@import url('/music/sites/all/themes/unified_department/responsive/screen-480-s.css');</style>    
+    <style type="text/css" media="only screen and (max-width: 480px)">@import url('/music/sites/all/themes/unified_department/responsive/320-default.css');</style>    
+    <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/music/sites/all/themes/unified_department/responsive/480-default.css');</style>    
+    
+</head>
+<body class="not-front not-logged-in node-type-events two-sidebars page-music-alumni-showcase-concert section-music-alumni-showcase-concert page-music-alumni-showcase-concert section-music-alumni-showcase-concert ">
+  <div class="wrapper-outter">
+    <div class="header">
+      <img src="/music/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
+      <div class="header-gradient"></div>
+      <div class="header-content">
+      <a class="accessibility-assist-link" href="http://lift.uwindsor.ca/tt/http://www1.uwindsor.ca/music/music-alumni-showcase-concert" title="View the Text Only version of this site" rel="nofollow">Text Only</a>
+      <a class="accessibility-assist-link" href="http://www.uwindsor.ca/search" title="University of Windsor Site Search" rel="nofollow">Site Search</a>
+                <div class="header-left">
+          <div class="top_searches">
+            <div class="search">
+                            <!--googleoff: all--><div id="block-google_appliance-google_search" class="block block-google_appliance region-odd odd region-count-1 count-1  search"><div class="block-inner">
+          <h2 class="title">Search</h2>
+    <div class="content">
+    <form action="/music/music-alumni-showcase-concert"  accept-charset="UTF-8" method="post" id="google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <label for="edit-keys">Search: </label>
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-c8f45590464d3a9bf8ed84e51be6d4ae" value="form-c8f45590464d3a9bf8ed84e51be6d4ae"  />
+<input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
+
+</div></form>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                          </div>  <!-- /search -->
+          </div>  <!-- /.top_searches -->
+        </div>  <!-- /.header-left -->
+        <div class="site-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/music/sites/all/themes/unified_department/images/logo.png" alt="University of Windsor Home" id="logo-image" />
+          </a>
+        </div> <!-- /.site-logo -->
+        <div id="mobile-logo">
+          <a href="http://www.uwindsor.ca/" target="_self" title="University of Windsor Home" rel="home">
+            <img src="/music/sites/all/themes/unified_department/responsive/images/logos/logo.png" alt="University of Windsor Home" id="mobile-logo-image" />
+          </a>
+        </div>
+                        
+        <!-- .top_menu start -->
+        <div class="top_menu primary-mobile hide-mobile">
+                                  <div class="audience_menu"><ul class="default-links links links-7"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/about-the-university">About the University</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/academic-programs">Academic Programs</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/vp-research">Research</a></li>
+<li class="3 link-3"><a href="http://www.uwindsor.ca/admissions">Admissions</a></li>
+<li class="4 link-4"><a href="http://www.uwindsor.ca/student-life">Student Life</a></li>
+<li class="5 link-5"><a href="http://www.uwindsor.ca/supportuwindsor">Giving</a></li>
+<li class="6 link-6 last"><a href="http://www.uwindsor.ca/internationalization">International</a></li>
+</ul></div>                              </div>  <!-- .top_menu -->
+      </div> <!-- /.header-content -->
+    </div> <!-- /.header -->
+    <!-- Primary Links -->
+        <div class="primary_menu primary_menu_ hide-mobile">
+              <div id="primary">
+          <div class="primary-label">Gateways for:</div><ul class="links links-4"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/futurestudents">Future Students</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/current-students">Current Students</a></li>
+<li class="2 link-2"><a href="http://www.uwindsor.ca/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="3 link-3 last"><a href="http://www.uwindsor.ca/alumni">Alumni</a></li>
+</ul>          <div class="portal-link">
+            <a href="http://my.uwindsor.ca" title="Log in to myUWindsor">Log in to <strong>myUWindsor</strong></a>
+          </div>
+        </div>
+            
+    </div>  <!-- /.primary_menu -->
+        <!-- Content container -->
+    <div class="content_container">
+      <div class="white-px">
+        <div class="content-wrapper">
+                      <div class="leftsidebar">
+                            <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
+    <div class="content">
+    <ul class="menu"><li class="collapsed first"><a href="/music/welcome-to-e-music" title="Welcome to E-Music" target="_self" rel="" class="length-short">Music Homepage</a></li>
+<li class="leaf"><a href="/music/audition%20information" title="Audition dates for 2010-2011" target="_self" rel="" class="length-short">Audition Information</a></li>
+<li class="expanded"><a href="/music/undergraduate-programs-at-the-school-of-music" title="Undergraduate Programs at the School of Music" target="_self" rel="" class="length-short">Undergraduate Programs</a><ul class="menu"><li class="leaf first"><a href="/music/bachelor-of-music-degree" title="Bachelor of Music degree" target="_self" rel="" class="length-short">Bachelor of Music</a></li>
+<li class="leaf"><a href="/music/bachelor-of-arts-in-music-degree" title="Bachelor of Arts in Music degree" target="_self" rel="" class="length-short">BA in Music</a></li>
+<li class="leaf"><a href="/music/bachelor-of-arts-double-major-degree" title="Bachelor of Arts - Double Major degree" target="_self" rel="" class="length-short">BA - Double Major</a></li>
+<li class="leaf last"><a href="http://www.uwindsor.ca/drama/certificate-in-arts-management" title="Certificate in Arts Management" target="_self" rel="" class="length-long">Certificate in Arts Management</a></li>
+</ul></li>
+<li class="leaf"><a href="/music/school-of-music-ensembles" title="School of Music Ensembles" target="_self" rel="" class="length-short">Ensembles</a></li>
+<li class="leaf"><a href="http://www.noiseborder.org" title="Noiseborder is an umbrella for a variety of electroacoustic, electronic and multimedia" class="length-short">Noiseborder</a></li>
+<li class="leaf"><a href="/music/musictherapy" title="Welcome to Music Therapy" target="_self" rel="" class="length-short">Music Therapy</a></li>
+<li class="leaf"><a href="/music/videos" target="_self" rel="music, recitals, video" title="Videos" class="length-short">Videos</a></li>
+<li class="leaf"><a href="http://www1.uwindsor.ca/e-saci/" target="_self" rel="" title="&quot;e-saci&quot; is the new e-newsletter for Music and Visual Arts Alumni" class="length-long">&#039;13 Music Alumni e-newsletter</a></li>
+<li class="leaf"><a href="/music/giving-to-music" title="Giving to Music" class="length-short">Giving to Music</a></li>
+<li class="leaf"><a href="http://www.uwindsor.ca/saci/" target="_self" rel="" title="Homepage for the School for Arts and Creative Innovation" class="length-long">School for Arts &amp; Creative Innovation</a></li>
+<li class="leaf last"><a href="http://www.uwindsor.ca/fass" title="Faculty of Arts, Humanities &amp; Social Sciences" target="_self" rel="" class="length-long">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+</ul>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_social-sharelinks" class="block block-uw_social region-even odd region-count-2 count-3 no-title  "><div class="block-inner">
+    <div class="content">
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script><div class="share-facebook button_count send">
+<div id="fb-root"></div>
+<fb:like href="http://www1.uwindsor.ca/music/music-alumni-showcase-concert" show_faces="false" width="135" font="tahoma" send="true" layout="button_count" action="like"></fb:like></div><!-- /.share-facebook -->
+<div class="share-twitter horizontal">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="UWindsor">Tweet</a>
+</div><!-- /.share-twitter -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<div class="share-google standard count">
+<g:plusone size="standard"></g:plusone>
+<script type="text/javascript">// <![CDATA[
+              (function() {
+              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+              po.src = 'https://apis.google.com/js/plusone.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+              //]]>
+              </script>
+</div><!-- /.share-google -->
+<br clear="all" />
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                            <div class="spiff_block">
+                <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd even region-count-1 count-4  spiff"><div class="block-inner">
+          <h2 class="title">SPIFF</h2>
+    <div class="content">
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/Unleash%20your%20Inner%20Lancer.png" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/orientation/head-start" target="_blank">Head Start 2013</a></div><div class="summary">Head Start 2013 invites all new students to unleash their inner lancer from June 4 - 11, 2013. Register online TODAY! </div><div class="read_more"><a href="http://www.uwindsor.ca/orientation/head-start" target="_blank">Read</a></div></div>  </div>
+  <div class="bpng"><img alt="bpng" src="/music/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+                                        </div>
+            <div class="right-area">
+              <div class="content_top">
+                <div class="header_image">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
+    <div class="content">
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/music/system/files/imagecache/header_left_image/music_banner4_0.jpg" alt="School of Music, student working on laptop" title="School of Music - laptop" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                <div class="header_random_images">
+                  <!--googleoff: all--><div id="block-uw_department_customizations-0" class="block block-uw_department_customizations region-odd even region-count-1 count-6  future-music-students"><div class="block-inner">
+          <h2 class="title">Future Music Students</h2>
+    <div class="content">
+    <div class="home-image" id="s2"><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/music/system/files/imagecache/244by123_slide_image/slideshow/WE-Allen-Alaina.gif" alt="The audition workshop will prepare you for your best audition expeience" title="Music Audition Workshop" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/music/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Music Audition Workshop"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://uwindsor.ca/music/music-audition-workshop-0" target="0">Music Audition Workshop</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/music/system/files/imagecache/244by123_slide_image/slideshow/header-right-Thinking-UWindsor2.jpg" alt="Thinking about UWindsor? Sign up for more information" title="Sign up for more info" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/music/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Sign up for info"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://web2.uwindsor.ca/recruitPortal_new/students/apps/interestProfile/" target="_blank">Sign up for info</a></div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/music/system/files/imagecache/244by123_slide_image/slideshow/Hands-playing-piano.gif" alt="The audition is the first step toward success in any music program" title="Music Auditions" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/music/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Auditions"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc"><a href="http://uwindsor.ca/music/audition%20information" target="0">Auditions</a></div>
+  </div>
+  </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->                </div>
+                              </div>
+              <div class="content-area">
+                <div class="content-leftside">
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/music">School of Music</a> / <a href="/music/music-alumni-showcase-concert" class="active">Music Alumni Showcase Concert</a></div>                                      <h1 class="title">Music Alumni Showcase Concert</h1>
+                                                                                          <div id="node-1159" class="node node-type-events">
+  <div class="node-inner">
+          <div class="content">
+            <div class="add-calendar-ical">
+        <a href="/music/ical/events/1159" title="Add this event into your calendar using the iCAL format"><img src="/music/sites/all/themes/unified_department/images/ical.png" alt="Add this event into your calendar using the iCAL format" /></a>
+      </div>
+                    <ul class="field-date-list">
+        <li><h4><span class="date-display-single">Sat, 09/21/2013 - <span class="date-display-start">7:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">9:00pm</span></span></h4></li>        </ul>
+        <br  />
+                <div class="event-location-links">
+                        Mackenzie Hall Cultural Centre                                  <br />
+        </div>
+                
+              
+                 
+       
+        <br clear="all" /><br />
+        <div>
+	<em>Saturday, September 21,&nbsp; 7:30 pm</em></div>
+<div>
+	&nbsp;</div>
+<h3>
+	<img alt="UWindsor 50th Anniversary Celebration weekend" src="/music/system/files/50Tag_Horiz_Colour.gif" style="width: 200px; height: 84px; margin: 2px 5px; float: right;" />Music Alumni Showcase Concert</h3>
+<div>
+	<br />
+	Mackenzie Hall, 3277 Sandwich Street</div>
+<div>
+	&nbsp;</div>
+<div>
+	A diverse musical program featuring performances by:</div>
+<div>
+	<strong><img alt="UWindsor Alumni Association is an official sponsor of all SACI Alumni Showcase Events" src="/music/music/system/files/UW_Alumni_2clr_horz.jpg" style="width: 200px; height: 93px; margin: 2px 5px; float: right;" />Ross Osmun, piano</strong><br />
+	&nbsp;</div>
+<div>
+	<strong><em>The Majestic Brass</em>:&nbsp; Bob Fazecash ~ trumpet,&nbsp;</strong><strong>Ross Turner ~ trumpet, Bernadette Berthelotte ~ horn;&nbsp;</strong><br />
+	<strong>Corey Fitzpatrick and Mike Stone ~ trombones</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Marc Funkenhauser, saxophone</strong><br />
+	&nbsp;</div>
+<div>
+	<strong>Erin Armstrong, soprano</strong><br />
+	&nbsp;</div>
+<div>
+	<strong>Christine Turingia, soprano</strong><br />
+	&nbsp;</div>
+<div>
+	<strong>Allen Levack, baritone and Joanna Shultz, piano</strong></div>
+<div>
+<div>
+		<strong>TICKETS</strong>: &nbsp;<strong>$15</strong>.</div>
+<div>
+		<strong>Order by phone at 519-253-3000 ext. 4212; or purchase online at</strong>
+<p><a href="http://web2.uwindsor.ca/music/tickets/"><strong><em>Buy Tickets</em></strong></a></p>
+</div>
+</div>
+<p class="rteright"><em>The University of Windsor Alumni Association is an official sponsor of all SACI Alumni Showcase events.</em></p>
+<p><u>Program:</u></p>
+<p>Opening welcome and comments: Dr. Karen Engle, Acting Director, SACI</p>
+<p>	<img alt="Erin Armstrong, soprano" src="/music/system/files/ERIN ARMSTRONG SOPRANO.jpg" style="width: 140px; height: 221px; margin: 2px 5px; float: right;" />Merce dilette amiche, from <em>I Vespri Siciliani &nbsp;</em> by Verdi&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+	Si, mi chiamano Mimi, from <em>La Boheme &nbsp;</em>by Puccini</p>
+<p>	<em>The Garden of Love,</em>&nbsp;for soprano saxophone and tape by Jacob ter Veldhuis (1951-)</p>
+<p>	<em>Le chant du veilleur</em>, pour mezzo soprano, saxophone alto, &amp; piano by Joaquin Nin (1879-1949)</p>
+<p>	Jeux d&#39;eau by Ravel&nbsp;</p>
+<p>	Sonetto del Petrarca 104 &nbsp;by Franz Liszt</p>
+<p>
+	INTERMISSION</p>
+<p>	Not A Day Goes By from <em>Merrily We Roll Along &nbsp;</em>by Stephen Sondheim (B. 1930)<br />
+	Me from <em>Beauty and the Beast &nbsp; &nbsp;</em>by Alan Menken (B. 1949) and Tim Rice (B. 1944)<br />
+	You Make Me Feel So French &nbsp;by &nbsp;Scott Burkell (Unknown) and Paul Loesel (Unknown)</p>
+<p>	Who will love me as I am from <em>Sideshow</em> &nbsp;&nbsp;lyrics by Bill Russell and music by Henry Krieger (3&#39;)</p>
+<p>	<img alt="Majestic Brass Quintet is made up of UWindsor Alumni" src="/music/system/files/MajesticBrass-funny.gif" style="width: 160px; height: 120px; margin: 2px 5px; float: right;" />Majestic Brass Quintet<br />
+	1. &nbsp;Fanfare &quot;La Peri&quot; - Paul Dukas(1865-1935)<br />
+	2. &nbsp;Fantasie &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- J.S. Bach(1685-1750)<br />
+	3. La Marche from Suite from the Monteregian Hills &nbsp;-Morley Calvert(1928-1991)<br />
+	4. &nbsp;Stolen Moments - Oliver Nelson(1932-1975) (arr. M. Stone)<br />
+	5. &nbsp;Canzona Bergamasca &nbsp; -Samuel Scheidt(1587-1654) (arr. DeJong)</p>
+        <br clear="all" /><br />
+        
+                  <div class="event-contact-info">
+                          Susan McKee  <br />
+                                      <a href="mailto:smckee@uwindsor.ca">smckee@uwindsor.ca</a>  <br />
+                                      (519)253-3000  
+                          ext.4213  
+                        <br />
+                      </div>
+          <br clear="all" />
+              
+                <br />
+        <div class="categories">
+          <span class="event-label">See More:&nbsp; </span>
+          <div class="event-taxonomy-links">
+                                     
+            <a href="/music/category/event-type/concert">Concert</a>            |             
+            <a href="/music/category/event-type/concert/showcase">Showcase</a>            |             
+            <a href="/music/category/audience/current-students">Current Students</a>            |             
+            <a href="/music/category/audience/undergraduate-students">Undergraduate Students</a>            |             
+            <a href="/music/category/audience/faculty">Faculty</a>            |             
+            <a href="/music/category/audience/staff">Staff</a>            |             
+            <a href="/music/category/audience/alumni">Alumni</a>            |             
+            <a href="/music/category/audience/public">Public</a>            |             
+            <a href="/music/category/tags/50th-anniversary">50th Anniversary</a>            |             
+            <a href="/music/category/tags/alumni-association">Alumni Association</a>            |             
+            <a href="/music/category/tags/music">music</a>            |             
+            <a href="/music/category/tags/music-alumni">music alumni</a>            |             
+            <a href="/music/category/tags/performance">performance</a>                         
+                        <br />
+          </div>
+        </div>
+          
+                <br clear="all" /><br />
+    
+      
+        
+    </div> <!-- /#.node-inner -->
+        </div>
+</div> <!-- /.node -->                                  </div>
+              </div>
+              <div class="rightsidebar">
+              <div id="block-views-news-block_1" class="block block-views region-odd odd region-count-1 count-7 green_title news"><div class="block-inner">
+          <h2 class="title">News</h2>
+    <div class="content">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/music/music-therapy-student-wins-world-congress-scholarship">Music Therapy Student Wins World Congress Scholarship</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/music/magazine-profiles-music-therapy-instructor">Magazine profiles music therapy instructor</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/music/circles-of-learning-recent-articles-by-dr-janice-waldron">Circles of Learning: Recent Articles by Dr. Janice Waldron</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/music/grad-student-cracks-top-25-in-sshrc-storytellers-contest">Grad student cracks top 25 in SSHRC Storytellers contest</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/music/dr-clements-cortes-wins-educator-of-character-award">Dr. Clements-Cortes Wins &quot;Educator of Character&quot; Award</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/music/musical-language-open-to-interpretation-says-choir-director">Musical language open to interpretation, says choir director</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/music/artists-and-researchers-focus-on-detroit-at-critical-juncture-for-city">Artists and researchers focus on Detroit at critical juncture for city</a></span>
+  </div>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/music/music-news">
+    View All  </a>
+</div>
+  
+  
+      <div class="feed-icon">
+      <a href="/music/newsfeed" class="feed-icon"><img src="/music/misc/feed.png" alt="Syndicate content" title="News" width="16" height="16" /></a>    </div>
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-even even region-count-2 count-8 blue_title todays-events"><div class="block-inner">
+          <h2 class="title">Today's Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li class="imported-event">5:00AM-12:30PM <a href="http://www1.uwindsor.ca/visualarts/visual-arts-faculty-exhibition#20130916T090000">Visual Arts Faculty Exhibition</a></li><li class="imported-event">6:00AM-1:00PM <a href="http://www1.uwindsor.ca/visualarts/alumni-art-exhibition#20130920T100000">Alumni Art Exhibition</a></li><li class="imported-event">2:00PM-3:30PM <a href="http://www1.uwindsor.ca/visualarts/alumni-and-friends-reception#20130921T180000">Alumni and Friends Reception</a></li><li>6:00PM-7:30PM <a href="/music/alumni-and-friends-reception">Alumni and Friends Reception</a></li><li>7:30PM-9:00PM <a href="/music/music-alumni-showcase-concert" class="active">Music Alumni Showcase Concert</a></li></ul></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd odd region-count-3 count-9 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 16 - 27, 2013 <a href="http://www1.uwindsor.ca/visualarts/visual-arts-faculty-exhibition#20130916T090000">Visual Arts Faculty Exhibition</a></li><li class="imported-event">Sep 20 - 22, 2013 <a href="http://www1.uwindsor.ca/visualarts/alumni-art-exhibition#20130920T100000">Alumni Art Exhibition</a></li></ul></div><div class="more-link"><a href="/music/calendar/events">VIEW CALENDAR</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
+            </div>
+                    <br clear="all" />
+        </div>  <!-- /.content-wrappper -->
+      </div>  <!-- /.white-px -->
+    </div>  <!-- /.content_container -->
+    <!-- Foter Start -->
+    <div class="footer-container">
+      <div id="footer-top-wrapper">
+        <div id="footer-top">
+          <ul class="links links-3"><li class="0 link-0 first"><a href="http://www.uwindsor.ca/contact">Contact Us</a></li>
+<li class="1 link-1"><a href="http://www.uwindsor.ca/directory">University Directory</a></li>
+<li class="2 link-2 last"><a href="http://www.uwindsor.ca/campusmap">Campus Map</a></li>
+</ul>        </div>
+      </div>
+      <div class="footer-wrapper">
+        
+        <div id="app-downloads" class="mobile-only">
+          <a href="http://www.uwindsor.ca/app/apple" class="apple"><img src="/sites/all/themes/unified_department/images/app-apple.gif" alt="Download our iPhone App!" /></a><a href="http://www.uwindsor.ca/app/android" class="android"><img src="/sites/all/themes/unified_department/images/app-android.gif" alt="Download our Android App!" /></a><a href="http://www.uwindsor.ca/app/rim-blackberry" class="blackberry"><img src="/sites/all/themes/unified_department/images/app-blackberry.gif" alt="View our Blackberry App!" /></a>        </div> <!-- /#app-downloads -->
+        
+        <div class="item-list"><ul class="faculty-navigation-links faculty-list hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/fahss">Faculty of Arts, Humanities &amp; Social Sciences</a></li>
+<li><a href="http://www.uwindsor.ca/education">Faculty of Education</a></li>
+<li><a href="http://www.uwindsor.ca/engineering">Faculty of Engineering</a></li>
+<li><a href="http://www.uwindsor.ca/graduate">Faculty of Graduate Studies</a></li>
+<li><a href="http://www.uwindsor.ca/hk">Faculty of Human Kinetics</a></li>
+<li><a href="http://www.uwindsor.ca/law">Faculty of Law</a></li>
+<li><a href="http://www.uwindsor.ca/nursing">Faculty of Nursing</a></li>
+<li><a href="http://www.uwindsor.ca/odette">Odette School of Business</a></li>
+<li><a href="http://www.uwindsor.ca/science">Faculty of Science</a></li>
+<li><a href="http://ctl.uwindsor.ca/interfaculty">Centre for Inter-Faculty Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/cepe">Centre for Executive and Professional Education</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links program-list hide-mobile"><li class="first"><div class="item-list"><h3><a href="/music/registrar/undergraduate-admissions">Undergraduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/futurestudents/program-profile-listing">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply">How to apply</a></li>
+</ul></div></li>
+<li><div class="item-list"><h3><a href="http://www.uwindsor.ca/registrar/graduate-admissions-0">Graduate:</a></h3><ul><li class="first"><a href="http://www.uwindsor.ca/graduate/graduate-programs-directory">Academic Programs</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/registrar/how-to-apply-0">Admissions</a></li>
+</ul></div></li>
+<li><a href="http://www.uwindsor.ca/awards">Scholarships &amp; Awards</a></li>
+<li><a href="http://www.uwindsor.ca/residence">Residence</a></li>
+<li><a href="http://www.uwindsor.ca/food">Food Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/student-support">Student Support</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/registrar/university-course-and-program-calendar">Academic Calendar</a></li>
+<li><a href="http://web2.uwindsor.ca/pac/onlinetour/index.php">Virtual Tour</a></li>
+<li><a href="http://www.uwindsor.ca/visit-us">Visitor Information</a></li>
+<li><a href="http://www.uwindsor.ca/map">Campus Maps</a></li>
+<li><a href="http://www.uwindsor.ca/parking">Parking</a></li>
+<li><a href="http://www.uwindsor.ca/recreation-and-fitness">Athletics &amp; Recreation Services</a></li>
+<li><a href="http://golancers.ca/">Lancers Varsity Sports</a></li>
+<li><a href="http://www.uwindsor.ca/up">University Players</a></li>
+<li><a href="http://www.uwindsor.ca/accessibility">Accessibility Services</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/event">Events Calendar</a></li>
+</ul></div><div class="item-list"><ul class="faculty-navigation-links hide-mobile"><li class="first"><a href="http://www.uwindsor.ca/president">Office of the President</a></li>
+<li><a href="http://leddy.uwindsor.ca/">Leddy Library</a></li>
+<li><a href="http://www.uwindsor.ca/alumni/events-reunions">Alumni Events &amp; Reunions</a></li>
+<li><a href="http://www.uwindsor.ca/pac/news-services">Media Contact</a></li>
+<li><a href="http://www.golancers.ca">Windsor Lancers</a></li>
+<li><a href="http://www.uwindsor.ca/dailynews">News</a> &amp; <a href="http://www.uwindsor.ca/pac/publication-services">Publications</a></li>
+<li><a href="http://www.uwindsor.ca/social-media">Social Media</a></li>
+<li><a href="http://www.uwindsor.ca/app">Mobile App</a></li>
+<li class="last"><a href="http://www.uwindsor.ca/employment">Employment Opportunities</a></li>
+</ul></div>        
+      </div>  <!-- /.footer-wrapper -->
+    </div>  <!-- /.footer-container -->
+    <!-- Footer Ends -->
+  </div>  <!-- .wrapper-outter ends -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-3246538-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <!-- School of Music ABCXYZ -->
+</body>
+</html>
