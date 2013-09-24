@@ -98,8 +98,8 @@ public class Page implements Runnable {
 			try { // open the stream to the URL
 				in = new BufferedReader(new InputStreamReader(url.openStream()));
 			} catch (IOException e1) {
-				System.err.println("Failed to open stream to URL:"
-						+ getUrl().toString());
+				util.writeLog("Failed to open stream to URL:"
+						+ getUrl().toString(),true);
 				return false;
 			}
 
@@ -109,8 +109,8 @@ public class Page implements Runnable {
 				}
 				in.close();
 			} catch (IOException e) {
-				System.err.println("Failed to read page source for URL:"
-						+ getUrl().toString());
+				util.writeLog("Failed to read page source for URL:"
+						+ getUrl().toString(),true);
 				return false;
 			}
 

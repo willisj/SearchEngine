@@ -1,6 +1,7 @@
 package crawler;
 
 import java.net.MalformedURLException;
+import utilities.util;
 
 public class CrawlerExample {
 
@@ -8,6 +9,7 @@ public class CrawlerExample {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		util.getTimer().start();
 		Crawler c;
 		try {
 			c = new Crawler("http://www1.uwindsor.ca/cs/");

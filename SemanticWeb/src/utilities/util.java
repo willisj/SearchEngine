@@ -7,7 +7,10 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+import org.apache.commons.lang3.time.StopWatch;
+
 public class util {
+	static StopWatch timer = new StopWatch();
 	final protected static char[] hexArray = "0123456789ABCDEF".toCharArray();
 	// http://stackoverflow.com/questions/326390/how-to-create-a-java-string-from-the-contents-of-a-file
 	static public String readFile(String path, Charset encoding)
@@ -33,6 +36,7 @@ public class util {
 		return folderSize(new File(s));
 	}
 	
+	
 	// http://stackoverflow.com/questions/2149785/size-of-folder-or-file
 	public static long folderSize(File source) {
 	    long length = 0;
@@ -43,5 +47,22 @@ public class util {
 	            length += folderSize(file);
 	    }
 	    return length;
+	}
+	
+	public static StopWatch getTimer(){
+		return timer;
+	}
+	
+	public static void writeLog(String s){
+		writeLog(s,false);	
+	}
+	
+	public static void writeLog(String s,boolean error){
+		s = timer.toString()+"\t" + s;
+		
+		if(error)
+			System.err.println(s);
+		else
+			System.out.println(s);		
 	}
 }

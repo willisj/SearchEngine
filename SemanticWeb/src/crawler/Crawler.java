@@ -8,6 +8,9 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Vector;
 
+import org.apache.commons.lang3.time.StopWatch;
+import utilities.util;
+
 /**
  * @author Jordan
  * 
@@ -72,8 +75,8 @@ public class Crawler extends Thread {
 	 */
 	public void crawl(int maxDepth) {
 
-		Long crawlStart = new Date().getTime(); // store the start time
-
+		StopWatch timer = new StopWatch();
+		timer.start();
 		// while we have work to do
 		while (urlPool.size() > 0 || running.size() > 0) {
 
@@ -92,15 +95,14 @@ public class Crawler extends Thread {
 					} finally {
 						Page p = runningRef.get(t.getName());
 
-						System.out.println("Page Downloaded("
-								+ (requestedPages.size() + 1) + "): "
-								+ p.getUrl());
+						util.writeLog("Thread "+ (requestedPages.size() + 1) +" Completed:" + p.getUrl());
+
 
 						// if we haven't reached the max depth yet process the
 						// children
 						if (p.getCrawlDepth() < maxDepth)
 							urlPool.addAll(makePagesFromChildren(p));
-						
+
 						// move the page from the runningRef to the requested
 						// pages
 						requestedPages.add(runningRef.remove(p));
@@ -113,8 +115,8 @@ public class Crawler extends Thread {
 			// if there are pages waiting to be requested
 			// and we're under the MAX_THREADS limit
 			if (urlPool.size() > 0 && running.size() <= MAX_THREADS) {
-				
-				// the container for this burst of pages 
+
+				// the container for this burst of pages
 				Vector<Thread> burst = new Vector<Thread>();
 
 				// while we still have room in this burst
@@ -135,21 +137,19 @@ public class Crawler extends Thread {
 		}
 
 		// calculate and display the running time
-		long elapsed = (new Date().getTime() - crawlStart) / 1000;
-		long sec = elapsed % 60;
-		long min = ((elapsed - sec) / 60) % 60;
-		long hr = (((elapsed - sec) / 60) - min) / 60;
-		System.out.println("Crawl Completed: " + hr + ":" + min + ":" + sec);
-		
+		timer.stop();
+		util.writeLog("Crawl Completed in " + timer.toString());
+
 		// display the current cache size
 		if (requestedPages.size() > 0)
-			System.out.println("Cache Size: "
+			util.writeLog("Cache Size: "
 					+ (utilities.util.folderSize(seedPage.CACHE_PATH) / 1024)
 					/ 1024 + "MB");
 	}
 
 	/**
 	 * Creates a thread from the url on the front of the pool
+	 * 
 	 * @return the created thread
 	 */
 	private Thread addNextUrlFromPool() {
@@ -163,7 +163,9 @@ public class Crawler extends Thread {
 
 	/**
 	 * creates pages from the children of page p
-	 * @param p the page to take the children from
+	 * 
+	 * @param p
+	 *            the page to take the children from
 	 * @return a vector of pages which represent the children of 'p'
 	 */
 	private Vector<Page> makePagesFromChildren(Page p) {
@@ -187,6 +189,7 @@ public class Crawler extends Thread {
 	private boolean checkUrl(String s) {
 		// ALGEBRA: ![url has been seen] && ( Stay in domain -> s.startswith...)
 		// p->q == !p || q
-		return (!seenUrls.contains(s)) && (!STAY_IN_DOMAIN ||  s.startsWith(seedPage.getDomain()));
+		return (!seenUrls.contains(s))
+				&& (!STAY_IN_DOMAIN || s.startsWith(seedPage.getDomain()));
 	}
 }
