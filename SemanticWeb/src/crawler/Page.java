@@ -46,6 +46,8 @@ public class Page implements Runnable {
 	// --- Post Request
 
 	private Vector<String> children;
+	private Vector<Page> inLinks;
+	private Vector<Page> outLinks;
 
 	/* META-DATA */
 	private int crawlDepth; // The depth this page was found at if it was found
@@ -64,6 +66,10 @@ public class Page implements Runnable {
 	 */
 	Page(String url, int crawlDepth) throws MalformedURLException {
 		children = new Vector<String>();
+		
+		inLinks = new Vector<Page>();
+		outLinks = new Vector<Page>();
+		
 		setCrawlDepth(crawlDepth);
 		try {
 			this.setUrl(new URL(url));
@@ -258,6 +264,14 @@ public class Page implements Runnable {
 		return diagString();
 	}
 
+	public void addOutLink(Page p){
+		outLinks.add(p);
+	}
+	
+	public void addInLink(Page p){
+		inLinks.add(p);
+	}
+	
 	// * SETTERS AND GETTERS *//
 
 	public String getDomain() {

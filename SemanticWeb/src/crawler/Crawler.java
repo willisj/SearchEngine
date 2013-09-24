@@ -21,6 +21,13 @@ public class Crawler extends Thread {
 	final int BURST_SIZE = 5;
 	final boolean STAY_IN_DOMAIN = true;
 
+	
+	// Error Settings
+	final boolean SHOW_THREAD_COMPLETED = true;
+	final boolean PRINT_CACHE_SIZE = true;
+	final boolean PRINT_SUMMARY = true;
+	
+	
 	final private String seed; // the seed url
 	private Page seedPage;
 
@@ -95,7 +102,8 @@ public class Crawler extends Thread {
 					} finally {
 						Page p = runningRef.get(t.getName());
 
-						util.writeLog("Thread "+ (requestedPages.size() + 1) +" Completed:" + p.getUrl());
+						if(SHOW_THREAD_COMPLETED)
+							util.writeLog("Thread "+ (requestedPages.size() + 1) +" Completed: " + p.getUrl());
 
 
 						// if we haven't reached the max depth yet process the
@@ -138,10 +146,13 @@ public class Crawler extends Thread {
 
 		// calculate and display the running time
 		timer.stop();
-		util.writeLog("Crawl Completed in " + timer.toString());
+		if(PRINT_SUMMARY){
+			util.writeLog("Crawl Completed in " + timer.toString());
+			util.writeLog(requestedPages.size() + " pages retreived");
+		}
 
 		// display the current cache size
-		if (requestedPages.size() > 0)
+		if (PRINT_CACHE_SIZE && requestedPages.size() > 0)
 			util.writeLog("Cache Size: "
 					+ (utilities.util.folderSize(seedPage.CACHE_PATH) / 1024)
 					/ 1024 + "MB");
@@ -176,7 +187,11 @@ public class Crawler extends Thread {
 			if (checkUrl(s)) {
 				seenUrls.add(s);
 				try {
-					children.add(new Page(s, newDepth));
+					Page newPage = new Page(s, newDepth); 
+					children.add(newPage);
+					newPage.addInLink(p);
+					p.addOutLink(p);
+					/// TODO: form ALL links from children, regardless of if they were followed by the crawler, correct any depths. 
 				} catch (MalformedURLException e) {
 				}
 			}
