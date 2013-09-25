@@ -15,7 +15,7 @@ public class ShingleFactory {
 	private int nextShingleID =0; 
 	Map<String, Integer> shingleRef;
 
-	ShingleFactory(ShingleBuildingMethod method) {
+	public ShingleFactory(ShingleBuildingMethod method) {
 		this.method = method;
 		shingleRef = new HashMap<String,Integer>();
 	}
@@ -23,6 +23,9 @@ public class ShingleFactory {
 	public int[] shingleDocument(String body, int k) {
 		String[] shingles = new String[shinglesPerDocument];
 		int[] shingleIDs = new int[shinglesPerDocument];
+		
+		if(body.trim().length() == 0)
+			return new int[0];
 		
 		switch (method) {
 			case STARTATSTOPWORDS:

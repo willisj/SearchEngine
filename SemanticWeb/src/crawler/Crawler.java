@@ -52,7 +52,7 @@ public class Crawler extends Thread {
 	 * @throws MalformedURLException
 	 *             invalid seed url
 	 */
-	Crawler(String seed) throws MalformedURLException {
+	public Crawler(String seed) throws MalformedURLException {
 		this.seed = seed;
 		seedPage = new Page(seed, 0);
 		urlPool.add(seedPage);
@@ -80,7 +80,7 @@ public class Crawler extends Thread {
 	 * @param maxDepth
 	 *            The max depth the spider will search
 	 */
-	public void crawl(int maxDepth) {
+	public Vector<Page> crawl(int maxDepth) {
 
 		StopWatch timer = new StopWatch();
 		timer.start();
@@ -113,7 +113,8 @@ public class Crawler extends Thread {
 
 						// move the page from the runningRef to the requested
 						// pages
-						requestedPages.add(runningRef.remove(p));
+						runningRef.remove(p);
+						requestedPages.add(p);
 					}
 
 				}
@@ -156,6 +157,8 @@ public class Crawler extends Thread {
 			util.writeLog("Cache Size: "
 					+ (utilities.util.folderSize(seedPage.CACHE_PATH) / 1024)
 					/ 1024 + "MB");
+		
+		return requestedPages;
 	}
 
 	/**
