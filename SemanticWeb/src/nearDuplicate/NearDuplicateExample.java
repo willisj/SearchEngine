@@ -18,18 +18,20 @@ public class NearDuplicateExample {
 		ShingleFactory factory = new ShingleFactory(
 				ShingleBuildingMethod.RANDOMSTART);
 
-		String[] shingles = factory
-				.produceRandomShingles(
+		int[] shingles = factory
+				.shingleDocument(
 						"Arriving with the Iranian supreme leader's blessing to show \"heroic flexibility\" "
 								+ "in global diplomacy, and having built up to his U.N. General Assembly appearance "
 								+ "with weeks of conciliatory gestures, tweets and media engagement, Iranian President "
 								+ "Hassan Rouhani carried the prospect of a sudden breakthrough in the 34-year U.S.-Iran "
 								+ "impasse in his right hand. But despite fevered global attention, no dramatic handshake "
 								+ "with President Obama ever happened.", 9);
-		
-		for(String s: shingles){
-			System.out.println(s);
-		}
+
+		System.out.print("Shingle Ids: ");
+		for (int s : shingles)
+			System.out.print(s + " ");
+		System.out.print("\n");
+
 	}
 
 }
