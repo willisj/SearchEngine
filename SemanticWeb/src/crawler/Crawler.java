@@ -17,7 +17,7 @@ import utilities.util;
  */
 public class Crawler extends Thread {
 
-	final int MAX_THREADS = 10;
+	final int MAX_THREADS = 20;
 	final int BURST_SIZE = 5;
 	final boolean STAY_IN_DOMAIN = true;
 
@@ -179,6 +179,8 @@ public class Crawler extends Thread {
 	 *            the page to take the children from
 	 * @return a vector of pages which represent the children of 'p'
 	 */
+	
+	//TODO: is this slowing us down
 	private Vector<Page> makePagesFromChildren(Page p) {
 		Vector<Page> children = new Vector<Page>();
 		final int newDepth = p.getCrawlDepth() + 1;

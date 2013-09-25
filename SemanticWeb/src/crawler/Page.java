@@ -66,10 +66,10 @@ public class Page implements Runnable {
 	 */
 	Page(String url, int crawlDepth) throws MalformedURLException {
 		children = new Vector<String>();
-		
+
 		inLinks = new Vector<Page>();
 		outLinks = new Vector<Page>();
-		
+
 		setCrawlDepth(crawlDepth);
 		try {
 			this.setUrl(new URL(url));
@@ -105,7 +105,7 @@ public class Page implements Runnable {
 				in = new BufferedReader(new InputStreamReader(url.openStream()));
 			} catch (IOException e1) {
 				util.writeLog("Failed to open stream to URL:"
-						+ getUrl().toString(),true);
+						+ getUrl().toString(), true);
 				return false;
 			}
 
@@ -116,12 +116,13 @@ public class Page implements Runnable {
 				in.close();
 			} catch (IOException e) {
 				util.writeLog("Failed to read page source for URL:"
-						+ getUrl().toString(),true);
+						+ getUrl().toString(), true);
 				return false;
 			}
 
 			setRawSource(response.toString()); // set the page source
-			storeCache();
+			if (CACHE_REQUESTS)
+				storeCache();
 		}
 
 		findChildLinks();
@@ -264,14 +265,14 @@ public class Page implements Runnable {
 		return diagString();
 	}
 
-	public void addOutLink(Page p){
+	public void addOutLink(Page p) {
 		outLinks.add(p);
 	}
-	
-	public void addInLink(Page p){
+
+	public void addInLink(Page p) {
 		inLinks.add(p);
 	}
-	
+
 	// * SETTERS AND GETTERS *//
 
 	public String getDomain() {
