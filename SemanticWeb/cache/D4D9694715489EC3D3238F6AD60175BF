@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1348.field_date.0.0
 SUMMARY:Agent-Based Modeling talk at Science City Science Café
-DTSTAMP:20130921T205908
+DTSTAMP:20130925T210731
 DTSTART:20130116T193000
 DTEND:20130116T210000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1348/agent-based-modeling-talk-at-science-city-science-cafe#20130116T193000

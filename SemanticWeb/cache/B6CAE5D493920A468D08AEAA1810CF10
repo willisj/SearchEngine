@@ -46,7 +46,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/registrar/food/awards/sites/all/themes/zen/zen/ie.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/registrar/sites/all/themes/zen/zen/ie.css?3" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/registrar/sites/all/themes/unified_department/print.css" />
@@ -92,7 +92,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-45a32918f25d78d011d7830bd80c22ab" value="form-45a32918f25d78d011d7830bd80c22ab"  />
+<input type="hidden" name="form_build_id" id="form-0b36eef55d29b4c177f8ef2dfe9b7ee2" value="form-0b36eef55d29b4c177f8ef2dfe9b7ee2"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -190,13 +190,13 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/registrar/system/files/imagecache/header_left_image/admissions_L_8.jpg" alt="Students at UWindsor" title="Students at UWindsor" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/registrar/system/files/imagecache/header_left_image/admissions_L_5.jpg" alt="Students at UWindsor" title="Students at UWindsor" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/registrar/system/files/imagecache/header_right_image/about_R_3_0.jpg" alt="A place to grow" title="A place to grow" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/registrar/system/files/imagecache/header_right_image/about_R_1.jpg" alt="Dillon Hall" title="Dillon Hall" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>
@@ -225,10 +225,15 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                                   </div>
               </div>
               <div class="rightsidebar">
-              <!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-1 count-6 blue_title upcoming-events"><div class="block-inner">
+              <!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-odd even region-count-1 count-6 blue_title todays-events"><div class="block-inner">
+          <h2 class="title">Today's Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li> <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase I (100% tuition refund)</a></li><li> <a href="/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall Convocation (graduate degrees)</a></li></ul></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-2 count-7 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 25, 2013 <a href="/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall Convocation (graduate degrees)</a></li><li>Sep 25, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase I (100% tuition refund)</a></li><li>Oct 2, 2013 <a href="/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></li><li>Oct 14, 2013 <a href="/registrar/thanksgiving-day-statutory-holiday-no-classes-2">Thanksgiving Day (statutory holiday) - No classes</a></li><li>Oct 18, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8">Last day for completion of all requirements for graduate degrees under Phase II (50% tuition refund)</a></li><li>Oct 19, 2013 <a href="/registrar/fall-convocation-2">Fall Convocation</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-for-partial-tuition-refund-3">Last day for partial tuition refund</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-to-voluntarily-withdraw-from-fall-term-courses-0">Last day to voluntarily withdraw from Fall term courses</a></li><li>Nov 8, 2013 <a href="/registrar/university-day-open-house-0">University Day: Open House</a></li><li>Dec 2, 2013 <a href="/registrar/last-day-of-classes-day-and-evening-including-law-2">Last day of classes, day and evening, including Law</a></li></ul></div><div class="more-link"><a href="/registrar/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 2, 2013 <a href="/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></li><li>Oct 14, 2013 <a href="/registrar/thanksgiving-day-statutory-holiday-no-classes-2">Thanksgiving Day (statutory holiday) - No classes</a></li><li>Oct 18, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8">Last day for completion of all requirements for graduate degrees under Phase II (50% tuition refund)</a></li><li>Oct 19, 2013 <a href="/registrar/fall-convocation-2">Fall Convocation</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-to-voluntarily-withdraw-from-fall-term-courses-0">Last day to voluntarily withdraw from Fall term courses</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-for-partial-tuition-refund-3">Last day for partial tuition refund</a></li><li>Nov 8, 2013 <a href="/registrar/university-day-open-house-0">University Day: Open House</a></li><li>Dec 2, 2013 <a href="/registrar/last-day-of-classes-day-and-evening-including-law-2">Last day of classes, day and evening, including Law</a></li><li>Dec 2, 2013 <a href="/registrar/field-education-i-ends-in-social-work-0">Field Education I ends in Social work</a></li><li>Dec 5 - 6, 2013 <a href="/registrar/fall-term-final-examinations-in-law">Fall term final examinations in Law</a></li></ul></div><div class="more-link"><a href="/registrar/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

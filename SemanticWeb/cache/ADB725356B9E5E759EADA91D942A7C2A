@@ -33,10 +33,10 @@
 <link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/zen/zen/wireframes.css?Q" />
 <link type="text/css" rel="stylesheet" media="all" href="/odette/sites/uwindsor.ca.odette/themes/odette/odette.css?Q" />
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/odette/odette/food/awards/sites/uwindsor.ca.odette/themes/odette/ie.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/uwindsor.ca.odette/themes/odette/ie.css?Q" />
 <![endif]-->
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/odette/odette/food/awards/sites/uwindsor.ca.odette/themes/odette/ie.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/uwindsor.ca.odette/themes/odette/ie.css?Q" />
 <![endif]-->
   <script type="text/javascript" src="/odette/sites/all/modules/jquery_update/replace/jquery.js?Q"></script>
 <script type="text/javascript" src="/odette/misc/drupal.js?Q"></script>
@@ -82,7 +82,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="Search Odette" onfocus="this.value=&#039;&#039;;" onblur="if(this.value==&#039;&#039;){this.value=&#039;Search Odette&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-9ad5d1a96727e9a6cbaefd3f9ccabf92" value="form-9ad5d1a96727e9a6cbaefd3f9ccabf92"  />
+<input type="hidden" name="form_build_id" id="form-4491988b77572495d183fd7e8e862ddc" value="form-4491988b77572495d183fd7e8e862ddc"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -135,32 +135,32 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/business-student-completed-six-touchdown-passes">Business student completed six touchdown passes</a></span>
+                <span class="field-content"><a href="/odette/south-wing-grand-opening-event">Opening of newly renovated south wing &quot;A Grand Event&quot;</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/south-wing-grand-opening">Odette to open new south wing during UWindsor 50th anniversary celebrations</a></span>
+                <span class="field-content"><a href="/odette/faria-freeman-templer-retirements">Odette celebrates teaching excellence as part of UWindsor 50th anniversary event</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/mba-luncheon-2013">MBA student achievements honoured at annual luncheon</a></span>
+                <span class="field-content"><a href="/odette/business-student-completed-six-touchdown-passes">Business student completed six touchdown passes</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/2013-pulse-of-the-region-report">Odette announces results of regional economic oulook survey</a></span>
+                <span class="field-content"><a href="/odette/south-wing-grand-opening">Odette to open new south wing during UWindsor 50th anniversary celebrations</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/langlois-athlete-of-the-year">Business student shares in athlete of the year honours</a></span>
+                <span class="field-content"><a href="/odette/mba-luncheon-2013">MBA student achievements honoured at annual luncheon</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/toastmasters-competition-2013">Toastmasters host speech and evaluation contest</a></span>
+                <span class="field-content"><a href="/odette/2013-pulse-of-the-region-report">Odette announces results of regional economic oulook survey</a></span>
   </div>
 </li>
       </ul>
@@ -189,6 +189,9 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
        <div class="">
          <div class="item-list">
   <ul class="views-summary">
+      <li><a href="/odette/news-archive/201309">September 2013</a>
+              (2)
+          </li>
       <li><a href="/odette/news-archive/201308">August 2013</a>
               (1)
           </li>
@@ -214,9 +217,6 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
               (6)
           </li>
       <li><a href="/odette/news-archive/201210">October 2012</a>
-              (4)
-          </li>
-      <li><a href="/odette/news-archive/201209">September 2012</a>
               (4)
           </li>
     </ul>
@@ -254,7 +254,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 
   
   <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/header_right_image/Waterfront.jpg" alt="Odette Sculpture Garden" title="Odette Sculpture Garden" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/odette/system/files/imagecache/header_right_image/Odette.JPG" alt="Odette Building" title="Odette Building" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     
 </div></div> <!-- /block-inner, /block -->
 </div>          
@@ -274,6 +274,34 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
         <div class="views-row views-row-1 views-row-odd views-row-first">
       
   <div class="views-field-field-thumbnail-image-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="180" height="101" alt="Odette Building South Wing" src="http://www1.uwindsor.ca/odette/system/files/South%20Wing%20Opening-thumbnail_0.JPG?1380048211" /></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/south-wing-grand-opening-event">Opening of newly renovated south wing &quot;A Grand Event&quot;</a></span>
+  </div>
+  
+  <div class="views-field-field-teaset-text-value">
+                <div class="field-content">There was a feeling of excitement and accomplishment at the Odette School of Business on Saturday, September 21st at the official opening of the new south wing of the Odette Business building.</div>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-thumbnail-image-fid">
+                <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="181" height="101" alt="Odette School of Business" src="http://www1.uwindsor.ca/odette/system/files/OSB-logo-new-thumbnail.jpg?1380047742" /></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/odette/faria-freeman-templer-retirements">Odette celebrates teaching excellence as part of UWindsor 50th anniversary event</a></span>
+  </div>
+  
+  <div class="views-field-field-teaset-text-value">
+                <div class="field-content">Three retiring members of the Odette faculty -- Tony Faria, Jack Freeman and Andrew Templer -- who collectively represent 110 years of teaching, were honoured on Saturday, September 21st during the University of Windsor 50th anniversary event when Odette also officially opened the new south wing.</div>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-thumbnail-image-fid">
                 <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="180" height="101" title="Lancer Quarterback Austin Kennedy" alt="Lancer Quarterback Austin Kennedy" src="http://www1.uwindsor.ca/odette/system/files/Austin_Kennedy_completes_6_touchdown_passes-Thumbnail.jpg?1378322316" /></span>
   </div>
   
@@ -285,7 +313,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="field-content">Quarterback Austin Kennedy completed six touchdown passes, including three to Evan Pszczonak, both tying Lancer single-game records. Kennedy made 24 of his 28 passing attempts for 335 yards before resting in the fourth quarter with the game well in hand. He added 108 yards rushing, including a first-quarter touchdown.</div>
   </div>
   </div>
-  <div class="views-row views-row-2 views-row-even">
+  <div class="views-row views-row-4 views-row-even">
       
   <div class="views-field-field-thumbnail-image-fid">
                 <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="180" height="101" alt="Odette School of Business south wing" src="http://www1.uwindsor.ca/odette/system/files/South%20Wing%20Opening-thumbnail.JPG?1375101393" /></span>
@@ -299,7 +327,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="field-content">Come celebrate the grand opening of the Odette School of Business' newly renovated south wing on September 21, 2013 as part of the University of Windsor 50th Anniversary celebrations.</div>
   </div>
   </div>
-  <div class="views-row views-row-3 views-row-odd">
+  <div class="views-row views-row-5 views-row-odd">
       
   <div class="views-field-field-thumbnail-image-fid">
                 <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="180" height="101" alt="MBA Class of 2014" src="http://www1.uwindsor.ca/odette/system/files/2013%20MBA%20Class%20Luncheon-thumbnail.JPG?1374862087" /></span>
@@ -313,7 +341,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="field-content">The MBA class of 2014 attended the annual summer luncheon to honour all that students have accomplished throughout their first year in the program.</div>
   </div>
   </div>
-  <div class="views-row views-row-4 views-row-even">
+  <div class="views-row views-row-6 views-row-even views-row-last">
       
   <div class="views-field-field-thumbnail-image-fid">
                 <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="180" height="101" alt="Odette School of Business" src="http://www1.uwindsor.ca/odette/system/files/OSB%20Logo%20-%20Thumbnail_26.jpg?1366897457" /></span>
@@ -325,34 +353,6 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
   <div class="views-field-field-teaset-text-value">
                 <div class="field-content">The Odette School of Business released the results of the 7th annual “Pulse of the Region�? business confidence survey on April 18, 2013.</div>
-  </div>
-  </div>
-  <div class="views-row views-row-5 views-row-odd">
-      
-  <div class="views-field-field-thumbnail-image-fid">
-                <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="180" height="101" alt="Miah-Marie Langlois" src="http://www1.uwindsor.ca/odette/system/files/Langlois%20athlete%20of%20year-thumbnail.jpg?1374691733" /></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/odette/langlois-athlete-of-the-year">Business student shares in athlete of the year honours</a></span>
-  </div>
-  
-  <div class="views-field-field-teaset-text-value">
-                <div class="field-content">All-star basketball guard, Miah-Marie Langlois, 4th year business and economics student, headlined the Windsor Lancers’ annual Evening of Excellence on Wednesday evening at the St. Clair Centre for the Arts.</div>
-  </div>
-  </div>
-  <div class="views-row views-row-6 views-row-even views-row-last">
-      
-  <div class="views-field-field-thumbnail-image-fid">
-                <span class="field-content"><img  class="imagefield imagefield-field_thumbnail_image" width="180" height="101" alt="Odette Toastmasters 2013" src="http://www1.uwindsor.ca/odette/system/files/Toastmasters-2013%20success-Thumbnail.jpg?1374689219" /></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/odette/toastmasters-competition-2013">Toastmasters host speech and evaluation contest</a></span>
-  </div>
-  
-  <div class="views-field-field-teaset-text-value">
-                <div class="field-content"></div>
   </div>
   </div>
     </div>
@@ -378,37 +378,37 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
            <div class="views-row views-row-1 views-row-odd views-row-first">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/business-student-completed-six-touchdown-passes">Business student completed six touchdown passes <p></a></span>
+                <span class="field-content"><a href="/odette/south-wing-grand-opening-event">Opening of newly renovated south wing &quot;A Grand...</a></span>
   </div>
   </div>
   <div class="views-row views-row-2 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/south-wing-grand-opening">Odette to open new south wing during UWindsor 50th...</a></span>
+                <span class="field-content"><a href="/odette/faria-freeman-templer-retirements">Odette celebrates teaching excellence as part of...</a></span>
   </div>
   </div>
   <div class="views-row views-row-3 views-row-odd">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/mba-luncheon-2013">MBA student achievements honoured at annual luncheon...</a></span>
+                <span class="field-content"><a href="/odette/business-student-completed-six-touchdown-passes">Business student completed six touchdown passes <p></a></span>
   </div>
   </div>
   <div class="views-row views-row-4 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/2013-pulse-of-the-region-report">Odette announces results of regional economic oulook...</a></span>
+                <span class="field-content"><a href="/odette/south-wing-grand-opening">Odette to open new south wing during UWindsor 50th...</a></span>
   </div>
   </div>
   <div class="views-row views-row-5 views-row-odd">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/langlois-athlete-of-the-year">Business student shares in athlete of the year honours...</a></span>
+                <span class="field-content"><a href="/odette/mba-luncheon-2013">MBA student achievements honoured at annual luncheon...</a></span>
   </div>
   </div>
   <div class="views-row views-row-6 views-row-even views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/toastmasters-competition-2013">Toastmasters host speech and evaluation contest <p></a></span>
+                <span class="field-content"><a href="/odette/2013-pulse-of-the-region-report">Odette announces results of regional economic oulook...</a></span>
   </div>
   </div>
        </div>

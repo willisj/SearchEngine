@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1445.field_date.0.0
 SUMMARY:Modelling the Ontario Cardiac Care System - Dr. Jiming Liu
-DTSTAMP:20130921T205909
+DTSTAMP:20130925T210732
 DTSTART:20130606T110000
 DTEND:20130606T123000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1445/modelling-the-ontario-cardiac-care-system-dr-jiming-liu#20130606T110000

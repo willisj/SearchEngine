@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1361.field_date.0.0
 SUMMARY:Robotics in the Classroom Workshop (Register by April 8th)
-DTSTAMP:20130921T205908
+DTSTAMP:20130925T210731
 DTSTART:20130413T083000
 DTEND:20130413T150000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1361/robotics-in-the-classroom-workshop-register-by-april-8th#20130413T083000

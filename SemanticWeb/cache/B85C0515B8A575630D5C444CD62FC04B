@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Student Parking Permits - Parking Garage Permits Temporarily Unavailable | Parking Services - University of Windsor</title>
+  <title>Student Parking Permits | Parking Services - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-08-13 10:27:31" />
+<meta name="modified" content="2013-09-24 02:52:20" />
 <meta name="created" content="2009-11-04 09:20:32" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -48,7 +48,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/parking/awards/food/food/sites/all/themes/zen/zen/ie.css?T" />
+<link type="text/css" rel="stylesheet" media="all" href="/parking/registrar/sites/all/themes/zen/zen/ie.css?T" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/parking/sites/all/themes/unified_department/print.css" />
@@ -94,7 +94,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-77b865f05e7e25ba147c92684585e7d3" value="form-77b865f05e7e25ba147c92684585e7d3"  />
+<input type="hidden" name="form_build_id" id="form-c6bcdb04cae5f4cdfded3544284609db" value="form-c6bcdb04cae5f4cdfded3544284609db"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -177,7 +177,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                               </div>
               <div class="content-area">
                 <div class="content-leftside">
-                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/parking">Parking Services</a> / <a href="/parking/parking-information">Parking on Campus</a> / <a href="/parking/students" class="active">Students</a></div>                                      <h1 class="title">Student Parking Permits - Parking Garage Permits Temporarily Unavailable</h1>
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/parking">Parking Services</a> / <a href="/parking/parking-information">Parking on Campus</a> / <a href="/parking/students" class="active">Students</a></div>                                      <h1 class="title">Student Parking Permits</h1>
                                                                                           <div id="node-774" class="node node-type-page"><div class="node-inner">
       <div class="content">
     <h3>

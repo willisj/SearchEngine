@@ -23,7 +23,7 @@ public class Crawler extends Thread {
 
 	
 	// Error Settings
-	final boolean SHOW_THREAD_COMPLETED = true;
+	final boolean SHOW_THREAD_COMPLETED = false;
 	final boolean PRINT_CACHE_SIZE = true;
 	final boolean PRINT_SUMMARY = true;
 	
@@ -35,7 +35,7 @@ public class Crawler extends Thread {
 	Vector<Page> urlPool = new Vector<Page>();
 
 	// pages that have been requested
-	Vector<Page> requestedPages = new Vector<Page>();
+	HashMap<Integer,Page> requestedPages = new HashMap<Integer,Page>();
 
 	// pages currently threaded to request pages
 	Vector<Thread> running = new Vector<Thread>();
@@ -56,7 +56,7 @@ public class Crawler extends Thread {
 		this.seed = seed;
 		seedPage = new Page(seed, 0);
 		urlPool.add(seedPage);
-		System.out.println("Domain Set: " + seedPage.getDomain());
+		util.writeLog("Domain Set: " + seedPage.getDomain());
 	}
 
 	/**
@@ -80,7 +80,7 @@ public class Crawler extends Thread {
 	 * @param maxDepth
 	 *            The max depth the spider will search
 	 */
-	public Vector<Page> crawl(int maxDepth) {
+	public HashMap<Integer,Page> crawl(int maxDepth) {
 
 		StopWatch timer = new StopWatch();
 		timer.start();
@@ -114,7 +114,7 @@ public class Crawler extends Thread {
 						// move the page from the runningRef to the requested
 						// pages
 						runningRef.remove(p);
-						requestedPages.add(p);
+						requestedPages.put(p.getPageID(),p);
 					}
 
 				}

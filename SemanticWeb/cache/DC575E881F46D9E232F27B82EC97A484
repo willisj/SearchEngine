@@ -93,7 +93,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-e0edb51dc9d4a52dd5d3da2ba78551f7" value="form-e0edb51dc9d4a52dd5d3da2ba78551f7"  />
+<input type="hidden" name="form_build_id" id="form-cd5ba7fa8046776bc216350b2e036630" value="form-cd5ba7fa8046776bc216350b2e036630"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -169,7 +169,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/professional/system/files/imagecache/header_left_image/smiling-young-women_0.jpg" alt="Young Female Student" title="Young Female Student" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/professional/system/files/imagecache/header_left_image/young-black-woman_0.jpg" alt="Young Female" title="Young Professional Female" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">

@@ -94,7 +94,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-7214d949977e33eae371a505f47ab8fb" value="form-7214d949977e33eae371a505f47ab8fb"  />
+<input type="hidden" name="form_build_id" id="form-af30be9abb422e10d02c3e4643ba953a" value="form-af30be9abb422e10d02c3e4643ba953a"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>

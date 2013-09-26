@@ -96,7 +96,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-2b4e07cc481c375ae5fc8b63871f87ca" value="form-2b4e07cc481c375ae5fc8b63871f87ca"  />
+<input type="hidden" name="form_build_id" id="form-d656b40def083f0fcf1e5f4086e1066e" value="form-d656b40def083f0fcf1e5f4086e1066e"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -172,7 +172,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/professional/system/files/imagecache/header_left_image/smiling-young-women_0.jpg" alt="Young Female Student" title="Young Female Student" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/professional/system/files/imagecache/header_left_image/young-indian-man_1.jpg" alt="Young Male " title="Young Professional Male " width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -274,7 +274,7 @@ function googleTranslateElementInit() {
  <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
 </div>
 <input type="submit" name="op" id="edit-submit-1" value="Log in"  class="form-submit" />
-<div class="item-list"></div><input type="hidden" name="form_build_id" id="form-419403039586a9313e7c3c1d9e9e6ded" value="form-419403039586a9313e7c3c1d9e9e6ded"  />
+<div class="item-list"></div><input type="hidden" name="form_build_id" id="form-98bf7f0ba14ac37c78d03d8de914723b" value="form-98bf7f0ba14ac37c78d03d8de914723b"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 
 </div></form>

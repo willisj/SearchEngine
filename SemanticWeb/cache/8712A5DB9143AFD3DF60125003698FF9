@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1460.field_date.0.0
 SUMMARY:Master's Thesis Defense - Ahmad Tavakoli
-DTSTAMP:20130921T205905
+DTSTAMP:20130925T210729
 DTSTART:20130909T140000
 DTEND:20130909T153000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1460/computer-science-masters-thesis-defense-ahmad-tavakoli#20130909T140000

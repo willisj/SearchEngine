@@ -164,7 +164,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow, .home-shade, .right-i
  <textarea cols="60" rows="5" name="message" id="edit-message"  class="form-textarea resizable required"></textarea>
 </div>
 <input type="submit" name="op" id="edit-submit" value="Send e-mail"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ddca7352bf63234f63b374ef5dadd0f9" value="form-ddca7352bf63234f63b374ef5dadd0f9"  />
+<input type="hidden" name="form_build_id" id="form-6c22edacf16a6401ca09d2c3e015399c" value="form-6c22edacf16a6401ca09d2c3e015399c"  />
 <input type="hidden" name="form_id" id="edit-contact-mail-page" value="contact_mail_page"  />
 
 </div></form>

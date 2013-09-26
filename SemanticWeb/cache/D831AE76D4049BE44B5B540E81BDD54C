@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-57fe8a9f240d943196404cb7073f3298" value="form-57fe8a9f240d943196404cb7073f3298"  />
+<input type="hidden" name="form_build_id" id="form-8ecd68a3cd1d11d18d39627798b91869" value="form-8ecd68a3cd1d11d18d39627798b91869"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -383,17 +383,17 @@ $(function() {
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/windsor-artists-to-light-up-the-night-in-toronto">Windsor artists to light up the night in Toronto</a></span>
+                <span class="field-content"><a href="/fahss/performance-to-demonstrate-program%E2%80%99s-impact-on-youth">Performance to demonstrate program’s impact on youth</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/grad-to-pass-on-prize-to-entering-student">Grad to pass on prize to entering student</a></span>
+                <span class="field-content"><a href="/fahss/windsor-artists-to-light-up-the-night-in-toronto">Windsor artists to light up the night in Toronto</a></span>
   </div>
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/performance-to-demonstrate-program%E2%80%99s-impact-on-youth">Performance to demonstrate program’s impact on youth</a></span>
+                <span class="field-content"><a href="/fahss/grad-to-pass-on-prize-to-entering-student">Grad to pass on prize to entering student</a></span>
   </div>
 </li>
       </ul>

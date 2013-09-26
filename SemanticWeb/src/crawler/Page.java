@@ -36,7 +36,8 @@ public class Page implements Runnable {
 
 	private final boolean CACHE_REQUESTS = true;
 	public final String CACHE_PATH = "cache/";
-
+	private static int nextID = 0;
+	private final int pageID;
 	/* PAGE-DATA */
 	private URL url;
 	private String rawSource; // The response from the web server to that URL
@@ -65,6 +66,7 @@ public class Page implements Runnable {
 	 *             - invalid url
 	 */
 	Page(String url, int crawlDepth) throws MalformedURLException {
+		pageID = nextID++;
 		children = new Vector<String>();
 
 		inLinks = new Vector<Page>();
@@ -345,6 +347,10 @@ public class Page implements Runnable {
 
 	public void setChildren(Vector<String> children) {
 		this.children = children;
+	}
+
+	public int getPageID() {
+		return pageID;
 	}
 
 }

@@ -194,7 +194,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-e6045c661443112c97ad4d68baa70c7b" value="form-e6045c661443112c97ad4d68baa70c7b"  />
+<input type="hidden" name="form_build_id" id="form-526997dbedf094907d72d4f7174620df" value="form-526997dbedf094907d72d4f7174620df"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -222,7 +222,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-e6045c661443112c97ad4d68baa70c7b" value="form-e6045c661443112c97ad4d68baa70c7b"  />
+<input type="hidden" name="form_build_id" id="form-526997dbedf094907d72d4f7174620df" value="form-526997dbedf094907d72d4f7174620df"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -356,40 +356,7 @@ $(function() {
                                   </div>
               </div>
               <div class="rightsidebar">
-              <!--googleoff: all--><div id="block-views-events_calendar-block_2" class="block block-views region-odd even region-count-1 count-10 blue_title todays-events"><div class="block-inner">
-          <h2 class="title">Today's Events</h2>
-    <div class="content">
-    <div class="view view-events-calendar view-id-events_calendar view-display-id-block_2 view-dom-id-3">
-    
-  
-  
-      <div class="view-content">
-       <div class="">
-         <div class="item-list">
-    <ul>
-          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">12:00pm</span><span class="date-display-separator"> - </span><span class="date-display-end">3:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/engineering/50th-anniversary-event">50th Anniversary Event</a></span>
-  </span>
-</li>
-      </ul>
-</div>       </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>
-  </div>
-    </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-views-events_calendar-block_1" class="block block-views region-even odd region-count-2 count-11 blue_title academic-dates"><div class="block-inner">
+              <!--googleoff: all--><div id="block-views-events_calendar-block_1" class="block block-views region-odd even region-count-1 count-10 blue_title academic-dates"><div class="block-inner">
           <h2 class="title">Academic Dates</h2>
     <div class="content">
     <div class="view view-events-calendar view-id-events_calendar view-display-id-block_1 view-dom-id-4">
@@ -437,12 +404,7 @@ $(function() {
 </div>
   </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-odd even region-count-3 count-12 blue_title todays-events"><div class="block-inner">
-          <h2 class="title">Today's Events</h2>
-    <div class="content">
-    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li>12:00PM-3:00PM <a href="/engineering/50th-anniversary-event">50th Anniversary Event</a></li></ul></div>  </div>
-    </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-4 count-13 blue_title upcoming-events"><div class="block-inner">
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-2 count-11 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
     <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 19, 2013 <a href="/engineering/convocation-reception-for-graduating-students-engineering">Convocation Reception for Graduating Students - Engineering</a></li><li>Oct 26, 2013 <a href="/engineering/go-eng-girl">Go Eng Girl</a></li></ul></div><div class="more-link"><a href="/engineering/calendar/events">VIEW CALENDAR</a></div>  </div>

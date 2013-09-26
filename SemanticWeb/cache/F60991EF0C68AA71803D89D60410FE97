@@ -45,7 +45,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/internationalization/residence/residence/food/awards/registrar/sites/all/themes/zen/zen/ie.css?t" />
+<link type="text/css" rel="stylesheet" media="all" href="/internationalization/awards/sites/all/themes/zen/zen/ie.css?t" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/internationalization/sites/all/themes/unified_department/print.css" />
@@ -90,7 +90,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-d7f3413039652183d8c7af7823e7cf98" value="form-d7f3413039652183d8c7af7823e7cf98"  />
+<input type="hidden" name="form_build_id" id="form-ab548d68fdd56e25dbe700a617037a40" value="form-ab548d68fdd56e25dbe700a617037a40"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -167,7 +167,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/sites/default/files/imagecache/180by101_image/spif/images/header/Bill Anderson_0.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://web2.uwindsor.ca/alumni/View/summer08/index.html" target="_self">What an Opportunity !</a></div><div class="summary">The Windsor-Detroit border, North America’s busiest trade corridor and anchors the richest free-trade area in world history has a new champion.</div><div class="read_more"><a href="http://web2.uwindsor.ca/alumni/View/summer08/index.html" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/William.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/cce/outstanding-student" target="_self">Outstanding Student!</a></div><div class="summary">Winner of the 2011 Employer's Choice Outstanding VIP Student Award!</div><div class="read_more"><a href="http://www.uwindsor.ca/cce/outstanding-student" target="_self">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/internationalization/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -176,14 +176,14 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_left_image/women-movement-in-india.jpg" alt="Women Movement in India" title="Women Movement in India" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_left_image/450_Cele-nation-parade.jpg" alt="Celebration of Nations" title="Celebration of Nations" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_right_image/R-student-with-Japanese-flag.jpg" alt="Student with Japanese flag at Convocation" title="Student with Japanese flag at Convocation" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_right_image/intl_rightside1.jpg" alt="International Students in the Quad" title="International Students in the Quad" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

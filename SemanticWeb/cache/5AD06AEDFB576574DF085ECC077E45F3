@@ -42,7 +42,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/law/news/awards/awards/sites/all/themes/zen/zen/ie.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/law/news/sites/all/themes/zen/zen/ie.css?E" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/law/news/sites/all/themes/unified_department/print.css" />
@@ -88,7 +88,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search Windsor Law&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-d952d923527f0854976d6c26c0103887" value="form-d952d923527f0854976d6c26c0103887"  />
+<input type="hidden" name="form_build_id" id="form-ed5e113bf81ccecaf54fc5c2a2a82727" value="form-ed5e113bf81ccecaf54fc5c2a2a82727"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -439,26 +439,6 @@ width: 180px;
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 23, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/news/using-online-sources-for-statute-research-ii">Using Online Sources for Statute Research II</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/news/using-online-sources-for-statute-research-ii-0">Using Online Sources for Statute Research II</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Sep 30, 2013</span></span>
   </span>
   
@@ -467,7 +447,7 @@ width: 180px;
   <a href="/law/news/using-online-sources-for-case-law-research-i">Using Online Sources for Case Law Research I</a></span>
   </span>
 </li>
-          <li class="views-row views-row-4 views-row-even">  
+          <li class="views-row views-row-2 views-row-even">  
   <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Oct 02, 2013</span></span>
   </span>
@@ -477,7 +457,7 @@ width: 180px;
   <a href="/law/news/using-online-sources-for-case-law-research-i-0">Using Online Sources for Case Law Research I</a></span>
   </span>
 </li>
-          <li class="views-row views-row-5 views-row-odd">  
+          <li class="views-row views-row-3 views-row-odd">  
   <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Oct 07, 2013</span></span>
   </span>
@@ -487,7 +467,7 @@ width: 180px;
   <a href="/law/news/kenneth-feinberg-to-visit-monday-october-7-2013-0">Kenneth Feinberg to Visit Monday October 7, 2013</a></span>
   </span>
 </li>
-          <li class="views-row views-row-6 views-row-even">  
+          <li class="views-row views-row-4 views-row-even">  
   <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Oct 07, 2013</span></span>
   </span>
@@ -497,7 +477,7 @@ width: 180px;
   <a href="/law/news/using-online-sources-for-case-law-research-ii">Using Online Sources For Case Law Research II</a></span>
   </span>
 </li>
-          <li class="views-row views-row-7 views-row-odd views-row-last">  
+          <li class="views-row views-row-5 views-row-odd">  
   <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Oct 09, 2013</span></span>
   </span>
@@ -505,6 +485,26 @@ width: 180px;
   <span class="views-field-title">
                 <span class="field-content">
   <a href="/law/news/using-online-sources-for-case-law-research-ii-0">Using Online Sources for Case Law Research II</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 21, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/law/news/doing-research-for-law-school-essays">Doing Research for Law School Essays</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 23, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/law/news/doing-research-for-law-school-essays-0">Doing Research for Law School Essays</a></span>
   </span>
 </li>
       </ul>
@@ -524,10 +524,15 @@ width: 180px;
 </div>
   </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-3 count-6 blue_title upcoming-events"><div class="block-inner">
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-odd even region-count-3 count-6 blue_title todays-events"><div class="block-inner">
+          <h2 class="title">Today's Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li class="imported-event">8:00AM-9:00AM <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-statute-research-ii-0#20130925T120000">Using Online Sources for Statute Research II</a></li></ul></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-4 count-7 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 23, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-statute-research-ii#20130923T120000">Using Online Sources for Statute Research II</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-statute-research-ii-0#20130925T120000">Using Online Sources for Statute Research II</a></li><li class="imported-event">Sep 30, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i#20130930T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i-0#20131002T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 7, 2013 <a href="http://www1.uwindsor.ca/law/1691/kenneth-feinberg-to-visit-monday-october-7-2013#20131007T120000">Kenneth Feinberg to Visit Monday October 7, 2013</a></li><li class="imported-event">Oct 7, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii#20131007T120000">Using Online Sources For Case Law Research II</a></li><li class="imported-event">Oct 9, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii-0#20131009T120000">Using Online Sources for Case Law Research II</a></li><li class="imported-event">Oct 21, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-0#20131021T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 23, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-1#20131023T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 28, 2013 <a href="http://www1.uwindsor.ca/law/library/legal-citations-1#20131028T120000">Legal Citations</a></li></ul></div><div class="more-link"><a href="/law/news/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 30, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i#20130930T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i-0#20131002T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 7, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii#20131007T120000">Using Online Sources For Case Law Research II</a></li><li class="imported-event">Oct 7, 2013 <a href="http://www1.uwindsor.ca/law/1691/kenneth-feinberg-to-visit-monday-october-7-2013#20131007T120000">Kenneth Feinberg to Visit Monday October 7, 2013</a></li><li class="imported-event">Oct 9, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii-0#20131009T120000">Using Online Sources for Case Law Research II</a></li><li class="imported-event">Oct 21, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-0#20131021T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 23, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-1#20131023T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 28, 2013 <a href="http://www1.uwindsor.ca/law/library/legal-citations-1#20131028T120000">Legal Citations</a></li><li class="imported-event">Oct 30, 2013 <a href="http://www1.uwindsor.ca/law/library/legal-citations-2#20131030T120000">Legal Citations</a></li></ul></div><div class="more-link"><a href="/law/news/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

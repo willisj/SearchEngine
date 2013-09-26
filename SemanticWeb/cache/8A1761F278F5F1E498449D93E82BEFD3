@@ -189,7 +189,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-8f377415a2694ec91b47277fe46957f4" value="form-8f377415a2694ec91b47277fe46957f4"  />
+<input type="hidden" name="form_build_id" id="form-a01c28ac8271a54e32e07532780b2f08" value="form-a01c28ac8271a54e32e07532780b2f08"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -284,7 +284,7 @@ $(function() {
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/alumni/system/files/imagecache/header_left_image/Cake_left-banner-50th_alumni.jpg" alt="Office of Alumni Affairs" title="Office of Alumni Affairs" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/alumni/system/files/imagecache/header_left_image/Dillon_left-banner-50th_alumni.jpg" alt="Office of Alumni Affairs" title="Office of Alumni Affairs" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">

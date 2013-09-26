@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1377.field_date.0.0
 SUMMARY:Computer Science Doctoral Thesis Defense - Ying Chen
-DTSTAMP:20130921T205920
+DTSTAMP:20130925T210740
 DTSTART:20130514T100000
 DTEND:20130514T120000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1377/computer-science-doctoral-thesis-defense-ying-chen#20130514T100000

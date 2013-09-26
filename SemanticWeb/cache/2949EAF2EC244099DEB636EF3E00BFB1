@@ -97,7 +97,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search Windsor Law&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ed84183145d9d884fae82169eeb3365d" value="form-ed84183145d9d884fae82169eeb3365d"  />
+<input type="hidden" name="form_build_id" id="form-54c777933ab25128b124eed59e6ff737" value="form-54c777933ab25128b124eed59e6ff737"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -214,19 +214,19 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   <div class="views-row views-row-3 views-row-odd">
       
   <div class="views-field-title">
-                <span class="field-content"><p><a href="http://www.uwindsor.ca/law/news/professor-moons-research-cited-by-the-supreme-court-of-canada">Professor Moon&#039;s Research Cited by the Supreme Court of Canada</a></span>
+                <span class="field-content"><p><a href="http://www1.uwindsor.ca/law/news/professor-moons-research-cited-by-the-supreme-court-of-canada">Professor Moon&#039;s Research Cited by the Supreme Court of Canada</a></span>
   </div>
   </div>
   <div class="views-row views-row-4 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><p><a href="http://www1.uwindsor.ca/law/news/professor-moons-research-cited-by-the-supreme-court-of-canada">Professor Moon&#039;s Research Cited by the Supreme Court of Canada</a></span>
+                <span class="field-content"><p><a href="http://www.uwindsor.ca/law/news/professor-moons-research-cited-by-the-supreme-court-of-canada">Professor Moon&#039;s Research Cited by the Supreme Court of Canada</a></span>
   </div>
   </div>
   <div class="views-row views-row-5 views-row-odd views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><p><a href="http://www.uwindsor.ca/law/news/professor-bogart-guest-on-cbc-radio">Professor Bogart Guest on CBC Radio</a></span>
+                <span class="field-content"><p><a href="http://www1.uwindsor.ca/law/news/professor-bogart-guest-on-cbc-radio">Professor Bogart Guest on CBC Radio</a></span>
   </div>
   </div>
        </div>

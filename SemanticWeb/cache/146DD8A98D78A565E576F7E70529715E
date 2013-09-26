@@ -56,7 +56,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/economics/food/sites/all/themes/zen/zen/ie.css?F" />
+<link type="text/css" rel="stylesheet" media="all" href="/economics/sites/all/themes/zen/zen/ie.css?F" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/economics/sites/all/themes/unified_department/print.css" />
@@ -102,7 +102,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-83c5c549d021e499ffa49f59644f01ea" value="form-83c5c549d021e499ffa49f59644f01ea"  />
+<input type="hidden" name="form_build_id" id="form-0916314f26192ab95cd82bab3319d760" value="form-0916314f26192ab95cd82bab3319d760"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -180,14 +180,14 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/economics/system/files/imagecache/header_left_image/economics_banner2.jpg" alt="Students near Detroit river" title="Students near Detroit river" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/economics/system/files/imagecache/header_left_image/about_L_6_0.jpg" alt="UWindsor student working at computer" title="UWindsor student working at computer" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/economics/system/files/imagecache/header_right_image/economics_rightside6.jpg" alt="Dillon Hall in winter" title="Dillon Hall in winter" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/economics/system/files/imagecache/header_right_image/about_R_6_0.jpg" alt="2 students in class" title="2 students in class" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

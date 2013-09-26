@@ -100,7 +100,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-fbfa895cb0ca1dc855226b5096e67a02" value="form-fbfa895cb0ca1dc855226b5096e67a02"  />
+<input type="hidden" name="form_build_id" id="form-eaca37e464ecb54488be9c99ca5b07c9" value="form-eaca37e464ecb54488be9c99ca5b07c9"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -191,8 +191,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd even region-count-1 count-4  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/picture.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/connecting4success/making-a-difference-award" target="_self">Making a Difference!</a></div><div class="summary">Jennifer Seedu is the recipient of the 2013 Connecting4Successs "Making a Difference" Award!
-</div><div class="read_more"><a href="http://www.uwindsor.ca/connecting4success/making-a-difference-award" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/BASF.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/cce/co-op-students-choice" target="_self">Co-op Student&#039;s Choice!</a></div><div class="summary">Winner of the Fall 2012 Student's Choice Outstanding Supervisor Award!</div><div class="read_more"><a href="http://www.uwindsor.ca/cce/co-op-students-choice" target="_self">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/sia/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -201,13 +200,13 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/sia/system/files/imagecache/header_left_image/Residence%20Move-in%202011.jpg" alt="Residence Move-in" title="Residence Move-in" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/sia/system/files/imagecache/header_left_image/Residence%20Academic%20Awards%202012.jpg" alt="Residence Awards" title="Residence Awards" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd even region-count-1 count-6 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/sia/system/files/imagecache/header_right_image/450_CopsDonation4519.jpg" alt="CCP Donation" title="CCP Donation" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/sia/system/files/imagecache/header_right_image/David%20Ryan-Soderlund%20UW%20BBQ%202010.jpg" alt="United Way" title="United Way" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>
@@ -272,11 +271,11 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
  <textarea cols="60" rows="15" name="comment" id="edit-comment"  class="form-textarea resizable required"></textarea>
 </div>
-<input type="hidden" name="form_build_id" id="form-947313541a7b992ecddc4d5272dc9df1" value="form-947313541a7b992ecddc4d5272dc9df1"  />
+<input type="hidden" name="form_build_id" id="form-5c613bb184a1cc6bcd89382969f13d25" value="form-5c613bb184a1cc6bcd89382969f13d25"  />
 <input type="hidden" name="form_id" id="edit-comment-form" value="comment_form"  />
-<fieldset class="captcha"><legend>CAPTCHA</legend><div class="description">This question is for testing whether you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" id="edit-captcha-sid" value="367886"  />
-<input type="hidden" name="captcha_token" id="edit-captcha-token" value="4c79207930250009d8a58b16952425cf"  />
-<img src="/sia/image_captcha/367886/1379802103" class="captcha_image" id="captcha_image_367886" alt="Image CAPTCHA" title="Image CAPTCHA" /><div class="form-item" id="edit-captcha-response-wrapper">
+<fieldset class="captcha"><legend>CAPTCHA</legend><div class="description">This question is for testing whether you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" id="edit-captcha-sid" value="370246"  />
+<input type="hidden" name="captcha_token" id="edit-captcha-token" value="0623d8187f590917ec97af6569dc82db"  />
+<img src="/sia/image_captcha/370246/1380157573" class="captcha_image" id="captcha_image_370246" alt="Image CAPTCHA" title="Image CAPTCHA" /><div class="form-item" id="edit-captcha-response-wrapper">
  <label for="edit-captcha-response">What code is in the image?: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="128" name="captcha_response" id="edit-captcha-response" size="15" value="" class="form-text required" />
  <div class="description">Enter the characters shown in the image.</div>
@@ -311,17 +310,17 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <!--googleon: all--><!--googleoff: all--><div id="block-comment-0" class="block block-comment region-even even region-count-4 count-10 orange_title recent-comments"><div class="block-inner">
           <h2 class="title">Recent comments</h2>
     <div class="content">
-    <div class="item-list"><ul><li class="first"><a href="/sia/blog/2012-10-24/being-a-part-time-student#comment-1236">Hey Great Comments on this</a><br />1 day 7 hours ago</li>
-<li><a href="/sia/blog/2013-08-13/a-taste-of-canada#comment-1235">I have been exploring for a</a><br />1 day 19 hours ago</li>
-<li><a href="/sia/blog/2012-04-18/here-is-to-summer#comment-1233">A four-year college degree</a><br />4 days 15 hours ago</li>
-<li><a href="/sia/blog/2013-01-03/opening-eyes-%E2%80%93-opening-minds#comment-1232">Thanks a ton for this – love</a><br />5 days 6 hours ago</li>
+    <div class="item-list"><ul><li class="first"><a href="/sia/blog/2012-10-24/being-a-part-time-student#comment-1239">I Agree This Post</a><br />16 hours 32 min ago</li>
+<li><a href="/sia/blog/2012-10-24/being-a-part-time-student#comment-1238">you did nice work your post</a><br />16 hours 33 min ago</li>
+<li><a href="/sia/blog/2013-01-11/tell-us-what-you-think-%E2%80%93-coop-career-services#comment-1237">Essential blog post! I truly</a><br />3 days 1 hour ago</li>
+<li><a href="/sia/blog/2012-10-24/being-a-part-time-student#comment-1236">Hey Great Comments on this</a><br />5 days 10 hours ago</li>
+<li><a href="/sia/blog/2013-08-13/a-taste-of-canada#comment-1235">I have been exploring for a</a><br />5 days 22 hours ago</li>
+<li><a href="/sia/blog/2012-04-18/here-is-to-summer#comment-1233">A four-year college degree</a><br />1 week 1 day ago</li>
+<li><a href="/sia/blog/2013-01-03/opening-eyes-%E2%80%93-opening-minds#comment-1232">Thanks a ton for this – love</a><br />1 week 2 days ago</li>
 <li><a href="/sia/blog/2012-10-24/being-a-part-time-student#comment-1231">nice..
-Taxi in earlsfield</a><br />1 week 12 hours ago</li>
-<li><a href="/sia/blog/2013-01-20/turned-offfor-a-day#comment-1230">Just wanted to drop a comment</a><br />1 week 18 hours ago</li>
-<li><a href="/sia/blog/2013-01-20/turned-offfor-a-day#comment-1229">I just wish to give an</a><br />1 week 18 hours ago</li>
-<li><a href="/sia/blog/2013-01-20/turned-offfor-a-day#comment-1228">Just wanted to drop a comment</a><br />1 week 18 hours ago</li>
-<li><a href="/sia/blog/2013-01-16/going-the-extra-mile#comment-1227">Mental health is as important</a><br />1 week 19 hours ago</li>
-<li class="last"><a href="/sia/blog/2012-12-18/happy-holidays-everyone#comment-1226">I am writing a research</a><br />1 week 2 days ago</li>
+Taxi in earlsfield</a><br />1 week 4 days ago</li>
+<li><a href="/sia/blog/2013-01-20/turned-offfor-a-day#comment-1230">Just wanted to drop a comment</a><br />1 week 4 days ago</li>
+<li class="last"><a href="/sia/blog/2013-01-20/turned-offfor-a-day#comment-1229">I just wish to give an</a><br />1 week 4 days ago</li>
 </ul></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>

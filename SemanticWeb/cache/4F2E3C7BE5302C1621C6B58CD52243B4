@@ -93,7 +93,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-0fa41cf86f86c51da6925ec4e47296a9" value="form-0fa41cf86f86c51da6925ec4e47296a9"  />
+<input type="hidden" name="form_build_id" id="form-04764218537847fb70e0b32d8db0d3cc" value="form-04764218537847fb70e0b32d8db0d3cc"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -282,12 +282,12 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/alumni/business-student-recognized-for-youth-leadership">Business student recognized for youth leadership</a></span>
+                <span class="field-content"><a href="/alumni/uwindsor-grads-to-carry-on-catholic-campus-ministry">UWindsor grads to carry on Catholic Campus Ministry</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/alumni/uwindsor-grads-to-carry-on-catholic-campus-ministry">UWindsor grads to carry on Catholic Campus Ministry</a></span>
+                <span class="field-content"><a href="/alumni/business-student-recognized-for-youth-leadership">Business student recognized for youth leadership</a></span>
   </div>
 </li>
       </ul>
@@ -307,12 +307,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </div>
   </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-odd even region-count-5 count-10 blue_title todays-events"><div class="block-inner">
-          <h2 class="title">Today's Events</h2>
-    <div class="content">
-    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li> <a href="/alumni/join-the-celebration-uwindsor-celebrating-50-years">Join the Celebration: UWindsor Celebrating 50 Years</a></li><li>8:30AM-4:00PM <a href="/alumni/milestone-reunions">Milestone Reunions</a></li><li class="imported-event">9:00AM-1:00PM <a href="http://www1.uwindsor.ca/math/baseball-fun-day-for-alumni-and-their-families#20130921T130000">Baseball Fun Day for Alumni and their Families</a></li><li class="imported-event">9:30AM-12:00PM <a href="http://www1.uwindsor.ca/nursing/50th-anniversary-celebration-nursing-event-a-walk-down-memory-lane#20130921T133000">50th Anniversary Celebration Nursing event: A Walk Down Memory Lane</a></li><li>10:00AM-4:00PM <a href="/alumni/classic-car-show">Classic Car Show</a></li><li class="imported-event">1:00PM-3:00PM <a href="http://www1.uwindsor.ca/law/alumni/windsor-law-weekend-2013#20130921T170000">Windsor Law Weekend Celebrating the University's 50th Anniversary</a></li><li>3:00PM-6:00PM <a href="/alumni/reunion-sac-uwsa-and-student-ambassadors">Reunion: SAC - UWSA and Student Ambassadors</a></li></ul></div>  </div>
-    </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-6 count-11 blue_title upcoming-events"><div class="block-inner">
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-5 count-10 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
     <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 6, 2013 <a href="/alumni/2013-alumni-sports-hall-of-fame">Alumni Sports Hall of Fame</a></li></ul></div><div class="more-link"><a href="/alumni/calendar/events">VIEW CALENDAR</a></div>  </div>

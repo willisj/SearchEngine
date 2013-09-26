@@ -174,7 +174,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="Search Odette" onfocus="this.value=&#039;&#039;;" onblur="if(this.value==&#039;&#039;){this.value=&#039;Search Odette&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-0135a6911197a9a5e4c523da19688e0e" value="form-0135a6911197a9a5e4c523da19688e0e"  />
+<input type="hidden" name="form_build_id" id="form-e14084dfa94762c4c700161e26344e0b" value="form-e14084dfa94762c4c700161e26344e0b"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -220,7 +220,7 @@ $(function() {
   <div class="content">
     <div class="view view-whats-going-on-at-odette-block view-id-whats_going_on_at_odette_block view-display-id-block_1 view-dom-id-1">
         <div class="view-header">
-      September 21, 2013    </div>
+      September 25, 2013    </div>
   
   
   
@@ -229,37 +229,37 @@ $(function() {
            <div class="views-row views-row-1 views-row-odd views-row-first">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/awards/business-student-completed-six-touchdown-passes">Business student completed six touchdown passes</a></span>
+                <span class="field-content"><a href="/odette/awards/south-wing-grand-opening-event">Opening of newly renovated south wing &quot;A Grand...</a></span>
   </div>
   </div>
   <div class="views-row views-row-2 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/awards/south-wing-grand-opening">Odette to open new south wing during UWindsor 50th...</a></span>
+                <span class="field-content"><a href="/odette/awards/faria-freeman-templer-retirements">Odette celebrates teaching excellence as part of...</a></span>
   </div>
   </div>
   <div class="views-row views-row-3 views-row-odd">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/awards/mba-luncheon-2013">MBA student achievements honoured at annual luncheon</a></span>
+                <span class="field-content"><a href="/odette/awards/business-student-completed-six-touchdown-passes">Business student completed six touchdown passes</a></span>
   </div>
   </div>
   <div class="views-row views-row-4 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/awards/2013-pulse-of-the-region-report">Odette announces results of regional economic oulook...</a></span>
+                <span class="field-content"><a href="/odette/awards/south-wing-grand-opening">Odette to open new south wing during UWindsor 50th...</a></span>
   </div>
   </div>
   <div class="views-row views-row-5 views-row-odd">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/awards/langlois-athlete-of-the-year">Business student shares in athlete of the year honours</a></span>
+                <span class="field-content"><a href="/odette/awards/mba-luncheon-2013">MBA student achievements honoured at annual luncheon</a></span>
   </div>
   </div>
   <div class="views-row views-row-6 views-row-even views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/odette/awards/toastmasters-competition-2013">Toastmasters host speech and evaluation contest</a></span>
+                <span class="field-content"><a href="/odette/awards/2013-pulse-of-the-region-report">Odette announces results of regional economic oulook...</a></span>
   </div>
   </div>
        </div>
@@ -303,21 +303,21 @@ $(function() {
     
      <div class="ddblock-container"> 
     <div class="himg-wrap">
+				   <div class="home-image"><img src="http://www1.uwindsor.ca/odette/awards/system/files/imagecache/722_by_278_slideshow_image/slideshow/1.1%20Odette%20CPA%20Pathway.jpg" alt="" title="" width="722" height="278" class="imagecache imagecache-722_by_278_slideshow_image"/>				      
+				     <div class="home-shade"></div> 
+				     <div class="himg-over-wrap">
+					   <div class="hover-title">Odette CPA Pathway</div>
+					   <div class="hover-desc">Bridging between University grads and chartered accountancy</div>
+					   <div class="hover-tour"><a href="/odette/awards/cpa-pathway">Learn More</a></div>
+				     </div>
+                   </div>
+			     </div><div class="himg-wrap">
 				   <div class="home-image"><img src="http://www1.uwindsor.ca/odette/awards/system/files/imagecache/722_by_278_slideshow_image/slideshow/1.1%20Student%20Exchange.jpg" alt="" title="" width="722" height="278" class="imagecache imagecache-722_by_278_slideshow_image"/>				      
 				     <div class="home-shade"></div> 
 				     <div class="himg-over-wrap">
 					   <div class="hover-title">International Exchange</div>
 					   <div class="hover-desc">Learn while you travel the world!</div>
 					   <div class="hover-tour"><a href="/odette/awards/international-exchange-opportunities">Learn More</a></div>
-				     </div>
-                   </div>
-			     </div><div class="himg-wrap">
-				   <div class="home-image"><img src="http://www1.uwindsor.ca/odette/awards/system/files/imagecache/722_by_278_slideshow_image/slideshow/1.1%20South%20Wing%20Reno.JPG" alt="" title="" width="722" height="278" class="imagecache imagecache-722_by_278_slideshow_image"/>				      
-				     <div class="home-shade"></div> 
-				     <div class="himg-over-wrap">
-					   <div class="hover-title">Grand Opening</div>
-					   <div class="hover-desc">Come celebrate the grand opening of the newly renovated Odette building south wing on Saturday, September 21.</div>
-					   <div class="hover-tour"><a href="http://www.uwindsor.ca/odette/south-wing-grand-opening" target="_blank">Learn More</a></div>
 				     </div>
                    </div>
 			     </div><div class="himg-wrap">
@@ -330,21 +330,21 @@ $(function() {
 				     </div>
                    </div>
 			     </div><div class="himg-wrap">
+				   <div class="home-image"><img src="http://www1.uwindsor.ca/odette/awards/system/files/imagecache/722_by_278_slideshow_image/slideshow/1.1%20South%20Wing%20Reno.JPG" alt="" title="" width="722" height="278" class="imagecache imagecache-722_by_278_slideshow_image"/>				      
+				     <div class="home-shade"></div> 
+				     <div class="himg-over-wrap">
+					   <div class="hover-title">A Grand Opening</div>
+					   <div class="hover-desc">Odette past, present and future celebrate the house that Bud and Ed built</div>
+					   <div class="hover-tour"><a href="http://www.uwindsor.ca/odette/south-wing-grand-opening-event" target="_blank">Learn More</a></div>
+				     </div>
+                   </div>
+			     </div><div class="himg-wrap">
 				   <div class="home-image"><img src="http://www1.uwindsor.ca/odette/awards/system/files/imagecache/722_by_278_slideshow_image/slideshow/1.1%20RPLI.jpg" alt="" title="" width="722" height="278" class="imagecache imagecache-722_by_278_slideshow_image"/>				      
 				     <div class="home-shade"></div> 
 				     <div class="himg-over-wrap">
 					   <div class="hover-title">Richard Peddie Leadership Initiative</div>
 					   <div class="hover-desc">Creating 21st century leaders!</div>
 					   <div class="hover-tour"><a href="/odette/awards/rpli">Learn More</a></div>
-				     </div>
-                   </div>
-			     </div><div class="himg-wrap">
-				   <div class="home-image"><img src="http://www1.uwindsor.ca/odette/awards/system/files/imagecache/722_by_278_slideshow_image/slideshow/1.1%20Odette%20CPA%20Pathway.jpg" alt="" title="" width="722" height="278" class="imagecache imagecache-722_by_278_slideshow_image"/>				      
-				     <div class="home-shade"></div> 
-				     <div class="himg-over-wrap">
-					   <div class="hover-title">Odette CPA Pathway</div>
-					   <div class="hover-desc">Bridging between University grads and chartered accountancy</div>
-					   <div class="hover-tour"><a href="/odette/awards/cpa-pathway">Learn More</a></div>
 				     </div>
                    </div>
 			     </div>   </div>

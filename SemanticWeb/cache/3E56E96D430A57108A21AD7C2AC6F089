@@ -94,7 +94,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ccccbf876ede14cfb04967c90a3563a2" value="form-ccccbf876ede14cfb04967c90a3563a2"  />
+<input type="hidden" name="form_build_id" id="form-df3a5eb6665eb609da648913041d0337" value="form-df3a5eb6665eb609da648913041d0337"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -259,15 +259,10 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <p>&nbsp;</p>
   </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-odd even region-count-3 count-8 blue_title todays-events"><div class="block-inner">
-          <h2 class="title">Today's Events</h2>
-    <div class="content">
-    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li>1:00PM-5:00PM <a href="/math/baseball-fun-day-for-alumni-and-their-families">Baseball Fun Day for Alumni and their Families</a></li></ul></div>  </div>
-    </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-4 count-9 blue_title upcoming-events"><div class="block-inner">
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-3 count-8 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 26, 2013 <a href="/math/colloquium-dr-patrick-brown-cancer-care-ontario-and-university-of-toronto-non-gaussian-geostatistics"> CANCELLED UNTIL FURTHER NOTICE Colloquium: Dr. Patrick Brown, Cancer Care Ontario and University of Toronto "Non-Gaussian Geostatistics Made Easy"</a></li><li>Oct 7, 2013 <a href="/math/50th-anniversary-celebration-math%20and%20stats%20chats">50th Anniversary Celebration - Math & Stats Chats Event</a></li></ul></div><div class="more-link"><a href="/math/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 26, 2013 <a href="/math/colloquium-dr-patrick-brown-cancer-care-ontario-and-university-of-toronto-non-gaussian-geostatistics"> CANCELLED UNTIL FURTHER NOTICE Colloquium: Dr. Patrick Brown, Cancer Care Ontario and University of Toronto "Non-Gaussian Geostatistics Made Easy"</a></li><li>Sep 30, 2013 <a href="/math/algebra-seminar-dr-mehdi-garrousian-university-of-windsor-combinatorial-and-algebraic-structures-a-0">Algebra Seminar: Dr. Mehdi Garrousian, University of Windsor, "Combinatorial and Algebraic Structures Arising from Hyperplane Arrangements II"</a></li><li>Oct 1, 2013 <a href="/math/colloquium-dr-mark-dorrepaal-old-dominion-university-a-mathematical-model-for-the-6-team-travelling">Colloquium: Dr. Mark Dorrepaal, Old Dominion University, "A Mathematical Model for the 6-Team Travelling Tournament Problem"</a></li><li>Oct 3, 2013 <a href="/math/colloquium-dr-heydar-radjavi-university-of-waterloo-semigroups-of-partial-isometries">Colloquium: Dr. Heydar Radjavi, University of Waterloo, "Semigroups of Partial Isometries"</a></li><li>Oct 7, 2013 <a href="/math/50th-anniversary-celebration-math%20and%20stats%20chats">50th Anniversary Celebration - Math & Stats Chats Event</a></li></ul></div><div class="more-link"><a href="/math/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

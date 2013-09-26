@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1459.field_date.0.0
 SUMMARY:Managing Cloud Resources: Key Problems and Solutions - Professor Shikharesh  \n Majumdar
-DTSTAMP:20130921T205905
+DTSTAMP:20130925T210729
 DTSTART:20130904T110000
 DTEND:20130904T120000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1459/managing-cloud-resources-key-problems-and-solutions-professor-shikharesh-majumdar#20130904T110000

@@ -91,7 +91,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-c67557f1281b372e409cafe8bafaf3d5" value="form-c67557f1281b372e409cafe8bafaf3d5"  />
+<input type="hidden" name="form_build_id" id="form-3f9d39366b2f676791b29e876f41a4ec" value="form-3f9d39366b2f676791b29e876f41a4ec"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -178,13 +178,13 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/chemistry/system/files/imagecache/header_left_image/chem-student-02.jpg" alt="chem-biochem-student" title="chem-biochem-student" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image"><img src="/chemistry/sites/uwindsor.ca.chemistry/files/chem-biochem-dept-title-blue.png" alt="UWin ChemBiochem" title = "Department of Chemistry and Biochemistry"/></div><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/chemistry/system/files/imagecache/header_left_image/P1000170_0.JPG" alt="SSNMR2" title="SSNMR2" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image"><img src="/chemistry/sites/uwindsor.ca.chemistry/files/chem-biochem-dept-title-blue.png" alt="UWin ChemBiochem" title = "Department of Chemistry and Biochemistry"/></div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/chemistry/system/files/imagecache/header_right_image/P1000106_0.JPG" alt="Zghal" title="Zhal" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/chemistry/system/files/imagecache/header_right_image/P1000103_0.JPG" alt="Awardee1" title="Awardee1" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

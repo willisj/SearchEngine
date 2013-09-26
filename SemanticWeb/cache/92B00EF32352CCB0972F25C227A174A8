@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1380.field_date.0.0
 SUMMARY:Computer Science Master's Thesis Defense - Ala Shaabana
-DTSTAMP:20130921T205920
+DTSTAMP:20130925T210740
 DTSTART:20130513T140000
 DTEND:20130513T140000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1380/computer-science-masters-thesis-defense-ala-shaabana#20130513T140000

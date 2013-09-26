@@ -95,7 +95,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-1f403824900efcb3a209eccfc1182787" value="form-1f403824900efcb3a209eccfc1182787"  />
+<input type="hidden" name="form_build_id" id="form-d47f04d3170bee0870355c99a6663d95" value="form-d47f04d3170bee0870355c99a6663d95"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -192,7 +192,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-8 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/employment/system/files/imagecache/header_left_image/hr_banner5.jpg" alt="Department of Human Resources" title="Department of Human Resources" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/employment/system/files/imagecache/header_left_image/hr_banner12.jpg" alt="Department of Human Resources" title="Department of Human Resources" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -244,7 +244,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_job_postings-internal" class="block block-uw_job_postings region-even odd region-count-2 count-11 blue_title internal-job-postings"><div class="block-inner">
           <h2 class="title">Internal Job Postings</h2>
     <div class="content">
-    <div class="item-list"><h3 class="title">CAW 2458 Full-Time</h3><ul class="job_postings internal"><li class="job_postings"><a href="/employment/2013-ft-23/client-services-coordinator-7-in-the-department-of-athletics-recreational-services"><strong>#2013-FT-23</strong> - Client Services Coordinator '7' in the Department of Athletics & Recreational Services</a></li></div></ul>  </div>
+    <div class="item-list"><h3 class="title">CAW 2458 Full-Time</h3><ul class="job_postings internal"><li class="job_postings"><a href="/employment/2013-ft-23/client-services-coordinator-7-in-the-department-of-athletics-recreational-services"><strong>#2013-FT-23</strong> - Client Services Coordinator '7' in the Department of Athletics & Recreational Services</a></li></ul><h3 class="title">CAW 2458 Part-Time</h3><ul class="job_postings internal"><li class="job_postings"><a href="/employment/2013-pt-11/student-awards-clerical-assistant-part-time-5-in-the-department-of-student-awards-financi"><strong>#2013-PT-11</strong> - Student Awards Clerical Assistant (Part Time) '5' in the Department of Student Awards & Financial Aid</a></li></div></ul>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

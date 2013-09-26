@@ -88,7 +88,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-d6d565e3b33cbd3a9e29d32d0ccf5a8f" value="form-d6d565e3b33cbd3a9e29d32d0ccf5a8f"  />
+<input type="hidden" name="form_build_id" id="form-78b879f44da1ffcc0e7638580db498ff" value="form-78b879f44da1ffcc0e7638580db498ff"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -173,7 +173,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
       <div class="view-content">
       <div class="calendar-calendar">
-      <ul class="links links-5"><li class="0 link-0 first"><a href="/event/calendar/events/2013-09-21" rel="nofollow">Today</a></li>
+      <ul class="links links-5"><li class="0 link-0 first"><a href="/event/calendar/events/2013-09-25" rel="nofollow">Today</a></li>
 <li class="calendar calendar-day link-calendar calendar-day"><a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-01" rel="nofollow">Day</a></li>
 <li class="calendar calendar-week link-calendar calendar-week"><a href="http://www1.uwindsor.ca/event/calendar/events/2013-W36" rel="nofollow">Week</a></li>
 <li class="calendar calendar-month link-calendar calendar-month"><a href="http://www1.uwindsor.ca/event/calendar/events/2013-09" rel="nofollow">Month</a></li>
@@ -359,24 +359,24 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10864.field_date.0.12 calendar monthview">
+  <div class="calendar.10865.field_date.0.12 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/event/10864/residence-student-community-meetings"><strong>Residence Student Community Meetings</strong></a>      </div>  
+  <a href="/event/10865/residence-parents-meeting"><strong>Residence Parents Meeting</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         3:00pm - 4:30pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10865.field_date.0.13 calendar monthview">
+  <div class="calendar.10864.field_date.0.13 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/event/10865/residence-parents-meeting"><strong>Residence Parents Meeting</strong></a>      </div>  
+  <a href="/event/10864/residence-student-community-meetings"><strong>Residence Student Community Meetings</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         3:00pm - 4:30pm      </div>  
@@ -861,25 +861,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </div>          </td>
                   <td id="events_calendar-2013-09-03" class="tue past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-03">3</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.10245.field_date.0.45 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/10245/registration-for-first-year-law-students"><strong>Registration for First Year Law students</strong></a>      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.9270.field_date.0.46 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/9270/windsor-welcome-week-orientation-days"><strong>&quot;Windsor Welcome Week&quot; orientation days</strong></a>      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.10244.field_date.0.47 calendar monthview">
+  <div class="calendar.10244.field_date.0.45 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -888,7 +870,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.9271.field_date.0.48 calendar monthview">
+  <div class="calendar.9271.field_date.0.46 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -897,12 +879,30 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.9749.field_date.0.49 calendar monthview">
+  <div class="calendar.9749.field_date.0.47 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/9749/orientation-begins-for-clinical-nursing-courses"><strong>Orientation begins for Clinical Nursing courses</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.9270.field_date.0.48 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/9270/windsor-welcome-week-orientation-days"><strong>&quot;Windsor Welcome Week&quot; orientation days</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.10245.field_date.0.49 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/10245/registration-for-first-year-law-students"><strong>Registration for First Year Law students</strong></a>      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
@@ -1159,24 +1159,24 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.11096.field_date.0.65 calendar monthview">
+  <div class="calendar.10955.field_date.0.65 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/event/11096/meme-me-windsor-welcome-week-event-for-new-students"><strong>Meme Me: Windsor Welcome Week event for new students</strong></a>      </div>  
+  <a href="/event/10955/uwsa-open-mic-with-jake"><strong>UWSA Open Mic with Jake</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         4:00pm - 7:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10955.field_date.0.66 calendar monthview">
+  <div class="calendar.11096.field_date.0.66 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/event/10955/uwsa-open-mic-with-jake"><strong>UWSA Open Mic with Jake</strong></a>      </div>  
+  <a href="/event/11096/meme-me-windsor-welcome-week-event-for-new-students"><strong>Meme Me: Windsor Welcome Week event for new students</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         4:00pm - 7:00pm      </div>  
@@ -1281,22 +1281,22 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </div>          </td>
                   <td id="events_calendar-2013-09-04" class="wed past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-04">4</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.9272.field_date.0.75 calendar monthview">
+  <div class="calendar.10964.field_date.0.75 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/10964/program-orientation"><strong>Program Orientation</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.9272.field_date.0.76 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/9272/orientation-for-social-work-students-newly-admitted-to-the-professional-years-of-the-bsw-progra"><strong>Orientation for Social Work students newly admitted to the professional years  
  of the BSW program</strong></a>      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.10964.field_date.0.76 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/10964/program-orientation"><strong>Program Orientation</strong></a>      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
@@ -1935,19 +1935,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.11136.field_date.0.112 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/11136/pj-enrichment-program-session-beginning-time-teaching"><strong>PJ Enrichment Program Session: Beginning Time Teaching</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        1:00pm - 2:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.11135.field_date.0.113 calendar monthview">
+  <div class="calendar.11135.field_date.0.112 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -1959,7 +1947,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.11137.field_date.0.114 calendar monthview">
+  <div class="calendar.11137.field_date.0.113 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -1971,12 +1959,24 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.11144.field_date.0.115 calendar monthview">
+  <div class="calendar.11144.field_date.0.114 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/11144/information-session-for-optional-course-80-207-05-ecology-wellness"><strong>Information session for optional course, 80-207-05, Ecology &amp; Wellness</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        1:00pm - 2:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.11136.field_date.0.115 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/11136/pj-enrichment-program-session-beginning-time-teaching"><strong>PJ Enrichment Program Session: Beginning Time Teaching</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         1:00pm - 2:00pm      </div>  
@@ -2094,19 +2094,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10974.field_date.0.125 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/10974/out-on-campus-info-booth"><strong>Out on Campus Info Booth</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        5:00pm - 8:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.10973.field_date.0.126 calendar monthview">
+  <div class="calendar.10973.field_date.0.125 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -2118,12 +2106,24 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10975.field_date.0.127 calendar monthview">
+  <div class="calendar.10975.field_date.0.126 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/10975/adrenaline-rush-shinerama-bbq"><strong>Adrenaline Rush Shinerama BBQ</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        5:00pm - 8:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.10974.field_date.0.127 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/10974/out-on-campus-info-booth"><strong>Out on Campus Info Booth</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         5:00pm - 8:00pm      </div>  
@@ -2734,21 +2734,21 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </div>          </td>
                   <td id="events_calendar-2013-09-09" class="mon past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-09">9</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.9277.field_date.0.163 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/9277/classes-begin-in-first-year-law"><strong>Classes begin in First Year Law</strong></a>      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.9278.field_date.0.164 calendar monthview">
+  <div class="calendar.9278.field_date.0.163 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/9278/field-education-i-begins-in-social-work"><strong>Field Education I begins in Social Work</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.9277.field_date.0.164 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/9277/classes-begin-in-first-year-law"><strong>Classes begin in First Year Law</strong></a>      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
@@ -2888,24 +2888,24 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.11007.field_date.0.176 calendar monthview">
+  <div class="calendar.11006.field_date.0.176 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/event/11007/uwsa-interactive-bowling-life-size-jenga"><strong>UWSA Interactive Bowling &amp; Life Size Jenga</strong></a>      </div>  
+  <a href="/event/11006/mental-health-awareness-club-music-mood-and-food"><strong>Mental Health Awareness Club Music, Mood and Food</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         3:00pm - 6:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.11006.field_date.0.177 calendar monthview">
+  <div class="calendar.11007.field_date.0.177 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/event/11006/mental-health-awareness-club-music-mood-and-food"><strong>Mental Health Awareness Club Music, Mood and Food</strong></a>      </div>  
+  <a href="/event/11007/uwsa-interactive-bowling-life-size-jenga"><strong>UWSA Interactive Bowling &amp; Life Size Jenga</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         3:00pm - 6:00pm      </div>  
@@ -3012,21 +3012,21 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </div>          </td>
                   <td id="events_calendar-2013-09-13" class="fri past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-13">13</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.11079.field_date.0.186 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/11079/innovation-station-engineering-your-life"><strong>Innovation Station: Engineering Your Life</strong></a>      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.11097.field_date.0.187 calendar monthview">
+  <div class="calendar.11097.field_date.0.186 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/11097/co-op-education-application-deadline-september-13-2013"><strong>Co-op Education Application Deadline September 13, 2013</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.11079.field_date.0.187 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/11079/innovation-station-engineering-your-life"><strong>Innovation Station: Engineering Your Life</strong></a>      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
@@ -3287,16 +3287,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </div>          </td>
                   <td id="events_calendar-2013-09-18" class="wed past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-18">18</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.9281.field_date.0.205 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/9281/last-day-for-full-tuition-refund"><strong>Last day for full tuition refund</strong></a>      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.9282.field_date.0.206 calendar monthview">
+  <div class="calendar.9282.field_date.0.205 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -3306,13 +3297,22 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.9280.field_date.0.207 calendar monthview">
+  <div class="calendar.9280.field_date.0.206 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/9280/last-day-for-late-registration-and-change-of-course-for-fall-term-day-and-evening-except-law"><strong>Last day for late registration and change of course for Fall term, day and  
  evening, except Law</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.9281.field_date.0.207 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/9281/last-day-for-full-tuition-refund"><strong>Last day for full tuition refund</strong></a>      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
@@ -3510,7 +3510,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-21" class="sat today has-events">
+                  <td id="events_calendar-2013-09-21" class="sat past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-21">21</a> </div><div class="view-item view-item-events_calendar">
   <div class="calendar.10928.field_date.0.221 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
@@ -3558,31 +3558,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10775.field_date.0.223 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/10775/classes-of-1988-and-1989-milestone-reunion"><strong>Classes of 1988 and 1989 Milestone Reunion</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        8:30am - 4:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.10777.field_date.0.224 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/10777/classes-of-2003-and-2004-milestone-reunion"><strong>Classes of 2003 and 2004 Milestone Reunion</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        8:30am - 4:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.11046.field_date.0.225 calendar monthview">
+  <div class="calendar.11046.field_date.0.223 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -3594,19 +3570,31 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10395.field_date.0.226 calendar monthview">
+  <div class="calendar.10775.field_date.0.224 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/event/10395/reunion-classes-of-2003-and-2004"><strong>Reunion: Classes of 2003 and 2004</strong></a>      </div>  
+  <a href="/event/10775/classes-of-1988-and-1989-milestone-reunion"><strong>Classes of 1988 and 1989 Milestone Reunion</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
-        9:00am - 4:00pm      </div>  
+        8:30am - 4:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10394.field_date.0.227 calendar monthview">
+  <div class="calendar.10777.field_date.0.225 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/10777/classes-of-2003-and-2004-milestone-reunion"><strong>Classes of 2003 and 2004 Milestone Reunion</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        8:30am - 4:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.10394.field_date.0.226 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -3618,12 +3606,24 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.10393.field_date.0.228 calendar monthview">
+  <div class="calendar.10393.field_date.0.227 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/10393/reunion-classes-of-1988-and-1989"><strong>Reunion: Classes of 1988 and 1989</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        9:00am - 4:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.10395.field_date.0.228 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/10395/reunion-classes-of-2003-and-2004"><strong>Reunion: Classes of 2003 and 2004</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         9:00am - 4:00pm      </div>  
@@ -3766,7 +3766,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
           <tr>
                   <td id="events_calendar-weekno-2013-09-22" class="week">
             <a href="http://www1.uwindsor.ca/event/calendar/events/2013-W39">39</a>          </td>
-                  <td id="events_calendar-2013-09-22" class="sun future has-events">
+                  <td id="events_calendar-2013-09-22" class="sun past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-22">22</a> </div><div class="view-item view-item-events_calendar">
   <div class="calendar.11014.field_date.0.240 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
@@ -3814,7 +3814,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-23" class="mon future has-events">
+                  <td id="events_calendar-2013-09-23" class="mon past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-23">23</a> </div><div class="view-item view-item-events_calendar">
   <div class="calendar.11129.field_date.0.201 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
@@ -3828,7 +3828,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-24" class="tue future has-events">
+                  <td id="events_calendar-2013-09-24" class="tue past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-24">24</a> </div><div class="view-item view-item-events_calendar">
   <div class="calendar.11129.field_date.0.201 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
@@ -3842,25 +3842,25 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-25" class="wed future has-events">
+                  <td id="events_calendar-2013-09-25" class="wed today has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/event/calendar/events/2013-09-25">25</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.10247.field_date.0.242 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/event/10247/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-ref"><strong>Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</strong></a>      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.10246.field_date.0.243 calendar monthview">
+  <div class="calendar.10246.field_date.0.242 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/event/10246/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degree"><strong>Last day to deposit dissertations, theses and major papers for Fall  
  Convocation (graduate degrees)</strong></a>      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.10247.field_date.0.243 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/event/10247/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-ref"><strong>Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</strong></a>      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
@@ -4057,16 +4057,15 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
               <!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-odd odd region-count-1 count-5 blue_title todays-events"><div class="block-inner">
           <h2 class="title">Today's Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li class="imported-event">9:00AM-4:30PM <a href="http://www1.uwindsor.ca/visualarts/visual-arts-faculty-exhibition#20130916T090000">Visual Arts Faculty Exhibition</a></li><li class="imported-event">10:00AM-5:00PM <a href="http://www1.uwindsor.ca/visualarts/alumni-art-exhibition#20130920T100000">Alumni Art Exhibition</a></li><li class="imported-event"> <a href="http://www1.uwindsor.ca/windsorwelcome/uwsa-hosts-50th-anniversary-tailgate-concert-with-never-ending-white-lights-the-fisher-kings#20130921">UWSA hosts 50th Anniversary Tailgate Concert with Never Ending White Lights &  
- The Fisher Kings</a></li><li class="imported-event">8:30AM-4:00PM <a href="http://www1.uwindsor.ca/alumni/reunion-classes-of-1988-and-1989#20130921T083000">Classes of 1988 and 1989 Milestone Reunion</a></li><li class="imported-event">8:30AM-4:00PM <a href="http://www1.uwindsor.ca/alumni/reunion-classes-of-2003-and-2004#20130921T083000">Classes of 2003 and 2004 Milestone Reunion</a></li><li class="imported-event">8:30AM-4:00PM <a href="http://www1.uwindsor.ca/alumni/milestone-reunions#20130921T083000">Milestone Reunions</a></li><li class="imported-event">9:00AM-4:00PM <a href="http://www1.uwindsor.ca/alumni/reunion-classes-of-1988-and-1989#20130921T090000">Reunion: Classes of 1988 and 1989</a></li><li class="imported-event">9:00AM-4:00PM <a href="http://www1.uwindsor.ca/alumni/reunion-classes-of-1963-and-1964#20130921T090000">Reunion: Classes of 1963 and 1964</a></li><li class="imported-event">9:00AM-4:00PM <a href="http://www1.uwindsor.ca/alumni/reunion-classes-of-2003-and-2004#20130921T090000">Reunion: Classes of 2003 and 2004</a></li><li class="imported-event">10:00AM-4:00PM <a href="http://www1.uwindsor.ca/alumni/classic-car-show#20130921T100000">Classic Car Show</a></li><li class="imported-event">12:00PM-3:00PM <a href="http://www1.uwindsor.ca/engineering/50th-anniversary-event#20130921T120000">50th Anniversary Event</a></li><li class="imported-event">12:30PM-8:00PM <a href="http://www1.uwindsor.ca/alumni/milestone-reunions#20130921T123000">Milestone Reunions</a></li><li class="imported-event">1:00PM-5:00PM <a href="http://www1.uwindsor.ca/math/baseball-fun-day-for-alumni-and-their-families#20130921T130000">Baseball Fun Day for Alumni and their Families</a></li><li class="imported-event">2:00PM-8:00PM <a href="http://www1.uwindsor.ca/alumni/classic-car-show#20130921T140000">Classic Car Show</a></li><li class="imported-event">3:00PM-6:00PM <a href="http://www1.uwindsor.ca/alumni/reunion-sac-uwsa-and-student-ambassadors#20130921T150000">Reunion: SAC - UWSA and Student Ambassadors</a></li><li class="imported-event">6:00PM-7:30PM <a href="http://www1.uwindsor.ca/music/alumni-and-friends-reception#20130921T180000">Alumni and Friends Reception</a></li><li class="imported-event">6:00PM-7:30PM <a href="http://www1.uwindsor.ca/visualarts/alumni-and-friends-reception#20130921T180000">Alumni and Friends Reception</a></li><li class="imported-event">7:00PM-10:00PM <a href="http://www1.uwindsor.ca/alumni/reunion-sac-uwsa-and-student-ambassadors#20130921T190000">Reunion: SAC - UWSA and Student Ambassadors</a></li><li class="imported-event">7:30PM-9:00PM <a href="http://www1.uwindsor.ca/music/music-alumni-showcase-concert#20130921T193000">Music Alumni Showcase Concert</a></li><li class="imported-event">8:00PM <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130921T200000">Suite Surrender</a></li></ul></div>  </div>
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li class="imported-event">9:00AM-4:30PM <a href="http://www1.uwindsor.ca/visualarts/visual-arts-faculty-exhibition#20130916T090000">Visual Arts Faculty Exhibition</a></li><li class="imported-event"> <a href="http://www1.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
+ Convocation (graduate degrees)</a></li><li class="imported-event"> <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</a></li><li class="imported-event">4:00PM-6:00PM <a href="http://www1.uwindsor.ca/windsorwelcome/feed-your-body-feed-your-mind#20130925T160000">Feed Your Body/ Feed Your Mind</a></li><li class="imported-event">8:00PM <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130925T200000">Suite Surrender</a></li><li class="imported-event">8:00PM-10:00PM <a href="http://www1.uwindsor.ca/windsorwelcome/feed-your-body-feed-your-mind#20130925T200000">Feed Your Body/ Feed Your Mind</a></li></ul></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even even region-count-2 count-6 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 16 - 27, 2013 <a href="http://www1.uwindsor.ca/visualarts/visual-arts-faculty-exhibition#20130916T090000">Visual Arts Faculty Exhibition</a></li><li class="imported-event">Sep 20 - 22, 2013 <a href="http://www1.uwindsor.ca/visualarts/alumni-art-exhibition#20130920T100000">Alumni Art Exhibition</a></li><li class="imported-event">Sep 22, 2013 <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130922T140000">Suite Surrender</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/windsorwelcome/feed-your-body-feed-your-mind#20130925T160000">Feed Your Body/ Feed Your Mind</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130925T200000">Suite Surrender</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/windsorwelcome/feed-your-body-feed-your-mind#20130925T200000">Feed Your Body/ Feed Your Mind</a></li><li class="imported-event">Sep 26, 2013 <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130926T200000">Suite Surrender</a></li><li class="imported-event">Sep 27, 2013 <a href="http://www1.uwindsor.ca/economics/bargaining-power-and-majoritarian-allocations-roger-mccain-drexel-university#20130927T103000">Bargaining Power and Majoritarian Allocations - Roger McCain - Drexel  
- University</a></li></ul></div><div class="more-link"><a href="/event/calendar/events" class="active">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 16 - 27, 2013 <a href="http://www1.uwindsor.ca/visualarts/visual-arts-faculty-exhibition#20130916T090000">Visual Arts Faculty Exhibition</a></li><li class="imported-event">Sep 26, 2013 <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130926T200000">Suite Surrender</a></li><li class="imported-event">Sep 27, 2013 <a href="http://www1.uwindsor.ca/economics/bargaining-power-and-majoritarian-allocations-roger-mccain-drexel-university#20130927T103000">Bargaining Power and Majoritarian Allocations - Roger McCain - Drexel  
+ University</a></li><li class="imported-event">Sep 27, 2013 <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130927T200000">Suite Surrender</a></li><li class="imported-event">Sep 28, 2013 <a href="http://www1.uwindsor.ca/isc/international-student-festival#20130928T130000">International Student Festival</a></li><li class="imported-event">Sep 28, 2013 <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130928T200000">Suite Surrender</a></li><li class="imported-event">Sep 29, 2013 <a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130929T140000">Suite Surrender</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5#20131002">Last day for reversal of incidental fees for course withdrawal</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/hrg/marty-gervais-telling-our-story#20131002T160000">Marty Gervais "Telling Our Story"</a></li><li class="imported-event">Oct 4 - 6, 2013 <a href="http://www1.uwindsor.ca/hrg/20th-north-american-sartre-society-conference#20131004T090000">20th North American Sartre Society Conference</a></li></ul></div><div class="more-link"><a href="/event/calendar/events" class="active">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1441.field_date.0.0
 SUMMARY:Computer Science Master's Thesis Proposal - Avani Gade
-DTSTAMP:20130921T205911
+DTSTAMP:20130925T210734
 DTSTART:20130530T110000
 DTEND:20130530T123000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1441/computer-science-masters-thesis-proposal#20130530T110000

@@ -5,7 +5,7 @@
   <title>MSW for Working Professionals (MSWwp) Off-Campus Program | MSW for Working Professionals (Off-campus) - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-08-14 09:00:55" />
+<meta name="modified" content="2013-09-24 01:49:04" />
 <meta name="created" content="2010-06-14 10:24:38" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -188,7 +188,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-8f75a848f71468090067062dfcff6b42" value="form-8f75a848f71468090067062dfcff6b42"  />
+<input type="hidden" name="form_build_id" id="form-03773826216e3d4f191103972923468c" value="form-03773826216e3d4f191103972923468c"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -250,7 +250,7 @@ $(function() {
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/10097880a.JPG" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/cepe/graduate-with-distinction" target="_blank">Graduate with Distinction</a></div><div class="summary">Graduate with a recognized, accredited Master of Social Work degree, while taking classes on alternating weekends.</div><div class="read_more"><a href="http://www.uwindsor.ca/cepe/graduate-with-distinction" target="_blank">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/DSC_2694a.JPG" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/cepe/field-education" target="_blank">Rewarding Field Placement</a></div><div class="summary">Participate in worthwhile, rewarding field placement opportunites in the MSW for Working Professionals</div><div class="read_more"><a href="http://www.uwindsor.ca/cepe/field-education" target="_blank">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/msw/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -259,7 +259,7 @@ $(function() {
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/msw/system/files/imagecache/header_left_image/grads_2010_peel.jpg" alt="MSW Peel Graduates 2010" title="MSWwp Peel Graduates 2010" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/msw/system/files/imagecache/header_left_image/sarah_brennan.jpg" alt="MSWwp Graduate Sarah Brennan" title="MSWwp Graduate Sarah Brennan" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -291,7 +291,7 @@ $(function() {
                                                                                           <div id="node-773" class="node node-type-page"><div class="node-inner">
       <div class="content">
     <h5 class="rtecenter">
-	<font size="2">Whether you have a <span>BSW</span> or an undergraduate degree (four-year <span>honours</span> degree) from another relevant discipline, the <strong>Master of Social Work for Working Professionals (off-campus)</strong></font><font size="2"> has been developed with professionals like you in mind. The program is offered in partnership between the <span>Centre</span> for Executive and Professional Education and the School of Social Work at the University of Windsor. If you are looking for the on-campus program follow this link &gt; <a href="/socialwork/msw-0">On-Campus MSW</a>. </font></h5>
+	<font size="2">Whether you have a <span>BSW</span> or an undergraduate degree (four-year <span>honours</span> degree) from another relevant discipline, the <strong>Master of Social Work for Working Professionals (off-campus)</strong></font><font size="2"> has been developed with professionals like you in mind. The program is offered in partnership between the <span>Centre</span> for Executive and Professional Education and the School of Social Work at the University of Windsor. </font></h5>
 <p><font size="2">The </font><font size="2"><b>Master of Social Work for Working Professionals</b></font><font size="2"> </font><font face="Tahoma" size="2">will allow you to achieve your goals and will provide you with the quality education along with the tools needed for success in advancing in the Social Work field. The alternating weekend format meets the demands of many active professionals in the social work field who want to take the next step in their career. </font></p>
 <h3>
 	<b><font size="2">Here are a few benefits of the MSW for Working Professionals:</font></b></h3>
@@ -307,12 +307,12 @@ $(function() {
 <li>
 		<font face="Tahoma" size="2">University of Windsor&rsquo;s reputation in Canada for outstanding social work education</font></li>
 </ul>
-<p class="rtecenter">&nbsp;</p>
 <p><font face="Tahoma" size="2">If you have any questions about this program after reviewing our web site, please email&nbsp;<a href="mailto:cepe@uwindsor.ca">cepe@uwindsor.ca</a> or call the Centre for Executive and Professional Education at (519) 256-3113 or toll free 1 866-419-0685. </font></p>
 <h3>
 	<b><font size="2">The MSW for Working Professionals is fully accredited</font></b></h3>
 <p><font face="Tahoma" size="2">The MSW program is fully accredited by the</font><font color="#002060" face="Tahoma" size="2"> </font><font face="Tahoma" size="2"><a href="http://www.caswe-acfts.ca/en/20/items/1.html">Canadian Association for Social Work Education (CASWE)</a> which has a comity degree recognition agreement with the <a href="http://www.cswe.org/">Council on Social Work Education (CSWE)</a></font><font color="#002060" face="Tahoma" size="2">. </font><font face="Tahoma" size="2">Graduates are eligible for membership in the </font><a href="http://www.oasw.org/"><font color="#002060" face="Tahoma" size="2">Ontario Association of Social Workers</font></a><font color="#002060" face="Tahoma" size="2">, the </font><a href="http://www.casw-acts.ca/"><font color="#002060" face="Tahoma" size="2">Canadian Association of Social Workers</font></a><font face="Tahoma" size="2"> and are eligible to apply for registration to the </font><a href="http://www.ocswssw.org/"><font color="#002060" face="Tahoma" size="2">Ontario College of Social Workers and Social Service Workers</font></a><font face="Tahoma" size="2">.</font></p>
-<p>&nbsp;</p>
+<h5>
+	<font size="2">If you are looking for the on-campus program follow this link &gt; <a href="/socialwork/msw-0">On-Campus MSW</a>. </font></h5>
   </div>
   </div></div> <!-- /node-inner, /node -->
                                   </div>

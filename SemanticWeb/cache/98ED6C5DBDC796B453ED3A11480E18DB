@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1439.field_date.0.0
 SUMMARY:Computer Science Master's Thesis Proposal - Ahmad Tavakoli
-DTSTAMP:20130921T205910
+DTSTAMP:20130925T210734
 DTSTART:20130530T143000
 DTEND:20130530T160000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1439/computer-science-masters-thesis-proposal-ahmad-tavakoli#20130530T143000

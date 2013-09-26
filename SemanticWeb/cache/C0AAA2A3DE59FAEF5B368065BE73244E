@@ -99,7 +99,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-44762b5c225e3335b56e5b204747ff37" value="form-44762b5c225e3335b56e5b204747ff37"  />
+<input type="hidden" name="form_build_id" id="form-2f2314659cad9be1210e4bd34160b0b7" value="form-2f2314659cad9be1210e4bd34160b0b7"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -167,7 +167,8 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <li class="leaf"><a href="/future-students/page/program-information" target="_self" rel="" title="On-line Publications" class="length-short">Program Information</a></li>
 <li class="leaf"><a href="http://uwindsor.ca/tours" target="_blank" rel="" title="Schedule a Campus Tour" class="length-short">Tours</a></li>
 <li class="leaf"><a href="/future-students/content/contact-us" target="_self" rel="" title="Contact Us" class="length-short">Contact Us</a></li>
-<li class="leaf last"><a href="/future-students/content/ouf/hockey" target="_self" rel="" title="Ontario Universities&#039; Fair Hockey Challenge Official Rules" class="length-long">OUF Hockey Challenge Official Rules</a></li>
+<li class="leaf"><a href="/future-students/content/ouf/hockey" target="_self" rel="" title="Ontario Universities&#039; Fair Hockey Challenge Official Rules" class="length-long">UWindsor OUF Hockey Challenge Official Rules</a></li>
+<li class="leaf last"><a href="/future-students/content/recruitment-video" target="_self" rel="" title="Recruitment Video" class="length-short">Recruitment Video</a></li>
 </ul>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                                        </div>
@@ -176,7 +177,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-8 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/header_left_image/bannerPic1.jpg" alt="Welcome to the Future Students Page" title="Future Students" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/header_left_image/left-banner-lancers.jpg" alt="UWindsor Lancer Athletes" title="UWindsor Lancer Athletes" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">

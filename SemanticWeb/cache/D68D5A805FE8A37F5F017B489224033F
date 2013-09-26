@@ -39,7 +39,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/registrar/food/awards/sites/all/themes/zen/zen/ie.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/registrar/sites/all/themes/zen/zen/ie.css?3" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/registrar/sites/all/themes/unified_department/print.css" />
@@ -86,7 +86,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-a91106431b1f1ae309fa66e1f9820bf1" value="form-a91106431b1f1ae309fa66e1f9820bf1"  />
+<input type="hidden" name="form_build_id" id="form-2e8fd7938fff378d183cc9ef73616333" value="form-2e8fd7938fff378d183cc9ef73616333"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -203,7 +203,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
       <div class="view-content">
       <div class="calendar-calendar">
-      <ul class="links links-5"><li class="0 link-0 first"><a href="/registrar/calendar/events/2013-09-21" rel="nofollow">Today</a></li>
+      <ul class="links links-5"><li class="0 link-0 first"><a href="/registrar/calendar/events/2013-09-25" rel="nofollow">Today</a></li>
 <li class="calendar calendar-day link-calendar calendar-day"><a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-01" rel="nofollow">Day</a></li>
 <li class="calendar calendar-week link-calendar calendar-week"><a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W36" rel="nofollow">Week</a></li>
 <li class="calendar calendar-month link-calendar calendar-month"><a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09" rel="nofollow">Month</a></li>
@@ -515,23 +515,23 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                   <td id="events_calendar-2013-09-20" class="fri past has-no-events">
             <div class="inner"><div class="month day"> 20 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-21" class="sat today has-no-events">
+                  <td id="events_calendar-2013-09-21" class="sat past has-no-events">
             <div class="inner"><div class="month day"> 21 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
               </tr>
           <tr>
                   <td id="events_calendar-weekno-2013-09-22" class="week">
             <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-W39">39</a>          </td>
-                  <td id="events_calendar-2013-09-22" class="sun future has-no-events">
+                  <td id="events_calendar-2013-09-22" class="sun past has-no-events">
             <div class="inner"><div class="month day"> 22 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-23" class="mon future has-no-events">
+                  <td id="events_calendar-2013-09-23" class="mon past has-no-events">
             <div class="inner"><div class="month day"> 23 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-24" class="tue future has-no-events">
+                  <td id="events_calendar-2013-09-24" class="tue past has-no-events">
             <div class="inner"><div class="month day"> 24 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-25" class="wed future has-events">
+                  <td id="events_calendar-2013-09-25" class="wed today has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/registrar/calendar/events/2013-09-25">25</a> </div><div class="view-item view-item-events_calendar">
   <div class="calendar.2204.field_date.0.16 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
@@ -611,10 +611,15 @@ width: 715px;
 }
 </style>  </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-2 count-7 blue_title upcoming-events"><div class="block-inner">
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-even odd region-count-2 count-7 blue_title todays-events"><div class="block-inner">
+          <h2 class="title">Today's Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li> <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase I (100% tuition refund)</a></li><li> <a href="/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall Convocation (graduate degrees)</a></li></ul></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-3 count-8 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 25, 2013 <a href="/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall Convocation (graduate degrees)</a></li><li>Sep 25, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase I (100% tuition refund)</a></li><li>Oct 2, 2013 <a href="/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></li><li>Oct 14, 2013 <a href="/registrar/thanksgiving-day-statutory-holiday-no-classes-2">Thanksgiving Day (statutory holiday) - No classes</a></li><li>Oct 18, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8">Last day for completion of all requirements for graduate degrees under Phase II (50% tuition refund)</a></li><li>Oct 19, 2013 <a href="/registrar/fall-convocation-2">Fall Convocation</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-for-partial-tuition-refund-3">Last day for partial tuition refund</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-to-voluntarily-withdraw-from-fall-term-courses-0">Last day to voluntarily withdraw from Fall term courses</a></li><li>Nov 8, 2013 <a href="/registrar/university-day-open-house-0">University Day: Open House</a></li><li>Dec 2, 2013 <a href="/registrar/last-day-of-classes-day-and-evening-including-law-2">Last day of classes, day and evening, including Law</a></li></ul></div><div class="more-link"><a href="/registrar/calendar/events" class="active">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 2, 2013 <a href="/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></li><li>Oct 14, 2013 <a href="/registrar/thanksgiving-day-statutory-holiday-no-classes-2">Thanksgiving Day (statutory holiday) - No classes</a></li><li>Oct 18, 2013 <a href="/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8">Last day for completion of all requirements for graduate degrees under Phase II (50% tuition refund)</a></li><li>Oct 19, 2013 <a href="/registrar/fall-convocation-2">Fall Convocation</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-to-voluntarily-withdraw-from-fall-term-courses-0">Last day to voluntarily withdraw from Fall term courses</a></li><li>Nov 6, 2013 <a href="/registrar/last-day-for-partial-tuition-refund-3">Last day for partial tuition refund</a></li><li>Nov 8, 2013 <a href="/registrar/university-day-open-house-0">University Day: Open House</a></li><li>Dec 2, 2013 <a href="/registrar/last-day-of-classes-day-and-evening-including-law-2">Last day of classes, day and evening, including Law</a></li><li>Dec 2, 2013 <a href="/registrar/field-education-i-ends-in-social-work-0">Field Education I ends in Social work</a></li><li>Dec 5 - 6, 2013 <a href="/registrar/fall-term-final-examinations-in-law">Fall term final examinations in Law</a></li></ul></div><div class="more-link"><a href="/registrar/calendar/events" class="active">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

@@ -87,7 +87,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-3e6d7834f1c0a58c2fd4aa42ec13fa25" value="form-3e6d7834f1c0a58c2fd4aa42ec13fa25"  />
+<input type="hidden" name="form_build_id" id="form-8fb8ec7d566894b3aea1d4c85020749c" value="form-8fb8ec7d566894b3aea1d4c85020749c"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -181,7 +181,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/view/system/files/imagecache/header_right_image/view_rightside5.jpg" alt="Miscellaneous VIEW images" title="Miscellaneous VIEW images" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/view/system/files/imagecache/header_right_image/view_rightside2.jpg" alt="Miscellaneous VIEW images" title="Miscellaneous VIEW images" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

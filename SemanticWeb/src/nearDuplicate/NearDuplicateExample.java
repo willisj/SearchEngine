@@ -19,7 +19,7 @@ public class NearDuplicateExample {
 				ShingleBuildingMethod.RANDOMSTART);
 
 		int[] shingles = factory
-				.shingleDocument(
+				.shingleDocument(1,
 						"Arriving with the Iranian supreme leader's blessing to show \"heroic flexibility\" "
 								+ "in global diplomacy, and having built up to his U.N. General Assembly appearance "
 								+ "with weeks of conciliatory gestures, tweets and media engagement, Iranian President "

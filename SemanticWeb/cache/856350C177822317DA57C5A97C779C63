@@ -44,7 +44,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/supportuwindsor/awards/food/awards/sites/all/themes/zen/zen/ie.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="/supportuwindsor/sites/all/themes/zen/zen/ie.css?m" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/supportuwindsor/sites/all/themes/unified_department/print.css" />
@@ -92,7 +92,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ee832f150d55c0e5b0777a85e1278875" value="form-ee832f150d55c0e5b0777a85e1278875"  />
+<input type="hidden" name="form_build_id" id="form-99d57c6d1394254728ecf52faaa5b3ec" value="form-99d57c6d1394254728ecf52faaa5b3ec"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -231,17 +231,17 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/supportuwindsor/clark-awards-to-honour-four-university-supporters">Clark Awards to honour four university supporters</a></span>
+                <span class="field-content"><a href="/supportuwindsor/graduate-student-society-celebrates-under-sunny-skies">Graduate Student Society celebrates under sunny skies</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/supportuwindsor/university-players-to-offer-theatre-goers-an-eclectic-season">University Players to offer theatre-goers an eclectic season</a></span>
+                <span class="field-content"><a href="/supportuwindsor/uwindsor-campus-farmers-market-to-launch-sept-26">UWindsor Campus Farmers&#039; Market to Launch Sept. 26</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/supportuwindsor/alumni-and-friends-invited-to-dine-around-windsor-for-the-50th">Alumni and friends invited to Dine Around Windsor for the 50th</a></span>
+                <span class="field-content"><a href="/supportuwindsor/new-uwindsor-commercial-to-hit-local-theatres-in-october">New UWindsor commercial to hit local theatres in October</a></span>
   </div>
 </li>
       </ul>

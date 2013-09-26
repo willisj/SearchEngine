@@ -93,7 +93,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search Windsor Law&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-927acd15cbf58b259814029a73681e1c" value="form-927acd15cbf58b259814029a73681e1c"  />
+<input type="hidden" name="form_build_id" id="form-f4b991099a63c07c04f2846fdb8807ba" value="form-f4b991099a63c07c04f2846fdb8807ba"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -302,7 +302,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_front-1" class="block block-uw_front region-even even region-count-2 count-4  upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <ul><li>Happening Now<br /><a href="http://www1.uwindsor.ca/law/1610/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law#20130920T170000">Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</a></li><li>Happening Now<br /><a href="http://www1.uwindsor.ca/law/1610/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law#20130920T170000">Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</a></li><li>Happening Now<br /><a href="/law/1610/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law">Windsor Law Conference - Justice Beyond the State: Transnationalism and Law </a></li></ul><div class="more-link-container"><a href="/law/calendar/events" class="more">Read More Events</a></div>  </div>
+    <ul><li>Happening Now<br /><a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-statute-research-ii-0#20130925T120000">Using Online Sources for Statute Research II</a></li><li>Monday, September 30, 2013<br /><a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i#20130930T120000">Using Online Sources for Case Law Research I</a></li><li>Wednesday, October 2, 2013<br /><a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i-0#20131002T120000">Using Online Sources for Case Law Research I</a></li></ul><div class="more-link-container"><a href="/law/calendar/events" class="more">Read More Events</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--></div>
             </div>

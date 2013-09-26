@@ -51,7 +51,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/cs/residence/residence/sites/all/themes/zen/zen/ie.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/cs/food/sites/all/themes/zen/zen/ie.css?6" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/cs/sites/all/themes/unified_department/print.css" />
@@ -82,7 +82,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
     <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/cs/sites/all/themes/unified_department/responsive/480-default.css');</style>    
     
 </head>
-<body class="uw_front not-front not-logged-in node-type-page one-sidebar sidebar-left page-834-students-coming-from-high-school section-834 page-834-students-coming-from-high-school section-834 ">
+<body class="uw_front not-front not-logged-in node-type-page two-sidebars page-834-students-coming-from-high-school section-834 page-834-students-coming-from-high-school section-834 ">
   <div class="wrapper-outter">
     <div class="header">
       <img src="/cs/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
@@ -101,7 +101,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-82b157d01af88f63e7454cf3e62c18a0" value="form-82b157d01af88f63e7454cf3e62c18a0"  />
+<input type="hidden" name="form_build_id" id="form-e52c2f3a0e95b0b3a80c1bf7f1490a14" value="form-e52c2f3a0e95b0b3a80c1bf7f1490a14"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -128,7 +128,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-82b157d01af88f63e7454cf3e62c18a0" value="form-82b157d01af88f63e7454cf3e62c18a0"  />
+<input type="hidden" name="form_build_id" id="form-e52c2f3a0e95b0b3a80c1bf7f1490a14" value="form-e52c2f3a0e95b0b3a80c1bf7f1490a14"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -231,7 +231,12 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                                   </div>
               </div>
               <div class="rightsidebar">
-                            </div>
+              <!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-1 count-6 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 2, 2013 <a href="/cs/1471/computer-science-colloquium-seminar">Computer Science Colloquium Seminar</a></li></ul></div><div class="more-link"><a href="/cs/calendar/events">VIEW CALENDAR</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
             </div>
                     <br clear="all" />
         </div>  <!-- /.content-wrappper -->

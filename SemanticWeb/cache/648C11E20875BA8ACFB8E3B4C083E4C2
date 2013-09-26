@@ -47,7 +47,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/interfaculty/sites/all/themes/zen/zen/ie.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/interfaculty/residence/food/sites/all/themes/zen/zen/ie.css?E" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/interfaculty/sites/all/themes/unified_department/print.css" />
@@ -93,7 +93,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-f3f04eff95ea634ce109a6eebc5612c4" value="form-f3f04eff95ea634ce109a6eebc5612c4"  />
+<input type="hidden" name="form_build_id" id="form-133b8a581f34bca89765d94200c3ceb1" value="form-133b8a581f34bca89765d94200c3ceb1"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -189,7 +189,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/interfaculty/system/files/imagecache/header_right_image/interFaculty_right2.jpg" alt="Environmental Studies" title="Environmental Studies" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/interfaculty/system/files/imagecache/header_right_image/interFaculty_right1.jpg" alt="Forensics" title="Forensics" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

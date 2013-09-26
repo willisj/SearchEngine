@@ -91,7 +91,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-d72b871aeaaff4c5edd03e17fe2073e3" value="form-d72b871aeaaff4c5edd03e17fe2073e3"  />
+<input type="hidden" name="form_build_id" id="form-4a1b71f2e0b927e86dfc91e2cd652331" value="form-4a1b71f2e0b927e86dfc91e2cd652331"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -159,7 +159,8 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <li class="leaf"><a href="/future-students/page/program-information" target="_self" rel="" title="On-line Publications" class="length-short">Program Information</a></li>
 <li class="leaf"><a href="http://uwindsor.ca/tours" target="_blank" rel="" title="Schedule a Campus Tour" class="length-short">Tours</a></li>
 <li class="leaf"><a href="/future-students/content/contact-us" target="_self" rel="" title="Contact Us" class="length-short">Contact Us</a></li>
-<li class="leaf last"><a href="/future-students/content/ouf/hockey" target="_self" rel="" title="Ontario Universities&#039; Fair Hockey Challenge Official Rules" class="length-long">OUF Hockey Challenge Official Rules</a></li>
+<li class="leaf"><a href="/future-students/content/ouf/hockey" target="_self" rel="" title="Ontario Universities&#039; Fair Hockey Challenge Official Rules" class="length-long">UWindsor OUF Hockey Challenge Official Rules</a></li>
+<li class="leaf last"><a href="/future-students/content/recruitment-video" target="_self" rel="" title="Recruitment Video" class="length-short">Recruitment Video</a></li>
 </ul>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                                        </div>
@@ -168,7 +169,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-8 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/header_left_image/left-banner-lancers.jpg" alt="UWindsor Lancer Athletes" title="UWindsor Lancer Athletes" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/header_left_image/left-banner-riverfront.jpg" alt="Windsor Riverfront" title="Windsor Riverfront" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -189,6 +190,20 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-1021" class="node node-teaser node-type-feed-item not-page">
+  <div class="node-inner">
+            <div class="news-image">
+        <a href="http://uwindsor.ca/dailynews/2013-08-28/opening-week-performance-earns-plaudits-lancer-quarterback" title="Opening-week performance earns plaudits for Lancer quarterback">
+          <img src="/uwindsor.ca/sites/default/files/450_kennedyrun_4123.jpg" alt="Opening-week performance earns plaudits for Lancer quarterback" width="180" />
+        </a>
+      </div>
+      <h2 class="title">
+        <a href="http://uwindsor.ca/dailynews/2013-08-28/opening-week-performance-earns-plaudits-lancer-quarterback" title="Opening-week performance earns plaudits for Lancer quarterback">Opening-week performance earns plaudits for Lancer quarterback</a>
+      </h2>  
+      Austin Kennedy was named football player of the week on offence by both the CIS and OUA.        <br clear="all" /><br />
+  </div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-2 views-row-even">
     <div id="node-1017" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -202,7 +217,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       Windsor Welcome Week is a chance for new and returning students to unleash their inner Lancers.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-2 views-row-even">
+  <div class="views-row views-row-3 views-row-odd">
     <div id="node-1022" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
         
@@ -213,7 +228,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       Bargaining discussions continue with the University of Windsor and CUPE Local 1393 with the assistance of a mediator appointed by the Ministry of Labour on September 5 and 6. The University remains confident that an agreement can be reached. University administration has learned from the Ministry of Labour that a No Board report has been issued at the request of CUPE 1393, with a deadline of 12:01 am on September 8, which puts them in a legal strike position and the University in a legal lock out position at that time.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-3 views-row-odd">
+  <div class="views-row views-row-4 views-row-even">
     <div id="node-1013" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -227,7 +242,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       The Friends of Women's Studies gathered Tuesday to announce the 2013 Distinguished Visitor in Women's Studies.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-4 views-row-even">
+  <div class="views-row views-row-5 views-row-odd">
     <div id="node-1018" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
         
@@ -238,7 +253,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       Psychology instructor Jerry Jellis, who died August 25, is described as a dedicated teacher by his colleagues.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-5 views-row-odd">
+  <div class="views-row views-row-6 views-row-even">
     <div id="node-1014" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -252,7 +267,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       Librarial sciences co-op student Yayo Umetsubo won a UWindsor coffee mug in Monday’s trivia quiz contest.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-6 views-row-even">
+  <div class="views-row views-row-7 views-row-odd">
     <div id="node-1019" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
         
@@ -263,7 +278,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       Employees holding UWindsor parking permits should remain in their current lots until the campus garage is ready to open.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-7 views-row-odd">
+  <div class="views-row views-row-8 views-row-even">
     <div id="node-1015" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
         
@@ -274,7 +289,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       Music instructor Shahida Nurullah, a jazz vocalist, will appear in a series of performances over the Labour Day weekend.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-8 views-row-even">
+  <div class="views-row views-row-9 views-row-odd">
     <div id="node-1020" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -288,7 +303,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       UWindsor president Alan Wildeman says the University's 50th anniversary will create opportunities for pride from faculty, staff, alumni and students.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-9 views-row-odd">
+  <div class="views-row views-row-10 views-row-even views-row-last">
     <div id="node-1016" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -300,20 +315,6 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
         <a href="http://uwindsor.ca/dailynews/2013-08-28/uwindsor-worker-rises-drop-zone-challenge" title="UWindsor worker rises to Drop Zone challenge">UWindsor worker rises to Drop Zone challenge</a>
       </h2>  
       Rappelling down the 27-storey Caesars Windsor will make UWindsor staffer Mike Bezaire a superhero to children with physical disabilities.        <br clear="all" /><br />
-  </div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-10 views-row-even views-row-last">
-    <div id="node-1021" class="node node-teaser node-type-feed-item not-page">
-  <div class="node-inner">
-            <div class="news-image">
-        <a href="http://uwindsor.ca/dailynews/2013-08-28/opening-week-performance-earns-plaudits-lancer-quarterback" title="Opening-week performance earns plaudits for Lancer quarterback">
-          <img src="/uwindsor.ca/sites/default/files/450_kennedyrun_4123.jpg" alt="Opening-week performance earns plaudits for Lancer quarterback" width="180" />
-        </a>
-      </div>
-      <h2 class="title">
-        <a href="http://uwindsor.ca/dailynews/2013-08-28/opening-week-performance-earns-plaudits-lancer-quarterback" title="Opening-week performance earns plaudits for Lancer quarterback">Opening-week performance earns plaudits for Lancer quarterback</a>
-      </h2>  
-      Austin Kennedy was named football player of the week on offence by both the CIS and OUA.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
     </div>

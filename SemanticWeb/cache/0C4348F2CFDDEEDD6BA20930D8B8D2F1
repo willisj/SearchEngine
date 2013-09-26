@@ -102,7 +102,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search Windsor Law&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-d3143673f8a1e551641a2a2e36aa197b" value="form-d3143673f8a1e551641a2a2e36aa197b"  />
+<input type="hidden" name="form_build_id" id="form-48402543cd7d42d2fade019b969fc76c" value="form-48402543cd7d42d2fade019b969fc76c"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -265,133 +265,6 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 	<strong>Karen A. Momotiuk, B.A., LL.B.&#39;96</strong></p>
 <p><a href="http://my.uwindsor.ca/portal/page/portal/GuestPages/Donations"><img alt="Give Now" src="/law/alumni/system/files/give_now_bn.jpg" style="width: 185px; height: 70px;" /></a></p>
   </div>
-    </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-views-events_calendar-block_2" class="block block-views region-even even region-count-2 count-4 blue_title todays-events"><div class="block-inner">
-          <h2 class="title">Today's Events</h2>
-    <div class="content">
-    <div class="view view-events-calendar view-id-events_calendar view-display-id-block_2 view-dom-id-1">
-    
-  
-  
-      <div class="view-content">
-       <div class="">
-         <div class="item-list">
-    <ul>
-          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">2:00pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-1973-40th-reunion">Class of 1973 40th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">4:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-1978-35th-reunion">Class of 1978 35th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">4:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-2008-5th-reunion">Class of 2008 5th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-4 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">4:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-2003-10th-reunion">Class of 2003 10th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">4:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-1998-15th-reunion">Class of 1998 15th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-6 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">4:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-1993-20th-reunion">Class of 1993 20th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-7 views-row-odd">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">4:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-1988-25th-reunion">Class of 1988 25th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-8 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">4:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">10:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/class-of-1983-30th-reunion">Class of 1983 30th Reunion</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-9 views-row-odd views-row-last">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single"><span class="date-display-start">5:00pm</span><span class="date-display-separator"> - </span><span class="date-display-end">7:00pm</span></span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/law/alumni/windsor-law-weekend-2013" class="active">Windsor Law Weekend Celebrating the University&#039;s 50th Anniversary</a></span>
-  </span>
-</li>
-      </ul>
-</div>       </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>
-  </div>
-    </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-aggregator-feed-2" class="block block-aggregator region-odd odd region-count-3 count-5 red_title alumni-news"><div class="block-inner">
-          <h2 class="title">Alumni News</h2>
-    <div class="content">
-    <div class="item-list"><ul><li class="first"><a href="http://www1.uwindsor.ca/law/news/the-honourable-justice-edward-w-ducharme">The Honourable Justice Edward W. Ducharme</a>
-</li>
-<li class="last"><a href="http://www.uwindsor.ca/law/news/the-honourable-justice-edward-w-ducharme">The Honourable Justice Edward W. Ducharme</a>
-</li>
-</ul></div><div class="more-link"><a href="/law/alumni/aggregator/sources/2" title="View this feed&#039;s recent news.">more</a></div>  </div>
-    </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-even even region-count-4 count-6 blue_title todays-events"><div class="block-inner">
-          <h2 class="title">Today's Events</h2>
-    <div class="content">
-    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li>2:00PM-10:00PM <a href="/law/alumni/class-of-1973-40th-reunion">Class of 1973 40th Reunion </a></li><li>4:30PM-10:00PM <a href="/law/alumni/class-of-1978-35th-reunion">Class of 1978 35th Reunion</a></li><li>4:30PM-10:00PM <a href="/law/alumni/class-of-2008-5th-reunion">Class of 2008 5th Reunion</a></li><li>4:30PM-10:00PM <a href="/law/alumni/class-of-2003-10th-reunion">Class of 2003 10th Reunion</a></li><li>4:30PM-10:00PM <a href="/law/alumni/class-of-1998-15th-reunion">Class of 1998 15th Reunion</a></li><li>4:30PM-10:00PM <a href="/law/alumni/class-of-1993-20th-reunion">Class of 1993 20th Reunion</a></li><li>4:30PM-10:00PM <a href="/law/alumni/class-of-1988-25th-reunion">Class of 1988 25th Reunion</a></li><li>4:30PM-10:00PM <a href="/law/alumni/class-of-1983-30th-reunion">Class of 1983 30th Reunion</a></li><li>5:00PM-7:00PM <a href="/law/alumni/windsor-law-weekend-2013" class="active">Windsor Law Weekend Celebrating the University's 50th Anniversary</a></li></ul></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

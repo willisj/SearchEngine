@@ -5,7 +5,7 @@
   <title>Faculty and Staff | Nursing - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-09-03 10:54:57" />
+<meta name="modified" content="2013-09-24 03:41:42" />
 <meta name="created" content="2011-11-16 11:50:06" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -120,7 +120,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/nursing/food/sites/all/themes/zen/zen/ie.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/sites/all/themes/zen/zen/ie.css?s" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-cef924835d133644dfc44a26e451647c" value="form-cef924835d133644dfc44a26e451647c"  />
+<input type="hidden" name="form_build_id" id="form-2efddeae4c5a292a73c9a06f81c17f44" value="form-2efddeae4c5a292a73c9a06f81c17f44"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -212,7 +212,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-cef924835d133644dfc44a26e451647c" value="form-cef924835d133644dfc44a26e451647c"  />
+<input type="hidden" name="form_build_id" id="form-2efddeae4c5a292a73c9a06f81c17f44" value="form-2efddeae4c5a292a73c9a06f81c17f44"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -341,7 +341,7 @@ $(function() {
 <p><a href="http://cronus.uwindsor.ca/units/nursing/main.nsf/main/E273C1BA7F65ADCB852570FC0050E188?OpenDocument" target="_blank"><img alt="Prof. Judy Bornais" src="/nursing/system/files/Dr_Judy_Bornais.gif" style="height: 135px; float: left; margin-left: 15px; margin-right: 15px" /></a></p>
 <p><strong><a href="prof-judy-bornais">Prof. Judy Bornais</a></strong><br />
 	RN, BA, BScN, MSc, CDE<br />
-	Experiential Learning Specialist<br />
+	Academic Ancillary Staff - Experiential Learning Specialist<br />
 	<strong>Research Focus</strong>: Diabetes care, simulation in health care education, and inter-professional health care<br />
 	Room 3126&nbsp;Medical Education Building<br />
 	519.253.3000, x2269<br />
@@ -370,7 +370,8 @@ $(function() {
 <p>
 	<img alt="Prof. Debbie Dayus" src="/nursing/system/files/Dr_Deborah_Dayus.gif" style="height: 135px; float: left; margin-left: 15px; margin-right: 15px" />&nbsp;<strong><a href="http://uwindsor.ca/nursing/prof-debbie-dayus">Prof. Debbie Dayus</a></strong><br />
 	&nbsp;RN, BScN, BA, MSc, PhD(c)<br />
-	&nbsp;Lecturer<br />
+	&nbsp;Academic Ancillary Staff - Clinical Practice Learning Specialist<br />
+	&nbsp;Years 1 and 3<br />
 	&nbsp;<strong>Research Focus</strong>: Women&#39;s health, maternal/child<br />
 	&nbsp;health (infertility; emotional health), and<br />
 	&nbsp;community health<br />
@@ -488,8 +489,9 @@ $(function() {
 	&nbsp;<br />
 	<img alt="Prof. Debbie Rickeard" src="/nursing/system/files/Photo_Unavailable.jpg" style="height: 135px; float: left; margin-left: 15px; width: 113px; margin-right: 15px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/nursing/prof-debbie-rickeard"><strong>Prof. Debbie Rickeard</strong></a>, RN, BScN, BA, MScN,<br />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCRN(c), CCN(c)<br />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experiential Learning Specialist, Level 3 Coordinator<br />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2013/14) for students with last names starting A-L<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic Ancillary Staff - Experiential Learning<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specialist, Level 3 Coordinator (2013/14)<br />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for students with last names starting A-L<br />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Room&nbsp;3124 Medical Education Building<br />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 519.253.3000, x4993<br />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:rickeard@uwindsor.ca">rickeard@uwindsor.ca</a></p>

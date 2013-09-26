@@ -182,7 +182,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-7d604b6ccfa8324d29c817e5e5ea3bae" value="form-7d604b6ccfa8324d29c817e5e5ea3bae"  />
+<input type="hidden" name="form_build_id" id="form-881984eb492f6fbec592bb448fdf09aa" value="form-881984eb492f6fbec592bb448fdf09aa"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -337,7 +337,7 @@ $(function() {
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-2 count-7 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 23, 2013 <a href="/education/grad/notice-of-comprehensive-portfolio-defence-atinuke-adeyemi">NOTICE OF COMPREHENSIVE PORTFOLIO DEFENCE:  Atinuke Adeyemi</a></li></ul></div><div class="more-link"><a href="/education/grad/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 18, 2013 <a href="/education/grad/notice-of-comprehensive-portfolio-defence-barbara-pollard">NOTICE OF COMPREHENSIVE PORTFOLIO DEFENCE - Barbara Pollard</a></li></ul></div><div class="more-link"><a href="/education/grad/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

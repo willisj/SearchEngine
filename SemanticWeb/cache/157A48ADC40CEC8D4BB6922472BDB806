@@ -190,7 +190,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-9433cf0a29856b5d77713ef448d9c97a" value="form-9433cf0a29856b5d77713ef448d9c97a"  />
+<input type="hidden" name="form_build_id" id="form-1677a747c628cb7db54b5578aef2d8e7" value="form-1677a747c628cb7db54b5578aef2d8e7"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -218,7 +218,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-9433cf0a29856b5d77713ef448d9c97a" value="form-9433cf0a29856b5d77713ef448d9c97a"  />
+<input type="hidden" name="form_build_id" id="form-1677a747c628cb7db54b5578aef2d8e7" value="form-1677a747c628cb7db54b5578aef2d8e7"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -351,7 +351,7 @@ $(function() {
               <div id="splash-page-accordion-region"><!--googleoff: all--><div id="block-uw_front-1" class="block block-uw_front region-odd odd region-count-1 count-3  upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <ul><li>Happening Now<br /><a href="/engineering/50th-anniversary-event">50th Anniversary Event</a></li><li>Saturday, October 19, 2013<br /><a href="/engineering/convocation-reception-for-graduating-students-engineering">Convocation Reception for Graduating Students - Engineering</a></li><li>Saturday, October 26, 2013<br /><a href="/engineering/go-eng-girl">Go Eng Girl</a></li></ul><div class="more-link-container"><a href="/engineering/calendar/events" class="more">Read More Events</a></div>  </div>
+    <ul><li>Saturday, October 19, 2013<br /><a href="/engineering/convocation-reception-for-graduating-students-engineering">Convocation Reception for Graduating Students - Engineering</a></li><li>Saturday, October 26, 2013<br /><a href="/engineering/go-eng-girl">Go Eng Girl</a></li></ul><div class="more-link-container"><a href="/engineering/calendar/events" class="more">Read More Events</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--><!--googleoff: all--><div id="block-views-imported_news-block_1" class="block block-views region-even even region-count-2 count-4 orange_title news"><div class="block-inner">
           <h2 class="title">News</h2>
@@ -376,17 +376,17 @@ $(function() {
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/engineering/predictive-modelling-may-be-better-way-to-determine-beach-closures-researcher-believes">Predictive modelling may be better way to determine beach closures, researcher believes</a></span>
+                <span class="field-content"><a href="/engineering/practical-performance-purpose-of-project-presentations">Practical performance purpose of project presentations</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/engineering/practical-performance-purpose-of-project-presentations">Practical performance purpose of project presentations</a></span>
+                <span class="field-content"><a href="/engineering/competition-bridges-gap-between-theory-and-practice">Competition bridges gap between theory and practice</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/engineering/competition-bridges-gap-between-theory-and-practice">Competition bridges gap between theory and practice</a></span>
+                <span class="field-content"><a href="/engineering/predictive-modelling-may-be-better-way-to-determine-beach-closures-researcher-believes">Predictive modelling may be better way to determine beach closures, researcher believes</a></span>
   </div>
 </li>
       </ul>

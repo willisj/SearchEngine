@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-3d8cac88550838d12184bf1a878ebbd0" value="form-3d8cac88550838d12184bf1a878ebbd0"  />
+<input type="hidden" name="form_build_id" id="form-0833d9d94dc3e91f3b501d02b115b2bf" value="form-0833d9d94dc3e91f3b501d02b115b2bf"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -373,27 +373,27 @@ $(function() {
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/uwindsor-education-grad-honoured-by-teachers%E2%80%99-union">UWindsor education grad honoured by teachers’ union</a></span>
+                <span class="field-content"><a href="/fahss/student-finds-connection-between-early-puberty-and-adhd">Student finds connection between early puberty and ADHD</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/student-finds-connection-between-early-puberty-and-adhd">Student finds connection between early puberty and ADHD</a></span>
+                <span class="field-content"><a href="/fahss/uwindsor-education-grad-honoured-by-teachers%E2%80%99-union">UWindsor education grad honoured by teachers’ union</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/windsor-artists-to-light-up-the-night-in-toronto">Windsor artists to light up the night in Toronto</a></span>
+                <span class="field-content"><a href="/fahss/performance-to-demonstrate-program%E2%80%99s-impact-on-youth">Performance to demonstrate program’s impact on youth</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/grad-to-pass-on-prize-to-entering-student">Grad to pass on prize to entering student</a></span>
+                <span class="field-content"><a href="/fahss/windsor-artists-to-light-up-the-night-in-toronto">Windsor artists to light up the night in Toronto</a></span>
   </div>
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/performance-to-demonstrate-program%E2%80%99s-impact-on-youth">Performance to demonstrate program’s impact on youth</a></span>
+                <span class="field-content"><a href="/fahss/grad-to-pass-on-prize-to-entering-student">Grad to pass on prize to entering student</a></span>
   </div>
 </li>
       </ul>

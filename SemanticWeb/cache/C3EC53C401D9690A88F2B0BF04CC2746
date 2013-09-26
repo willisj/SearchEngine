@@ -90,7 +90,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-8d6e64f015832b48d4b9e935796bf077" value="form-8d6e64f015832b48d4b9e935796bf077"  />
+<input type="hidden" name="form_build_id" id="form-b3a1ed52a357aa01e39e1240f18a47e2" value="form-b3a1ed52a357aa01e39e1240f18a47e2"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -207,7 +207,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/digitaljournalism/system/files/imagecache/header_right_image/FindingFordCity_banner_0.jpg" alt="Link to student videos" title="View the Finding Ford City documentary -- it&#039;s made by DJ students!" width="243" height="150" class="imagecache imagecache-header_right_image"/><div class="right-image-link"><a href="http://www1.uwindsor.ca/digitaljournalism/studio-classes-students-working-together">Check out our videos</a></div></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/digitaljournalism/system/files/imagecache/header_right_image/DJStudentVid_banner.jpg" alt="Link to student videos" title="Meet the DJ students!" width="243" height="150" class="imagecache imagecache-header_right_image"/><div class="right-image-link"><a href="http://www1.uwindsor.ca/digitaljournalism/studio-classes-students-working-together">Check out our videos</a></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

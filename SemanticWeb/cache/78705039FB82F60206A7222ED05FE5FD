@@ -91,7 +91,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-b998507dc46eff6df2c18801bcfc5061" value="form-b998507dc46eff6df2c18801bcfc5061"  />
+<input type="hidden" name="form_build_id" id="form-49ff7c55a6e8c88a90b2dc58f9b0a5ce" value="form-49ff7c55a6e8c88a90b2dc58f9b0a5ce"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -159,7 +159,8 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <li class="leaf"><a href="/future-students/page/program-information" target="_self" rel="" title="On-line Publications" class="length-short">Program Information</a></li>
 <li class="leaf"><a href="http://uwindsor.ca/tours" target="_blank" rel="" title="Schedule a Campus Tour" class="length-short">Tours</a></li>
 <li class="leaf"><a href="/future-students/content/contact-us" target="_self" rel="" title="Contact Us" class="length-short">Contact Us</a></li>
-<li class="leaf last"><a href="/future-students/content/ouf/hockey" target="_self" rel="" title="Ontario Universities&#039; Fair Hockey Challenge Official Rules" class="length-long">OUF Hockey Challenge Official Rules</a></li>
+<li class="leaf"><a href="/future-students/content/ouf/hockey" target="_self" rel="" title="Ontario Universities&#039; Fair Hockey Challenge Official Rules" class="length-long">UWindsor OUF Hockey Challenge Official Rules</a></li>
+<li class="leaf last"><a href="/future-students/content/recruitment-video" target="_self" rel="" title="Recruitment Video" class="length-short">Recruitment Video</a></li>
 </ul>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                                        </div>
@@ -168,7 +169,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-8 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/header_left_image/left-banner-convocation.jpg" alt="UWindsor Convocation" title="UWindsor Convocation" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/header_left_image/left-banner-meb.jpg" alt="UWindsor Medical Education Building" title="UWindsor Medical Education Building" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -189,7 +190,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
       <div class="view-content">
       <div class="calendar-calendar">
-      <ul class="links links-5"><li class="0 link-0 first"><a href="/future-students/calendar/events/2013-09-20" rel="nofollow">Today</a></li>
+      <ul class="links links-5"><li class="0 link-0 first"><a href="/future-students/calendar/events/2013-09-25" rel="nofollow">Today</a></li>
 <li class="calendar calendar-day link-calendar calendar-day"><a href="http://www1.uwindsor.ca/future-students/calendar/events/2013-09-01" rel="nofollow">Day</a></li>
 <li class="calendar calendar-week link-calendar calendar-week"><a href="http://www1.uwindsor.ca/future-students/calendar/events/2013-W36" rel="nofollow">Week</a></li>
 <li class="calendar calendar-month link-calendar calendar-month"><a href="http://www1.uwindsor.ca/future-students/calendar/events/2013-09" rel="nofollow">Month</a></li>
@@ -300,26 +301,26 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                   <td id="events_calendar-2013-09-19" class="thu past has-no-events">
             <div class="inner"><div class="month day"> 19 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-20" class="fri today has-no-events">
+                  <td id="events_calendar-2013-09-20" class="fri past has-no-events">
             <div class="inner"><div class="month day"> 20 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-21" class="sat future has-no-events">
+                  <td id="events_calendar-2013-09-21" class="sat past has-no-events">
             <div class="inner"><div class="month day"> 21 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
               </tr>
           <tr>
                   <td id="events_calendar-weekno-2013-09-22" class="week">
             <a href="http://www1.uwindsor.ca/future-students/calendar/events/2013-W39">39</a>          </td>
-                  <td id="events_calendar-2013-09-22" class="sun future has-no-events">
+                  <td id="events_calendar-2013-09-22" class="sun past has-no-events">
             <div class="inner"><div class="month day"> 22 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-23" class="mon future has-no-events">
+                  <td id="events_calendar-2013-09-23" class="mon past has-no-events">
             <div class="inner"><div class="month day"> 23 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-24" class="tue future has-no-events">
+                  <td id="events_calendar-2013-09-24" class="tue past has-no-events">
             <div class="inner"><div class="month day"> 24 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-25" class="wed future has-no-events">
+                  <td id="events_calendar-2013-09-25" class="wed today has-no-events">
             <div class="inner"><div class="month day"> 25 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
                   <td id="events_calendar-2013-09-26" class="thu future has-no-events">

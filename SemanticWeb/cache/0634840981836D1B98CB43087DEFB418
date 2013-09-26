@@ -41,7 +41,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/psychology/graduate/sites/all/themes/zen/zen/ie.css?P" />
+<link type="text/css" rel="stylesheet" media="all" href="/psychology/awards/residence/sites/all/themes/zen/zen/ie.css?P" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/psychology/graduate/sites/all/themes/unified_department/print.css" />
@@ -87,7 +87,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-39a28b15772e2ed9f0575f5416f2ae11" value="form-39a28b15772e2ed9f0575f5416f2ae11"  />
+<input type="hidden" name="form_build_id" id="form-b839e1bf10cc430166c2f424c0b6b4b4" value="form-b839e1bf10cc430166c2f424c0b6b4b4"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -163,7 +163,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/psychology/graduate/system/files/imagecache/header_left_image/student_Left.jpg" alt="Student standing in front of a building with trees" title="Student standing in front of a building with trees" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/psychology/graduate/system/files/imagecache/header_left_image/left-1.jpg" alt="Students at the Bridge sitting on the grass" title="Students at the Bridge sitting on the grass" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">

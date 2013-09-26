@@ -5,7 +5,7 @@
   <title>Our Programs | Nursing - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-01-03 03:34:32" />
+<meta name="modified" content="2013-09-24 09:37:05" />
 <meta name="created" content="2011-08-18 01:11:25" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -120,7 +120,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/nursing/food/sites/all/themes/zen/zen/ie.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/sites/all/themes/zen/zen/ie.css?s" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-5463ea31aaaa3316ba9180f005645216" value="form-5463ea31aaaa3316ba9180f005645216"  />
+<input type="hidden" name="form_build_id" id="form-863cd2be69f86c60e07ac3f8add8d82b" value="form-863cd2be69f86c60e07ac3f8add8d82b"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -212,7 +212,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-5463ea31aaaa3316ba9180f005645216" value="form-5463ea31aaaa3316ba9180f005645216"  />
+<input type="hidden" name="form_build_id" id="form-863cd2be69f86c60e07ac3f8add8d82b" value="form-863cd2be69f86c60e07ac3f8add8d82b"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -300,20 +300,23 @@ $(function() {
       <div class="content">
     <h4>
 	The Faculty of Nursing offers many program options:</h4>
-<p class="rteindent1"><strong>Undergraduate Degree Programs:</strong></p>
+<p class="rteindent1"><strong>Undergraduate Programs:</strong></p>
 <ul>
 <li class="rteindent1">
 		<a href="collaborative-honours-bachelor-of-science-in-nursing">Collaborative Honours Bachelor of Science in Nursing</a>&nbsp;(Hons BScN)</li>
 <li class="rteindent1">
 		<a href="post-diploma-bachelor-of-science-in-nursing">Post-Diploma Bachelor of Science in Nursing</a>&nbsp;(BScN) This program is closed.</li>
 </ul>
-<p class="rteindent1"><a href="graduate-programs-0"><strong>Graduate Degree Programs - MN and MSc </strong></a></p>
-<p class="rteindent1"><strong>Graduate Certificate/Diploma Programs:</strong></p>
+<p class="rteindent1"><strong>Graduate Programs</strong>:</p>
 <ul>
 <li class="rteindent1">
-		<a href="nurse-practitioner-post-baccalaureate-certificate-program">Nurse Practitioner Post-Baccalaureate Certificate Program</a></li>
+		<a href="http://www1.uwindsor.ca/nursing/msc">Master of Science Degree</a> (MSc)</li>
 <li class="rteindent1">
-		<a href="http://uwindsor.ca/nursing/graduate-diploma-in-advanced-practice-oncologypalliative-nursing">NEW - Graduate Diploma in Advanced Practice Oncology/Palliative Nursing</a></li>
+		<a href="http://www1.uwindsor.ca/nursing/master-of-nursing">Master of Nursing Degree</a> (MN)</li>
+<li class="rteindent1">
+		<a href="nurse-practitioner-post-baccalaureate-certificate-program">Nurse Practitioner Graduate Diploma</a></li>
+<li class="rteindent1">
+		<a href="http://uwindsor.ca/nursing/graduate-diploma-in-advanced-practice-oncologypalliative-nursing">Graduate Diploma in Advanced Practice Oncology/Palliative Nursing</a></li>
 </ul>
 <h3>
 	Learn about Awards and Scholarships:</h3>
@@ -321,9 +324,7 @@ $(function() {
 <li>
 		<strong><a href="undergraduate-student-awards">Undergraduate</a></strong></li>
 <li>
-		<strong><a href="graduate-student-awards">Graduate</a></strong></li>
-<li>
-		<strong><a href="nurse-practitioner-student-awards">Nurse Practitioner</a></strong></li>
+		<strong><a href="graduate-student-awards">Graduate/Nurse Practitioner</a></strong></li>
 <li>
 		<strong>Other Funding Opportunities</strong>:
 <ul>

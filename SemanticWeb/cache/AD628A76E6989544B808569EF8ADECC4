@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1359.field_date.0.0
 SUMMARY:Computer Science Doctoral Thesis Defense - Kevin Durda
-DTSTAMP:20130921T205913
+DTSTAMP:20130925T210735
 DTSTART:20130312T133000
 DTEND:20130312T133000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1359/computer-science-doctoral-thesis-defense-kevin-durda#20130312T133000

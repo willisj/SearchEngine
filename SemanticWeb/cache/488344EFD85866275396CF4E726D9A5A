@@ -185,7 +185,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-05b1e3149cee459fe3f8085c0fb1a0ba" value="form-05b1e3149cee459fe3f8085c0fb1a0ba"  />
+<input type="hidden" name="form_build_id" id="form-7b552d5e305577b62dd7bcd104526676" value="form-7b552d5e305577b62dd7bcd104526676"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -256,7 +256,7 @@ $(function() {
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/header_left_image/Lysistrata-web-banner-2.jpg" alt="Lysistrata" title="Lysistrata by Aristophanes. Directed by Daniel Wozniak, scenic design by David Court, costumes by Agatha Knelsen, lighting by Christopher Popowich. Photo (C) Doug MacLellan, 2010." width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><h1>
+    <div class="header_left_image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/header_left_image/SeagullBanner_0.jpg" alt="The Seagull" title="The Seagull by Anton Chekhov, adapted by David French. Directed by J.Ed Araiza, scenic design by David Court, costumes by Agatha Knelsen, lighting by Travis Hatt. Photo by David Court." width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><h1>
 	<span>University Players</span></h1>
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
@@ -367,7 +367,7 @@ $(function() {
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 21, 2013</span></span>
+                <span class="field-content"><span class="date-display-single">Sep 26, 2013</span></span>
   </span>
   
   <span class="views-field-title">
@@ -377,7 +377,7 @@ $(function() {
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 22, 2013</span></span>
+                <span class="field-content"><span class="date-display-single">Sep 27, 2013</span></span>
   </span>
   
   <span class="views-field-title">
@@ -387,7 +387,7 @@ $(function() {
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
+                <span class="field-content"><span class="date-display-single">Sep 28, 2013</span></span>
   </span>
   
   <span class="views-field-title">
@@ -397,7 +397,7 @@ $(function() {
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 26, 2013</span></span>
+                <span class="field-content"><span class="date-display-single">Sep 29, 2013</span></span>
   </span>
   
   <span class="views-field-title">
@@ -407,32 +407,32 @@ $(function() {
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 27, 2013</span></span>
+                <span class="field-content"><span class="date-display-single">Oct 24, 2013</span></span>
   </span>
   
   <span class="views-field-title">
                 <span class="field-content">
-  <a href="/universityplayers//suite-surrender-1">Suite Surrender</a></span>
+  <a href="/universityplayers//a-party-to-murder-0">A Party to Murder</a></span>
   </span>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 28, 2013</span></span>
+                <span class="field-content"><span class="date-display-single">Oct 25, 2013</span></span>
   </span>
   
   <span class="views-field-title">
                 <span class="field-content">
-  <a href="/universityplayers//suite-surrender-1">Suite Surrender</a></span>
+  <a href="/universityplayers//a-party-to-murder-0">A Party to Murder</a></span>
   </span>
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 29, 2013</span></span>
+                <span class="field-content"><span class="date-display-single">Oct 26, 2013</span></span>
   </span>
   
   <span class="views-field-title">
                 <span class="field-content">
-  <a href="/universityplayers//suite-surrender-1">Suite Surrender</a></span>
+  <a href="/universityplayers//a-party-to-murder-0">A Party to Murder</a></span>
   </span>
 </li>
       </ul>

@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ead82535bc5007c9a119e7e3bde23265" value="form-ead82535bc5007c9a119e7e3bde23265"  />
+<input type="hidden" name="form_build_id" id="form-67cfa9f6a1ab514da0dbe0406ca136e5" value="form-67cfa9f6a1ab514da0dbe0406ca136e5"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -280,7 +280,7 @@ $(function() {
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/fahss/system/files/imagecache/header_left_image/left-2.jpg" alt="Prof. with two students" title="Prof. with two students" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/fahss/system/files/imagecache/header_left_image/left-1_0.jpg" alt="Three students sitting by Detroit River" title="Three students sitting by Detroit River" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -361,27 +361,27 @@ $(function() {
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/uwindsor-education-grad-honoured-by-teachers%E2%80%99-union">UWindsor education grad honoured by teachers’ union</a></span>
+                <span class="field-content"><a href="/fahss/student-finds-connection-between-early-puberty-and-adhd">Student finds connection between early puberty and ADHD</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/student-finds-connection-between-early-puberty-and-adhd">Student finds connection between early puberty and ADHD</a></span>
+                <span class="field-content"><a href="/fahss/uwindsor-education-grad-honoured-by-teachers%E2%80%99-union">UWindsor education grad honoured by teachers’ union</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/windsor-artists-to-light-up-the-night-in-toronto">Windsor artists to light up the night in Toronto</a></span>
+                <span class="field-content"><a href="/fahss/performance-to-demonstrate-program%E2%80%99s-impact-on-youth">Performance to demonstrate program’s impact on youth</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/grad-to-pass-on-prize-to-entering-student">Grad to pass on prize to entering student</a></span>
+                <span class="field-content"><a href="/fahss/windsor-artists-to-light-up-the-night-in-toronto">Windsor artists to light up the night in Toronto</a></span>
   </div>
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/fahss/performance-to-demonstrate-program%E2%80%99s-impact-on-youth">Performance to demonstrate program’s impact on youth</a></span>
+                <span class="field-content"><a href="/fahss/grad-to-pass-on-prize-to-entering-student">Grad to pass on prize to entering student</a></span>
   </div>
 </li>
       </ul>

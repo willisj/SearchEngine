@@ -191,7 +191,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-e4a0df0e6303f95a5aa6e18df153cac2" value="form-e4a0df0e6303f95a5aa6e18df153cac2"  />
+<input type="hidden" name="form_build_id" id="form-f823d75f2bf44e9ac736f5b61298e10a" value="form-f823d75f2bf44e9ac736f5b61298e10a"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -407,30 +407,20 @@ $(function() {
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/awards/extended-hours-in-september">Extended Hours in September</a></span>
+                <span class="field-content"><a href="/awards/osap-and-paying-tuitionfees">OSAP and Paying Tuition/Fees</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/awards/osap-and-paying-tuitionfees">OSAP and Paying Tuition/Fees</a></span>
+                <span class="field-content"><a href="/awards/20132014-osap-30-off-ontario-tuition-grant-applications-are-now-available">2013/2014 OSAP &amp; 30% Off Ontario Tuition Grant Applications are now available!</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/awards/fall-2013-scholarship-payment-information">Fall 2013 Scholarship Payment Information</a></span>
-  </div>
-</li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/awards/20132014-osap-30-off-ontario-tuition-grant-applications-are-now-available">2013/2014 OSAP &amp; 30% Off Ontario Tuition Grant Applications are now available!</a></span>
-  </div>
-</li>
-          <li class="views-row views-row-6 views-row-even">  
-  <div class="views-field-title">
                 <span class="field-content"><a href="/awards/osap-the-income-update-process">OSAP &amp; the Income Update Process</a></span>
   </div>
 </li>
-          <li class="views-row views-row-7 views-row-odd views-row-last">  
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
   <div class="views-field-title">
                 <span class="field-content"><a href="/awards/new-for-1213-electronic-confirmation-of-enrolment-process-osap-release-0">Electronic Confirmation of Enrolment Process (OSAP)</a></span>
   </div>

@@ -46,7 +46,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/studentexchange/studentexchange/studentexchange/sites/all/themes/zen/zen/ie.css?p" />
+<link type="text/css" rel="stylesheet" media="all" href="/studentexchange/sites/all/themes/zen/zen/ie.css?p" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/studentexchange/sites/all/themes/unified_department/print.css" />
@@ -92,7 +92,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-3ca3e9bcd0524e703cab2207c309f970" value="form-3ca3e9bcd0524e703cab2207c309f970"  />
+<input type="hidden" name="form_build_id" id="form-8230eddcf96538f584f71e4b0f291305" value="form-8230eddcf96538f584f71e4b0f291305"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>

@@ -5,7 +5,7 @@
   <title>Nursing Lab | Nursing - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-09-20 11:09:43" />
+<meta name="modified" content="2013-09-23 12:14:32" />
 <meta name="created" content="2009-06-01 02:03:35" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -120,7 +120,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/nursing/food/sites/all/themes/zen/zen/ie.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/sites/all/themes/zen/zen/ie.css?s" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-85d13b1e494565d0406a280923eae990" value="form-85d13b1e494565d0406a280923eae990"  />
+<input type="hidden" name="form_build_id" id="form-b0b622aaab67ec5af653b22666a531a6" value="form-b0b622aaab67ec5af653b22666a531a6"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -212,7 +212,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-85d13b1e494565d0406a280923eae990" value="form-85d13b1e494565d0406a280923eae990"  />
+<input type="hidden" name="form_build_id" id="form-b0b622aaab67ec5af653b22666a531a6" value="form-b0b622aaab67ec5af653b22666a531a6"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -333,7 +333,9 @@ $(function() {
 <p><strong>Hours of Operation:</strong></p>
 <ul>
 <li>
-		<strong><strong><strong><strong>Friday, September 20, 2013 - Computer Lab open 9:00 a.m. to 2:00 p.m. </strong></strong></strong></strong></li>
+		<strong><strong><strong><strong>Wednesday, September 25, 2013 - 9:00 a.m. to 4:00 p.m. </strong></strong></strong></strong></li>
+<li>
+		<strong>Friday, September 27, 2013 - 11:30 a.m. to 2:00 p.m.</strong></li>
 <li>
 		Nursing Lab &ldquo;open/practice&rdquo; hours will be determined on a daily basis and regular hours will not be maintained during the work stoppage. Any non-essential requirements or practice time will have to wait until the work stoppage is over.</li>
 <li>

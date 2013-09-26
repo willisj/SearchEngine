@@ -42,7 +42,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/hk/sites/all/themes/zen/zen/ie.css?X" />
+<link type="text/css" rel="stylesheet" media="all" href="/hk/awards/sites/all/themes/zen/zen/ie.css?X" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/hk/sites/all/themes/unified_department/print.css" />
@@ -89,7 +89,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-0b0b33f2f91297fd180791567ef85279" value="form-0b0b33f2f91297fd180791567ef85279"  />
+<input type="hidden" name="form_build_id" id="form-6b2c01aebf3be7ed35ca2947c42f5efc" value="form-6b2c01aebf3be7ed35ca2947c42f5efc"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -309,20 +309,6 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-9 views-row-odd">
-    <div id="node-1405" class="node node-teaser node-type-feed-item not-page">
-  <div class="node-inner">
-            <div class="news-image">
-        <a href="http://golancers.ca/news/2013/8/31/MHOCKEY_0831135955.aspx" title="Anniversary Spotlight: 1997-98 Men&#039;s Hockey">
-          <img src="http://golancers.ca/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2013/9/3/97-98_Team.jpg" alt="Anniversary Spotlight: 1997-98 Men&#039;s Hockey" width="180" />
-        </a>
-      </div>
-      <h2 class="title">
-        <a href="http://golancers.ca/news/2013/8/31/MHOCKEY_0831135955.aspx" title="Anniversary Spotlight: 1997-98 Men&#039;s Hockey">Anniversary Spotlight: 1997-98 Men&#039;s Hockey</a>
-      </h2>  
-      This week's 50th Anniversary Spotlight describes the 1997-98 Windsor Lancers men's hockey team who captured the program's first-ever Queen's Cup championship.        <br clear="all" /><br />
-  </div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-10 views-row-even views-row-last">
     <div id="node-1399" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -332,6 +318,20 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>
       <h2 class="title">
         <a href="http://www.golancers.ca/news/2013/8/31/MHOCKEY_0831135955.aspx" title="Anniversary Spotlight: 1997-98 Men&#039;s Hockey">Anniversary Spotlight: 1997-98 Men&#039;s Hockey</a>
+      </h2>  
+      This week's 50th Anniversary Spotlight describes the 1997-98 Windsor Lancers men's hockey team who captured the program's first-ever Queen's Cup championship.        <br clear="all" /><br />
+  </div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    <div id="node-1405" class="node node-teaser node-type-feed-item not-page">
+  <div class="node-inner">
+            <div class="news-image">
+        <a href="http://golancers.ca/news/2013/8/31/MHOCKEY_0831135955.aspx" title="Anniversary Spotlight: 1997-98 Men&#039;s Hockey">
+          <img src="http://golancers.ca/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2013/9/3/97-98_Team.jpg" alt="Anniversary Spotlight: 1997-98 Men&#039;s Hockey" width="180" />
+        </a>
+      </div>
+      <h2 class="title">
+        <a href="http://golancers.ca/news/2013/8/31/MHOCKEY_0831135955.aspx" title="Anniversary Spotlight: 1997-98 Men&#039;s Hockey">Anniversary Spotlight: 1997-98 Men&#039;s Hockey</a>
       </h2>  
       This week's 50th Anniversary Spotlight describes the 1997-98 Windsor Lancers men's hockey team who captured the program's first-ever Queen's Cup championship.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->

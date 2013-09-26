@@ -96,7 +96,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-58de07fb99c353b11d73e7d83748a019" value="form-58de07fb99c353b11d73e7d83748a019"  />
+<input type="hidden" name="form_build_id" id="form-b48b815ff62c18b73d2db6b2d414f359" value="form-b48b815ff62c18b73d2db6b2d414f359"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -148,9 +148,8 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                       <div class="leftsidebar">
                             <!--googleoff: all--><div id="block-menu-menu-left-navigation" class="block block-menu region-odd even region-count-1 count-2 no-title  "><div class="block-inner">
     <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="/bargainingunits/50th-anniversary-weekend-plans-significantly-changed-sep-19-22" target="_self" rel="" title="50th Anniversary Celebrations - New Schedule" class="length-long">50th Anniversary Weekend Plans significantly changed</a></li>
-<li class="leaf"><a href="/bargainingunits/unifor-locals-195-and-2458-reach-tentative-agreement" target="_self" rel="" title="Collective Agreements Ratified by Unifor Locals 195 and 2458
-" class="length-long">Tentative Deal with CUPE 1001</a></li>
+    <ul class="menu"><li class="leaf first"><a href="/bargainingunits/cupe-1001-agreement-ratified-by-board-of-governors-cupe-1393-bargaining-continues-sep-24" target="_self" rel="" title="Collective Agreements Ratified by CUPE 1001 and Board of Governors" class="length-long">CUPE 1001 agreement ratified by Board of Governors, CUPE 1393 bargaining continues Sep 24</a></li>
+<li class="leaf"><a href="http://www1.uwindsor.ca/president/system/files/Letter%20to%20Campus%20Sep%2023.pdf" target="_self" rel="" title="Link to pdf on the President&#039;s site" class="length-long">CUPE1393 Bargaining Update</a></li>
 <li class="leaf"><a href="/bargainingunits/status-updates" target="_self" rel="" title="Status Updates" class="length-short">Status Updates</a></li>
 <li class="expanded active-trail"><a href="/bargainingunits/information-for-students" target="_self" rel="" title="Information for Students" class="length-short">Information for Students</a><ul class="menu"><li class="leaf first active-trail"><a href="/bargainingunits/cancelled-science-labs" target="_self" rel="" title="Cancelled Science Labs" class="length-short active">Cancelled Science Labs</a></li>
 <li class="leaf last"><a href="/bargainingunits/nursing-labs" target="_self" rel="" title="Nursing Labs" class="length-short">Faculty of Nursing Labs</a></li>
@@ -188,14 +187,14 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/bargainingunits/system/files/imagecache/header_left_image/academics_L_1_0.jpg" alt="Professor with 2 students" title="Professor with 2 students" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/bargainingunits/system/files/imagecache/header_left_image/about_L_4.jpg" alt="Welcome" title="Welcome to the University of Windsor" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/bargainingunits/system/files/imagecache/header_right_image/about_R_5_0_0.jpg" alt="Students and Faculty on Campus" title="Students and Faculty on Campus" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/bargainingunits/system/files/imagecache/header_right_image/about_R_4.jpg" alt="Dillon Hall" title="Dillon Hall" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>
@@ -265,7 +264,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/bargainingunits/collective-bargaining-dates-scheduled-for-caw-2458">Collective bargaining dates scheduled for CAW 2458</a></span>
+                <span class="field-content"><a href="/bargainingunits/collective-bargaining-dates-added-in-july-with-cupe-1393">Collective bargaining dates added in July with CUPE 1393</a></span>
   </div>
 </li>
       </ul>

@@ -5,7 +5,7 @@
   <title>Master of Management | Professional Programs - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-08-20 02:30:22" />
+<meta name="modified" content="2013-09-24 05:14:41" />
 <meta name="created" content="2010-06-17 08:48:37" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -93,7 +93,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-b3186b0144bc4c0cdb6f75d64658216c" value="form-b3186b0144bc4c0cdb6f75d64658216c"  />
+<input type="hidden" name="form_build_id" id="form-a9b361fed92c7ebf66c23b3402d43273" value="form-a9b361fed92c7ebf66c23b3402d43273"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -169,7 +169,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/professional/system/files/imagecache/header_left_image/young-indian-man_1.jpg" alt="Young Male " title="Young Professional Male " width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/professional/system/files/imagecache/header_left_image/young-black-woman_0.jpg" alt="Young Female" title="Young Professional Female" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -206,9 +206,11 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 		Master of Management Brochure (<a href="/professional/system/files/5711 CEPE Master of Management brochure 2013_PRINT.pdf">English</a>)</li>
 <li>
 		Master of Management Brochure (<a href="http://uwindsor.ca/professional/system/files/5713%20CEPE%20MoM%20Flyer%202011_PRINT%20Chinese.pdf">Mandarin</a>)</li>
+<li>
+		Course Schedule (<a href="http://www1.uwindsor.ca/professional/professional/system/files/MoM%20Course%20Sequencing%20-%20Fall%202013%20Intake.pdf">Fall 2013</a>)</li>
+<li>
+		Course Schedule (<a href="http://www1.uwindsor.ca/professional/professional/system/files/MoM%20Course%20Sequencing%20-%20Winter%202014%20Intake.pdf">Winter 2014</a>)</li>
 </ul>
-<h3>
-	&nbsp;</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
   </div>

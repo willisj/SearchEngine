@@ -122,7 +122,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/cs/residence/residence/sites/all/themes/zen/zen/ie.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/cs/food/sites/all/themes/zen/zen/ie.css?6" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/cs/sites/all/themes/unified_department/print.css" />
@@ -171,7 +171,7 @@ $(function() {
     <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/cs/sites/all/themes/unified_department/responsive/480-default.css');</style>    
     
 </head>
-<body class="uw_front not-front not-logged-in no-sidebars page-category-audience-current-students section-category page-category-audience-current-students section-category ">
+<body class="uw_front not-front not-logged-in one-sidebar sidebar-right page-category-audience-current-students section-category page-category-audience-current-students section-category ">
   <div class="wrapper-outter">
     <div class="header">
       <img src="/cs/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
@@ -190,7 +190,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ab90b3ada83b4c5ef5c0c2aeaae147fc" value="form-ab90b3ada83b4c5ef5c0c2aeaae147fc"  />
+<input type="hidden" name="form_build_id" id="form-e801fe087fd9ed24fdc6307c30d8bdda" value="form-e801fe087fd9ed24fdc6307c30d8bdda"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -217,7 +217,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ab90b3ada83b4c5ef5c0c2aeaae147fc" value="form-ab90b3ada83b4c5ef5c0c2aeaae147fc"  />
+<input type="hidden" name="form_build_id" id="form-e801fe087fd9ed24fdc6307c30d8bdda" value="form-e801fe087fd9ed24fdc6307c30d8bdda"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -273,14 +273,24 @@ $(function() {
           <h2 class="title">Photos</h2>
     <div class="content">
     <div class="home-image" id="s2"><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/chen.png" alt="Jessica Chen, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Jessica Chen"/></div>
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/morrissey.png" alt="Joan Morrissey, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Joan Morrissey"/></div>
     <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Jessica Chen</div>
+  <div class="hover-desc">Dr. Joan Morrissey</div>
   </div>
   </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/ezeife_0.png" alt="Christie Ezeife, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Christie Ezeife"/></div>
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/yuan.png" alt="Xiaobu Yuan, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Xiaobu Yuan"/></div>
     <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Christie Ezeife</div>
+  <div class="hover-desc">Dr. Xiaobu Yuan</div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/bandyopadhyay.png" alt="Subir Bandyopadhyay, Ph.D." title="Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Subir Bandyopadhyay"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc">Dr. Subir Bandyopadhyay</div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/PIC.JPG" alt="Windsor Waterfront" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Windsor Waterfront Park"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc">Windsor Waterfront Park</div>
   </div>
   </div><div class="himg-wrap">
     <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/frost_0.png" alt="Richard A. Frost, Ph.D." title="Acting Director" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Richard A. Frost"/></div>
@@ -288,14 +298,24 @@ $(function() {
   <div class="hover-desc">Dr. Richard A. Frost</div>
   </div>
   </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/ahmad_0.png" alt="Imran Ahmad, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Imran Ahmad"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc">Dr. Imran Ahmad</div>
+  </div>
+  </div><div class="himg-wrap">
     <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/rueda_1.png" alt="Dr. Luis Rueda" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Luis Rueda"/></div>
     <div class="himg-over-wrap">    
   <div class="hover-desc">Dr. Luis Rueda</div>
   </div>
   </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/gras.png" alt="Robin Gras, Ph.D." title="Associate Professor and Canada Research Chair" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Robin Gras"/></div>
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/ezeife_0.png" alt="Christie Ezeife, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Christie Ezeife"/></div>
     <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Robin Gras</div>
+  <div class="hover-desc">Dr. Christie Ezeife</div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/chen.png" alt="Jessica Chen, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Jessica Chen"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc">Dr. Jessica Chen</div>
   </div>
   </div><div class="himg-wrap">
     <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/kent.png" alt="Dr. Robert Kent" title="Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Robert Kent"/></div>
@@ -308,34 +328,9 @@ $(function() {
   <div class="hover-desc">Lambton Tower</div>
   </div>
   </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/jaekel.png" alt="Arunita Jaekel, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Arunita Jaekel"/></div>
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/goodwin_0.png" alt="Dr. Scott Goodwin" title="Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Scott Goodwin"/></div>
     <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Arunita Jaekel</div>
-  </div>
-  </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/bandyopadhyay.png" alt="Subir Bandyopadhyay, Ph.D." title="Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Subir Bandyopadhyay"/></div>
-    <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Subir Bandyopadhyay</div>
-  </div>
-  </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/morrissey.png" alt="Joan Morrissey, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Joan Morrissey"/></div>
-    <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Joan Morrissey</div>
-  </div>
-  </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/ngom_1.png" alt="Alioune Ngom, Ph.D." title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Alioune Ngom"/></div>
-    <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Alioune Ngom</div>
-  </div>
-  </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/ahmad_0.png" alt="Imran Ahmad, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Imran Ahmad"/></div>
-    <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Imran Ahmad</div>
-  </div>
-  </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/yuan.png" alt="Xiaobu Yuan, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Xiaobu Yuan"/></div>
-    <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Xiaobu Yuan</div>
+  <div class="hover-desc">Dr. Scott Goodwin</div>
   </div>
   </div><div class="himg-wrap">
     <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/PIC_0.png" alt="Speechweb Group Photo" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Speechweb Group"/></div>
@@ -343,19 +338,24 @@ $(function() {
   <div class="hover-desc"><a href="http://www.myspeechweb.org/" target="_blank">Speechweb Group</a></div>
   </div>
   </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/goodwin_0.png" alt="Dr. Scott Goodwin" title="Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Scott Goodwin"/></div>
-    <div class="himg-over-wrap">    
-  <div class="hover-desc">Dr. Scott Goodwin</div>
-  </div>
-  </div><div class="himg-wrap">
     <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/PIC.png" alt="Dr. Ziad Kobti lecturing" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Ziad Kobti"/></div>
     <div class="himg-over-wrap">    
   <div class="hover-desc">Dr. Ziad Kobti</div>
   </div>
   </div><div class="himg-wrap">
-    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/PIC.JPG" alt="Windsor Waterfront" title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Windsor Waterfront Park"/></div>
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/ngom_1.png" alt="Alioune Ngom, Ph.D." title="" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Alioune Ngom"/></div>
     <div class="himg-over-wrap">    
-  <div class="hover-desc">Windsor Waterfront Park</div>
+  <div class="hover-desc">Dr. Alioune Ngom</div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/gras.png" alt="Robin Gras, Ph.D." title="Associate Professor and Canada Research Chair" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Robin Gras"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc">Dr. Robin Gras</div>
+  </div>
+  </div><div class="himg-wrap">
+    <div class="home-image"><img src="http://www1.uwindsor.ca/cs/system/files/imagecache/244by123_slide_image/slideshow/jaekel.png" alt="Arunita Jaekel, Ph.D." title="Associate Professor" width="244" height="123" class="imagecache imagecache-244by123_slide_image"/><img src="/cs/sites/all/modules/uw_department_customizations/bg-gradient.png" class="right-grad" alt="Dr. Arunita Jaekel"/></div>
+    <div class="himg-over-wrap">    
+  <div class="hover-desc">Dr. Arunita Jaekel</div>
   </div>
   </div></div><div class="nav"><a href="#" id="prev2">Prev</a><a href="#" id="next2">Next</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
@@ -372,9 +372,28 @@ $(function() {
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-    <div id="node-1312" class="node node-teaser node-type-events">
+    <div id="node-1313" class="node node-teaser node-type-events">
   <div class="node-inner">
           <div class="content odd not-page content-list">
+      <div class="event-image">
+                <img  class="imagefield imagefield-field_heading_image" width="180" height="101" title="School of Computer Science - News Article Image" alt="School of Computer Science - News Article Image" src="http://www1.uwindsor.ca/cs/system/files/hackwe1.jpg?1355154755" />              </div>
+      <h2 class="title">
+        <a href="/cs/1313/hackwe-code-jam-1st-hack-a-thon-windsor-essex" title="HackWE Code Jam - 1st Hack-a-Thon Windsor-Essex">HackWE Code Jam - 1st Hack-a-Thon Windsor-Essex</a> 
+      </h2>
+            <div class="add-calendar-ical">
+        <a href="/cs/ical/events/1313" title="Add this event into your calendar using the iCAL format"><img src="/cs/sites/all/themes/unified_department/images/ical.png" alt="Add this event into your calendar using the iCAL format" /></a>
+      </div>
+             <ul class="field-date-list">
+                <li><span class="date-display-start">Sat, 01/19/2013 - 9:00am</span><span class="date-display-separator"> - </span><span class="date-display-end">Sun, 01/20/2013 - 3:00pm</span></li>        </ul>
+                                3105                                          Lambton Tower                                  <br />
+                        A 24-hour computer coding competition hosted by WEtech Alliance, Hackforge, City of Windsor, AlphaKOR, St. Clair College and the University of Windsor               </div>  <!-- /.content -->
+       <br />
+        </div>
+</div> <!-- /.node -->  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-1312" class="node node-teaser node-type-events">
+  <div class="node-inner">
+          <div class="content even not-page content-list">
       <div class="event-image">
               </div>
       <h2 class="title">
@@ -391,10 +410,10 @@ $(function() {
        <br />
         </div>
 </div> <!-- /.node -->  </div>
-  <div class="views-row views-row-2 views-row-even">
+  <div class="views-row views-row-3 views-row-odd">
     <div id="node-1311" class="node node-teaser node-type-events">
   <div class="node-inner">
-          <div class="content even not-page content-list">
+          <div class="content odd not-page content-list">
       <div class="event-image">
               </div>
       <h2 class="title">
@@ -411,10 +430,10 @@ $(function() {
        <br />
         </div>
 </div> <!-- /.node -->  </div>
-  <div class="views-row views-row-3 views-row-odd">
+  <div class="views-row views-row-4 views-row-even">
     <div id="node-1309" class="node node-teaser node-type-events">
   <div class="node-inner">
-          <div class="content odd not-page content-list">
+          <div class="content even not-page content-list">
       <div class="event-image">
               </div>
       <h2 class="title">
@@ -431,10 +450,10 @@ $(function() {
        <br />
         </div>
 </div> <!-- /.node -->  </div>
-  <div class="views-row views-row-4 views-row-even">
+  <div class="views-row views-row-5 views-row-odd">
     <div id="node-1303" class="node node-teaser node-type-events">
   <div class="node-inner">
-          <div class="content even not-page content-list">
+          <div class="content odd not-page content-list">
       <div class="event-image">
                 <img  class="imagefield imagefield-field_heading_image" width="180" height="101" title="School of Computer Science - News Article Image" alt="School of Computer Science - News Article Image" src="http://www1.uwindsor.ca/cs/system/files/Durda%20Best%20Presentor%202-0003.jpg?1353523727" />              </div>
       <h2 class="title">
@@ -452,10 +471,10 @@ $(function() {
        <br />
         </div>
 </div> <!-- /.node -->  </div>
-  <div class="views-row views-row-5 views-row-odd">
+  <div class="views-row views-row-6 views-row-even">
     <div id="node-1297" class="node node-teaser node-type-news">
   <div class="node-inner">
-      <div class="content odd not-page content-list">
+      <div class="content even not-page content-list">
       <div class="news-image">
                 <a href="/cs/1297/lucky-winner-at-the-cs-fall-open-house" title="Lucky Winner at the CS Fall Open House">
         <img  class="imagefield imagefield-field_heading_image" width="180" height="101" title="School of Computer Science - News Article Image" alt="School of Computer Science - News Article Image" src="http://www1.uwindsor.ca/cs/system/files/open-house.jpg?1352732655" />        </a>
@@ -471,10 +490,10 @@ $(function() {
   </div>  <!-- ./node-inner -->
 </div>  <!--/node -->
   </div>
-  <div class="views-row views-row-6 views-row-even">
+  <div class="views-row views-row-7 views-row-odd">
     <div id="node-1294" class="node node-teaser node-type-news">
   <div class="node-inner">
-      <div class="content even not-page content-list">
+      <div class="content odd not-page content-list">
       <div class="news-image">
                 <a href="/cs/1294/acm-regional-programming-contest-results" title="ACM Regional Programming Contest Results">
         <img  class="imagefield imagefield-field_heading_image" width="180" height="101" title="ACM ICPC - Local 1st Place - University of Toronto" alt="ACM ICPC - Local 1st Place" src="http://www1.uwindsor.ca/cs/system/files/acmicpc.png?1352129998" />        </a>
@@ -490,10 +509,10 @@ $(function() {
   </div>  <!-- ./node-inner -->
 </div>  <!--/node -->
   </div>
-  <div class="views-row views-row-7 views-row-odd">
+  <div class="views-row views-row-8 views-row-even">
     <div id="node-1239" class="node node-teaser node-type-news">
   <div class="node-inner">
-      <div class="content odd not-page content-list">
+      <div class="content even not-page content-list">
       <div class="news-image">
                 <a href="/cs/1239/computer-science-holds-local-programming-competition" title="Computer Science holds Local Programming Competition">
         <img  class="imagefield imagefield-field_heading_image" width="180" height="101" title="School of Computer Science - News Article Image" alt="School of Computer Science - News Article Image" src="http://www1.uwindsor.ca/cs/system/files/acmicpc_0.png?1352131776" />        </a>
@@ -509,10 +528,10 @@ $(function() {
   </div>  <!-- ./node-inner -->
 </div>  <!--/node -->
   </div>
-  <div class="views-row views-row-8 views-row-even">
+  <div class="views-row views-row-9 views-row-odd">
     <div id="node-1238" class="node node-teaser node-type-news">
   <div class="node-inner">
-      <div class="content even not-page content-list">
+      <div class="content odd not-page content-list">
       <div class="news-image">
                 <a href="/cs/1238/convocation-october-2012" title="Convocation October 2012">
         <img  class="imagefield imagefield-field_heading_image" width="180" height="101" title="October 2012 Convocation" alt="Congratulations" src="http://www1.uwindsor.ca/cs/system/files/grad-pic.png?1351776839" />        </a>
@@ -528,10 +547,10 @@ $(function() {
   </div>  <!-- ./node-inner -->
 </div>  <!--/node -->
   </div>
-  <div class="views-row views-row-9 views-row-odd">
+  <div class="views-row views-row-10 views-row-even views-row-last">
     <div id="node-1235" class="node node-teaser node-type-events">
   <div class="node-inner">
-          <div class="content odd not-page content-list">
+          <div class="content even not-page content-list">
       <div class="event-image">
               </div>
       <h2 class="title">
@@ -544,26 +563,6 @@ $(function() {
                 <li><span class="date-display-single">Wed, 10/17/2012 - <span class="date-display-start">9:00am</span><span class="date-display-separator"> - </span><span class="date-display-end">2:00pm</span></span></li>        </ul>
                                 201 Riverside Dr. W.                                          St. Clair College Centre for the Arts                                  <br />
                         Hundreds of employment, self-employment, training and educational opportunities available.               </div>  <!-- /.content -->
-       <br />
-        </div>
-</div> <!-- /.node -->  </div>
-  <div class="views-row views-row-10 views-row-even views-row-last">
-    <div id="node-1234" class="node node-teaser node-type-events">
-  <div class="node-inner">
-          <div class="content even not-page content-list">
-      <div class="event-image">
-              </div>
-      <h2 class="title">
-        <a href="/cs/1234/masters-thesis-defense-sonia-bhatti" title="Master&#039;s Thesis Defense - Sonia Bhatti">Master&#039;s Thesis Defense - Sonia Bhatti</a> 
-      </h2>
-            <div class="add-calendar-ical">
-        <a href="/cs/ical/events/1234" title="Add this event into your calendar using the iCAL format"><img src="/cs/sites/all/themes/unified_department/images/ical.png" alt="Add this event into your calendar using the iCAL format" /></a>
-      </div>
-             <ul class="field-date-list">
-                <li><span class="date-display-single">Thu, 10/11/2012 - 1:30pm</span></li>        </ul>
-                                3105                                          Lambton Tower                                  <br />
-                        Testing and Improving Local Adaptive Importance Sampling in LJF Local-JT in Multiply Sectioned Bayesian Network
-               </div>  <!-- /.content -->
        <br />
         </div>
 </div> <!-- /.node -->  </div>
@@ -592,7 +591,50 @@ $(function() {
 </div>                                   </div>
               </div>
               <div class="rightsidebar">
-                            </div>
+              <!--googleoff: all--><div id="block-views-events_calendar-block_1" class="block block-views region-odd even region-count-1 count-10 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="view view-events-calendar view-id-events_calendar view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+       <div class="">
+         <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 02, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/cs/1471/computer-science-colloquium-seminar">Computer Science Colloquium Seminar</a></span>
+  </span>
+</li>
+      </ul>
+</div>       </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/cs/calendar/events">
+    view calendar  </a>
+</div>
+  
+  
+  
+</div>
+  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-2 count-11 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 2, 2013 <a href="/cs/1471/computer-science-colloquium-seminar">Computer Science Colloquium Seminar</a></li></ul></div><div class="more-link"><a href="/cs/calendar/events">VIEW CALENDAR</a></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all-->              </div>
             </div>
                     <br clear="all" />
         </div>  <!-- /.content-wrappper -->

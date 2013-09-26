@@ -191,7 +191,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-6e51ecd5f8fb4f5f2eab722ba59cdac0" value="form-6e51ecd5f8fb4f5f2eab722ba59cdac0"  />
+<input type="hidden" name="form_build_id" id="form-ee82106ae6a791d676faed6def06cf83" value="form-ee82106ae6a791d676faed6def06cf83"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -262,7 +262,7 @@ $(function() {
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/Volunteer%20website.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/volunteer" target="_self">Volunteer Website</a></div><div class="summary">Getting involved has never been so easy! Whether you are looking for volunteers or would like to volunteer, this website is right for YOU. </div><div class="read_more"><a href="http://www.uwindsor.ca/volunteer" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/spiff_safety-form.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://webapps.uwindsor.ca/hr/safety/suggestion/form.php" target="_blank">Safety @ Work</a></div><div class="summary">Do you have a suggestion to improve safety on campus? Share your ideas with us.</div><div class="read_more"><a href="http://webapps.uwindsor.ca/hr/safety/suggestion/form.php" target="_blank">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/electrical/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -271,7 +271,7 @@ $(function() {
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/electrical/system/files/imagecache/header_left_image/elec_engineering_banner3.jpg" alt="ambassador bridge" title="ambassador bridge" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><h1>&nbsp;</h1>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/electrical/system/files/imagecache/header_left_image/elec_engineering_banner5.jpg" alt="students at the river" title="students at the river" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><h1>&nbsp;</h1>
 <h1>&nbsp;</h1>
 <h3>&nbsp;</h3></div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
@@ -425,78 +425,73 @@ $(function() {
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/electrical/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/electrical/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-7">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/electrical/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-4 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/electrical/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-1">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/electrical/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-11">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-6 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/electrical/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-2">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-7 views-row-odd views-row-last">  
-  <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Oct 01, 2013</span></span>
   </span>
   
   <span class="views-field-title">
                 <span class="field-content">
   <a href="/electrical/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 01, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/electrical/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-13">Last day for reversal of incidental fees for course withdrawal</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 01, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/electrical/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-11">Last day for reversal of incidental fees for course withdrawal</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 13, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/electrical/thanksgiving-day-statutory-holiday-no-classes-2">Thanksgiving Day (statutory holiday) - No classes</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 13, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/electrical/thanksgiving-day-statutory-holiday-no-classes-7">Thanksgiving Day (statutory holiday) - No classes</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 13, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/electrical/thanksgiving-day-statutory-holiday-no-classes-6">Thanksgiving Day (statutory holiday) - No classes</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 17, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/electrical/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-1">Last day for completion of all requirements for graduate degrees under Phase  
+ II (50% tuition refund)</a></span>
   </span>
 </li>
       </ul>
@@ -564,16 +559,24 @@ $(function() {
 </div>
   </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-4 count-9 blue_title upcoming-events"><div class="block-inner">
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-even odd region-count-4 count-9 blue_title todays-events"><div class="block-inner">
+          <h2 class="title">Today's Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li class="imported-event"> <a href="http://www.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall  
+ Convocation (graduate degrees)</a></li><li class="imported-event"> <a href="http://www.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</a></li><li class="imported-event"> <a href="http://www.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
+ Convocation (graduate degrees)</a></li><li class="imported-event"> <a href="http://www.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</a></li><li class="imported-event"> <a href="http://www1.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
+ Convocation (graduate degrees)</a></li><li class="imported-event"> <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</a></li></ul></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-5 count-10 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5#20131002">Last day for reversal of incidental fees for course withdrawal</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5#20131002">Last day for reversal of incidental fees for course withdrawal</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></li><li class="imported-event">Oct 14, 2013 <a href="http://www1.uwindsor.ca/registrar/thanksgiving-day-statutory-holiday-no-classes-2#20131014">Thanksgiving Day (statutory holiday) - No classes</a></li></ul></div><div class="more-link"><a href="/electrical/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Oct 2, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5#20131002">Last day for reversal of incidental fees for course withdrawal</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5#20131002">Last day for reversal of incidental fees for course withdrawal</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-reversal-of-incidental-fees-for-course-withdrawal-5">Last day for reversal of incidental fees for course withdrawal</a></li><li class="imported-event">Oct 14, 2013 <a href="http://www.uwindsor.ca/registrar/thanksgiving-day-statutory-holiday-no-classes-2#20131014">Thanksgiving Day (statutory holiday) - No classes</a></li><li class="imported-event">Oct 14, 2013 <a href="http://www1.uwindsor.ca/registrar/thanksgiving-day-statutory-holiday-no-classes-2#20131014">Thanksgiving Day (statutory holiday) - No classes</a></li><li class="imported-event">Oct 14, 2013 <a href="http://www.uwindsor.ca/registrar/thanksgiving-day-statutory-holiday-no-classes-2">Thanksgiving Day (statutory holiday) - No classes</a></li><li class="imported-event">Oct 18, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8">Last day for completion of all requirements for graduate degrees under Phase  
+ II (50% tuition refund)</a></li><li class="imported-event">Oct 18, 2013 <a href="http://www.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8#20131018">Last day for completion of all requirements for graduate degrees under Phase  
+ II (50% tuition refund)</a></li><li class="imported-event">Oct 18, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8#20131018">Last day for completion of all requirements for graduate degrees under Phase  
+ II (50% tuition refund)</a></li><li class="imported-event">Oct 19, 2013 <a href="http://www1.uwindsor.ca/registrar/fall-convocation-2#20131019">Fall Convocation</a></li></ul></div><div class="more-link"><a href="/electrical/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

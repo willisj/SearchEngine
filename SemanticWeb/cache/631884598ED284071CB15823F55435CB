@@ -51,7 +51,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/cs/residence/residence/sites/all/themes/zen/zen/ie.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/cs/food/sites/all/themes/zen/zen/ie.css?6" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/cs/sites/all/themes/unified_department/print.css" />
@@ -101,7 +101,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-7710c1629519b740fa8935a27de299d9" value="form-7710c1629519b740fa8935a27de299d9"  />
+<input type="hidden" name="form_build_id" id="form-2a2880682d2d69d1341f1e79e47a4880" value="form-2a2880682d2d69d1341f1e79e47a4880"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -128,7 +128,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-7710c1629519b740fa8935a27de299d9" value="form-7710c1629519b740fa8935a27de299d9"  />
+<input type="hidden" name="form_build_id" id="form-2a2880682d2d69d1341f1e79e47a4880" value="form-2a2880682d2d69d1341f1e79e47a4880"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -178,7 +178,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/Volunteer%20website.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/volunteer" target="_self">Volunteer Website</a></div><div class="summary">Getting involved has never been so easy! Whether you are looking for volunteers or would like to volunteer, this website is right for YOU. </div><div class="read_more"><a href="http://www.uwindsor.ca/volunteer" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/HS%20students_3.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/disability/welcome" target="_self">Disability Services</a></div><div class="summary">Getting started at university can pose unique challenges for students with disabilities. Knowing what to do can make all the difference.</div><div class="read_more"><a href="http://www.uwindsor.ca/disability/welcome" target="_self">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/cs/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -238,6 +238,11 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 		<a href="http://www.cihr-irsc.gc.ca/" target="_blank">Canadian Institutes of Health Research</a></li>
 </ul>
   </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-2 count-7 blue_title upcoming-events"><div class="block-inner">
+          <h2 class="title">Upcoming Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Oct 2, 2013 <a href="/cs/1471/computer-science-colloquium-seminar">Computer Science Colloquium Seminar</a></li></ul></div><div class="more-link"><a href="/cs/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

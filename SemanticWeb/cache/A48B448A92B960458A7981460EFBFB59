@@ -183,7 +183,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-b800264f5a64a86cc5c5c0aede55c88b" value="form-b800264f5a64a86cc5c5c0aede55c88b"  />
+<input type="hidden" name="form_build_id" id="form-3026dadfdf8b0f15a2c9b2ac34385992" value="form-3026dadfdf8b0f15a2c9b2ac34385992"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>

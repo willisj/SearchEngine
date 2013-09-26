@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1447.field_date.0.0
 SUMMARY:Computer Science Master's Thesis Proposal - Manoj Gajjarapu
-DTSTAMP:20130921T205909
+DTSTAMP:20130925T210732
 DTSTART:20130606T130000
 DTEND:20130606T143000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1447/computer-science-masters-thesis-proposal-manoj-gajjarapu#20130606T130000

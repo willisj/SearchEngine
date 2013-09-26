@@ -45,7 +45,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/internationalization/residence/residence/food/awards/registrar/sites/all/themes/zen/zen/ie.css?t" />
+<link type="text/css" rel="stylesheet" media="all" href="/internationalization/awards/sites/all/themes/zen/zen/ie.css?t" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/internationalization/sites/all/themes/unified_department/print.css" />
@@ -90,7 +90,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-3e74c3e7f7fcfe25a92eb0f53d09bfc7" value="form-3e74c3e7f7fcfe25a92eb0f53d09bfc7"  />
+<input type="hidden" name="form_build_id" id="form-de9e1c4ec665a4e4c8276acdb39c99cc" value="form-de9e1c4ec665a4e4c8276acdb39c99cc"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -163,8 +163,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/sites/default/files/imagecache/180by101_image/spif/images/header/murad180X130.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://cronus.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/264F80F204E5088A85256A7A004A4BFB/6D585F4C3FD9A89B852575C8004E299B?openDocument" target="_self">Islam on athletic wear</a></div><div class="summary">Why do Muslim women participate in recreational sports at a lower rate than other North American women?
-</div><div class="read_more"><a href="http://cronus.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/264F80F204E5088A85256A7A004A4BFB/6D585F4C3FD9A89B852575C8004E299B?openDocument" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/sites/default/files/imagecache/180by101_image/spif/images/header/michael bell2.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/polsci/michael-bell2" target="_self">Our Graduates</a></div><div class="summary">Before his career in foreign service, Ambassador Michael Bell was a student in Windsor's Department of Political Science, earning his BA and MA here.</div><div class="read_more"><a href="http://www.uwindsor.ca/polsci/michael-bell2" target="_self">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/internationalization/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -173,14 +172,14 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_left_image/SOS%20Peru%202011_0.jpg" alt="Students Offering Support in Jusccapampa, Peru" title="Students Offering Support in Jusccapampa, Peru" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_left_image/Ajetney-Nelson%20at%20Commonwealth%20Games%20in%20New%20Delhi%202010.jpg" alt="Ajetney-Nelson at the 2010 Commonwealth Games" title="Ajetney-Nelson at the 2010 Commonwealth Games" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_right_image/R-student-with-Japanese-flag.jpg" alt="Student with Japanese flag at Convocation" title="Student with Japanese flag at Convocation" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_right_image/Campus%20Carousel%20of%20Nations%2008%20a.jpg" alt="Carousel of Nations" title="Carousel of Nations" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

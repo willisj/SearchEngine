@@ -188,7 +188,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-1b02af91c8dc1ad6abf8973f5a61f619" value="form-1b02af91c8dc1ad6abf8973f5a61f619"  />
+<input type="hidden" name="form_build_id" id="form-83e29e69f697e419faa9eadd1baafec1" value="form-83e29e69f697e419faa9eadd1baafec1"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -318,19 +318,19 @@ $(function() {
 	<u>Application - In Course</u></p>
 <ul>
 <li>
-		<a href="http://www.uwindsor.ca/awards/system/files/BETA%20SIGMA%20PHI%20AWARD%20application1.pdf" target="_blank">Beta Sigma Phi Award</a></li>
+		<a href="http://www1.uwindsor.ca/awards/system/files/BETA%20SIGMA%20PHI%20AWARD%20application_0.pdf" target="_blank">Beta Sigma Phi Award</a></li>
 <li>
-		<a href="http://www.uwindsor.ca/awards/sites/uwindsor.ca.awards/files/Joe Mattson Memorial Award.pdf" target="_blank">Joe Mattson Memorial Award</a></li>
+		<a href="http://www1.uwindsor.ca/awards/system/files/JoeMattson.pdf" target="_blank">Joe Mattson Memorial Award</a></li>
 <li>
-		<a href="http://www.uwindsor.ca/awards/system/files/John%20Hughes.pdf" target="_blank">John Hughes Memorial Scholarship </a></li>
+		<a href="http://www1.uwindsor.ca/awards/system/files/John%20Hughes%20Memorial%20Scholarship.pdf" target="_blank">John Hughes Memorial Scholarship </a></li>
 <li>
 		<a href="/awards/sites/uwindsor.ca.awards/files/Marion R. &amp; Terry P. McGuire.pdf" target="_blank">Marion R. &amp; Terry P. McGuire Award </a></li>
 <li>
-		<a href="http://www.uwindsor.ca/awards/system/files/Mary%20Turner.pdf" target="_blank">Mary Turner Memorial Bursary</a></li>
+		<a href="http://www1.uwindsor.ca/awards/system/files/Mary%20Turner_0.pdf" target="_blank">Mary Turner Memorial Bursary</a></li>
 <li>
-		<a href="http://www.uwindsor.ca/awards/sites/uwindsor.ca.awards/files/Godden Bursary.pdf" target="_blank">Rev. W.H. Godden Bursary&nbsp;</a></li>
+		<a href="http://www1.uwindsor.ca/awards/system/files/Godden%20Bursary_0.pdf" target="_blank">Rev. W.H. Godden Bursary&nbsp;</a></li>
 <li>
-		<a href="http://www.uwindsor.ca/awards/system/files/Ron%20Todgham%20Memorial%20Scholarship_0.pdf" target="_blank">Ron Todgham Memorial Scholarship</a></li>
+		<a href="http://www1.uwindsor.ca/awards/system/files/Ron%20Todgham%20Memorial%20Scholarship_0.pdf" target="_blank">Ron Todgham Memorial Scholarship</a></li>
 </ul>
 <p>&nbsp;</p>
 <p><u>Supporting Documents</u></p>

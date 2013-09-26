@@ -191,7 +191,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-0b9c3cccfd7fdc8fa8ee01a5946a8cc8" value="form-0b9c3cccfd7fdc8fa8ee01a5946a8cc8"  />
+<input type="hidden" name="form_build_id" id="form-7ad76426222ed02a84f944eb6757993d" value="form-7ad76426222ed02a84f944eb6757993d"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -350,20 +350,20 @@ $(function() {
                                   </div>
               </div>
               <div class="rightsidebar">
-              <!--googleoff: all--><div id="block-uw_food_menu-menu_location_10114" class="block block-uw_food_menu region-odd odd region-count-1 count-5 blue_title market-place-sep-20th"><div class="block-inner">
-          <h2 class="title">Market Place Sep. 20th</h2>
+              <!--googleoff: all--><div id="block-uw_food_menu-menu_location_10114" class="block block-uw_food_menu region-odd odd region-count-1 count-5 blue_title market-place-sep-25th"><div class="block-inner">
+          <h2 class="title">Market Place Sep. 25th</h2>
     <div class="content">
-    <div class="food-menu item-list"><h3>Soup of the Day</h3><ul><li>Beef Barley</li><li>Cream of mushroom</li><li>Pasta faggioli</li></ul><h3>Lunch</h3><ul><li>Poached salmon w/ fennel bouillabaisse</li><li>Samosas</li><li>Scrambled eggs w/ bacon or sausage, home fries, toast</li><li>Sweet & sour chicken balls</li><li>Veal parmesan</li></ul></div>  </div>
+    <div class="food-menu item-list"><h3>Soup of the Day</h3><ul><li>Country vegetable</li><li>Cream of mushroom</li><li>Italian wedding</li></ul><h3>Lunch</h3><ul><li>Basa w/ herb beurre blanc</li><li>Hot beef sandwich</li><li>Lemon chicken&nbsp;&nbsp;<img src="/sites/all/modules/uw_food_menu/images/halal.png" alt="Halal" title="Halal" /></li><li>Penne w/ tofu & vegetable&nbsp;&nbsp;<img src="/sites/all/modules/uw_food_menu/images/vegetarian.png" alt="Vegetarian Meal" title="Vegetarian Meal" /></li></ul><h3>Dinner</h3><ul><li>Pulled pork on a bun</li><li>Spaghetti w/ meat balls</li><li>Sweet & sour chicken balls</li><li>Vegetarian shepherd's pie (soya filling)</li></ul></div>  </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_food_menu-menu_location_10113" class="block block-uw_food_menu region-even even region-count-2 count-6 green_title dividends-sep-20th"><div class="block-inner">
-          <h2 class="title">Dividends Sep. 20th</h2>
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_food_menu-menu_location_10113" class="block block-uw_food_menu region-even even region-count-2 count-6 green_title dividends-sep-25th"><div class="block-inner">
+          <h2 class="title">Dividends Sep. 25th</h2>
     <div class="content">
-    <div class="food-menu item-list"><h3>Soup of the Day</h3><ul><li>Cream of mushroom</li><li>Italian wedding</li></ul></div>  </div>
+    <div class="food-menu item-list"><h3>Soup of the Day</h3><ul><li>Italian wedding</li><li>Pasta faggioli</li></ul></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_food_menu-upcoming_menu" class="block block-uw_food_menu region-odd odd region-count-3 count-7 black_title upcoming-menus"><div class="block-inner">
           <h2 class="title">Upcoming Menus</h2>
     <div class="content">
-    <div class="food-menu item-list"><ul><li><a href="/food/food-menu/2013-09-21">Saturday, September 21st</a></li></ul></div>  </div>
+    <div class="food-menu item-list"><ul><li><a href="/food/food-menu/2013-09-26">Thursday, September 26th</a></li></ul></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

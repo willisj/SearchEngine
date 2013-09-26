@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en" lang="en" dir="ltr">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Graduate Programs | Nursing - University of Windsor</title>
+  <title>Graduate Degree Programs | Nursing - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-05-09 12:35:50" />
+<meta name="modified" content="2013-09-23 11:31:52" />
 <meta name="created" content="2011-09-07 03:24:15" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -120,7 +120,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/nursing/food/sites/all/themes/zen/zen/ie.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/sites/all/themes/zen/zen/ie.css?s" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-1acabf26da43f9d225f71341008c6d80" value="form-1acabf26da43f9d225f71341008c6d80"  />
+<input type="hidden" name="form_build_id" id="form-d35263ef06e7f7d8c8b16bb643beb95c" value="form-d35263ef06e7f7d8c8b16bb643beb95c"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -212,7 +212,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-1acabf26da43f9d225f71341008c6d80" value="form-1acabf26da43f9d225f71341008c6d80"  />
+<input type="hidden" name="form_build_id" id="form-d35263ef06e7f7d8c8b16bb643beb95c" value="form-d35263ef06e7f7d8c8b16bb643beb95c"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -295,46 +295,17 @@ $(function() {
                               </div>
               <div class="content-area">
                 <div class="content-leftside">
-                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/nursing">Nursing</a> / <a href="/nursing/graduate-programs-0" class="active">Graduate Programs</a></div>                                      <h1 class="title">Graduate Programs</h1>
+                  <div class="breadcrumb"><a href="http://www1.uwindsor.ca">Home</a> / <a href="http://www1.uwindsor.ca/nursing">Nursing</a> / <a href="/nursing/graduate-programs-0" class="active">Graduate Degree Programs</a></div>                                      <h1 class="title">Graduate Degree Programs</h1>
                                                                                           <div id="node-749" class="node node-type-page"><div class="node-inner">
       <div class="content">
     <p>&nbsp;</p>
 <p><font face="Tahoma" size="2">The Faculty of Nursing offers two Graduate Degree Program options:</font></p>
 <ul>
 <li>
-		<a href="msc">The Master of Science Degree</a> (MSc) is a thesis based program.</li>
+		<a href="msc">The Master of Science Degree</a> (MSc) is a thesis based program</li>
 <li>
-		<a href="master-of-nursing">The Master of Nursing Degree</a> (MN) is a course based program.</li>
+		<a href="master-of-nursing">The Master of Nursing Degree</a> (MN) is a course based program</li>
 </ul>
-<p class="rteindent2" style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p class="rteindent2" style="margin: 0px; min-height: 17px; font: 14px Tahoma"><b>Both Masters options (MN and MSc) include an area of specialization/field: </b></p>
-<p class="rteindent2" style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p class="rteindent2" style="margin: 0px; min-height: 17px; font: 14px Tahoma"><b>Advanced Clinical Nursing Field</b></p>
-<p class="rteindent3" style="margin: 0px; font: 13px Tahoma">In the Advanced Clinical Nursing field students will explore the human experience of health, well-being, illness and healing within the context of individuals, families, groups and communities. Selected concepts such as health promotion, illness prevention, stress appraisal, and coping resources will be examined through critical appraisal of the literature in nursing and related disciplines. Students will have the opportunity to develop evidence-based knowledge and skills required to manage the complex health needs of Canada&rsquo;s multicultural population through health promotion and illness prevention or adaptation to illness and injury.</p>
-<p class="rteindent3" style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p class="rteindent3" style="margin: 0px; font: 13px Tahoma"><b>OR</b></p>
-<p class="rteindent3" style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p class="rteindent3" style="margin: 0px; font: 13px Tahoma"><b>Nursing Leadership Field</b></p>
-<p class="rteindent3" style="margin: 0px; font: 13px Tahoma">In the Nursing Leadership field students will explore concepts of contemporary nursing leadership in management, research and education. Students will critically appraise and synthesize a variety of educational, environmental, and political issues that influence the Canadian health care system. Students will have the opportunity to develop skills necessary to impact policy and decision-making relevant to the profession of nursing, in particular, and the health care system in general.</p>
-<p style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p style="margin: 0px; font: 13px Tahoma"><strong>Tuition information:</strong></p>
-<p style="margin: 0px; font: 13px Tahoma">Please refer to Master&#39;s candidate year base tuition as well as Compulsory Incidentals. Click <a href="http://uwindsor.ca/cashiers/">here</a> to go to the Cashier&#39;s website.</p>
-<p style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p style="margin: 0px; font: 13px Tahoma"><b>For more information, please contact:</b></p>
-<p style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p style="margin: 0px; font: 13px Tahoma">Susan Rotondi</p>
-<p style="margin: 0px; font: 13px Tahoma">Graduate Secretary</p>
-<p style="margin: 0px; font: 13px Tahoma">Faculty of Nursing</p>
-<p style="margin: 0px; font: 13px Tahoma"><a href="mailto:nurse@uwindsor.ca?subject=Website%20Inquiry">nurse@uwindsor.ca</a></p>
-<p style="margin: 0px; font: 13px Tahoma">519.253.3000, x2258</p>
-<p style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p style="margin: 0px; font: 13px Tahoma"><b>OR</b></p>
-<p style="margin: 0px; min-height: 17px; font: 14px Tahoma">&nbsp;</p>
-<p style="margin: 0px; font: 13px Tahoma">Dr. Debbie Kane</p>
-<p style="margin: 0px; font: 13px Tahoma">Graduate Coordinator&nbsp;</p>
-<p style="margin: 0px; font: 13px Tahoma">Faculty of Nursing&nbsp;</p>
-<p style="margin: 0px; font: 13px Tahoma; color: #1e5595"><a href="mailto:dkane@uwindsor.ca">dkane@uwindsor.ca</a><a href="mailto:dkane@uwindsor.ca?subject=Website%20Inquiry"><span style="color: #000000"><b>&nbsp;</b></span></a></p>
-<p style="margin: 0px; font: 13px Tahoma">519.253.3000, x2268</p>
   </div>
   </div></div> <!-- /node-inner, /node -->
                                   </div>

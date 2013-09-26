@@ -48,7 +48,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/internationalization/sites/all/themes/zen/zen/ie.css?t" />
+<link type="text/css" rel="stylesheet" media="all" href="/internationalization/awards/sites/all/themes/zen/zen/ie.css?t" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/internationalization/sites/all/themes/unified_department/print.css" />
@@ -93,7 +93,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-29728f00d47ee13eea9e3eea31e6baac" value="form-29728f00d47ee13eea9e3eea31e6baac"  />
+<input type="hidden" name="form_build_id" id="form-fc88b1eded8bb212d5d2a7dc5ed01780" value="form-fc88b1eded8bb212d5d2a7dc5ed01780"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -166,7 +166,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/LGosselin.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/cce/co-op-supervisor-award" target="_self">Co-op Supervisor Award!</a></div><div class="summary">Ms. Gosselin demonstrated interest towards the students' long term growth and development by providing professional advice and ongoing support!</div><div class="read_more"><a href="http://www.uwindsor.ca/cce/co-op-supervisor-award" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/sites/default/files/imagecache/180by101_image/spif/images/header/Bill Anderson_0.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://web2.uwindsor.ca/alumni/View/summer08/index.html" target="_self">What an Opportunity !</a></div><div class="summary">The Windsor-Detroit border, North America’s busiest trade corridor and anchors the richest free-trade area in world history has a new champion.</div><div class="read_more"><a href="http://web2.uwindsor.ca/alumni/View/summer08/index.html" target="_self">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/internationalization/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -175,14 +175,14 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_left_image/International%20Orientation%20Winter%202010%202.jpg" alt="International Orientation" title="International Orientation" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_left_image/450_Cele-nation-parade.jpg" alt="Celebration of Nations" title="Celebration of Nations" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
                   <!--googleoff: all--><div id="block-uw_department_customizations-3" class="block block-uw_department_customizations region-odd odd region-count-1 count-5 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_right_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_right_image/intl_rightside2.jpg" alt="International Students outside the CAW Centre" title="International Students outside the CAW Centre" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
+    <div class="header_right_image"><img src="http://www1.uwindsor.ca/internationalization/system/files/imagecache/header_right_image/Afrofest%2010%20coordinator%20a.jpg" alt="Afro Fest" title="Afro Fest" width="243" height="150" class="imagecache imagecache-header_right_image"/></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                               </div>

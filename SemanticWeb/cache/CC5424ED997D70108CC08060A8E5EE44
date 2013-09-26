@@ -92,7 +92,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search Windsor Law&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-f0581eb781218cce50d9fa99858bd2eb" value="form-f0581eb781218cce50d9fa99858bd2eb"  />
+<input type="hidden" name="form_build_id" id="form-635e12e4060c140b99415aa653db3cc8" value="form-635e12e4060c140b99415aa653db3cc8"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -161,7 +161,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
       <div class="view-content">
       <div class="calendar-calendar">
-      <ul class="links links-5"><li class="0 link-0 first"><a href="/law/calendar/events/2013-09-21" rel="nofollow">Today</a></li>
+      <ul class="links links-5"><li class="0 link-0 first"><a href="/law/calendar/events/2013-09-25" rel="nofollow">Today</a></li>
 <li class="calendar calendar-day link-calendar calendar-day"><a href="http://www1.uwindsor.ca/law/calendar/events/2013-09-01" rel="nofollow">Day</a></li>
 <li class="calendar calendar-week link-calendar calendar-week"><a href="http://www1.uwindsor.ca/law/calendar/events/2013-W36" rel="nofollow">Week</a></li>
 <li class="calendar calendar-month link-calendar calendar-month"><a href="http://www1.uwindsor.ca/law/calendar/events/2013-09" rel="nofollow">Month</a></li>
@@ -307,24 +307,24 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 </div>          </td>
                   <td id="events_calendar-2013-09-20" class="fri past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/law/calendar/events/2013-09-20">20</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.1671.field_date.0.3 calendar monthview">
+  <div class="calendar.1642.field_date.0.3 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/law/1671/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
+  <a href="/law/1642/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         1:00pm - 3:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1642.field_date.0.4 calendar monthview">
+  <div class="calendar.1671.field_date.0.4 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/law/1642/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
+  <a href="/law/1671/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         1:00pm - 3:00pm      </div>  
@@ -343,26 +343,26 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-21" class="sat today has-events">
+                  <td id="events_calendar-2013-09-21" class="sat past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/law/calendar/events/2013-09-21">21</a> </div><div class="view-item view-item-events_calendar">
-  <div class="calendar.1671.field_date.0.3 calendar monthview">
+  <div class="calendar.1642.field_date.0.3 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/law/1671/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
+  <a href="/law/1642/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         1:00pm - 3:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1642.field_date.0.4 calendar monthview">
+  <div class="calendar.1671.field_date.0.4 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/law/1642/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
+  <a href="/law/1671/windsor-law-conference-justice-beyond-the-state-transnationalism-and-law"><strong>Windsor Law Conference - Justice Beyond the State: Transnationalism and Law</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         1:00pm - 3:00pm      </div>  
@@ -381,55 +381,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1605.field_date.0.6 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/law/1605/class-of-1998-15th-reunion"><strong>Class of 1998 15th Reunion</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        10:00am - 6:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.1604.field_date.0.7 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/law/1604/class-of-1983-30th-reunion"><strong>Class of 1983 30th Reunion</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        10:00am - 6:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.1603.field_date.0.8 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/law/1603/class-of-2003-10th-reunion"><strong>Class of 2003 10th Reunion</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        10:00am - 6:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.1602.field_date.0.9 calendar monthview">
-    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
-          <div class="view-field view-data-node-title node-title">
-          
-        
-  <a href="/law/1602/class-of-1988-25th-reunion"><strong>Class of 1988 25th Reunion</strong></a>      </div>  
-          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
-          
-        10:00am - 6:00pm      </div>  
-      </div>    
-</div>
-<div class="view-item view-item-events_calendar">
-  <div class="calendar.1601.field_date.0.10 calendar monthview">
+  <div class="calendar.1601.field_date.0.6 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -441,7 +393,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1609.field_date.0.11 calendar monthview">
+  <div class="calendar.1609.field_date.0.7 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -453,7 +405,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1608.field_date.0.12 calendar monthview">
+  <div class="calendar.1608.field_date.0.8 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -465,7 +417,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1607.field_date.0.13 calendar monthview">
+  <div class="calendar.1607.field_date.0.9 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -477,7 +429,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1606.field_date.0.14 calendar monthview">
+  <div class="calendar.1606.field_date.0.10 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -489,43 +441,55 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1689.field_date.0.15 calendar monthview">
+  <div class="calendar.1605.field_date.0.11 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/law/1689/class-of-1978-35th-reunion"><strong>Class of 1978 35th Reunion</strong></a>      </div>  
+  <a href="/law/1605/class-of-1998-15th-reunion"><strong>Class of 1998 15th Reunion</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
-        12:30pm - 6:00pm      </div>  
+        10:00am - 6:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1688.field_date.0.16 calendar monthview">
+  <div class="calendar.1604.field_date.0.12 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/law/1688/class-of-2008-5th-reunion"><strong>Class of 2008 5th Reunion</strong></a>      </div>  
+  <a href="/law/1604/class-of-1983-30th-reunion"><strong>Class of 1983 30th Reunion</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
-        12:30pm - 6:00pm      </div>  
+        10:00am - 6:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1687.field_date.0.17 calendar monthview">
+  <div class="calendar.1603.field_date.0.13 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
-  <a href="/law/1687/class-of-1988-25th-reunion"><strong>Class of 1988 25th Reunion</strong></a>      </div>  
+  <a href="/law/1603/class-of-2003-10th-reunion"><strong>Class of 2003 10th Reunion</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
-        12:30pm - 6:00pm      </div>  
+        10:00am - 6:00pm      </div>  
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1686.field_date.0.18 calendar monthview">
+  <div class="calendar.1602.field_date.0.14 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/law/1602/class-of-1988-25th-reunion"><strong>Class of 1988 25th Reunion</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        10:00am - 6:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.1686.field_date.0.15 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -537,7 +501,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1685.field_date.0.19 calendar monthview">
+  <div class="calendar.1685.field_date.0.16 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -549,7 +513,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1684.field_date.0.20 calendar monthview">
+  <div class="calendar.1684.field_date.0.17 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -561,7 +525,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1683.field_date.0.21 calendar monthview">
+  <div class="calendar.1683.field_date.0.18 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
@@ -573,12 +537,48 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 <div class="view-item view-item-events_calendar">
-  <div class="calendar.1681.field_date.0.22 calendar monthview">
+  <div class="calendar.1681.field_date.0.19 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
           <div class="view-field view-data-node-title node-title">
           
         
   <a href="/law/1681/windsor-law-weekend-celebrating-the-universitys-50th-anniversary"><strong>Windsor Law Weekend Celebrating the University&#039;s 50th Anniversary</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        12:30pm - 6:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.1689.field_date.0.20 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/law/1689/class-of-1978-35th-reunion"><strong>Class of 1978 35th Reunion</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        12:30pm - 6:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.1688.field_date.0.21 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/law/1688/class-of-2008-5th-reunion"><strong>Class of 2008 5th Reunion</strong></a>      </div>  
+          <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
+          
+        12:30pm - 6:00pm      </div>  
+      </div>    
+</div>
+<div class="view-item view-item-events_calendar">
+  <div class="calendar.1687.field_date.0.22 calendar monthview">
+    <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
+          <div class="view-field view-data-node-title node-title">
+          
+        
+  <a href="/law/1687/class-of-1988-25th-reunion"><strong>Class of 1988 25th Reunion</strong></a>      </div>  
           <div class="view-field view-data-node-data-field-date-field-date-value node-data-field-date-field-date-value">
           
         12:30pm - 6:00pm      </div>  
@@ -601,10 +601,10 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
           <tr>
                   <td id="events_calendar-weekno-2013-09-22" class="week">
             <a href="http://www1.uwindsor.ca/law/calendar/events/2013-W39">39</a>          </td>
-                  <td id="events_calendar-2013-09-22" class="sun future has-no-events">
+                  <td id="events_calendar-2013-09-22" class="sun past has-no-events">
             <div class="inner"><div class="month day"> 22 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-23" class="mon future has-events">
+                  <td id="events_calendar-2013-09-23" class="mon past has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/law/calendar/events/2013-09-23">23</a> </div><div class="view-item view-item-events_calendar">
   <div class="calendar.1674.field_date.0.24 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
@@ -618,10 +618,10 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       </div>    
 </div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-24" class="tue future has-no-events">
+                  <td id="events_calendar-2013-09-24" class="tue past has-no-events">
             <div class="inner"><div class="month day"> 24 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-25" class="wed future has-events">
+                  <td id="events_calendar-2013-09-25" class="wed today has-events">
             <div class="inner"><div class="month day"> <a href="http://www1.uwindsor.ca/law/calendar/events/2013-09-25">25</a> </div><div class="view-item view-item-events_calendar">
   <div class="calendar.1692.field_date.0.25 calendar monthview">
     <div style="background-color:#005595;color:#005595" class="stripe" title="Key: Event">&nbsp;</div>
@@ -698,7 +698,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
               <!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-1 count-6 red_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 23, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-statute-research-ii#20130923T120000">Using Online Sources for Statute Research II</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-statute-research-ii-0#20130925T120000">Using Online Sources for Statute Research II</a></li><li class="imported-event">Sep 30, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i#20130930T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i-0#20131002T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 7, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii#20131007T120000">Using Online Sources For Case Law Research II</a></li><li>Oct 7, 2013 <a href="/law/1691/kenneth-feinberg-to-visit-monday-october-7-2013">Kenneth Feinberg to Visit Monday October 7, 2013</a></li><li class="imported-event">Oct 9, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii-0#20131009T120000">Using Online Sources for Case Law Research II</a></li><li class="imported-event">Oct 21, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-0#20131021T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 23, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-1#20131023T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 28, 2013 <a href="http://www1.uwindsor.ca/law/library/legal-citations-1#20131028T120000">Legal Citations</a></li></ul></div><div class="more-link"><a href="/law/calendar/events" class="active">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li class="imported-event">Sep 30, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i#20130930T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 2, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-i-0#20131002T120000">Using Online Sources for Case Law Research I</a></li><li class="imported-event">Oct 7, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii#20131007T120000">Using Online Sources For Case Law Research II</a></li><li>Oct 7, 2013 <a href="/law/1691/kenneth-feinberg-to-visit-monday-october-7-2013">Kenneth Feinberg to Visit Monday October 7, 2013</a></li><li class="imported-event">Oct 9, 2013 <a href="http://www1.uwindsor.ca/law/library/using-online-sources-for-case-law-research-ii-0#20131009T120000">Using Online Sources for Case Law Research II</a></li><li class="imported-event">Oct 21, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-0#20131021T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 23, 2013 <a href="http://www1.uwindsor.ca/law/library/doing-research-for-law-school-essays-1#20131023T120000">Doing Research for Law School Essays</a></li><li class="imported-event">Oct 28, 2013 <a href="http://www1.uwindsor.ca/law/library/legal-citations-1#20131028T120000">Legal Citations</a></li><li class="imported-event">Oct 30, 2013 <a href="http://www1.uwindsor.ca/law/library/legal-citations-2#20131030T120000">Legal Citations</a></li></ul></div><div class="more-link"><a href="/law/calendar/events" class="active">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

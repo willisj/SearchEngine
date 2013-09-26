@@ -183,7 +183,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-8530524a8cd51599b8f9967931db4e15" value="form-8530524a8cd51599b8f9967931db4e15"  />
+<input type="hidden" name="form_build_id" id="form-d36c2e4db3ef10bb5ed92cf82006c81e" value="form-d36c2e4db3ef10bb5ed92cf82006c81e"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -256,7 +256,7 @@ $(function() {
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/header_left_image/Lysistrata-web-banner-2.jpg" alt="Lysistrata" title="Lysistrata by Aristophanes. Directed by Daniel Wozniak, scenic design by David Court, costumes by Agatha Knelsen, lighting by Christopher Popowich. Photo (C) Doug MacLellan, 2010." width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><h1>
+    <div class="header_left_image"><img src="http://www.uwindsor.ca/universityplayers//system/files/imagecache/header_left_image/SeagullBanner_0.jpg" alt="The Seagull" title="The Seagull by Anton Chekhov, adapted by David French. Directed by J.Ed Araiza, scenic design by David Court, costumes by Agatha Knelsen, lighting by Travis Hatt. Photo by David Court." width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><h1>
 	<span>University Players</span></h1>
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->

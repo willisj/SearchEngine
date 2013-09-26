@@ -123,7 +123,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/english/sites/all/themes/zen/zen/ie.css?Q" />
+<link type="text/css" rel="stylesheet" media="all" href="/english/food/sites/all/themes/zen/zen/ie.css?Q" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/english/sites/all/themes/unified_department/print.css" />
@@ -185,7 +185,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-77ca3b9fa6fb4f5bafe83fb9349ce4d2" value="form-77ca3b9fa6fb4f5bafe83fb9349ce4d2"  />
+<input type="hidden" name="form_build_id" id="form-9ffee63990d6b429e77d95c775880fc1" value="form-9ffee63990d6b429e77d95c775880fc1"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -254,7 +254,7 @@ $(function() {
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/homa_0.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/english/creative-writing#homa" target="_self">Individual Growth</a></div><div class="summary">â€œto anyone who is looking for an encouraging, welcoming and rewarding environment to grow inâ€?</div><div class="read_more"><a href="http://www.uwindsor.ca/english/creative-writing#homa" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/Dolmage_0.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/english/creative-writing#dolmage" target="_self">Teaching Experience</a></div><div class="summary">â€œI fell in love with teaching writingâ€?</div><div class="read_more"><a href="http://www.uwindsor.ca/english/creative-writing#dolmage" target="_self">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/english/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>

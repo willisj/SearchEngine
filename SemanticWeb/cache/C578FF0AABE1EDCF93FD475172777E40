@@ -117,11 +117,11 @@ function _doClick(v, o, t) {
 	<div id="tplCenterDiv" style="">
 		<div id="tplLeftDiv">
 <!-- Computed Values ORDER: 1) Menu 2) Quick Links Title 3) Quick Links 4) Contact Info 5) Copyright -->
-<br /><div id="navMenuContainerDiv"><div align="center" style="color: #f00;"><b>Menu Error:</b><br /><br /><a href="mailto:wsg@uwindsor.ca?subject=Missing left-hand menu on http://cronus.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf">Click here to notify ITS</a></div></div><br />
+<br /><div id="navMenuContainerDiv"><div align="center" style="color: #f00;"><b>Menu Error:</b><br /><br /><a href="mailto:wsg@uwindsor.ca?subject=Missing left-hand menu on http://athena.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf">Click here to notify ITS</a></div></div><br />
 <div style="float: left; margin-left:11px; width: 175px; background-color: #FFFFFF;">
 <b><a href="http://www.uwindsor.ca/dailynews">Current Edition</a><br />
 Previous Editions</b>
-<div style="font-size: 0.9em;"><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/36673912ABED331785257BDD00268651/?opendocument">Thursday,September 5, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/E5FFB1A398F97F0E85257BDC002686CE/?opendocument">Wednesday,September 4, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/AC21A3EAE9F07E5C85257BDB00268D15/?opendocument">Tuesday,September 3, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/4218A4B31563734D85257BD60026880B/?opendocument">Thursday,August 29, 2013</a><br /></div>
+<div style="font-size: 0.9em;"><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/36673912ABED331785257BDD00268651/?opendocument">Thursday,September 5, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/E5FFB1A398F97F0E85257BDC002686CE/?opendocument">Wednesday,September 4, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/AC21A3EAE9F07E5C85257BDB00268D15/?opendocument">Tuesday,September 3, 2013</a><br /><a href="http://web4.uwindsor.ca/units/pac/nvdailynews/nvdn.nsf/fulltoday/9D3624D0328BBE5A85257BD300268815/?opendocument">Monday,August 26, 2013</a><br /></div>
 <br /><br /><div align="center"><br>
 <a href="http://www.uwindsor.ca/units/pac/Campus_events/campusevents.nsf/posteventanonymous?openform" class="Toc"><font size="2" face="Arial">Do you have an event that you wish to publicize?</font></a>
 <br>
@@ -149,7 +149,7 @@ Previous Editions</b>
 <a class ="Toc" href="javascript:openWindow2()'>]RSS Feed <img src="/units/pac/nvdailynews/nvdn.nsf/rssfeed.gif" border="0"></a><br />
 </div><br clear="all" />
 <br />
-<div class="tplSmallLightText"><br />&copy; Copyright 2013<br />University of Windsor<br /></div><!-- Ref.Code: CRONUS-->
+<div class="tplSmallLightText"><br />&copy; Copyright 2013<br />University of Windsor<br /></div><!-- Ref.Code: ATHENA-->
 <br /><br /><br />
 </div><!-- end of tplLeftDiv -->
 <div style="float: right;">Friday, September 6, 2013</div>

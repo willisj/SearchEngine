@@ -43,7 +43,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/hk/sites/all/themes/zen/zen/ie.css?X" />
+<link type="text/css" rel="stylesheet" media="all" href="/hk/awards/sites/all/themes/zen/zen/ie.css?X" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/hk/sites/all/themes/unified_department/print.css" />
@@ -91,7 +91,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-e21073ba320c742613a50023f3f41807" value="form-e21073ba320c742613a50023f3f41807"  />
+<input type="hidden" name="form_build_id" id="form-1e8a7c23fe92b6f93e2c0aec42dfe636" value="form-1e8a7c23fe92b6f93e2c0aec42dfe636"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -199,7 +199,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
       <div class="view-content">
       <div class="calendar-calendar">
-      <ul class="links links-5"><li class="0 link-0 first"><a href="/hk/calendar/events/2013-09-21" rel="nofollow">Today</a></li>
+      <ul class="links links-5"><li class="0 link-0 first"><a href="/hk/calendar/events/2013-09-25" rel="nofollow">Today</a></li>
 <li class="calendar calendar-day link-calendar calendar-day"><a href="http://www1.uwindsor.ca/hk/calendar/events/2013-09-01" rel="nofollow">Day</a></li>
 <li class="calendar calendar-week link-calendar calendar-week"><a href="http://www1.uwindsor.ca/hk/calendar/events/2013-W36" rel="nofollow">Week</a></li>
 <li class="calendar calendar-month link-calendar calendar-month"><a href="http://www1.uwindsor.ca/hk/calendar/events/2013-09" rel="nofollow">Month</a></li>
@@ -313,23 +313,23 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                   <td id="events_calendar-2013-09-20" class="fri past has-no-events">
             <div class="inner"><div class="month day"> 20 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-21" class="sat today has-no-events">
+                  <td id="events_calendar-2013-09-21" class="sat past has-no-events">
             <div class="inner"><div class="month day"> 21 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
               </tr>
           <tr>
                   <td id="events_calendar-weekno-2013-09-22" class="week">
             <a href="http://www1.uwindsor.ca/hk/calendar/events/2013-W39">39</a>          </td>
-                  <td id="events_calendar-2013-09-22" class="sun future has-no-events">
+                  <td id="events_calendar-2013-09-22" class="sun past has-no-events">
             <div class="inner"><div class="month day"> 22 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-23" class="mon future has-no-events">
+                  <td id="events_calendar-2013-09-23" class="mon past has-no-events">
             <div class="inner"><div class="month day"> 23 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-24" class="tue future has-no-events">
+                  <td id="events_calendar-2013-09-24" class="tue past has-no-events">
             <div class="inner"><div class="month day"> 24 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
-                  <td id="events_calendar-2013-09-25" class="wed future has-no-events">
+                  <td id="events_calendar-2013-09-25" class="wed today has-no-events">
             <div class="inner"><div class="month day"> 25 </div><div class="calendar-empty">&nbsp;</div>
 </div>          </td>
                   <td id="events_calendar-2013-09-26" class="thu future has-no-events">

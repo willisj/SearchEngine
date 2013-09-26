@@ -5,7 +5,7 @@
   <title>Welcome to the Paul Martin Law Library  | Law Library - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-09-20 12:37:39" />
+<meta name="modified" content="2013-09-23 06:26:24" />
 <meta name="created" content="2009-05-18 08:15:59" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -92,7 +92,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search Windsor Law&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-bdf02d849e0dc1dce7f5868cf426f3e0" value="form-bdf02d849e0dc1dce7f5868cf426f3e0"  />
+<input type="hidden" name="form_build_id" id="form-2264168b29ef997715ffdcba4c581487" value="form-2264168b29ef997715ffdcba4c581487"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -196,12 +196,9 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and learning in a supportive environment.</p>
 <p>&nbsp;</p>
 <h3>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Weekend&#39;s<strong> Library Hours:&nbsp; </strong></h3>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Today&#39;s<strong> Library Hours:&nbsp; </strong></h3>
 <h3>
-	<font color="#0000ff">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color="#0000ff"><font color="#0000ff">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Friday - 8:30 AM - 4:50 PM<br />
-	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Saturday - 10:00 AM - 4:50 PM<br />
-	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sunday - 11:00 AM - 10:50 PM<br />
-	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Monday -&nbsp;8:30 AM - 10:50 PM</font></font></font></h3>
+	<font color="#0000ff">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color="#0000ff"><font color="#0000ff">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8:30 AM - 10:50 PM</font></font></font></h3>
 <h3>
 	<font color="#0000ff"><font color="#0000ff"><font color="#0000ff"><font color="#0000ff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></font></font></font><strong><strong><font color="#0000ff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></strong></strong></h3>
 <h3>
@@ -240,7 +237,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
               <!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd odd region-count-1 count-7 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 23, 2013 <a href="/law/library/using-online-sources-for-statute-research-ii">Using Online Sources for Statute Research II</a></li><li>Sep 25, 2013 <a href="/law/library/using-online-sources-for-statute-research-ii-0">Using Online Sources for Statute Research II</a></li><li>Sep 30, 2013 <a href="/law/library/using-online-sources-for-case-law-research-i">Using Online Sources for Case Law Research I</a></li><li>Oct 2, 2013 <a href="/law/library/using-online-sources-for-case-law-research-i-0">Using Online Sources for Case Law Research I</a></li><li>Oct 7, 2013 <a href="/law/library/using-online-sources-for-case-law-research-ii">Using Online Sources For Case Law Research II</a></li><li>Oct 9, 2013 <a href="/law/library/using-online-sources-for-case-law-research-ii-0">Using Online Sources for Case Law Research II</a></li><li>Oct 21, 2013 <a href="/law/library/doing-research-for-law-school-essays-0">Doing Research for Law School Essays</a></li><li>Oct 23, 2013 <a href="/law/library/doing-research-for-law-school-essays-1">Doing Research for Law School Essays</a></li><li>Oct 28, 2013 <a href="/law/library/legal-citations-1">Legal Citations</a></li><li>Oct 30, 2013 <a href="/law/library/legal-citations-2">Legal Citations</a></li></ul></div><div class="more-link"><a href="/law/library/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 30, 2013 <a href="/law/library/using-online-sources-for-case-law-research-i">Using Online Sources for Case Law Research I</a></li><li>Oct 2, 2013 <a href="/law/library/using-online-sources-for-case-law-research-i-0">Using Online Sources for Case Law Research I</a></li><li>Oct 7, 2013 <a href="/law/library/using-online-sources-for-case-law-research-ii">Using Online Sources For Case Law Research II</a></li><li>Oct 9, 2013 <a href="/law/library/using-online-sources-for-case-law-research-ii-0">Using Online Sources for Case Law Research II</a></li><li>Oct 21, 2013 <a href="/law/library/doing-research-for-law-school-essays-0">Doing Research for Law School Essays</a></li><li>Oct 23, 2013 <a href="/law/library/doing-research-for-law-school-essays-1">Doing Research for Law School Essays</a></li><li>Oct 28, 2013 <a href="/law/library/legal-citations-1">Legal Citations</a></li><li>Oct 30, 2013 <a href="/law/library/legal-citations-2">Legal Citations</a></li></ul></div><div class="more-link"><a href="/law/library/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--><!--googleoff: all--><div id="block-views-news-block_1" class="block block-views region-even even region-count-2 count-8 green_title law-library-news"><div class="block-inner">
           <h2 class="title">Law Library News</h2>
@@ -255,37 +252,37 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/extra-legal-research-classes-added-due-to-popular-demand">Extra Legal Research Classes Added Due to Popular Demand!</a></span>
+                <span class="field-content"><a href="/law/library/law-library-printers-are-down">Law Library Printers are NOW WORKING</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/new-law-library-policing-law-in-canada-research-pages">NEW! Law Library Policing Law in Canada Research pages</a></span>
+                <span class="field-content"><a href="/law/library/extra-legal-research-classes-added-due-to-popular-demand">Extra Legal Research Classes Added Due to Popular Demand!</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/update-sign-up-sheets-for-legal-research-sessions">Update: Sign-Up Sheets for Legal Research Sessions</a></span>
+                <span class="field-content"><a href="/law/library/new-law-library-policing-law-in-canada-research-pages">NEW! Law Library Policing Law in Canada Research pages</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/monday-legal-research-classes">Monday Legal Research Classes</a></span>
+                <span class="field-content"><a href="/law/library/update-sign-up-sheets-for-legal-research-sessions">Update: Sign-Up Sheets for Legal Research Sessions</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/welcome-law-students">Welcome Law Students!</a></span>
+                <span class="field-content"><a href="/law/library/monday-legal-research-classes">Monday Legal Research Classes</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/un-war-crimes-commission%E2%80%99s-archive-is-now-available-in-the-icc-legal-tools-database">UN War Crimes Commission’s archive is now available in the ICC Legal Tools Database</a></span>
+                <span class="field-content"><a href="/law/library/welcome-law-students">Welcome Law Students!</a></span>
   </div>
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/summer-students-need-access-to-other-libraries">Summer Students - Need Access to Other Libraries?</a></span>
+                <span class="field-content"><a href="/law/library/un-war-crimes-commission%E2%80%99s-archive-is-now-available-in-the-icc-legal-tools-database">UN War Crimes Commission’s archive is now available in the ICC Legal Tools Database</a></span>
   </div>
 </li>
       </ul>
@@ -320,37 +317,37 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/legal-wit-%E2%80%94-the-cheshire-cat-of-legal-issues">Legal Wit — the Cheshire Cat of legal issues</a></span>
+                <span class="field-content"><a href="/law/library/a-functioning-justice-system">A functioning justice system</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/thanks-but-well-have-no-inquiry">Thanks, but we&#039;ll have no inquiry</a></span>
+                <span class="field-content"><a href="/law/library/envisioning-equal-justice-1">Envisioning equal justice</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/divito-v-canada-public-safety-and-emergency-preparedness-2013-scc-47-canlii">Divito v. Canada (Public Safety and Emergency Preparedness), 2013 SCC 47 (CanLII)</a></span>
+                <span class="field-content"><a href="/law/library/leaking-information">Leaking information</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/you-need-to-know-this">You need to know this</a></span>
+                <span class="field-content"><a href="/law/library/the-next-internet-boom">The next internet boom?</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/digest-of-the-week-%E2%80%94-witness-or-party-to-the-contract">Digest of the Week — Witness or party to the contract?</a></span>
+                <span class="field-content"><a href="/law/library/judging-the-man-by-the-boy">Judging the man by the boy</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/2013-lenczner-slaght-cba-gale-cup">2013 Lenczner Slaght CBA Gale Cup</a></span>
+                <span class="field-content"><a href="/law/library/tom-ginsburgs-comparative-constitutions-project-launches-constitute-with-google-ideas">Tom Ginsburg&#039;s Comparative Constitutions Project Launches &quot;Constitute&quot; with Google Ideas</a></span>
   </div>
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/law/library/study-sleep-study-eat-study">Study. Sleep. Study. Eat. Study.</a></span>
+                <span class="field-content"><a href="/law/library/td-exec-fully-aware-of-limitations-on-deferred-comp-agreement-judge">TD exec fully aware of limitations on deferred comp agreement: judge</a></span>
   </div>
 </li>
       </ul>

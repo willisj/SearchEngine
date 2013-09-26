@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1362.field_date.0.0
 SUMMARY:A Brief History of Analytics and Databases
-DTSTAMP:20130921T205922
+DTSTAMP:20130925T210742
 DTSTART:20130320T130000
 DTEND:20130320T142000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1362/a-breif-history-of-analytics-and-databases#20130320T130000

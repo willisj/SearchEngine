@@ -5,7 +5,7 @@
   <title>Graduate Diploma in Advanced Practice Oncology/Palliative Nursing | Nursing - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-09-19 11:30:00" />
+<meta name="modified" content="2013-09-25 03:03:09" />
 <meta name="created" content="2012-04-03 11:49:14" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -120,7 +120,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/nursing/research/sites/all/themes/zen/zen/ie.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/sites/all/themes/zen/zen/ie.css?s" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-b7137084d8c5df34c4e255ca52d9614c" value="form-b7137084d8c5df34c4e255ca52d9614c"  />
+<input type="hidden" name="form_build_id" id="form-a485cfc5d93ec6047b5dc68792ebc94d" value="form-a485cfc5d93ec6047b5dc68792ebc94d"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -212,7 +212,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-b7137084d8c5df34c4e255ca52d9614c" value="form-b7137084d8c5df34c4e255ca52d9614c"  />
+<input type="hidden" name="form_build_id" id="form-a485cfc5d93ec6047b5dc68792ebc94d" value="form-a485cfc5d93ec6047b5dc68792ebc94d"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -310,7 +310,7 @@ $(function() {
 <li>
 		<a href="/registrar/admission-requirements-faculty-of-graduate-studies" target="_blank">Admission requirements</a>&nbsp;(scroll down to Nursing)</li>
 <li>
-		To apply, complete the <a href="/registrar/how-to-apply-0" target="_blank">Online Application</a>. Students must also complete an <a href="/nursing/system/files/ApplicationFrms%20MN%20MSc%20NP%20Oncology%202012%202013.pdf" target="_blank">applicant profile and additional forms</a>.&nbsp; <strong>Note</strong>: for Fall intake, applications must be received by&nbsp;February 15, or until seats filled. Applications are still being accepted.</li>
+		To apply, complete the <a href="/registrar/how-to-apply-0" target="_blank">Online Application</a>. Students must also complete an <a href="http://www1.uwindsor.ca/nursing/system/files/ApplicationFrms%20MN%20MSc%20NP%20Oncology%202013%202014%281%29.pdf" target="_blank">applicant profile and additional forms</a>.&nbsp; <strong>Note</strong>: Applications must be received by&nbsp;February 15, or until seats filled.</li>
 </ul>
 <p><strong><strong><font face="Arial" size="2">Media/news about this new program:</font></strong></strong></p>
 <ul type="disc">

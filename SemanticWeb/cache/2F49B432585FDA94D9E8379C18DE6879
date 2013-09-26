@@ -5,7 +5,7 @@
   <title>Our Office Hours | Student Awards & Financial Aid - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-08-30 11:37:25" />
+<meta name="modified" content="2013-09-23 04:53:24" />
 <meta name="created" content="2009-07-02 10:16:33" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -90,8 +90,8 @@ z-index:10;
 
 img.right-grad{position:absolute; bottom:0px}</style>
 <link rel="alternate" type="application/rss+xml" title="News" href="/awards/newsfeed" />
-<meta name="description" content="Office Closure Alert: Tuesday, September 3: The office will open at 9:30 AM due to maintenance being done in the Faculty of Education Building affecting our electrical services." />
-<meta name="dcterms.description" content="Office Closure Alert: Tuesday, September 3: The office will open at 9:30 AM due to maintenance being done in the Faculty of Education Building affecting our electrical services." />
+<meta name="description" content="Office Closure Alert: Wednesday, September 25: The office will open at 1:35PM due to staff training and phone service hours will operate from 1:35 - 4:00 PM." />
+<meta name="dcterms.description" content="Office Closure Alert: Wednesday, September 25: The office will open at 1:35PM due to staff training and phone service hours will operate from 1:35 - 4:00 PM." />
 <link rel="canonical" href="http://www1.uwindsor.ca/awards/student-awards-financial-aid-office-hours" />
 <meta name="revisit-after" content="1 day" />
 <meta name="geo.position" content="0;0" />
@@ -191,7 +191,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-9ac1c30bd8ad8577bb4624f53ecfb5f3" value="form-9ac1c30bd8ad8577bb4624f53ecfb5f3"  />
+<input type="hidden" name="form_build_id" id="form-d21aed84a7874041bcb5d531ca3d0f33" value="form-d21aed84a7874041bcb5d531ca3d0f33"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -326,19 +326,14 @@ $(function() {
       <div class="content">
     <h5>
 	Office Closure Alert:</h5>
-<p><strong>Tuesday, September 3:</strong> The office will open at 9:30 AM due to maintenance being done in the Faculty of Education Building affecting our electrical services.</p>
-<hr />
-<h5>
-	Extended Hours Alert:</h5>
-<p>September 10/11: The office will remain open until 6:15 PM<br />
-	September 17/18: The office will remain open until 6:15 PM</p>
+<p><strong>Wednesday, September 25:</strong> The office will open at&nbsp;1:35PM due to staff training and phone service hours will operate from 1:35 - 4:00 PM.</p>
 <hr />
 <h5>
 	New location:</h5>
 <p>Room 1124, Lower Level,&nbsp;Faculty of Education Building</p>
 <p>*Please Note* For your convenience, a secure drop box is located&nbsp;just outside&nbsp;the lobby area of Student Awards and Financial Aid and is accessible from 7:00 a.m. to 10:00 p.m. Monday to Friday.</p>
 <hr />
-<p>Our office hours are:</p>
+<p>Our regular office hours are:</p>
 <p>Monday -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:00 a.m.&nbsp;- 4:00 p.m.<br />
 	Tuesday -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:00 a.m. - 4:00 p.m.<br />
 	Wednesday -&nbsp;1:00 p.m. - 4:00 p.m.<br />
@@ -380,30 +375,20 @@ $(function() {
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/awards/extended-hours-in-september">Extended Hours in September</a></span>
+                <span class="field-content"><a href="/awards/osap-and-paying-tuitionfees">OSAP and Paying Tuition/Fees</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/awards/osap-and-paying-tuitionfees">OSAP and Paying Tuition/Fees</a></span>
+                <span class="field-content"><a href="/awards/20132014-osap-30-off-ontario-tuition-grant-applications-are-now-available">2013/2014 OSAP &amp; 30% Off Ontario Tuition Grant Applications are now available!</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/awards/fall-2013-scholarship-payment-information">Fall 2013 Scholarship Payment Information</a></span>
-  </div>
-</li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/awards/20132014-osap-30-off-ontario-tuition-grant-applications-are-now-available">2013/2014 OSAP &amp; 30% Off Ontario Tuition Grant Applications are now available!</a></span>
-  </div>
-</li>
-          <li class="views-row views-row-6 views-row-even">  
-  <div class="views-field-title">
                 <span class="field-content"><a href="/awards/osap-the-income-update-process">OSAP &amp; the Income Update Process</a></span>
   </div>
 </li>
-          <li class="views-row views-row-7 views-row-odd views-row-last">  
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
   <div class="views-field-title">
                 <span class="field-content"><a href="/awards/new-for-1213-electronic-confirmation-of-enrolment-process-osap-release-0">Electronic Confirmation of Enrolment Process (OSAP)</a></span>
   </div>

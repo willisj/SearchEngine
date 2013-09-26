@@ -10,7 +10,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.1435.field_date.0.0
 SUMMARY:Computer Science Doctoral Thesis Proposal - Yifeng Li
-DTSTAMP:20130921T205911
+DTSTAMP:20130925T210734
 DTSTART:20130605T143000
 DTEND:20130605T160000
 URL;VALUE=URI:http://www1.uwindsor.ca/cs/1435/computer-science-doctoral-thesis-proposal-yifeng-li#20130605T143000

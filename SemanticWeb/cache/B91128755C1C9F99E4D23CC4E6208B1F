@@ -5,7 +5,7 @@
   <title>New graduate programs and initiatives | Graduate Studies - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-05-08 08:31:54" />
+<meta name="modified" content="2013-09-24 10:12:12" />
 <meta name="created" content="2011-03-22 01:20:45" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -185,7 +185,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-ccabd722ab82addc04a84213e8284af5" value="form-ccabd722ab82addc04a84213e8284af5"  />
+<input type="hidden" name="form_build_id" id="form-fa8c5d42725fd906916b51ffa3e9cef9" value="form-fa8c5d42725fd906916b51ffa3e9cef9"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -262,7 +262,7 @@ $(function() {
                 <!--googleoff: all--><div id="block-uw_department_global_blocks-1" class="block block-uw_department_global_blocks region-odd odd region-count-1 count-3  spiff"><div class="block-inner">
           <h2 class="title">SPIFF</h2>
     <div class="content">
-    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/alex_lusty_polsci_small.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://www.uwindsor.ca/polsci/alex-lusty" target="_self">Our Graduates</a></div><div class="summary">Alex Lusty earned an MA in Political Science after studying planning and environmental studies, and now works as a land use planner and consultant.</div><div class="read_more"><a href="http://www.uwindsor.ca/polsci/alex-lusty" target="_self">Read</a></div></div>  </div>
+    <div class = 'spiff_block_container'><div class="spiff_category">Spotlight</div><div class="spiff_image"><img src="/system/files/imagecache/180by101_image/spif/images/header/wind-energy.jpg" alt="Spotlight" /></div><div class="spiff_title"><a href="http://web2.uwindsor.ca/alumni/View/spring10/index.html" target="_self">Potential of Wind Energy</a></div><div class="summary">Wind is currently the most rapidly growing component of the renewable energy protfolio.  Do the benefits outweigh the concerns that are being voiced?</div><div class="read_more"><a href="http://web2.uwindsor.ca/alumni/View/spring10/index.html" target="_self">Read</a></div></div>  </div>
   <div class="bpng"><img alt="bpng" src="/graduate/sites/all/themes/unified_department/images/footer-shadow.png" /></div>  </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
                                         </div>
@@ -271,7 +271,7 @@ $(function() {
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd even region-count-1 count-4 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/graduate/system/files/imagecache/header_left_image/banner3.jpg" alt="Graduate stuedents working in labs" title="Faculty of Graduate Studies" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/graduate/system/files/imagecache/header_left_image/banner2.jpg" alt="Graduate stuedents conducting research" title="Faculty of Graduate Studies" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
                 <div class="header_random_images">
@@ -310,8 +310,19 @@ $(function() {
     <p>Windsor&#39;s graduate student enrolment has increased by 60% since 2000 and we are continuing to grow - currently we offer over&nbsp;<a href="/graduate/graduate-programs-directory">60 research-based and professional graduate programs</a>, including the following recent program developments and joint initiatives:</p>
 <ul dir="ltr">
 <li>
-		Master of Actuarial Science - approved in April&#39;2013.</li>
-<p>	This program will give international students an opportunity to focus on actuarial studies for careers in insurance, pensions, and healthcare. More information will be available soon.</p>
+		<a href="http://web4.uwindsor.ca/units/registrar/calendars/graduate/cur.nsf/982f0e5f06b5c9a285256d6e006cff78/d749051536d1247785257b8f005944b8!OpenDocument">International Master&rsquo;s Program in Automotive Engineering</a><strong> </strong>(dual degree)<strong> </strong>- approved in September&#39;2013.
+<ul>
+<li>
+				Graduates of the dual degree program will receive two degrees: (1) the &ldquo;Laurea Magistrale in Automotive&nbsp;Engineering&rdquo; issued by Politecnico di Torino (Italy) and (2) International Master&#39;s of Applied Science in&nbsp;Automotive Engineering issued by the University of Windsor.&nbsp;</li>
+</ul>
+</li>
+<li>
+		<a href="http://web4.uwindsor.ca/units/registrar/calendars/graduate/cur.nsf/Search+Main/F000CA265D27FE8985257B2D0065361A?OpenDocument">Master of Actuarial Science</a> - approved in April&#39;2013.
+<ul>
+<li>
+				This program will give international students an opportunity to focus on actuarial studies for careers in insurance, pensions, and healthcare.&nbsp;</li>
+</ul>
+</li>
 <li>
 		<a href="/professional/master-of-medical-biotechnology-0">Master of Medical Biotechnology </a>- approved in December&#39;2012</li>
 <li>
@@ -353,37 +364,37 @@ $(function() {
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/graduate/the-graduate-studies-office-will-be-closed-from-1130am-to-1pm-on-tuesday-sept-24th-2013">&gt; The Graduate Studies office will be closed from 11:30am to 1pm on Tuesday, Sept. 24th, 2013</a></span>
+                <span class="field-content"><a href="/graduate/mitacs-step-online-workshops-and-webinars-in-october">&gt; MITACS STEP online workshops and webinars in October</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/graduate/nov-13-university-of-windsor-graduate-studies-showcase">&gt; Nov. 13: University of Windsor Graduate Studies Showcase</a></span>
+                <span class="field-content"><a href="/graduate/register-for-the-mitacs-step-workshop-on-nov-7-2013-0">&gt; Register for the MITACS STEP workshop on Nov. 7, 2013</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/graduate/sept-24th-information-session-for-students-applying-for-nserc-graduate-scholarships">&gt;  Sept. 24th: Information session for students applying for NSERC graduate scholarships</a></span>
+                <span class="field-content"><a href="/graduate/the-graduate-studies-office-will-be-closed-from-1130am-to-1pm-on-tuesday-sept-24th-2013">&gt; The Graduate Studies office will be closed from 11:30am to 1pm on Tuesday, Sept. 24th, 2013</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/graduate/meghan-doster-is-the-201213-governor-generals-gold-medal-winner">&gt; Meghan Doster is the 2012/13 Governor General&#039;s Gold Medal winner</a></span>
+                <span class="field-content"><a href="/graduate/nov-13-university-of-windsor-graduate-studies-showcase">&gt; Nov. 13: University of Windsor Graduate Studies Showcase</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/graduate/cihr-information-sessions-for-students-on-awards-in-health-research">&gt; CIHR Information Sessions for Students on Awards in Health Research</a></span>
+                <span class="field-content"><a href="/graduate/sept-24th-information-session-for-students-applying-for-nserc-graduate-scholarships">&gt;  Sept. 24th: Information session for students applying for NSERC graduate scholarships</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/graduate/information-session-for-students-applying-for-external-graduate-scholarships-cihr-nserc-sshrc-ogs">&gt; Information session for students applying for external graduate scholarships (CIHR, NSERC, SSHRC, OGS) - handout</a></span>
+                <span class="field-content"><a href="/graduate/meghan-doster-is-the-201213-governor-generals-gold-medal-winner">&gt; Meghan Doster is the 2012/13 Governor General&#039;s Gold Medal winner</a></span>
   </div>
 </li>
           <li class="views-row views-row-7 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/graduate/deadline-dates-for-external-graduate-scholarship-competitions-nserc-sshrc-cihr-and-ogs-2014-15">&gt; Deadlines for 2014-15 external graduate scholarship competitions (NSERC, SSHRC, CIHR and OGS)</a></span>
+                <span class="field-content"><a href="/graduate/cihr-information-sessions-for-students-on-awards-in-health-research">&gt; CIHR Information Sessions for Students on Awards in Health Research</a></span>
   </div>
 </li>
       </ul>
@@ -418,58 +429,6 @@ $(function() {
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/graduate/final-oral-defense-meaghan-fisherma-transgressive-definitions-kimberly-nixon-and-the-sociological-ef">Final oral defense: Meaghan Fisher(M.A.), &quot;Transgressive Definitions: Kimberly Nixon and the Sociological Effects of Language Imprecision&quot;</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-2 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 24, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/graduate/information-session-for-students-applying-for-nserc-graduate-scholarships">Information session for students applying for NSERC graduate scholarships</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-3 views-row-odd">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/graduate/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-0">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-4 views-row-even">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/graduate/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-5 views-row-odd">  
-  <span class="views-field-field-date-value">
-                <span class="field-content"><span class="date-display-single">Sep 25, 2013</span></span>
-  </span>
-  
-  <span class="views-field-title">
-                <span class="field-content">
-  <a href="/graduate/final-oral-defense-yupeng-lin-masc-investigation-on-up-fitting-lead-time-reduction-for-vehicle-assem">Final oral defense: Yupeng Lin (M.A.Sc.), &quot;Investigation on Up-fitting Lead Time Reduction for Vehicle Assembly&quot;</a></span>
-  </span>
-</li>
-          <li class="views-row views-row-6 views-row-even">  
-  <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Sep 27, 2013</span></span>
   </span>
   
@@ -478,7 +437,7 @@ $(function() {
   <a href="/graduate/final-oral-defense-aisha-alsaleh-msc-surfaced-enhanced-raman-scattering-and-fluorescence-of-tagged-p">Final oral defense: Aisha Alsaleh (M.Sc.), &quot;Surfaced Enhanced Raman Scattering and Fluorescence of Tagged Phospholipids in Langmuir-Blodgett Monolayers&quot;</a></span>
   </span>
 </li>
-          <li class="views-row views-row-7 views-row-odd views-row-last">  
+          <li class="views-row views-row-2 views-row-even">  
   <span class="views-field-field-date-value">
                 <span class="field-content"><span class="date-display-single">Oct 14, 2013</span></span>
   </span>
@@ -486,6 +445,37 @@ $(function() {
   <span class="views-field-title">
                 <span class="field-content">
   <a href="/graduate/thanksgiving-day-statutory-holiday-no-classes">Thanksgiving Day (statutory holiday) - No classes</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 18, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-1">Last day for completion of all requirements for graduate degrees under Phase  
+ II (50% tuition refund)</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 19, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/fall-convocation">Fall Convocation</a></span>
+  </span>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Oct 22, 2013</span></span>
+  </span>
+  
+  <span class="views-field-title">
+                <span class="field-content">
+  <a href="/graduate/final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot">Final oral defense: Waldo Perez Regalado (Ph.D.), &quot;Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process&quot;</a></span>
   </span>
 </li>
       </ul>
@@ -529,13 +519,18 @@ $(function() {
 <p>&nbsp;</p>
   </div>
     </div></div> <!-- /block-inner, /block -->
-<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even odd region-count-4 count-9 blue_title upcoming-events"><div class="block-inner">
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-even odd region-count-4 count-9 blue_title todays-events"><div class="block-inner">
+          <h2 class="title">Today's Events</h2>
+    <div class="content">
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li class="imported-event"> <a href="http://www1.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
+ Convocation (graduate degrees)</a></li><li class="imported-event"> <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
+ I (100% tuition refund)</a></li><li>8:30AM <a href="/graduate/final-oral-defense-yupeng-lin-masc-investigation-on-up-fitting-lead-time-reduction-for-vehicle-assem">Final oral defense: Yupeng Lin (M.A.Sc.), "Investigation on Up-fitting Lead Time Reduction for Vehicle Assembly"</a></li></ul></div>  </div>
+    </div></div> <!-- /block-inner, /block -->
+<!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-odd even region-count-5 count-10 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 24, 2013 <a href="/graduate/final-oral-defense-meaghan-fisherma-transgressive-definitions-kimberly-nixon-and-the-sociological-ef">Final oral defense: Meaghan Fisher(M.A.), "Transgressive Definitions: Kimberly Nixon and the Sociological Effects of Language Imprecision"</a></li><li>Sep 24, 2013 <a href="/graduate/information-session-for-students-applying-for-nserc-graduate-scholarships">Information session for students applying for NSERC graduate scholarships</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-to-deposit-dissertations-theses-and-major-papers-for-fall-convocation-graduate-degrees-0#20130925">Last day to deposit dissertations, theses and major papers for Fall  
- Convocation (graduate degrees)</a></li><li class="imported-event">Sep 25, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-i-100-tuition-refund-2#20130925">Last day for completion of all requirements for graduate degrees under Phase  
- I (100% tuition refund)</a></li><li>Sep 25, 2013 <a href="/graduate/final-oral-defense-yupeng-lin-masc-investigation-on-up-fitting-lead-time-reduction-for-vehicle-assem">Final oral defense: Yupeng Lin (M.A.Sc.), "Investigation on Up-fitting Lead Time Reduction for Vehicle Assembly"</a></li><li>Sep 27, 2013 <a href="/graduate/final-oral-defense-aisha-alsaleh-msc-surfaced-enhanced-raman-scattering-and-fluorescence-of-tagged-p">Final oral defense: Aisha Alsaleh (M.Sc.), "Surfaced Enhanced Raman Scattering and Fluorescence of Tagged Phospholipids in Langmuir-Blodgett Monolayers"</a></li><li class="imported-event">Oct 14, 2013 <a href="http://www1.uwindsor.ca/registrar/thanksgiving-day-statutory-holiday-no-classes-2#20131014">Thanksgiving Day (statutory holiday) - No classes</a></li><li class="imported-event">Oct 18, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8#20131018">Last day for completion of all requirements for graduate degrees under Phase  
- II (50% tuition refund)</a></li><li class="imported-event">Oct 19, 2013 <a href="http://www1.uwindsor.ca/registrar/fall-convocation-2#20131019">Fall Convocation</a></li><li>Oct 22, 2013 <a href="/graduate/final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot">Final oral defense: Waldo Perez Regalado (Ph.D.), "Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process"</a></li></ul></div><div class="more-link"><a href="/graduate/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 27, 2013 <a href="/graduate/final-oral-defense-aisha-alsaleh-msc-surfaced-enhanced-raman-scattering-and-fluorescence-of-tagged-p">Final oral defense: Aisha Alsaleh (M.Sc.), "Surfaced Enhanced Raman Scattering and Fluorescence of Tagged Phospholipids in Langmuir-Blodgett Monolayers"</a></li><li class="imported-event">Oct 14, 2013 <a href="http://www1.uwindsor.ca/registrar/thanksgiving-day-statutory-holiday-no-classes-2#20131014">Thanksgiving Day (statutory holiday) - No classes</a></li><li class="imported-event">Oct 18, 2013 <a href="http://www1.uwindsor.ca/registrar/last-day-for-completion-of-all-requirements-for-graduate-degrees-under-phase-ii-50-tuition-refund-8#20131018">Last day for completion of all requirements for graduate degrees under Phase  
+ II (50% tuition refund)</a></li><li class="imported-event">Oct 19, 2013 <a href="http://www1.uwindsor.ca/registrar/fall-convocation-2#20131019">Fall Convocation</a></li><li>Oct 22, 2013 <a href="/graduate/final-oral-defense-waldo-perez-regalado-phd-ultrasonic-real-time-quality-monitoring-of-aluminum-spot">Final oral defense: Waldo Perez Regalado (Ph.D.), "Ultrasonic Real-Time Quality Monitoring of Aluminum Spot Weld Process"</a></li><li>Nov 7, 2013 <a href="/graduate/register-for-the-mitacs-step-workshop-on-nov-7-2013">MITACS STEP workshop </a></li><li>Nov 13, 2013 <a href="/graduate/university-of-windsor-graduate-studies-showcase">University of Windsor Graduate Studies Showcase</a></li></ul></div><div class="more-link"><a href="/graduate/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

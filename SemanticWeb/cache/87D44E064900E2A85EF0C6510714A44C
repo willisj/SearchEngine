@@ -126,7 +126,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/cs/residence/residence/sites/all/themes/zen/zen/ie.css?6" />
+<link type="text/css" rel="stylesheet" media="all" href="/cs/food/sites/all/themes/zen/zen/ie.css?6" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/cs/sites/all/themes/unified_department/print.css" />
@@ -176,7 +176,7 @@ $(function() {
     <style type="text/css" media="only screen and (min-width: 481px) and (max-width: 800px)">@import url('/cs/sites/all/themes/unified_department/responsive/480-default.css');</style>    
     
 </head>
-<body class="uw_front front not-logged-in no-sidebars ">
+<body class="uw_front front not-logged-in one-sidebar sidebar-right ">
   <div class="wrapper-outter">
     <div class="header">
       <img src="/cs/sites/all/themes/unified_department/responsive/images/header-bg.jpg" id="header-bg" class="mobile-only" alt="Site Search" />
@@ -195,7 +195,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-76f8555c1131a2b29b199b33ee421ce4" value="form-76f8555c1131a2b29b199b33ee421ce4"  />
+<input type="hidden" name="form_build_id" id="form-486c0c4d2cfc6f966117c9cbb28fec50" value="form-486c0c4d2cfc6f966117c9cbb28fec50"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -222,7 +222,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-76f8555c1131a2b29b199b33ee421ce4" value="form-76f8555c1131a2b29b199b33ee421ce4"  />
+<input type="hidden" name="form_build_id" id="form-486c0c4d2cfc6f966117c9cbb28fec50" value="form-486c0c4d2cfc6f966117c9cbb28fec50"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -323,7 +323,7 @@ $(function() {
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_front-1" class="block block-uw_front region-even even region-count-2 count-4  upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <ul><li>There are currently no scheduled events.</li></ul><style type="text/css">#splash-page-accordion-region #block-uw_front-1 ul, #splash-page-accordion-region #block-uw_front-1{ height: auto; }</style>  </div>
+    <ul><li>Wednesday, October 2, 2013<br /><a href="/cs/1471/computer-science-colloquium-seminar">Computer Science Colloquium Seminar</a></li></ul><div class="more-link-container"><a href="/cs/calendar/events" class="more">Read More Events</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_front-2" class="block block-uw_front region-odd odd region-count-3 count-5  none"><div class="block-inner">
           <h2 class="title"><none></h2>

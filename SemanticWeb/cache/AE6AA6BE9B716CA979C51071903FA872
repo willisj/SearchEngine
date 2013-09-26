@@ -5,7 +5,7 @@
   <title>Message from the Dean of Nursing | Nursing - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-01-14 04:55:57" />
+<meta name="modified" content="2013-09-25 11:14:24" />
 <meta name="created" content="2011-08-18 02:10:54" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -120,7 +120,7 @@ img.right-grad{position:absolute; bottom:0px}</style>
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/nursing/food/sites/all/themes/zen/zen/ie.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/nursing/sites/all/themes/zen/zen/ie.css?s" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/nursing/sites/all/themes/unified_department/print.css" />
@@ -184,7 +184,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-09540d6f1a3b025b128366f0187e0f13" value="form-09540d6f1a3b025b128366f0187e0f13"  />
+<input type="hidden" name="form_build_id" id="form-095badb01dafdf51c274ce96d4d9efd5" value="form-095badb01dafdf51c274ce96d4d9efd5"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -212,7 +212,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-09540d6f1a3b025b128366f0187e0f13" value="form-09540d6f1a3b025b128366f0187e0f13"  />
+<input type="hidden" name="form_build_id" id="form-095badb01dafdf51c274ce96d4d9efd5" value="form-095badb01dafdf51c274ce96d4d9efd5"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -309,13 +309,13 @@ $(function() {
 <li>
 		<a href="/nursing/collaborative-honours-bachelor-of-science-in-nursing"><strong>Collaborative Bachelor of Science (BScN)</strong></a> in Nursing with St. Clair College (Windsor, Chatham) and Lambton College (Sarnia), with students transferring to the University for years three and four of the program (note: the opportunity exists for students to return to their home school site for the final semester).&nbsp;</li>
 <li>
-		<a href="/nursing/msc"><strong>Master of Science (MSc)</strong></a> with <strong>thesis </strong>and two field options of study, including Leadership and Advanced Clinical Nursing. &nbsp;</li>
+		<a href="http://www1.uwindsor.ca/nursing/msc"><strong>Master of Science (MSc)</strong></a> with <strong>thesis </strong>and two field options of study: Leadership and Advanced Clinical Nursing. &nbsp;</li>
 <li>
-		A&nbsp;course-based <a href="/nursing/master-of-nursing"><strong>Master of Nursing (MN) </strong></a>with two field options of study, including Leadership and Advanced Clinical Nursing.</li>
+		A&nbsp;course-based <a href="http://www1.uwindsor.ca/nursing/master-of-nursing"><strong>Master of Nursing (MN) </strong></a>with three field options of study: Leadership, Advanced Clinical Nursing, and Nurse Practitioner.</li>
 <li>
-		<a href="/nursing/nurse-practitioner-post-baccalaureate-certificate-program"><strong>Primary Health Care Nurse Practitioner (PHCNP)</strong></a> program, in partnership with a consortium of nine Ontario universities.</li>
+		<a href="/nursing/nurse-practitioner-post-baccalaureate-certificate-program"><strong>Primary Health Care Nurse Practitioner (PHCNP) Graduate Diploma</strong></a> program, in partnership with a consortium of nine Ontario universities.</li>
 <li>
-		<a href="/nursing/graduate-diploma-in-advanced-practice-oncologypalliative-nursing"><strong>Graduate Diploma in Advanced Practice Oncology/Palliative Nursing</strong></a>, in partnership with the de Souza Institute - &nbsp;will begin accepting students for a&nbsp;Fall 2013 first intake.</li>
+		<a href="/nursing/graduate-diploma-in-advanced-practice-oncologypalliative-nursing"><strong>Graduate Diploma in Advanced Practice Oncology/Palliative Nursing</strong></a>, in partnership with the de Souza Institute.</li>
 </ul>
 <p>Explore this website for more details about&nbsp;these programs and to learn how you can grow as a professional at the University of Windsor.</p>
 <p>In 2003, the Faculty of Nursing (former School of Nursing) moved into the Toldo Health Education Centre. In 2012, we expanded to new learning space on the 3rd floor of the Medical Education Building (attached to Toldo). This new learning space includes a second simulation hospital suite, a second health asssessment lab, primary health care examination rooms, a palliative care suite that can convert to an infection control room, observation and de-briefing rooms - with&nbsp;the very best in audiovisual equipment to facilitate distance delivery of graduate courses in partnership with the de Souza Institute, Hospice of Windsor, and Cancer Care Ontario.&nbsp; You can get more details about our newest space on this site by following the <a href="/nursing/clinical-learning-facilities-expansion">links</a>.</p>

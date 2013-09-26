@@ -173,7 +173,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow, .home-shade, .right-i
 </div>
 <input type="submit" name="submit" id="edit-btn-submit" value="Send email"  class="form-submit" />
 <input type="reset" name="clear" id="edit-btn-clear" value="Clear form" class="form-submit" /><input type="submit" name="cancel" id="edit-btn-cancel" value="Cancel"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-35aed366e5e8f118373f9ef0d60ec45d" value="form-35aed366e5e8f118373f9ef0d60ec45d"  />
+<input type="hidden" name="form_build_id" id="form-2d0271bd2627daca679f0ed02e109fc3" value="form-2d0271bd2627daca679f0ed02e109fc3"  />
 <input type="hidden" name="form_id" id="edit-print-mail-form" value="print_mail_form"  />
 
 </div></form>

@@ -5,7 +5,7 @@
   <title>Communications | Office of the President - University of Windsor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />  <!-- iPhone, turn off rescaling -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="modified" content="2013-08-30 11:50:08" />
+<meta name="modified" content="2013-09-23 10:23:50" />
 <meta name="created" content="2009-06-16 02:27:46" />
 <meta name="status" content="1" />
 <meta name="type" content="page" />
@@ -185,7 +185,7 @@ $(function() {
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-9616b68cc41360ad9190f9421e093378" value="form-9616b68cc41360ad9190f9421e093378"  />
+<input type="hidden" name="form_build_id" id="form-d114cbc82fc567bb64910af82250bd9f" value="form-d114cbc82fc567bb64910af82250bd9f"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -317,6 +317,7 @@ $(function() {
 <h5>
 	University Community Addresses</h5>
 <p><strong>2013</strong></p>
+<p><a href="http://www1.uwindsor.ca/president/system/files/Letter%20to%20Campus%20Sep%2023.pdf">CUPE 1393 Bargaining Update</a></p>
 <p><a href="http://www.uwindsor.ca/president/message-of-appreciation-to-all-university-of-windsor-alumni">Message of appreciation to all University of Windsor alumni - August 29, 2013</a><br />
 	<a href="http://www1.uwindsor.ca/president/system/files/PresidentsUpdate19.pdf">E-mail Update -&nbsp;August 28, 2013</a><br />
 	<a href="http://www.uwindsor.ca/president/thanks-to-campus-hosts-of-the-international-children%E2%80%99s-games">Thanks to campus hosts of the International Children&rsquo;s Games - August 19, 2013</a><br />

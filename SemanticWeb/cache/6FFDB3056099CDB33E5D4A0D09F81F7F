@@ -92,7 +92,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-546bc977af4f09f6205bbdcf65b4f5ba" value="form-546bc977af4f09f6205bbdcf65b4f5ba"  />
+<input type="hidden" name="form_build_id" id="form-bc5500c5552dbb9f38a53919ffd12a9e" value="form-bc5500c5552dbb9f38a53919ffd12a9e"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -176,6 +176,23 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-2 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_uw_frontpage-block_1_1"><div class="views-row views-row-0 views-row-first views-row-odd">
   
   <div class="views-field-field-simage-fid">
+                <span class="field-content"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/frontpage_slideshow/slideshow/UWin_0.jpg" alt="UWill" title="UWill " width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
+  </div>
+  
+  <div class="views-field-teaser">
+                <div class="field-content"><div class="transparency"></div>
+      <div class="home-shade"></div>
+      <div class="content">
+      <h2 class="title"><a href="http://www1.uwindsor.ca/future-students/system/files/UOFW_UWILL_1.mov">UWill video</a></h2>
+    <a href="http://www1.uwindsor.ca/future-students/system/files/UOFW_UWILL_1.mov">  UWindsor UWill video</a>
+      </div></div>
+  </div>
+
+</div>
+</div>
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-3 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_uw_frontpage-block_1_2"><div class="views-row views-row-0 views-row-first views-row-odd">
+  
+  <div class="views-field-field-simage-fid">
                 <span class="field-content"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/frontpage_slideshow/slideshow/panel6.jpg" alt="U Will" title="U Will" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
   </div>
   
@@ -190,7 +207,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 
 </div>
 </div>
-<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-3 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_uw_frontpage-block_1_2"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-4 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_uw_frontpage-block_1_3"><div class="views-row views-row-0 views-row-first views-row-odd">
   
   <div class="views-field-field-simage-fid">
                 <span class="field-content"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/frontpage_slideshow/slideshow/panel7.jpg" alt="U Will" title="U Will" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
@@ -207,7 +224,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 
 </div>
 </div>
-<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-4 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_uw_frontpage-block_1_3"><div class="views-row views-row-0 views-row-first views-row-odd">
+<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-5 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_uw_frontpage-block_1_4"><div class="views-row views-row-0 views-row-first views-row-odd">
   
   <div class="views-field-field-simage-fid">
                 <span class="field-content"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/frontpage_slideshow/slideshow/panel3.jpg" alt="U Will" title="U Will" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
@@ -219,23 +236,6 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       <div class="content">
       <h2 class="title"><a href="/future-students/content/express-yourself-create-change-follow-your-passion">Express Yourself</a></h2>
     <a href="/future-students/content/express-yourself-create-change-follow-your-passion">  Create change.  Follow your passion.</a>
-      </div></div>
-  </div>
-
-</div>
-</div>
-<div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-5 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_uw_frontpage-block_1_4"><div class="views-row views-row-0 views-row-first views-row-odd">
-  
-  <div class="views-field-field-simage-fid">
-                <span class="field-content"><img src="http://www1.uwindsor.ca/future-students/system/files/imagecache/frontpage_slideshow/slideshow/panel2.jpg" alt="U Will" title="U Will" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
-  </div>
-  
-  <div class="views-field-teaser">
-                <div class="field-content"><div class="transparency"></div>
-      <div class="home-shade"></div>
-      <div class="content">
-      <h2 class="title"><a href="/future-students/content/succeed-grow-conquer-the-impossible">Succeed, Grow.</a></h2>
-    <a href="/future-students/content/succeed-grow-conquer-the-impossible">  Conquer the impossible.</a>
       </div></div>
   </div>
 
@@ -280,17 +280,17 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/future-students/content/collective-bargaining-updates-at-the-university-of-windsor">Collective Bargaining updates at the University of Windsor</a></span>
+                <span class="field-content"><a href="/future-students/content/distinguished-visitor-program-goes-in-new-direction">Distinguished Visitor Program goes in new direction</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/future-students/content/music-instructor-to-lift-voice-in-performance-this-weekend">Music instructor to lift voice in performance this weekend</a></span>
+                <span class="field-content"><a href="/future-students/content/reminder-parking-reallocation-delayed-past-semester%E2%80%99s-start">Reminder: parking reallocation delayed past semester’s start</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/future-students/content/opening-week-performance-earns-plaudits-for-lancer-quarterback">Opening-week performance earns plaudits for Lancer quarterback</a></span>
+                <span class="field-content"><a href="/future-students/content/psychology-instructor-jerry-jellis-remembered-as-a-caring-teacher-and-valued-colleague">Psychology instructor Jerry Jellis remembered as a caring teacher and valued colleague</a></span>
   </div>
 </li>
       </ul>

@@ -131,7 +131,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <div id="views_slideshow_singleframe_main_uw_frontpage-block_1" class="views_slideshow_singleframe_main views_slideshow_main"><div id="views_slideshow_singleframe_teaser_section_uw_frontpage-block_1" class="views_slideshow_singleframe_teaser_section"><div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-1 views-row-odd" id="views_slideshow_singleframe_div_uw_frontpage-block_1_0"><div class="views-row views-row-0 views-row-first views-row-odd">
   
   <div class="views-field-field-simage-fid">
-                <span class="field-content"><img src="http://www1.uwindsor.ca/anniversary/system/files/imagecache/frontpage_slideshow/slideshow/664x310_gradient_DarylHall_JohnOates.jpg" alt="Daryl Hall and John Oates" title="Daryl Hall and John Oates" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
+                <span class="field-content"><img src="http://www1.uwindsor.ca/anniversary/system/files/imagecache/frontpage_slideshow/slideshow/50Home_Cake2.jpg" alt="Join the Celebration" title="Join the Celebration" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
   </div>
   
   <div class="views-field-teaser">
@@ -143,7 +143,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-2 views_slideshow_singleframe_hidden views-row-even" id="views_slideshow_singleframe_div_uw_frontpage-block_1_1"><div class="views-row views-row-0 views-row-first views-row-odd">
   
   <div class="views-field-field-simage-fid">
-                <span class="field-content"><img src="http://www1.uwindsor.ca/anniversary/system/files/imagecache/frontpage_slideshow/slideshow/50Home_Cake2.jpg" alt="Join the Celebration" title="Join the Celebration" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
+                <span class="field-content"><img src="http://www1.uwindsor.ca/anniversary/system/files/imagecache/frontpage_slideshow/slideshow/50th_bookPanel.jpg" alt="UWindsor&#039;s First Photo Book" title="UWindsor&#039;s First Photo Book" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
   </div>
   
   <div class="views-field-teaser">
@@ -155,7 +155,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <div class="views_slideshow_singleframe_slide views_slideshow_slide views-row-3 views_slideshow_singleframe_hidden views-row-odd" id="views_slideshow_singleframe_div_uw_frontpage-block_1_2"><div class="views-row views-row-0 views-row-first views-row-odd">
   
   <div class="views-field-field-simage-fid">
-                <span class="field-content"><img src="http://www1.uwindsor.ca/anniversary/system/files/imagecache/frontpage_slideshow/slideshow/50th_bookPanel.jpg" alt="UWindsor&#039;s First Photo Book" title="UWindsor&#039;s First Photo Book" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
+                <span class="field-content"><img src="http://www1.uwindsor.ca/anniversary/system/files/imagecache/frontpage_slideshow/slideshow/SnipImage2.JPG" alt="50th Anniversary Video" title="50th Anniversary Video" width="664" height="310" class="imagecache imagecache-frontpage_slideshow imagecache-default imagecache-frontpage_slideshow_default"/></span>
   </div>
   
   <div class="views-field-teaser">
@@ -245,17 +245,17 @@ Through the generous support of our sponsors, we celebrate our rich heritage and
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_front-1" class="block block-uw_front region-even even region-count-2 count-4  upcoming-university-events"><div class="block-inner">
           <h2 class="title">Upcoming University Events</h2>
     <div class="content">
-    <ul><li>Happening Now<br /><a href="http://www1.uwindsor.ca/alumni/milestone-reunions#20130921T083000">Milestone Reunions</a></li><li>Happening Now<br /><a href="http://www1.uwindsor.ca/alumni/reunion-classes-of-2003-and-2004#20130921T083000">Classes of 2003 and 2004 Milestone Reunion</a></li><li>Happening Now<br /><a href="http://www1.uwindsor.ca/alumni/reunion-classes-of-1988-and-1989#20130921T083000">Classes of 1988 and 1989 Milestone Reunion</a></li></ul><div class="more-link-container"><a href="/anniversary/calendar/events" class="more">Read More Events</a></div>  </div>
+    <ul><li>Today<br /><a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130925T200000">Suite Surrender</a></li><li>Tomorrow<br /><a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130926T200000">Suite Surrender</a></li><li>Friday, September 27, 2013<br /><a href="http://www.uwindsor.ca/universityplayers//suite-surrender-1#20130927T200000">Suite Surrender</a></li></ul><div class="more-link-container"><a href="/anniversary/calendar/events" class="more">Read More Events</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_front-2" class="block block-uw_front region-odd odd region-count-3 count-5  none"><div class="block-inner">
           <h2 class="title"><none></h2>
     <div class="content">
     <ul class="menu"><li class="leaf first"><a href="http://www.uwindsor.ca/anniversary" target="_self" rel="" title="50th Anniversary Home Page" class="length-short">50th Anniversary Home</a></li>
-<li class="leaf"><a href="http://www1.uwindsor.ca/bargainingunits/50th-anniversary-weekend-plans-significantly-changed-sep-19-22" target="_self" rel="" title="Link to new schedule on the bargaining units site." class="length-short">New Schedule</a></li>
+<li class="leaf"><a href="http://www.uwindsor.ca//10194/our-first-fifty-years" target="_self" rel="" title="" class="length-long">Mini-documentary, Our first Fifty Years</a></li>
+<li class="collapsed"><a href="/anniversary/217/photos-from-our-first-50-years" target="_self" rel="" title="Photos From Our First 50 Years" class="length-short">Photo Gallery</a></li>
 <li class="leaf"><a href="/anniversary/216/special-hotel-accommodations" target="_self" rel="" title="Special Hotel Accommodations" class="length-short">Accommodations</a></li>
 <li class="leaf"><a href="/anniversary/332/dine-around-windsor" target="_self" rel="" title="Dine Around Windsor" class="length-short">Dine Around Windsor</a></li>
 <li class="leaf"><a href="/anniversary/313/getting-here-getting-around" target="_self" rel="" title="Getting Here - Getting Around" class="length-short">Getting Here &amp; Around</a></li>
-<li class="collapsed"><a href="/anniversary/217/photos-from-our-first-50-years" target="_self" rel="" title="Photos From Our First 50 Years" class="length-short">Photo Gallery</a></li>
 <li class="collapsed"><a href="/anniversary/215/our-sponsors" target="_self" rel="" title="Our Sponsors" class="length-short">Our Sponsors</a></li>
 <li class="leaf"><a href="/anniversary/scholarship" target="_self" rel="" title="Give to the 50th Anniversary Scholarship" class="length-short">Donate to Scholarship</a></li>
 <li class="leaf"><a href="http://uwindsor.ca/anniversary/contact" target="_self" rel="" title="Contact Us" class="length-short">Contact Us</a></li>

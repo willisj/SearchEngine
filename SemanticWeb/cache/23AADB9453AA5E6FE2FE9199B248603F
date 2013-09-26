@@ -103,7 +103,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-f1549785c28fb850846e3f2919a4122f" value="form-f1549785c28fb850846e3f2919a4122f"  />
+<input type="hidden" name="form_build_id" id="form-442c915de25bbdabf8fbf3c7d8c63f1b" value="form-442c915de25bbdabf8fbf3c7d8c63f1b"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -173,7 +173,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
                 <div class="header_image">
                   <!--googleoff: all--><div id="block-uw_department_customizations-2" class="block block-uw_department_customizations region-odd odd region-count-1 count-3 no-title  "><div class="block-inner">
     <div class="content">
-    <div class="header_left_image"><img src="http://www1.uwindsor.ca/visualarts/system/files/imagecache/header_left_image/VisArtsweb.jpg" alt="Visual Arts Students" title="Visual Arts Students" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
+    <div class="header_left_image"><img src="http://www1.uwindsor.ca/visualarts/system/files/imagecache/header_left_image/sondradraws.jpg" alt="Sondra " title="Sondra" width="490" height="150" class="imagecache imagecache-header_left_image"/><div class="header_back_image_text"><br />
 </div><div class="bround"></div></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->                </div>
@@ -315,12 +315,12 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-today_events" class="block block-uw_news_events region-odd odd region-count-3 count-7 blue_title todays-events"><div class="block-inner">
           <h2 class="title">Today's Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li>9:00AM-4:30PM <a href="/visualarts/visual-arts-faculty-exhibition" class="active">Visual Arts Faculty Exhibition</a></li><li>10:00AM-5:00PM <a href="/visualarts/alumni-art-exhibition">Alumni Art Exhibition</a></li><li class="imported-event">2:00PM-3:30PM <a href="http://www1.uwindsor.ca/music/alumni-and-friends-reception#20130921T180000">Alumni and Friends Reception</a></li><li class="imported-event">3:30PM-5:00PM <a href="http://www1.uwindsor.ca/music/music-alumni-showcase-concert#20130921T193000">Music Alumni Showcase Concert</a></li><li>6:00PM-7:30PM <a href="/visualarts/alumni-and-friends-reception">Alumni and Friends Reception</a></li></ul></div>  </div>
+    <div class="item-list"><ul class="todays-events uw_news_events uw_news_events_todays-events"><li>9:00AM-4:30PM <a href="/visualarts/visual-arts-faculty-exhibition" class="active">Visual Arts Faculty Exhibition</a></li></ul></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all--><!--googleoff: all--><div id="block-uw_news_events-upcoming_events" class="block block-uw_news_events region-even even region-count-4 count-8 blue_title upcoming-events"><div class="block-inner">
           <h2 class="title">Upcoming Events</h2>
     <div class="content">
-    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 16 - 27, 2013 <a href="/visualarts/visual-arts-faculty-exhibition" class="active">Visual Arts Faculty Exhibition</a></li><li>Sep 20 - 22, 2013 <a href="/visualarts/alumni-art-exhibition">Alumni Art Exhibition</a></li></ul></div><div class="more-link"><a href="/visualarts/calendar/events">VIEW CALENDAR</a></div>  </div>
+    <div class="item-list"><ul class="future-events uw_news_events uw_news_events_future-events"><li>Sep 16 - 27, 2013 <a href="/visualarts/visual-arts-faculty-exhibition" class="active">Visual Arts Faculty Exhibition</a></li></ul></div><div class="more-link"><a href="/visualarts/calendar/events">VIEW CALENDAR</a></div>  </div>
     </div></div> <!-- /block-inner, /block -->
 <!--googleon: all-->              </div>
             </div>

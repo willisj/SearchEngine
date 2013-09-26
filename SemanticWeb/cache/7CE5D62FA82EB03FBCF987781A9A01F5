@@ -42,7 +42,7 @@
         <!--[if IE]>
         <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?M" />
         <![endif]--><!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/supportuwindsor/awards/food/awards/sites/all/themes/zen/zen/ie.css?m" />
+<link type="text/css" rel="stylesheet" media="all" href="/supportuwindsor/sites/all/themes/zen/zen/ie.css?m" />
 <![endif]-->
     
     <link type="text/css" rel="stylesheet" media="print" href="/supportuwindsor/sites/all/themes/unified_department/print.css" />
@@ -89,7 +89,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
  <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="" onfocus="this.value=&#039;&#039;;" onblur="if (this.value==&#039;&#039;) {this.value=&#039;Search&#039;;}" class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-d67b859d5057c1e0f4af82ae0c87d713" value="form-d67b859d5057c1e0f4af82ae0c87d713"  />
+<input type="hidden" name="form_build_id" id="form-ec3519ef1a4ab7da9a6fe2fb3c3300c4" value="form-ec3519ef1a4ab7da9a6fe2fb3c3300c4"  />
 <input type="hidden" name="form_id" id="edit-google-appliance-search-form" value="google_appliance_search_form"  />
 
 </div></form>
@@ -184,6 +184,63 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-1481" class="node node-teaser node-type-feed-item not-page">
+  <div class="node-inner">
+            <div class="news-image">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-24/graduate-student-society-celebrates-under-sunny-skies" title="Graduate Student Society celebrates under sunny skies">
+          <img src="//www.uwindsor.ca/sites/default/files/gss_barbeque2.jpg" alt="Graduate Student Society celebrates under sunny skies" width="180" />
+        </a>
+      </div>
+      <h2 class="title">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-24/graduate-student-society-celebrates-under-sunny-skies" title="Graduate Student Society celebrates under sunny skies">Graduate Student Society celebrates under sunny skies</a>
+      </h2>  
+      The Graduate Student Society was blessed with perfect weather Tuesday at its annual welcome barbecue ...        <br clear="all" /><br />
+  </div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-1482" class="node node-teaser node-type-feed-item not-page">
+  <div class="node-inner">
+            <div class="news-image">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-24/uwindsor-campus-farmers-market-launch-sept-26" title="UWindsor Campus Farmers&#039; Market to Launch Sept. 26">
+          <img src="//www.uwindsor.ca/sites/default/files/farmers_market_logo.jpg" alt="UWindsor Campus Farmers&#039; Market to Launch Sept. 26" width="180" />
+        </a>
+      </div>
+      <h2 class="title">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-24/uwindsor-campus-farmers-market-launch-sept-26" title="UWindsor Campus Farmers&#039; Market to Launch Sept. 26">UWindsor Campus Farmers&#039; Market to Launch Sept. 26</a>
+      </h2>  
+      The UWSA and a volunteer team of students and community members have initiated a farmers' market ...        <br clear="all" /><br />
+  </div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-1483" class="node node-teaser node-type-feed-item not-page">
+  <div class="node-inner">
+            <div class="news-image">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-24/new-uwindsor-commercial-hit-local-theatres-october" title="New UWindsor commercial to hit local theatres in October">
+          <img src="//www.uwindsor.ca/sites/default/files/suedesept.commercial1_0.jpg" alt="New UWindsor commercial to hit local theatres in October" width="180" />
+        </a>
+      </div>
+      <h2 class="title">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-24/new-uwindsor-commercial-hit-local-theatres-october" title="New UWindsor commercial to hit local theatres in October">New UWindsor commercial to hit local theatres in October</a>
+      </h2>  
+      A new University of Windsor commercial featuring a cast of UWindsor students will appear in Windsor area theatres.        <br clear="all" /><br />
+  </div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div id="node-1480" class="node node-teaser node-type-feed-item not-page">
+  <div class="node-inner">
+            <div class="news-image">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-19/odette-celebrates-50th-new-wing" title="Odette celebrates 50th with new wing">
+          <img src="//www.uwindsor.ca/sites/default/files/450-odettebuilding7362_0.jpg" alt="Odette celebrates 50th with new wing" width="180" />
+        </a>
+      </div>
+      <h2 class="title">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-19/odette-celebrates-50th-new-wing" title="Odette celebrates 50th with new wing">Odette celebrates 50th with new wing</a>
+      </h2>  
+      The Odette School of Business will unveil its newly renovated south wing during opening ceremonies at the building on Saturday, Sept. 21 at 4 p.m.
+The official grand opening is part of UWindsor’s 50th Anniversary Celebration weekend and honours the vision of the building’s namesakes, Louis and Edmond Odette, of converting the former bookstore space into an integrated part of the original Odette building.        <br clear="all" /><br />
+  </div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
     <div id="node-1479" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -197,32 +254,7 @@ $(document).ready(function(){ $('.bpng,.right-area-shadow,.home-shade,.header_ba
       A faculty member who spent a career teaching at and supporting UWindsor; a community supporter of UWindsor cancer research; Windsor’s youngest mayor and UWindsor alumnus; and a former Alumni Association president and long-time Board of Governors member, are the four outstanding University and community supporters who will be recognized with a 2013 Clark Award during an evening in their honour this Friday, Sept. 20 at 6:30 p.m. in the  Augustus Ballroom  of Caesars Windsor.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-2 views-row-even">
-    <div id="node-1478" class="node node-teaser node-type-feed-item not-page">
-  <div class="node-inner">
-            <div class="news-image">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-13/university-players-offer-theatre-goers-eclectic-seaso" title="University Players to offer theatre-goers an eclectic season">
-          <img src="//www.uwindsor.ca/sites/default/files/450_uplayerslogo1.jpg" alt="University Players to offer theatre-goers an eclectic season" width="180" />
-        </a>
-      </div>
-      <h2 class="title">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-13/university-players-offer-theatre-goers-eclectic-seaso" title="University Players to offer theatre-goers an eclectic season">University Players to offer theatre-goers an eclectic season</a>
-      </h2>  
-      You’ll laugh, you’ll cry, you won’t believe what a great deal you’re getting. As the University Players opens its 2013-14 season this weekend they promise hysterical comedy, poignant drama, thrilling mystery and theatrical fantasy – all featuring tomorrow’s leading theatre artists at ticket prices that can’t be beat.        <br clear="all" /><br />
-  </div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-3 views-row-odd">
-    <div id="node-1475" class="node node-teaser node-type-feed-item not-page">
-  <div class="node-inner">
-        
-       <div class="news-image"><br /></div>
-       <h2 class="title">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-13/dr-taub-remembered-kind-and-caring-colleague" title="Dr. Taub remembered as a kind and caring colleague">Dr. Taub remembered as a kind and caring colleague</a>
-      </h2>  
-      It is with regret that the University announces the passing of faculty retiree Dr. Barry Taub on Thursday, September 12, 2013.  Dr. Taub commenced his employment with the University of Windsor on May 1, 1973 as a Counsellor in the Department of Psychology and became the Director of the Psychological Services Centre on July 1, 1975. He also served as a Clinical Psychologist in the same area and was promoted to Associate Professor on July 1, 1979, receiving tenure on July 1, 1981.  As well, Dr.        <br clear="all" /><br />
-  </div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-4 views-row-even">
+  <div class="views-row views-row-6 views-row-even">
     <div id="node-1476" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
         
@@ -235,7 +267,7 @@ Flags will be lowered on Monday, September 16, 2013 in her memory.
          <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-5 views-row-odd">
+  <div class="views-row views-row-7 views-row-odd">
     <div id="node-1477" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -249,18 +281,32 @@ Flags will be lowered on Monday, September 16, 2013 in her memory.
       One of the best parts of any celebration is the food, and five local restaurants are pulling out all the stops to help UWindsor celebrate its 50th anniversary this weekend.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-6 views-row-even">
-    <div id="node-1474" class="node node-teaser node-type-feed-item not-page">
+  <div class="views-row views-row-8 views-row-even">
+    <div id="node-1478" class="node node-teaser node-type-feed-item not-page">
+  <div class="node-inner">
+            <div class="news-image">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-13/university-players-offer-theatre-goers-eclectic-seaso" title="University Players to offer theatre-goers an eclectic season">
+          <img src="//www.uwindsor.ca/sites/default/files/450_uplayerslogo1.jpg" alt="University Players to offer theatre-goers an eclectic season" width="180" />
+        </a>
+      </div>
+      <h2 class="title">
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-13/university-players-offer-theatre-goers-eclectic-seaso" title="University Players to offer theatre-goers an eclectic season">University Players to offer theatre-goers an eclectic season</a>
+      </h2>  
+      You’ll laugh, you’ll cry, you won’t believe what a great deal you’re getting. As the University Players opens its 2013-14 season this weekend they promise hysterical comedy, poignant drama, thrilling mystery and theatrical fantasy – all featuring tomorrow’s leading theatre artists at ticket prices that can’t be beat.        <br clear="all" /><br />
+  </div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <div id="node-1475" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
         
        <div class="news-image"><br /></div>
        <h2 class="title">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-08/cupe-bargaining-update" title="CUPE bargaining update">CUPE bargaining update</a>
+        <a href="http://www.uwindsor.ca/dailynews/2013-09-13/dr-taub-remembered-kind-and-caring-colleague" title="Dr. Taub remembered as a kind and caring colleague">Dr. Taub remembered as a kind and caring colleague</a>
       </h2>  
-      The University of Windsor remains open and classes continue during a CUPE local 1393 work stoppage that began in the early hours of Sunday, September 8.  Students, parents, faculty and staff are encouraged to visit uwindsor.ca/bargainingunits for answers to commonly asked questions and updates as they are available. This local represents 281 technical, trades and professional staff.         <br clear="all" /><br />
+      It is with regret that the University announces the passing of faculty retiree Dr. Barry Taub on Thursday, September 12, 2013.  Dr. Taub commenced his employment with the University of Windsor on May 1, 1973 as a Counsellor in the Department of Psychology and became the Director of the Psychological Services Centre on July 1, 1975. He also served as a Clinical Psychologist in the same area and was promoted to Associate Professor on July 1, 1979, receiving tenure on July 1, 1981.  As well, Dr.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-7 views-row-odd">
+  <div class="views-row views-row-10 views-row-even views-row-last">
     <div id="node-1473" class="node node-teaser node-type-feed-item not-page">
   <div class="node-inner">
             <div class="news-image">
@@ -274,48 +320,6 @@ Flags will be lowered on Monday, September 16, 2013 in her memory.
       Editor's note: this is one of a series of articles about new faculty members who have joined the University of Windsor.
 Cosmopolitan is not an adjective many Windsorites would typically use to define their city, but Ronjon Paul Datta would.
 “I really like Windsor as a city,�? said the latest faculty addition to the department of Sociology, Anthropology and Criminology. “It’s very cosmopolitan, a lot more so than most medium sized cities.�?        <br clear="all" /><br />
-  </div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-8 views-row-even">
-    <div id="node-1471" class="node node-teaser node-type-feed-item not-page">
-  <div class="node-inner">
-            <div class="news-image">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-05/looking-forward" title="Looking forward">
-          <img src="//www.uwindsor.ca/sites/default/files/450_view-banner-fall-2013.jpg" alt="Looking forward" width="180" />
-        </a>
-      </div>
-      <h2 class="title">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-05/looking-forward" title="Looking forward">Looking forward</a>
-      </h2>  
-      VIEW magazine traces the growth of the University.        <br clear="all" /><br />
-  </div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-9 views-row-odd">
-    <div id="node-1472" class="node node-teaser node-type-feed-item not-page">
-  <div class="node-inner">
-            <div class="news-image">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-03/grad-students-united-passion-research" title="Grad students united by passion for research">
-          <img src="//www.uwindsor.ca/sites/default/files/candcwedding-dnshot.jpg" alt="Grad students united by passion for research" width="180" />
-        </a>
-      </div>
-      <h2 class="title">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-03/grad-students-united-passion-research" title="Grad students united by passion for research">Grad students united by passion for research</a>
-      </h2>  
-      Christine Madliger and Chris Harris study tree swallows at Ruthven Park, a 1,500 acre national historic site that includes Carolinian forests, open pastures, a mansion and a working farm.        <br clear="all" /><br />
-  </div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-10 views-row-even views-row-last">
-    <div id="node-1469" class="node node-teaser node-type-feed-item not-page">
-  <div class="node-inner">
-            <div class="news-image">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-04/concussion-clinic-launched-varsity-athletes" title="Concussion clinic launched for varsity athletes">
-          <img src="//www.uwindsor.ca/sites/default/files/concussiontestdnshot.jpg" alt="Concussion clinic launched for varsity athletes" width="180" />
-        </a>
-      </div>
-      <h2 class="title">
-        <a href="http://www.uwindsor.ca/dailynews/2013-09-04/concussion-clinic-launched-varsity-athletes" title="Concussion clinic launched for varsity athletes">Concussion clinic launched for varsity athletes</a>
-      </h2>  
-      Athletic therapists have teamed up with faculty members in neuropsychology to launch a new concussion clinic for varsity athletes.        <br clear="all" /><br />
   </div></div> <!-- /node-inner, /node -->
   </div>
     </div>
