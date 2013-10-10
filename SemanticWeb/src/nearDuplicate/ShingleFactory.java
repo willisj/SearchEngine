@@ -115,7 +115,7 @@ public class ShingleFactory {
 		shingleRef.put(s, nextShingleID);
 
 		if (!shinglesPerPage.containsKey(docID))
-			shinglesPerPage.put(docID, new HashSet());
+			shinglesPerPage.put(docID, new HashSet<Integer>());
 
 		shinglesPerPage.get(docID).add(nextShingleID);
 
@@ -130,7 +130,7 @@ public class ShingleFactory {
 
 	public double comparePages(int a, int b) {
 		if (shinglesPerPage.containsKey(a) && shinglesPerPage.containsKey(b) && shinglesPerPage.get(a).size() > 0 && shinglesPerPage.get(b).size() > 0) {
-			Set tempA = shinglesPerPage.get(a);
+			Set<Integer> tempA = new HashSet<Integer>(shinglesPerPage.get(a));
 			tempA.retainAll(shinglesPerPage.get(b));
 			return (double) tempA.size()
 					/ Math.min(shinglesPerPage.get(a).size(), shinglesPerPage

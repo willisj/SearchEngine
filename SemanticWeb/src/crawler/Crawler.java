@@ -6,9 +6,11 @@ package crawler;
 import java.net.MalformedURLException;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Random;
 import java.util.Vector;
 
 import org.apache.commons.lang3.time.StopWatch;
+
 import utilities.util;
 
 /**
@@ -18,24 +20,22 @@ import utilities.util;
 public class Crawler extends Thread {
 
 	final int MAX_THREADS = 20;
-	final int BURST_SIZE = 5;
-	final boolean STAY_IN_DOMAIN = true;
+	final int BURST_SIZE = 10;
+	final boolean STAY_IN_DOMAIN = false;
 
-	
 	// Error Settings
-	final boolean SHOW_THREAD_COMPLETED = false;
+	final boolean SHOW_THREAD_COMPLETED = true;
 	final boolean PRINT_CACHE_SIZE = true;
 	final boolean PRINT_SUMMARY = true;
-	
-	
+
 	final private String seed; // the seed url
 	private Page seedPage;
 
 	// pages that have yet to be requested
-	Vector<Page> urlPool = new Vector<Page>();
+	HashMap<String, Vector<Page>> urlPool = new HashMap<String, Vector<Page>>();
 
 	// pages that have been requested
-	HashMap<Integer,Page> requestedPages = new HashMap<Integer,Page>();
+	HashMap<Integer, Page> requestedPages = new HashMap<Integer, Page>();
 
 	// pages currently threaded to request pages
 	Vector<Thread> running = new Vector<Thread>();
@@ -46,6 +46,8 @@ public class Crawler extends Thread {
 	// URLs that have already been scraped
 	Vector<String> seenUrls = new Vector<String>();
 
+	private static Random rand = new Random();
+
 	/**
 	 * @param seed
 	 *            the url from which to start scraping
@@ -54,8 +56,7 @@ public class Crawler extends Thread {
 	 */
 	public Crawler(String seed) throws MalformedURLException {
 		this.seed = seed;
-		seedPage = new Page(seed, 0);
-		urlPool.add(seedPage);
+		seedPage = addURL(seed, 0);
 		util.writeLog("Domain Set: " + seedPage.getDomain());
 	}
 
@@ -66,13 +67,41 @@ public class Crawler extends Thread {
 	 *            the depth of this page from the seed (set -1 if N/A)
 	 * @return true if the URL was added
 	 */
-	public boolean addURL(String url, int depth) {
+	public Page addURL(String url, int depth) {
 		try {
-			urlPool.add(new Page(url, depth));
+			Page p = new Page(url, depth);
+			if (!urlPool.containsKey(p.getUrl().getHost()))
+				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
+			urlPool.get(p.getUrl().getHost()).add(p);
+			return p;
 		} catch (MalformedURLException e) {
-			return false;
+			return null;
 		}
-		return true;
+
+	}
+
+	private void addAllURLs(Vector<Page> urls) {
+		for (Page p : urls) {
+			if (!urlPool.containsKey(p.getUrl().getHost()))
+				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
+			urlPool.get(p.getUrl().getHost()).add(p);
+		}
+	}
+
+	private Page getRandomURL() {
+		Vector<Page> v;
+		Page p;
+		
+		do {
+			v = urlPool.get(urlPool.keySet().toArray()[rand.nextInt(urlPool.keySet().size())]);
+		} while (v.size() < 0 && urlPool.size() > 0);
+
+		p = v.remove(rand.nextInt(v.size()));
+		if(v.size() == 0){
+			urlPool.remove(p.getUrl().getHost());
+		}
+		
+		return p;
 	}
 
 	/**
@@ -80,7 +109,7 @@ public class Crawler extends Thread {
 	 * @param maxDepth
 	 *            The max depth the spider will search
 	 */
-	public HashMap<Integer,Page> crawl(int maxDepth) {
+	public HashMap<Integer, Page> crawl(int maxDepth) {
 
 		StopWatch timer = new StopWatch();
 		timer.start();
@@ -102,19 +131,20 @@ public class Crawler extends Thread {
 					} finally {
 						Page p = runningRef.get(t.getName());
 
-						if(SHOW_THREAD_COMPLETED)
-							util.writeLog("Thread "+ (requestedPages.size() + 1) +" Completed: " + p.getUrl());
-
+						if (SHOW_THREAD_COMPLETED)
+							util.writeLog("Thread "
+									+ (requestedPages.size() + 1)
+									+ " Completed: " + p.getUrl());
 
 						// if we haven't reached the max depth yet process the
 						// children
 						if (p.getCrawlDepth() < maxDepth)
-							urlPool.addAll(makePagesFromChildren(p));
+							addAllURLs(makePagesFromChildren(p));
 
 						// move the page from the runningRef to the requested
 						// pages
 						runningRef.remove(p);
-						requestedPages.put(p.getPageID(),p);
+						requestedPages.put(p.getPageID(), p);
 					}
 
 				}
@@ -147,7 +177,7 @@ public class Crawler extends Thread {
 
 		// calculate and display the running time
 		timer.stop();
-		if(PRINT_SUMMARY){
+		if (PRINT_SUMMARY) {
 			util.writeLog("Crawl Completed in " + timer.toString());
 			util.writeLog(requestedPages.size() + " pages retreived");
 		}
@@ -157,7 +187,7 @@ public class Crawler extends Thread {
 			util.writeLog("Cache Size: "
 					+ (utilities.util.folderSize(seedPage.CACHE_PATH) / 1024)
 					/ 1024 + "MB");
-		
+
 		return requestedPages;
 	}
 
@@ -167,7 +197,7 @@ public class Crawler extends Thread {
 	 * @return the created thread
 	 */
 	private Thread addNextUrlFromPool() {
-		Page p = urlPool.remove(0); // take the new link off the pool
+		Page p = getRandomURL(); // take the new link off the pool
 		Thread t = new Thread(p); // create the thread
 		running.add(t); // add the thread to the list of running threads
 		runningRef.put(t.getName(), p); // create the reference in the lookup
@@ -182,8 +212,8 @@ public class Crawler extends Thread {
 	 *            the page to take the children from
 	 * @return a vector of pages which represent the children of 'p'
 	 */
-	
-	//TODO: is this slowing us down
+
+	// TODO: is this slowing us down
 	private Vector<Page> makePagesFromChildren(Page p) {
 		Vector<Page> children = new Vector<Page>();
 		final int newDepth = p.getCrawlDepth() + 1;
@@ -192,11 +222,12 @@ public class Crawler extends Thread {
 			if (checkUrl(s)) {
 				seenUrls.add(s);
 				try {
-					Page newPage = new Page(s, newDepth); 
+					Page newPage = new Page(s, newDepth);
 					children.add(newPage);
 					newPage.addInLink(p);
 					p.addOutLink(p);
-					/// TODO: form ALL links from children, regardless of if they were followed by the crawler, correct any depths. 
+					// / TODO: form ALL links from children, regardless of if
+					// they were followed by the crawler, correct any depths.
 				} catch (MalformedURLException e) {
 				}
 			}

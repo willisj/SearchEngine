@@ -35,6 +35,7 @@ import utilities.util;
 public class Page implements Runnable {
 
 	private final boolean CACHE_REQUESTS = true;
+	private final boolean SKIP_ON_CACHE_MISS = true;
 	public final String CACHE_PATH = "cache/";
 	private static int nextID = 0;
 	private final int pageID;
@@ -98,7 +99,9 @@ public class Page implements Runnable {
 	boolean requestPage() {
 
 		if (!CACHE_REQUESTS || !loadCache()) {
-
+			if(SKIP_ON_CACHE_MISS)
+				return false;
+			
 			BufferedReader in;
 			String inputLine;
 			StringBuffer response = new StringBuffer();
@@ -258,6 +261,22 @@ public class Page implements Runnable {
 		return s;
 	}
 
+	public String getStrippedSource(){
+		// set properties for the HTML parser
+		CleanerProperties prop = new CleanerProperties();
+		prop.setTranslateSpecialEntities(true);
+		prop.setTransResCharsToNCR(true);
+		prop.setOmitComments(true);
+		
+
+		// create the parser
+		HtmlCleaner hc = new HtmlCleaner(prop);
+		TagNode node = hc.clean(getRawSource());
+		node = node.findElementByName("body", false);
+		
+		return node.getText().toString().replaceAll("(\\s{2,}|\\n)", " "); 
+	}
+	
 	/*
 	 * (non-Javadoc)
 	 * 

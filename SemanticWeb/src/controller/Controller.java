@@ -19,9 +19,9 @@ public class Controller {
 
 		// ** CONSTANTS **//
 
-		final String CRAWLER_SEED_URL = "http://www1.uwindsor.ca/cs";
-		final int MAX_CRAWL_DEPTH = 3;
-		final int SHINGLE_K_CONST = 9;
+		final String CRAWLER_SEED_URL = "http://www1.uwindsor.ca";
+		final int MAX_CRAWL_DEPTH = 1;
+		final int SHINGLE_K_CONST = 4;
 
 		// ** END CONSTANTS **//
 
@@ -46,7 +46,7 @@ public class Controller {
 			Page p = pages.get(i);
 			if (p.getRawSource() != null)
 				ids = shingleFact.shingleDocument(p.getPageID(),
-						p.getRawSource(), SHINGLE_K_CONST);
+						p.getStrippedSource(), SHINGLE_K_CONST);
 		}
 		sw.stop();
 		util.writeLog("Shingles created in " + sw.toString());
