@@ -19,16 +19,16 @@ public class Controller {
 
 		// ** CONSTANTS **//
 
-		final String CRAWLER_SEED_URL = "http://www1.uwindsor.ca";
-		final int MAX_CRAWL_DEPTH = 1;
+		final String CRAWLER_SEED_URL = "http://www.windsorstar.com/index.html";
+		final int MAX_CRAWL_DEPTH = 2;
 		final int SHINGLE_K_CONST = 4;
 
 		// ** END CONSTANTS **//
 
 		Crawler c;
-		HashMap<Integer, Page> pages;
+		Vector <String> pages;
 		ShingleFactory shingleFact = new ShingleFactory(
-				nearDuplicate.ShingleBuildingMethod.RANDOMSTART);
+				nearDuplicate.ShingleBuildingMethod.SEGMENTEDTHENRANDOMSELECT);
 
 		try {
 			c = new Crawler(CRAWLER_SEED_URL);
@@ -41,11 +41,12 @@ public class Controller {
 		util.writeLog("Creating Shingles. K: " + SHINGLE_K_CONST
 				+ " ShinglesPerDoc: " + shingleFact.shinglesPerDocument);
 		sw.start();
-		for (int i : pages.keySet()) {
-			int[] ids = new int[0];
-			Page p = pages.get(i);
+		for (int i =0; i< pages.size();++i){
+			String url = pages.get(i);
+			Page p = Page.load(url);
+			
 			if (p.getRawSource() != null)
-				ids = shingleFact.shingleDocument(p.getPageID(),
+				shingleFact.shingleDocument(i,
 						p.getStrippedSource(), SHINGLE_K_CONST);
 		}
 		sw.stop();
@@ -53,15 +54,15 @@ public class Controller {
 		// shingleFact.printShinglesPerPage();
 		double match;
 
-		for (int a : pages.keySet())
-			for (int b : pages.keySet()) {
+		for (int a = 0; a < pages.size() ; a++)
+			for (int b = 0; b < pages.size() ; b++) {
 				if (a == b)
 					continue;
 				match = shingleFact.comparePages(a, b);
 				if (match > 0) {
 					util.writeLog((match * 100) + "% A: "
-							+ pages.get(a).getUrl().toString() + "\tB: "
-							+ pages.get(b).getUrl().toString());
+							+ Page.load(pages.get(a)).getUrl().toString() + "\tB: "
+							+ Page.load(pages.get(b)).toString());
 				}
 
 			}

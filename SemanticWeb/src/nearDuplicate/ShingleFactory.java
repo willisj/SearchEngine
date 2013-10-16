@@ -16,7 +16,7 @@ import utilities.util;
 public class ShingleFactory {
 
 	ShingleBuildingMethod method;
-	public static final int shinglesPerDocument = 100;
+	public static final int shinglesPerDocument = 20;
 	private int nextShingleID = 0;
 	Map<String, Integer> shingleRef;
 	Map<Integer, Set<Integer>> shinglesPerPage = new HashMap<Integer, Set<Integer>>();
@@ -38,6 +38,9 @@ public class ShingleFactory {
 			break;
 		case RANDOMSTART:
 			shingles = produceRandomShingles(body, k);
+			break;
+		case SEGMENTEDTHENRANDOMSELECT:
+			shingles = produceRandomThenSegmentedShingles(body, k);
 		}
 
 		// register the shingles
@@ -107,6 +110,37 @@ public class ShingleFactory {
 		return shingles;
 	}
 
+	/**
+	 * @param body
+	 *            the document to be shingled
+	 * @param k
+	 *            the number of words per shingle
+	 * @return the array of constructed shingles
+	 */
+	public String[] produceRandomThenSegmentedShingles(String body, int k) {
+		Vector<String> shingles = new Vector<String>();
+		String[] chosenShingles = new String[shinglesPerDocument];
+		Random rand = new Random();
+
+		int wordCount = 0;
+		String substr = "";
+		for (String word : body.split("\\s")) {
+			if (wordCount >= k) {
+				shingles.add(substr.trim());
+				substr = "";
+				wordCount = 0;
+			}
+			wordCount++;
+			substr += word + " ";
+		}
+
+		for (int i = 0; i < shinglesPerDocument && shingles.size() > 0; ++i)
+			chosenShingles[i] = shingles.remove(rand.nextInt(shingles.size()));
+			
+
+		return chosenShingles;
+	}
+
 	public int registerShingle(String s, int docID) {
 
 		if (shingleRef.containsKey(s)) {
@@ -129,7 +163,9 @@ public class ShingleFactory {
 	}
 
 	public double comparePages(int a, int b) {
-		if (shinglesPerPage.containsKey(a) && shinglesPerPage.containsKey(b) && shinglesPerPage.get(a).size() > 0 && shinglesPerPage.get(b).size() > 0) {
+		if (shinglesPerPage.containsKey(a) && shinglesPerPage.containsKey(b)
+				&& shinglesPerPage.get(a).size() > 0
+				&& shinglesPerPage.get(b).size() > 0) {
 			Set<Integer> tempA = new HashSet<Integer>(shinglesPerPage.get(a));
 			tempA.retainAll(shinglesPerPage.get(b));
 			return (double) tempA.size()

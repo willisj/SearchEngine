@@ -4,18 +4,24 @@
 package crawler;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.io.PrintStream;
 import java.io.PrintWriter;
+import java.io.Serializable;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.DigestInputStream;
 import java.security.MessageDigest;
@@ -32,11 +38,17 @@ import utilities.util;
  * @author Jordan
  * 
  */
-public class Page implements Runnable {
+public class Page implements Runnable, Serializable {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private final boolean CACHE_REQUESTS = true;
-	private final boolean SKIP_ON_CACHE_MISS = true;
+	private final boolean SKIP_ON_CACHE_MISS = false;
 	public final String CACHE_PATH = "cache/";
+	public final static String STORE_PATH = "store/";
+	public final static String FILE_EXT = "pgf";
 	private static int nextID = 0;
 	private final int pageID;
 	/* PAGE-DATA */
@@ -99,9 +111,9 @@ public class Page implements Runnable {
 	boolean requestPage() {
 
 		if (!CACHE_REQUESTS || !loadCache()) {
-			if(SKIP_ON_CACHE_MISS)
+			if (SKIP_ON_CACHE_MISS)
 				return false;
-			
+
 			BufferedReader in;
 			String inputLine;
 			StringBuffer response = new StringBuffer();
@@ -199,6 +211,63 @@ public class Page implements Runnable {
 
 	}
 
+	static public Page load(String url) {
+
+		Page page;
+		try {
+
+			FileInputStream fin = new FileInputStream(getFullFilePath(url));
+			ObjectInputStream ois = new ObjectInputStream(fin);
+			page = (Page) ois.readObject();
+			ois.close();
+		} catch (Exception ex) {
+			ex.printStackTrace();
+			return null;
+		}
+		return page;
+	}
+
+	// be sure to update the overloaded method to match
+	public String getFilePath() {
+		String path = url.getAuthority().toLowerCase();
+		return path;
+	}
+
+	// -- don't separate
+
+	// be sure to update the base method to match
+	public static String getFullFilePath(String s) throws MalformedURLException {
+		URL u = new URL(s);
+		String path = STORE_PATH + u.getAuthority().toLowerCase() + "/" + md5(u.toString())
+				+ "." + FILE_EXT;
+		return path;
+	}
+
+	public boolean save() {
+		String path = getFilePath(); // no leading or trailing slash
+		String filename = md5(url.toString()) + "." + FILE_EXT; // no slashes
+
+		if (!new File(STORE_PATH + path).exists()) {
+			if (!new File(STORE_PATH + path).mkdirs()) {
+				util.writeLog("Unable to create directory for domain: " + path);
+			}
+		}
+
+		try {
+			FileOutputStream fout = new FileOutputStream(STORE_PATH + path
+					+ "/" + filename);
+			ObjectOutputStream oos = new ObjectOutputStream(fout);
+			oos.writeObject(this);
+			oos.close();
+
+		} catch (Exception ex) {
+			util.writeLog("Error writing page to file: " + STORE_PATH + path
+					+ "/" + filename);
+			return false;
+		}
+		return true;
+	}
+
 	/**
 	 * Store the page in the cache
 	 * 
@@ -239,7 +308,7 @@ public class Page implements Runnable {
 	 *            string to be hashed
 	 * @return the hash of the string
 	 */
-	public String md5(String s) {
+	private static String md5(String s) {
 		MessageDigest md;
 		try {
 			md = MessageDigest.getInstance("MD5");
@@ -261,22 +330,21 @@ public class Page implements Runnable {
 		return s;
 	}
 
-	public String getStrippedSource(){
+	public String getStrippedSource() {
 		// set properties for the HTML parser
 		CleanerProperties prop = new CleanerProperties();
 		prop.setTranslateSpecialEntities(true);
 		prop.setTransResCharsToNCR(true);
 		prop.setOmitComments(true);
-		
 
 		// create the parser
 		HtmlCleaner hc = new HtmlCleaner(prop);
 		TagNode node = hc.clean(getRawSource());
 		node = node.findElementByName("body", false);
-		
-		return node.getText().toString().replaceAll("(\\s{2,}|\\n)", " "); 
+
+		return node.getText().toString().replaceAll("(\\s{2,}|\\n)", " ");
 	}
-	
+
 	/*
 	 * (non-Javadoc)
 	 * 

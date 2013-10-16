@@ -19,12 +19,13 @@ import utilities.util;
  */
 public class Crawler extends Thread {
 
-	final int MAX_THREADS = 20;
-	final int BURST_SIZE = 10;
+	final int MAX_THREADS = 60;
+	final int BURST_SIZE = 20;
 	final boolean STAY_IN_DOMAIN = false;
 
 	// Error Settings
-	final boolean SHOW_THREAD_COMPLETED = true;
+	final boolean SHOW_THREAD_COMPLETED = false;
+	final boolean SHOW_NEW_DOMAIN_FOUND = true;
 	final boolean PRINT_CACHE_SIZE = true;
 	final boolean PRINT_SUMMARY = true;
 
@@ -35,7 +36,7 @@ public class Crawler extends Thread {
 	HashMap<String, Vector<Page>> urlPool = new HashMap<String, Vector<Page>>();
 
 	// pages that have been requested
-	HashMap<Integer, Page> requestedPages = new HashMap<Integer, Page>();
+	Vector <String> requestedPages = new Vector<String>();
 
 	// pages currently threaded to request pages
 	Vector<Thread> running = new Vector<Thread>();
@@ -57,7 +58,7 @@ public class Crawler extends Thread {
 	public Crawler(String seed) throws MalformedURLException {
 		this.seed = seed;
 		seedPage = addURL(seed, 0);
-		util.writeLog("Domain Set: " + seedPage.getDomain());
+		util.writeLog("Seed Domain Set: " + seedPage.getDomain());
 	}
 
 	/**
@@ -70,8 +71,10 @@ public class Crawler extends Thread {
 	public Page addURL(String url, int depth) {
 		try {
 			Page p = new Page(url, depth);
-			if (!urlPool.containsKey(p.getUrl().getHost()))
+			if (!urlPool.containsKey(p.getUrl().getHost())){
+				util.writeLog("Domain Found: " + p.getUrl().getHost());
 				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
+			}
 			urlPool.get(p.getUrl().getHost()).add(p);
 			return p;
 		} catch (MalformedURLException e) {
@@ -109,7 +112,7 @@ public class Crawler extends Thread {
 	 * @param maxDepth
 	 *            The max depth the spider will search
 	 */
-	public HashMap<Integer, Page> crawl(int maxDepth) {
+	public Vector <String> crawl(int maxDepth) {
 
 		StopWatch timer = new StopWatch();
 		timer.start();
@@ -144,7 +147,11 @@ public class Crawler extends Thread {
 						// move the page from the runningRef to the requested
 						// pages
 						runningRef.remove(p);
-						requestedPages.put(p.getPageID(), p);
+						//requestedPages.put(p.getPageID(), p);
+						
+						if(p.save())
+							requestedPages.add(p.getUrl().toString());
+						p = null;
 					}
 
 				}
