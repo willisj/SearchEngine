@@ -70,7 +70,7 @@ public class Crawler extends Thread {
 	 */
 	public Page addURL(String url, int depth) {
 		try {
-			Page p = new Page(url, depth);
+			Page p = new Page(url,"", depth);
 			if (!urlPool.containsKey(p.getUrl().getHost())){
 				util.writeLog("Domain Found: " + p.getUrl().getHost());
 				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
@@ -225,11 +225,11 @@ public class Crawler extends Thread {
 		Vector<Page> children = new Vector<Page>();
 		final int newDepth = p.getCrawlDepth() + 1;
 
-		for (String s : p.getChildren()) {
+		for (String s : p.getChildren().keySet()) {
 			if (checkUrl(s)) {
 				seenUrls.add(s);
 				try {
-					Page newPage = new Page(s, newDepth);
+					Page newPage = new Page(p.getChildren().get(s),s, newDepth);
 					children.add(newPage);
 					newPage.addInLink(p);
 					p.addOutLink(p);

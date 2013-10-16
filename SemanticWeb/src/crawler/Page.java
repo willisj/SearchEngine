@@ -26,6 +26,7 @@ import java.nio.file.Paths;
 import java.security.DigestInputStream;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Vector;
 
@@ -54,12 +55,12 @@ public class Page implements Runnable, Serializable {
 	/* PAGE-DATA */
 	private URL url;
 	private String rawSource; // The response from the web server to that URL
-	private String linkLabel; // The lable on the link that lead to this result
+	private String linkLabel; // The label on the link that lead to this result
 								// (if applicable)
 
 	// --- Post Request
 
-	private Vector<String> children;
+	private HashMap<String,String> children;
 	private Vector<Page> inLinks;
 	private Vector<Page> outLinks;
 
@@ -69,6 +70,8 @@ public class Page implements Runnable, Serializable {
 	private int urlDepth; // The number of path sections in the URL from the
 							// base URL
 
+
+	
 	/**
 	 * @param url
 	 *            - the url of this page
@@ -78,14 +81,16 @@ public class Page implements Runnable, Serializable {
 	 * @throws MalformedURLException
 	 *             - invalid url
 	 */
-	Page(String url, int crawlDepth) throws MalformedURLException {
+	Page(String url,String anchorText, int crawlDepth) throws MalformedURLException {
 		pageID = nextID++;
-		children = new Vector<String>();
+		children = new HashMap<String,String>();
 
 		inLinks = new Vector<Page>();
 		outLinks = new Vector<Page>();
-
+		
+		this.linkLabel = anchorText;
 		setCrawlDepth(crawlDepth);
+		
 		try {
 			this.setUrl(new URL(url));
 		} catch (MalformedURLException e) { // bad url formatting
@@ -169,10 +174,11 @@ public class Page implements Runnable, Serializable {
 		// traverse the list of a tags and grab all links
 		for (int i = 0; tags != null && i < tags.length; i++) {
 			String link = tags[i].getAttributeByName("href");
+			String anchorText = tags[i].getText().toString();
 			if (link != null && link.length() > 0) {
 				link = this.makeLinkAbsolute(link);
 				if (link != "") // if validated link
-					children.add(link); // add to this page's children
+					children.put(anchorText, link); // add to this page's children
 			}
 
 		}
@@ -428,11 +434,11 @@ public class Page implements Runnable, Serializable {
 		this.url = url;
 	}
 
-	public Vector<String> getChildren() {
+	public HashMap<String,String> getChildren() {
 		return children;
 	}
 
-	public void setChildren(Vector<String> children) {
+	public void setChildren(HashMap<String,String> children) {
 		this.children = children;
 	}
 
