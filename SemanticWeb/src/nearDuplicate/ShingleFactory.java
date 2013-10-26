@@ -41,6 +41,8 @@ public class ShingleFactory {
 			break;
 		case SEGMENTEDTHENRANDOMSELECT:
 			shingles = produceRandomThenSegmentedShingles(body, k);
+		default:
+			break;
 		}
 
 		// register the shingles
@@ -105,7 +107,7 @@ public class ShingleFactory {
 					--start;
 			}
 
-			shingles[i] = body.substring(start, end);
+			shingles[i] = body.substring(start, end).toLowerCase();
 		}
 		return shingles;
 	}
@@ -126,7 +128,7 @@ public class ShingleFactory {
 		String substr = "";
 		for (String word : body.split("\\s")) {
 			if (wordCount >= k) {
-				shingles.add(substr.trim());
+				shingles.add(substr.trim().toLowerCase());
 				substr = "";
 				wordCount = 0;
 			}

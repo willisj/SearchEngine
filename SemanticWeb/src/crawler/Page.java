@@ -9,25 +9,17 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.io.Serializable;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.security.DigestInputStream;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Vector;
 
 import org.apache.commons.lang3.StringUtils;
@@ -47,6 +39,7 @@ public class Page implements Runnable, Serializable {
 	private static final long serialVersionUID = 1L;
 	private final boolean CACHE_REQUESTS = true;
 	private final boolean SKIP_ON_CACHE_MISS = false;
+	private final boolean SHOW_404 = false;
 	public final String CACHE_PATH = "cache/";
 	public final static String STORE_PATH = "store/";
 	public final static String FILE_EXT = "pgf";
@@ -61,8 +54,8 @@ public class Page implements Runnable, Serializable {
 	// --- Post Request
 
 	private HashMap<String,String> children;
-	private Vector<Page> inLinks;
-	private Vector<Page> outLinks;
+	private Vector<String> inLinks;
+	private Vector<String> outLinks;
 
 	/* META-DATA */
 	private int crawlDepth; // The depth this page was found at if it was found
@@ -85,10 +78,10 @@ public class Page implements Runnable, Serializable {
 		pageID = nextID++;
 		children = new HashMap<String,String>();
 
-		inLinks = new Vector<Page>();
-		outLinks = new Vector<Page>();
+		inLinks = new Vector<String>();
+		outLinks = new Vector<String>();
 		
-		this.linkLabel = anchorText;
+		this.setLinkLabel(anchorText);
 		setCrawlDepth(crawlDepth);
 		
 		try {
@@ -126,7 +119,8 @@ public class Page implements Runnable, Serializable {
 			try { // open the stream to the URL
 				in = new BufferedReader(new InputStreamReader(url.openStream()));
 			} catch (IOException e1) {
-				util.writeLog("Failed to open stream to URL:"
+				if(SHOW_404)
+					util.writeLog("Failed to open stream to URL:"
 						+ getUrl().toString(), true);
 				return false;
 			}
@@ -137,6 +131,7 @@ public class Page implements Runnable, Serializable {
 				}
 				in.close();
 			} catch (IOException e) {
+				
 				util.writeLog("Failed to read page source for URL:"
 						+ getUrl().toString(), true);
 				return false;
@@ -361,11 +356,11 @@ public class Page implements Runnable, Serializable {
 	}
 
 	public void addOutLink(Page p) {
-		outLinks.add(p);
+		outLinks.add(p.getUrl().toString());
 	}
 
 	public void addInLink(Page p) {
-		inLinks.add(p);
+		inLinks.add(p.getUrl().toString());
 	}
 
 	// * SETTERS AND GETTERS *//
@@ -444,6 +439,14 @@ public class Page implements Runnable, Serializable {
 
 	public int getPageID() {
 		return pageID;
+	}
+
+	public String getLinkLabel() {
+		return linkLabel;
+	}
+
+	public void setLinkLabel(String linkLabel) {
+		this.linkLabel = linkLabel;
 	}
 
 }

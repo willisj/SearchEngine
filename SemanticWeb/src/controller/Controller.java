@@ -1,7 +1,6 @@
 package controller;
 
 import java.net.MalformedURLException;
-import java.util.HashMap;
 import java.util.Vector;
 
 import org.apache.commons.lang3.time.StopWatch;
@@ -20,7 +19,7 @@ public class Controller {
 		// ** CONSTANTS **//
 
 		final String CRAWLER_SEED_URL = "http://www.windsorstar.com/index.html";
-		final int MAX_CRAWL_DEPTH = 2;
+		final int MAX_CRAWL_DEPTH = 3;
 		final int SHINGLE_K_CONST = 4;
 
 		// ** END CONSTANTS **//
@@ -39,7 +38,7 @@ public class Controller {
 		}
 
 		util.writeLog("Creating Shingles. K: " + SHINGLE_K_CONST
-				+ " ShinglesPerDoc: " + shingleFact.shinglesPerDocument);
+				+ " ShinglesPerDoc: " + ShingleFactory.shinglesPerDocument);
 		sw.start();
 		for (int i =0; i< pages.size();++i){
 			String url = pages.get(i);

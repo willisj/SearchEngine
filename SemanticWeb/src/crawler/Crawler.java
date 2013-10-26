@@ -4,7 +4,6 @@
 package crawler;
 
 import java.net.MalformedURLException;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.Random;
 import java.util.Vector;
@@ -24,10 +23,11 @@ public class Crawler extends Thread {
 	final boolean STAY_IN_DOMAIN = false;
 
 	// Error Settings
-	final boolean SHOW_THREAD_COMPLETED = false;
+	final boolean SHOW_THREAD_COMPLETED = true;
 	final boolean SHOW_NEW_DOMAIN_FOUND = true;
 	final boolean PRINT_CACHE_SIZE = true;
 	final boolean PRINT_SUMMARY = true;
+	final boolean OBEY_ROBOTS_TXT = true;
 
 	final private String seed; // the seed url
 	private Page seedPage;
@@ -36,7 +36,7 @@ public class Crawler extends Thread {
 	HashMap<String, Vector<Page>> urlPool = new HashMap<String, Vector<Page>>();
 
 	// pages that have been requested
-	Vector <String> requestedPages = new Vector<String>();
+	Vector<String> requestedPages = new Vector<String>();
 
 	// pages currently threaded to request pages
 	Vector<Thread> running = new Vector<Thread>();
@@ -46,6 +46,10 @@ public class Crawler extends Thread {
 
 	// URLs that have already been scraped
 	Vector<String> seenUrls = new Vector<String>();
+	
+	Vector<String> robotsFound = new Vector<String>();
+
+	RobotsInterpreter rob;
 
 	private static Random rand = new Random();
 
@@ -58,7 +62,10 @@ public class Crawler extends Thread {
 	public Crawler(String seed) throws MalformedURLException {
 		this.seed = seed;
 		seedPage = addURL(seed, 0);
+		if (OBEY_ROBOTS_TXT)
+			rob = new RobotsInterpreter();
 		util.writeLog("Seed Domain Set: " + seedPage.getDomain());
+
 	}
 
 	/**
@@ -70,8 +77,8 @@ public class Crawler extends Thread {
 	 */
 	public Page addURL(String url, int depth) {
 		try {
-			Page p = new Page(url,"", depth);
-			if (!urlPool.containsKey(p.getUrl().getHost())){
+			Page p = new Page(url, "", depth);
+			if (!urlPool.containsKey(p.getUrl().getHost())) {
 				util.writeLog("Domain Found: " + p.getUrl().getHost());
 				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
 			}
@@ -85,8 +92,10 @@ public class Crawler extends Thread {
 
 	private void addAllURLs(Vector<Page> urls) {
 		for (Page p : urls) {
-			if (!urlPool.containsKey(p.getUrl().getHost()))
+			if (!urlPool.containsKey(p.getUrl().getHost())) {
 				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
+				util.writeLog("Domain Found: " + p.getUrl().getHost());
+			}
 			urlPool.get(p.getUrl().getHost()).add(p);
 		}
 	}
@@ -94,16 +103,17 @@ public class Crawler extends Thread {
 	private Page getRandomURL() {
 		Vector<Page> v;
 		Page p;
-		
+
 		do {
-			v = urlPool.get(urlPool.keySet().toArray()[rand.nextInt(urlPool.keySet().size())]);
+			v = urlPool.get(urlPool.keySet().toArray()[rand.nextInt(urlPool
+					.keySet().size())]);
 		} while (v.size() < 0 && urlPool.size() > 0);
 
 		p = v.remove(rand.nextInt(v.size()));
-		if(v.size() == 0){
+		if (v.size() == 0) {
 			urlPool.remove(p.getUrl().getHost());
 		}
-		
+
 		return p;
 	}
 
@@ -112,7 +122,7 @@ public class Crawler extends Thread {
 	 * @param maxDepth
 	 *            The max depth the spider will search
 	 */
-	public Vector <String> crawl(int maxDepth) {
+	public Vector<String> crawl(int maxDepth) {
 
 		StopWatch timer = new StopWatch();
 		timer.start();
@@ -147,11 +157,16 @@ public class Crawler extends Thread {
 						// move the page from the runningRef to the requested
 						// pages
 						runningRef.remove(p);
-						//requestedPages.put(p.getPageID(), p);
-						
-						if(p.save())
+						// requestedPages.put(p.getPageID(), p);
+
+						if (p.save())
 							requestedPages.add(p.getUrl().toString());
 						p = null;
+						if (requestedPages.size() % 500 == 0) {
+							util.writeLog("Requested: " + requestedPages.size() + "\tPool: "+urlPool.size());
+							util.writeLog("Running Garbage Collection.");
+							System.gc();
+						}
 					}
 
 				}
@@ -225,18 +240,19 @@ public class Crawler extends Thread {
 		Vector<Page> children = new Vector<Page>();
 		final int newDepth = p.getCrawlDepth() + 1;
 
-		for (String s : p.getChildren().keySet()) {
-			if (checkUrl(s)) {
-				seenUrls.add(s);
-				try {
-					Page newPage = new Page(p.getChildren().get(s),s, newDepth);
+		for (String s : p.getChildren().values()) {
+			try {
+				if (checkUrl(s)) {
+					seenUrls.add(s);
+					Page newPage = new Page(p.getChildren().get(s), s, newDepth);
 					children.add(newPage);
 					newPage.addInLink(p);
 					p.addOutLink(p);
 					// / TODO: form ALL links from children, regardless of if
 					// they were followed by the crawler, correct any depths.
-				} catch (MalformedURLException e) {
 				}
+			} catch (MalformedURLException e) {
+
 			}
 		}
 
@@ -244,10 +260,15 @@ public class Crawler extends Thread {
 	}
 
 	// checks to see if a url is appropriate to be added to the queue
-	private boolean checkUrl(String s) {
+	@SuppressWarnings("unused")
+	private boolean checkUrl(String s) throws MalformedURLException {
 		// ALGEBRA: ![url has been seen] && ( Stay in domain -> s.startswith...)
 		// p->q == !p || q
 		return (!seenUrls.contains(s))
-				&& (!STAY_IN_DOMAIN || s.startsWith(seedPage.getDomain()));
+				&& (!STAY_IN_DOMAIN || s.startsWith(seedPage.getDomain())) && rob.checkAllowed(s);
+	}
+
+	public String getSeed() {
+		return seed;
 	}
 }
