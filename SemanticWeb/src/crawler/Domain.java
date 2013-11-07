@@ -33,7 +33,6 @@ public class Domain {
 				else
 					disallowed.add(value);
 			} else if (field.equalsIgnoreCase("crawl-delay")) {
-				String clean;
 				crawlDelay = Integer.valueOf(value.trim());
 			} else if (field.equalsIgnoreCase("user-agent")) {
 				userAgent = value;

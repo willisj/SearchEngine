@@ -3,6 +3,8 @@
 	<name>SemanticWeb</name>
 	<comment></comment>
 	<projects>
+		<project>norbert</project>
+		<project>Website</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

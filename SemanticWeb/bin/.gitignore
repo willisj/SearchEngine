@@ -1,4 +1,6 @@
-/gui
-/nearDuplicate
-/crawler
 /controller
+/crawler
+/libraries
+/nearDuplicate
+/norbert
+/utilities
