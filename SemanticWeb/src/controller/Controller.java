@@ -18,16 +18,14 @@ public class Controller {
 
 		// ** CONSTANTS **//
 
-		final String CRAWLER_SEED_URL = "http://www.windsorstar.com/index.html";
+		final String CRAWLER_SEED_URL = "http://www.uwindsor.ca";
 		final int MAX_CRAWL_DEPTH = 3;
 		final int SHINGLE_K_CONST = 4;
 
 		// ** END CONSTANTS **//
 
 		Crawler c;
-		Vector <String> pages;
-		ShingleFactory shingleFact = new ShingleFactory(
-				nearDuplicate.ShingleBuildingMethod.SEGMENTEDTHENRANDOMSELECT);
+		Vector<String> pages;
 
 		try {
 			c = new Crawler(CRAWLER_SEED_URL);
@@ -37,33 +35,27 @@ public class Controller {
 			return;
 		}
 
-		util.writeLog("Creating Shingles. K: " + SHINGLE_K_CONST
-				+ " ShinglesPerDoc: " + ShingleFactory.shinglesPerDocument);
-		sw.start();
-		for (int i =0; i< pages.size();++i){
-			String url = pages.get(i);
-			Page p = Page.load(url);
-			
-			if (p.getRawSource() != null)
-				shingleFact.shingleDocument(i,
-						p.getStrippedSource(), SHINGLE_K_CONST);
-		}
-		sw.stop();
-		util.writeLog("Shingles created in " + sw.toString());
-		// shingleFact.printShinglesPerPage();
-		double match;
-
-		for (int a = 0; a < pages.size() ; a++)
-			for (int b = 0; b < pages.size() ; b++) {
-				if (a == b)
-					continue;
-				match = shingleFact.comparePages(a, b);
-				if (match > 0) {
-					util.writeLog((match * 100) + "% A: "
-							+ Page.load(pages.get(a)).getUrl().toString() + "\tB: "
-							+ Page.load(pages.get(b)).toString());
-				}
-
-			}
-	}
+		return;
+		/*
+		 * ShingleFactory shingleFact = new ShingleFactory(
+		 * nearDuplicate.ShingleBuildingMethod.SEGMENTEDTHENRANDOMSELECT);
+		 * 
+		 * util.writeLog("Creating Shingles. K: " + SHINGLE_K_CONST +
+		 * " ShinglesPerDoc: " + ShingleFactory.shinglesPerDocument);
+		 * sw.start(); for (int i =0; i< pages.size();++i){ String url =
+		 * pages.get(i); Page p = Page.load(url);
+		 * 
+		 * if (p.getRawSource() != null) shingleFact.shingleDocument(i,
+		 * p.getStrippedSource(), SHINGLE_K_CONST); } sw.stop();
+		 * util.writeLog("Shingles created in " + sw.toString()); //
+		 * shingleFact.printShinglesPerPage(); double match;
+		 * 
+		 * for (int a = 0; a < pages.size() ; a++) for (int b = 0; b <
+		 * pages.size() ; b++) { if (a == b) continue; match =
+		 * shingleFact.comparePages(a, b); if (match > 0) { util.writeLog((match
+		 * * 100) + "% A: " + Page.load(pages.get(a)).getUrl().toString() +
+		 * "\tB: " + Page.load(pages.get(b)).toString()); }
+		 * 
+		 * }
+		 */}
 }

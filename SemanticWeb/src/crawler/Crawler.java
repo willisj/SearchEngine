@@ -23,8 +23,10 @@ public class Crawler extends Thread {
 	final boolean STAY_IN_DOMAIN = false;
 
 	// Error Settings
-	final boolean SHOW_THREAD_COMPLETED = true;
-	final boolean SHOW_NEW_DOMAIN_FOUND = true;
+	final boolean SHOW_THREAD_COMPLETED = false;
+	final boolean SHOW_NEW_DOMAIN_FOUND = false;
+
+	final boolean DONTSAVEPAGES = true;
 
 	final boolean PRINT_CACHE_SIZE = true;
 	final boolean PRINT_SUMMARY = true;
@@ -59,7 +61,9 @@ public class Crawler extends Thread {
 		this.seed = seed;
 		seedPage = addURL(new URL(seed), 0);
 		util.writeLog("Seed Domain Set: " + seedPage.getDomain());
-
+		Page.startTopologyHandler();
+		Page.topology.addURL(new URL(seed), false);
+		util.writeLog("Toplogy Handler Started");
 	}
 
 	/**
@@ -73,7 +77,8 @@ public class Crawler extends Thread {
 		try {
 			Page p = new Page(url, "", depth);
 			if (!urlPool.containsKey(p.getUrl().getHost())) {
-				util.writeLog("Domain Found: " + p.getUrl().getHost());
+				if (SHOW_NEW_DOMAIN_FOUND)
+					util.writeLog("Domain Found: " + p.getUrl().getHost());
 				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
 			}
 			urlPool.get(p.getUrl().getHost()).add(p);
@@ -88,6 +93,7 @@ public class Crawler extends Thread {
 		for (Page p : urls) {
 			if (!urlPool.containsKey(p.getUrl().getHost())) {
 				urlPool.put(p.getUrl().getHost(), new Vector<Page>());
+				if (SHOW_NEW_DOMAIN_FOUND)
 				util.writeLog("Domain Found: " + p.getUrl().getHost());
 			}
 			urlPool.get(p.getUrl().getHost()).add(p);
@@ -146,8 +152,8 @@ public class Crawler extends Thread {
 										+ " Completed: " + p.getUrl());
 
 							// if we haven't reached the max depth yet process
-							// the
-							// children
+							// the children
+
 							if (p.getCrawlDepth() < maxDepth)
 								addAllURLs(p.makePagesFromChildren(seenUrls));
 
@@ -157,9 +163,12 @@ public class Crawler extends Thread {
 							runningRef.remove(p);
 							// requestedPages.put(p.getPageID(), p);
 
-							if (p.save())
+							if (DONTSAVEPAGES || p.save())
 								requestedPages.add(p.getUrl().toString());
 							p = null;
+							if (requestedPages.size() % 20 == 0) {
+								util.writeLog("Topology Buffer: " + Page.topology.getBufferSize() +"\t\tR: "+requestedPages.size() + "\tP: "+urlPool.size());
+							}
 							if (requestedPages.size() % 500 == 0) {
 								util.writeLog("Requested: "
 										+ requestedPages.size() + "\tPool: "

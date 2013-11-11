@@ -40,7 +40,7 @@ public class Page implements Runnable, Serializable {
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private final boolean CACHE_REQUESTS = false;
+	private final boolean CACHE_REQUESTS = true;
 	private final boolean SKIP_ON_CACHE_MISS = false;
 	private final boolean SHOW_NEW_CHILD_FOUND = false;
 	private final boolean SHOW_404 = true;
@@ -49,7 +49,13 @@ public class Page implements Runnable, Serializable {
 	public final static String FILE_EXT = "pgf";
 	private static int nextID = 0;
 	private final int pageID;
-
+	
+	// use for sql directly
+	//public static TopologySQLController topology = new TopologySQLController("jdbc:mysql://localhost/topology?user=root&password=");
+	
+	// use to drop to file first
+	public static TopologySQLController topology = new TopologySQLController(new File("sqlOutput"+System.currentTimeMillis()+".sql"));
+			
 	static NoRobotClient rob = new NoRobotClient("WALL-E");
 
 	/* PAGE-DATA */
@@ -96,6 +102,11 @@ public class Page implements Runnable, Serializable {
 	// used when threading
 	public void run() {
 		requestPage();
+	}
+	
+	public static void startTopologyHandler(){
+		Thread t = new Thread(topology);
+		t.start();
 	}
 
 	/**
@@ -181,7 +192,7 @@ public class Page implements Runnable, Serializable {
 				link = this.makeLinkAbsolute(link);
 				URL childLink; 
 				try {
-					childLink = new URL(link);
+					childLink = new URL(link);					
 				} catch (MalformedURLException e) {
 					continue;
 				} 
@@ -193,6 +204,7 @@ public class Page implements Runnable, Serializable {
 			}
 
 		}
+		topology.createChildrenAndLink(getUrl(), getChildren().keySet());
 	}
 
 	/**
